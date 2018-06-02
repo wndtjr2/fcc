@@ -1,0 +1,1186 @@
+2016-06-10 17:57:01 Debug: 
+App\Controller\AuthController::logUserIn() - APP/Controller/AuthController.php, line 907
+App\Controller\AuthController::login() - APP/Controller/AuthController.php, line 154
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'UserAccountId : 28 has failed to log in'
+2016-06-10 17:57:01 Notice: Notice (8): Undefined index: image_path in [/var/www/fcctv.co.kr/src/Template/Layout/default.ctp, line 224]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Layout/default.ctp, line 224
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 508
+Cake\View\View::render() - CORE/src/View/View.php, line 471
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-06-10 17:57:01 Notice: Notice (8): Undefined index: nickname in [/var/www/fcctv.co.kr/src/Template/Layout/default.ctp, line 228]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Layout/default.ctp, line 228
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 508
+Cake\View\View::render() - CORE/src/View/View.php, line 471
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-06-10 17:57:01 Notice: Notice (8): Undefined index: image_path in [/var/www/fcctv.co.kr/src/Template/Layout/default.ctp, line 281]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Layout/default.ctp, line 281
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 508
+Cake\View\View::render() - CORE/src/View/View.php, line 471
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-06-10 17:57:01 Notice: Notice (8): Undefined index: nickname in [/var/www/fcctv.co.kr/src/Template/Layout/default.ctp, line 287]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Layout/default.ctp, line 287
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 508
+Cake\View\View::render() - CORE/src/View/View.php, line 471
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-06-10 17:57:07 Notice: Notice (8): Undefined index: image_path in [/var/www/fcctv.co.kr/src/Template/Layout/default.ctp, line 224]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Layout/default.ctp, line 224
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 508
+Cake\View\View::render() - CORE/src/View/View.php, line 471
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-06-10 17:57:07 Notice: Notice (8): Undefined index: nickname in [/var/www/fcctv.co.kr/src/Template/Layout/default.ctp, line 228]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Layout/default.ctp, line 228
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 508
+Cake\View\View::render() - CORE/src/View/View.php, line 471
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-06-10 17:57:07 Notice: Notice (8): Undefined index: image_path in [/var/www/fcctv.co.kr/src/Template/Layout/default.ctp, line 281]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Layout/default.ctp, line 281
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 508
+Cake\View\View::render() - CORE/src/View/View.php, line 471
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-06-10 17:57:07 Notice: Notice (8): Undefined index: nickname in [/var/www/fcctv.co.kr/src/Template/Layout/default.ctp, line 287]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Layout/default.ctp, line 287
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 508
+Cake\View\View::render() - CORE/src/View/View.php, line 471
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-06-10 17:57:13 Notice: Notice (8): Undefined index: image_path in [/var/www/fcctv.co.kr/src/Template/Layout/default.ctp, line 224]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Layout/default.ctp, line 224
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 508
+Cake\View\View::render() - CORE/src/View/View.php, line 471
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-06-10 17:57:13 Notice: Notice (8): Undefined index: nickname in [/var/www/fcctv.co.kr/src/Template/Layout/default.ctp, line 228]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Layout/default.ctp, line 228
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 508
+Cake\View\View::render() - CORE/src/View/View.php, line 471
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-06-10 17:57:13 Notice: Notice (8): Undefined index: image_path in [/var/www/fcctv.co.kr/src/Template/Layout/default.ctp, line 281]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Layout/default.ctp, line 281
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 508
+Cake\View\View::render() - CORE/src/View/View.php, line 471
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-06-10 17:57:13 Notice: Notice (8): Undefined index: nickname in [/var/www/fcctv.co.kr/src/Template/Layout/default.ctp, line 287]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Layout/default.ctp, line 287
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 508
+Cake\View\View::render() - CORE/src/View/View.php, line 471
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-06-10 17:57:23 Notice: Notice (8): Undefined index: image_path in [/var/www/fcctv.co.kr/src/Template/Layout/default.ctp, line 224]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Layout/default.ctp, line 224
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 508
+Cake\View\View::render() - CORE/src/View/View.php, line 471
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-06-10 17:57:23 Notice: Notice (8): Undefined index: nickname in [/var/www/fcctv.co.kr/src/Template/Layout/default.ctp, line 228]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Layout/default.ctp, line 228
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 508
+Cake\View\View::render() - CORE/src/View/View.php, line 471
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-06-10 17:57:23 Notice: Notice (8): Undefined index: image_path in [/var/www/fcctv.co.kr/src/Template/Layout/default.ctp, line 281]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Layout/default.ctp, line 281
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 508
+Cake\View\View::render() - CORE/src/View/View.php, line 471
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-06-10 17:57:23 Notice: Notice (8): Undefined index: nickname in [/var/www/fcctv.co.kr/src/Template/Layout/default.ctp, line 287]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Layout/default.ctp, line 287
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 508
+Cake\View\View::render() - CORE/src/View/View.php, line 471
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-06-10 17:57:28 Notice: Notice (8): Undefined index: image_path in [/var/www/fcctv.co.kr/src/Template/Layout/default.ctp, line 224]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Layout/default.ctp, line 224
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 508
+Cake\View\View::render() - CORE/src/View/View.php, line 471
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-06-10 17:57:28 Notice: Notice (8): Undefined index: nickname in [/var/www/fcctv.co.kr/src/Template/Layout/default.ctp, line 228]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Layout/default.ctp, line 228
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 508
+Cake\View\View::render() - CORE/src/View/View.php, line 471
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-06-10 17:57:28 Notice: Notice (8): Undefined index: image_path in [/var/www/fcctv.co.kr/src/Template/Layout/default.ctp, line 281]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Layout/default.ctp, line 281
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 508
+Cake\View\View::render() - CORE/src/View/View.php, line 471
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-06-10 17:57:28 Notice: Notice (8): Undefined index: nickname in [/var/www/fcctv.co.kr/src/Template/Layout/default.ctp, line 287]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Layout/default.ctp, line 287
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 508
+Cake\View\View::render() - CORE/src/View/View.php, line 471
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-06-10 17:57:32 Notice: Notice (8): Undefined index: image_path in [/var/www/fcctv.co.kr/src/Template/Layout/default.ctp, line 224]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Layout/default.ctp, line 224
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 508
+Cake\View\View::render() - CORE/src/View/View.php, line 471
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-06-10 17:57:32 Notice: Notice (8): Undefined index: nickname in [/var/www/fcctv.co.kr/src/Template/Layout/default.ctp, line 228]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Layout/default.ctp, line 228
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 508
+Cake\View\View::render() - CORE/src/View/View.php, line 471
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-06-10 17:57:32 Notice: Notice (8): Undefined index: image_path in [/var/www/fcctv.co.kr/src/Template/Layout/default.ctp, line 281]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Layout/default.ctp, line 281
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 508
+Cake\View\View::render() - CORE/src/View/View.php, line 471
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-06-10 17:57:32 Notice: Notice (8): Undefined index: nickname in [/var/www/fcctv.co.kr/src/Template/Layout/default.ctp, line 287]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Layout/default.ctp, line 287
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 508
+Cake\View\View::render() - CORE/src/View/View.php, line 471
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-06-10 17:57:34 Notice: Notice (8): Undefined index: image_path in [/var/www/fcctv.co.kr/src/Template/Layout/default.ctp, line 224]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Layout/default.ctp, line 224
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 508
+Cake\View\View::render() - CORE/src/View/View.php, line 471
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-06-10 17:57:34 Notice: Notice (8): Undefined index: nickname in [/var/www/fcctv.co.kr/src/Template/Layout/default.ctp, line 228]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Layout/default.ctp, line 228
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 508
+Cake\View\View::render() - CORE/src/View/View.php, line 471
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-06-10 17:57:34 Notice: Notice (8): Undefined index: image_path in [/var/www/fcctv.co.kr/src/Template/Layout/default.ctp, line 281]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Layout/default.ctp, line 281
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 508
+Cake\View\View::render() - CORE/src/View/View.php, line 471
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-06-10 17:57:34 Notice: Notice (8): Undefined index: nickname in [/var/www/fcctv.co.kr/src/Template/Layout/default.ctp, line 287]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Layout/default.ctp, line 287
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 508
+Cake\View\View::render() - CORE/src/View/View.php, line 471
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-06-10 17:57:45 Notice: Notice (8): Undefined index: image_path in [/var/www/fcctv.co.kr/src/Template/Layout/default.ctp, line 224]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Layout/default.ctp, line 224
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 508
+Cake\View\View::render() - CORE/src/View/View.php, line 471
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-06-10 17:57:45 Notice: Notice (8): Undefined index: nickname in [/var/www/fcctv.co.kr/src/Template/Layout/default.ctp, line 228]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Layout/default.ctp, line 228
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 508
+Cake\View\View::render() - CORE/src/View/View.php, line 471
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-06-10 17:57:45 Notice: Notice (8): Undefined index: image_path in [/var/www/fcctv.co.kr/src/Template/Layout/default.ctp, line 281]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Layout/default.ctp, line 281
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 508
+Cake\View\View::render() - CORE/src/View/View.php, line 471
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-06-10 17:57:45 Notice: Notice (8): Undefined index: nickname in [/var/www/fcctv.co.kr/src/Template/Layout/default.ctp, line 287]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Layout/default.ctp, line 287
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 508
+Cake\View\View::render() - CORE/src/View/View.php, line 471
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-06-10 17:57:52 Notice: Notice (8): Undefined index: image_path in [/var/www/fcctv.co.kr/src/Template/Layout/default.ctp, line 224]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Layout/default.ctp, line 224
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 508
+Cake\View\View::render() - CORE/src/View/View.php, line 471
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-06-10 17:57:52 Notice: Notice (8): Undefined index: nickname in [/var/www/fcctv.co.kr/src/Template/Layout/default.ctp, line 228]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Layout/default.ctp, line 228
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 508
+Cake\View\View::render() - CORE/src/View/View.php, line 471
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-06-10 17:57:52 Notice: Notice (8): Undefined index: image_path in [/var/www/fcctv.co.kr/src/Template/Layout/default.ctp, line 281]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Layout/default.ctp, line 281
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 508
+Cake\View\View::render() - CORE/src/View/View.php, line 471
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-06-10 17:57:52 Notice: Notice (8): Undefined index: nickname in [/var/www/fcctv.co.kr/src/Template/Layout/default.ctp, line 287]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Layout/default.ctp, line 287
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 508
+Cake\View\View::render() - CORE/src/View/View.php, line 471
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-06-10 17:57:56 Notice: Notice (8): Undefined index: image_path in [/var/www/fcctv.co.kr/src/Template/Layout/default.ctp, line 224]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Layout/default.ctp, line 224
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 508
+Cake\View\View::render() - CORE/src/View/View.php, line 471
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-06-10 17:57:56 Notice: Notice (8): Undefined index: nickname in [/var/www/fcctv.co.kr/src/Template/Layout/default.ctp, line 228]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Layout/default.ctp, line 228
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 508
+Cake\View\View::render() - CORE/src/View/View.php, line 471
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-06-10 17:57:56 Notice: Notice (8): Undefined index: image_path in [/var/www/fcctv.co.kr/src/Template/Layout/default.ctp, line 281]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Layout/default.ctp, line 281
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 508
+Cake\View\View::render() - CORE/src/View/View.php, line 471
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-06-10 17:57:56 Notice: Notice (8): Undefined index: nickname in [/var/www/fcctv.co.kr/src/Template/Layout/default.ctp, line 287]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Layout/default.ctp, line 287
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 508
+Cake\View\View::render() - CORE/src/View/View.php, line 471
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-06-10 17:58:08 Notice: Notice (8): Undefined index: image_path in [/var/www/fcctv.co.kr/src/Template/Layout/default.ctp, line 224]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Layout/default.ctp, line 224
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 508
+Cake\View\View::render() - CORE/src/View/View.php, line 471
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-06-10 17:58:08 Notice: Notice (8): Undefined index: nickname in [/var/www/fcctv.co.kr/src/Template/Layout/default.ctp, line 228]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Layout/default.ctp, line 228
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 508
+Cake\View\View::render() - CORE/src/View/View.php, line 471
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-06-10 17:58:08 Notice: Notice (8): Undefined index: image_path in [/var/www/fcctv.co.kr/src/Template/Layout/default.ctp, line 281]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Layout/default.ctp, line 281
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 508
+Cake\View\View::render() - CORE/src/View/View.php, line 471
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-06-10 17:58:08 Notice: Notice (8): Undefined index: nickname in [/var/www/fcctv.co.kr/src/Template/Layout/default.ctp, line 287]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Layout/default.ctp, line 287
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 508
+Cake\View\View::render() - CORE/src/View/View.php, line 471
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-06-10 17:58:15 Notice: Notice (8): Undefined index: image_path in [/var/www/fcctv.co.kr/src/Template/Layout/default.ctp, line 224]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Layout/default.ctp, line 224
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 508
+Cake\View\View::render() - CORE/src/View/View.php, line 471
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-06-10 17:58:15 Notice: Notice (8): Undefined index: nickname in [/var/www/fcctv.co.kr/src/Template/Layout/default.ctp, line 228]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Layout/default.ctp, line 228
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 508
+Cake\View\View::render() - CORE/src/View/View.php, line 471
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-06-10 17:58:15 Notice: Notice (8): Undefined index: image_path in [/var/www/fcctv.co.kr/src/Template/Layout/default.ctp, line 281]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Layout/default.ctp, line 281
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 508
+Cake\View\View::render() - CORE/src/View/View.php, line 471
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-06-10 17:58:15 Notice: Notice (8): Undefined index: nickname in [/var/www/fcctv.co.kr/src/Template/Layout/default.ctp, line 287]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Layout/default.ctp, line 287
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 508
+Cake\View\View::render() - CORE/src/View/View.php, line 471
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-06-10 17:58:18 Notice: Notice (8): Undefined index: image_path in [/var/www/fcctv.co.kr/src/Template/Layout/default.ctp, line 224]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Layout/default.ctp, line 224
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 508
+Cake\View\View::render() - CORE/src/View/View.php, line 471
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-06-10 17:58:18 Notice: Notice (8): Undefined index: nickname in [/var/www/fcctv.co.kr/src/Template/Layout/default.ctp, line 228]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Layout/default.ctp, line 228
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 508
+Cake\View\View::render() - CORE/src/View/View.php, line 471
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-06-10 17:58:18 Notice: Notice (8): Undefined index: image_path in [/var/www/fcctv.co.kr/src/Template/Layout/default.ctp, line 281]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Layout/default.ctp, line 281
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 508
+Cake\View\View::render() - CORE/src/View/View.php, line 471
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-06-10 17:58:18 Notice: Notice (8): Undefined index: nickname in [/var/www/fcctv.co.kr/src/Template/Layout/default.ctp, line 287]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Layout/default.ctp, line 287
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 508
+Cake\View\View::render() - CORE/src/View/View.php, line 471
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-06-10 17:58:42 Debug: 
+App\Controller\AuthController::logUserIn() - APP/Controller/AuthController.php, line 907
+App\Controller\AuthController::login() - APP/Controller/AuthController.php, line 154
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'UserAccountId : 28 has failed to log in'
+2016-06-10 17:58:42 Notice: Notice (8): Undefined index: image_path in [/var/www/fcctv.co.kr/src/Template/Layout/default.ctp, line 224]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Layout/default.ctp, line 224
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 508
+Cake\View\View::render() - CORE/src/View/View.php, line 471
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-06-10 17:58:42 Notice: Notice (8): Undefined index: nickname in [/var/www/fcctv.co.kr/src/Template/Layout/default.ctp, line 228]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Layout/default.ctp, line 228
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 508
+Cake\View\View::render() - CORE/src/View/View.php, line 471
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-06-10 17:58:42 Notice: Notice (8): Undefined index: image_path in [/var/www/fcctv.co.kr/src/Template/Layout/default.ctp, line 281]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Layout/default.ctp, line 281
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 508
+Cake\View\View::render() - CORE/src/View/View.php, line 471
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-06-10 17:58:42 Notice: Notice (8): Undefined index: nickname in [/var/www/fcctv.co.kr/src/Template/Layout/default.ctp, line 287]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Layout/default.ctp, line 287
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 508
+Cake\View\View::render() - CORE/src/View/View.php, line 471
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-06-10 17:58:53 Notice: Notice (8): Undefined index: image_path in [/var/www/fcctv.co.kr/src/Template/Layout/default.ctp, line 224]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Layout/default.ctp, line 224
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 508
+Cake\View\View::render() - CORE/src/View/View.php, line 471
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-06-10 17:58:53 Notice: Notice (8): Undefined index: nickname in [/var/www/fcctv.co.kr/src/Template/Layout/default.ctp, line 228]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Layout/default.ctp, line 228
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 508
+Cake\View\View::render() - CORE/src/View/View.php, line 471
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-06-10 17:58:53 Notice: Notice (8): Undefined index: image_path in [/var/www/fcctv.co.kr/src/Template/Layout/default.ctp, line 281]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Layout/default.ctp, line 281
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 508
+Cake\View\View::render() - CORE/src/View/View.php, line 471
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-06-10 17:58:53 Notice: Notice (8): Undefined index: nickname in [/var/www/fcctv.co.kr/src/Template/Layout/default.ctp, line 287]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Layout/default.ctp, line 287
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 508
+Cake\View\View::render() - CORE/src/View/View.php, line 471
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-06-10 17:58:59 Notice: Notice (8): Undefined index: image_path in [/var/www/fcctv.co.kr/src/Template/Layout/default.ctp, line 224]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Layout/default.ctp, line 224
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 508
+Cake\View\View::render() - CORE/src/View/View.php, line 471
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-06-10 17:58:59 Notice: Notice (8): Undefined index: nickname in [/var/www/fcctv.co.kr/src/Template/Layout/default.ctp, line 228]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Layout/default.ctp, line 228
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 508
+Cake\View\View::render() - CORE/src/View/View.php, line 471
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-06-10 17:58:59 Notice: Notice (8): Undefined index: image_path in [/var/www/fcctv.co.kr/src/Template/Layout/default.ctp, line 281]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Layout/default.ctp, line 281
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 508
+Cake\View\View::render() - CORE/src/View/View.php, line 471
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-06-10 17:58:59 Notice: Notice (8): Undefined index: nickname in [/var/www/fcctv.co.kr/src/Template/Layout/default.ctp, line 287]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Layout/default.ctp, line 287
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 508
+Cake\View\View::render() - CORE/src/View/View.php, line 471
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-06-10 17:59:48 Debug: 
+App\Controller\AuthController::logUserIn() - APP/Controller/AuthController.php, line 907
+App\Controller\AuthController::login() - APP/Controller/AuthController.php, line 154
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'UserAccountId : 28 has failed to log in'
+2016-06-10 17:59:49 Notice: Notice (8): Undefined index: image_path in [/var/www/fcctv.co.kr/src/Template/Layout/default.ctp, line 224]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Layout/default.ctp, line 224
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 508
+Cake\View\View::render() - CORE/src/View/View.php, line 471
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-06-10 17:59:49 Notice: Notice (8): Undefined index: nickname in [/var/www/fcctv.co.kr/src/Template/Layout/default.ctp, line 228]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Layout/default.ctp, line 228
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 508
+Cake\View\View::render() - CORE/src/View/View.php, line 471
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-06-10 17:59:49 Notice: Notice (8): Undefined index: image_path in [/var/www/fcctv.co.kr/src/Template/Layout/default.ctp, line 281]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Layout/default.ctp, line 281
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 508
+Cake\View\View::render() - CORE/src/View/View.php, line 471
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-06-10 17:59:49 Notice: Notice (8): Undefined index: nickname in [/var/www/fcctv.co.kr/src/Template/Layout/default.ctp, line 287]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Layout/default.ctp, line 287
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 508
+Cake\View\View::render() - CORE/src/View/View.php, line 471
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-06-10 17:59:54 Notice: Notice (8): Undefined index: image_path in [/var/www/fcctv.co.kr/src/Template/Layout/default.ctp, line 224]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Layout/default.ctp, line 224
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 508
+Cake\View\View::render() - CORE/src/View/View.php, line 471
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-06-10 17:59:54 Notice: Notice (8): Undefined index: nickname in [/var/www/fcctv.co.kr/src/Template/Layout/default.ctp, line 228]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Layout/default.ctp, line 228
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 508
+Cake\View\View::render() - CORE/src/View/View.php, line 471
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-06-10 17:59:54 Notice: Notice (8): Undefined index: image_path in [/var/www/fcctv.co.kr/src/Template/Layout/default.ctp, line 281]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Layout/default.ctp, line 281
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 508
+Cake\View\View::render() - CORE/src/View/View.php, line 471
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-06-10 17:59:54 Notice: Notice (8): Undefined index: nickname in [/var/www/fcctv.co.kr/src/Template/Layout/default.ctp, line 287]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Layout/default.ctp, line 287
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 508
+Cake\View\View::render() - CORE/src/View/View.php, line 471
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-06-10 18:00:45 Debug: 
+App\Controller\AuthController::logUserIn() - APP/Controller/AuthController.php, line 907
+App\Controller\AuthController::login() - APP/Controller/AuthController.php, line 154
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'UserAccountId : 28 has failed to log in'
+2016-06-10 18:00:45 Notice: Notice (8): Undefined index: image_path in [/var/www/fcctv.co.kr/src/Template/Layout/default.ctp, line 224]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Layout/default.ctp, line 224
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 508
+Cake\View\View::render() - CORE/src/View/View.php, line 471
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-06-10 18:00:45 Notice: Notice (8): Undefined index: nickname in [/var/www/fcctv.co.kr/src/Template/Layout/default.ctp, line 228]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Layout/default.ctp, line 228
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 508
+Cake\View\View::render() - CORE/src/View/View.php, line 471
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-06-10 18:00:45 Notice: Notice (8): Undefined index: image_path in [/var/www/fcctv.co.kr/src/Template/Layout/default.ctp, line 281]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Layout/default.ctp, line 281
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 508
+Cake\View\View::render() - CORE/src/View/View.php, line 471
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-06-10 18:00:45 Notice: Notice (8): Undefined index: nickname in [/var/www/fcctv.co.kr/src/Template/Layout/default.ctp, line 287]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Layout/default.ctp, line 287
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 508
+Cake\View\View::render() - CORE/src/View/View.php, line 471
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-06-11 08:11:49 Notice: Notice (8): Undefined index: onAirInfo in [/var/www/fcctv.co.kr/src/Template/FccTv/detail.ctp, line 8]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/FccTv/detail.ctp, line 8
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+

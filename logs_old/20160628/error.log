@@ -1,0 +1,56 @@
+2016-06-28 12:11:14 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Language could not be found.
+Request URL: /language/Swedish$%7BIFS%7D&&echo$%7BIFS%7DfmWd%3EQXQS&&tar$%7BIFS%7D/string.js
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-28 12:11:14 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Login.cgi could not be found.
+Request URL: /login.cgi
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-28 12:11:24 Error: [Cake\Routing\Exception\MissingControllerException] Controller class CHANGELOG.txt could not be found.
+Request URL: /CHANGELOG.txt
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-28 12:11:24 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Readme.html could not be found.
+Request URL: /readme.html
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-28 15:28:50 Error: [Cake\Routing\Exception\MissingControllerException] Controller class .well-known could not be found.
+Request URL: /.well-known/apple-app-site-association
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-28 17:16:29 Error: [Cake\Routing\Exception\MissingControllerException] Controller class .well-known could not be found.
+Request URL: /.well-known/assetlinks.json
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-28 17:31:49 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Apple-app-site-association could not be found.
+Request URL: /apple-app-site-association
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-28 18:16:32 Error: [Cake\Routing\Exception\MissingControllerException] Controller class ) could not be found.
+Request URL: /)
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+

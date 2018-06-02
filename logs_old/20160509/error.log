@@ -1,0 +1,423 @@
+2016-05-09 09:56:12 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Res could not be found.
+Request URL: /_res/mov/ZCOLICO%28master%29.jpg
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-09 10:23:11 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Res could not be found.
+Request URL: /_res/mov/ZCOLICO%28master%29.jpg
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-09 13:56:23 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Res could not be found.
+Request URL: /_res/mov/ZCOLICO%28master%29.jpg
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-09 14:00:02 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Res could not be found.
+Request URL: /_res/mov/ZCOLICO%28master%29.jpg
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-09 14:00:09 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Res could not be found.
+Request URL: /_res/mov/ZCOLICO%28master%29.jpg
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-09 14:02:37 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Res could not be found.
+Request URL: /_res/mov/ZCOLICO%28master%29.jpg
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-09 14:05:46 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Res could not be found.
+Request URL: /_res/mov/ZCOLICO%28master%29.jpg
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-09 14:05:53 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Res could not be found.
+Request URL: /_res/mov/ZCOLICO%28master%29.jpg
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-09 15:05:29 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Res could not be found.
+Request URL: /_res/mov/ZCOLICO%28master%29.jpg
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-09 15:10:15 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Res could not be found.
+Request URL: /_res/mov/ZCOLICO%28master%29.jpg
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-09 15:56:09 Warning: Warning (512): SplFileInfo::openFile(/var/www/fcctv.co.kr/tmp/cache/models/myapp_cake_model_default_ch_code_gen): failed to open stream: Permission denied in [/var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Cache/Engine/FileEngine.php, line 391]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+Cake\Cache\Engine\FileEngine::_setKey() - CORE/src/Cache/Engine/FileEngine.php, line 391
+Cake\Cache\Engine\FileEngine::read() - CORE/src/Cache/Engine/FileEngine.php, line 180
+Cake\Cache\Cache::read() - CORE/src/Cache/Cache.php, line 312
+Cake\Database\Schema\CachedCollection::describe() - CORE/src/Database/Schema/CachedCollection.php, line 58
+Cake\ORM\Table::schema() - CORE/src/ORM/Table.php, line 422
+Cake\ORM\Query::addDefaultTypes() - CORE/src/ORM/Query.php, line 139
+Cake\ORM\Query::__construct() - CORE/src/ORM/Query.php, line 121
+Cake\ORM\Table::query() - CORE/src/ORM/Table.php, line 1227
+Cake\ORM\Table::find() - CORE/src/ORM/Table.php, line 930
+Cake\ORM\Table::get() - CORE/src/ORM/Table.php, line 1173
+App\Service\ProductService::updateCode() - APP/Service/ProductService.php, line 253
+App\Service\ProductService::generateCode() - APP/Service/ProductService.php, line 262
+App\Service\OrderService::beforeOrder() - APP/Service/OrderService.php, line 205
+App\Controller\PurchasesController::orderBefore() - APP/Controller/PurchasesController.php, line 255
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 15:56:09 Warning: Warning (512): SplFileInfo::openFile(/var/www/fcctv.co.kr/tmp/cache/models/myapp_cake_model_default_ch_code_gen) [<a href='http://php.net/splfileinfo.openfile'>splfileinfo.openfile</a>]: failed to open stream: Permission denied in [/var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Cache/Engine/FileEngine.php, line 391]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+Cake\Cache\Engine\FileEngine::_setKey() - CORE/src/Cache/Engine/FileEngine.php, line 391
+Cake\Cache\Engine\FileEngine::write() - CORE/src/Cache/Engine/FileEngine.php, line 130
+Cake\Cache\Cache::write() - CORE/src/Cache/Cache.php, line 234
+Cake\Database\Schema\CachedCollection::describe() - CORE/src/Database/Schema/CachedCollection.php, line 67
+Cake\ORM\Table::schema() - CORE/src/ORM/Table.php, line 422
+Cake\ORM\Query::addDefaultTypes() - CORE/src/ORM/Query.php, line 139
+Cake\ORM\Query::__construct() - CORE/src/ORM/Query.php, line 121
+Cake\ORM\Table::query() - CORE/src/ORM/Table.php, line 1227
+Cake\ORM\Table::find() - CORE/src/ORM/Table.php, line 930
+Cake\ORM\Table::get() - CORE/src/ORM/Table.php, line 1173
+App\Service\ProductService::updateCode() - APP/Service/ProductService.php, line 253
+App\Service\ProductService::generateCode() - APP/Service/ProductService.php, line 262
+App\Service\OrderService::beforeOrder() - APP/Service/OrderService.php, line 205
+App\Controller\PurchasesController::orderBefore() - APP/Controller/PurchasesController.php, line 255
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 15:56:09 Warning: Warning (512): _cake_model_ cache was unable to write 'default_ch_code_gen' to Cake\Cache\Engine\FileEngine cache in [/var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Cache/Cache.php, line 244]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+Cake\Cache\Cache::write() - CORE/src/Cache/Cache.php, line 244
+Cake\Database\Schema\CachedCollection::describe() - CORE/src/Database/Schema/CachedCollection.php, line 67
+Cake\ORM\Table::schema() - CORE/src/ORM/Table.php, line 422
+Cake\ORM\Query::addDefaultTypes() - CORE/src/ORM/Query.php, line 139
+Cake\ORM\Query::__construct() - CORE/src/ORM/Query.php, line 121
+Cake\ORM\Table::query() - CORE/src/ORM/Table.php, line 1227
+Cake\ORM\Table::find() - CORE/src/ORM/Table.php, line 930
+Cake\ORM\Table::get() - CORE/src/ORM/Table.php, line 1173
+App\Service\ProductService::updateCode() - APP/Service/ProductService.php, line 253
+App\Service\ProductService::generateCode() - APP/Service/ProductService.php, line 262
+App\Service\OrderService::beforeOrder() - APP/Service/OrderService.php, line 205
+App\Controller\PurchasesController::orderBefore() - APP/Controller/PurchasesController.php, line 255
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 15:56:48 Warning: Warning (512): SplFileInfo::openFile(/var/www/fcctv.co.kr/tmp/cache/models/myapp_cake_model_default_ch_code_gen): failed to open stream: Permission denied in [/var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Cache/Engine/FileEngine.php, line 391]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+Cake\Cache\Engine\FileEngine::_setKey() - CORE/src/Cache/Engine/FileEngine.php, line 391
+Cake\Cache\Engine\FileEngine::read() - CORE/src/Cache/Engine/FileEngine.php, line 180
+Cake\Cache\Cache::read() - CORE/src/Cache/Cache.php, line 312
+Cake\Database\Schema\CachedCollection::describe() - CORE/src/Database/Schema/CachedCollection.php, line 58
+Cake\ORM\Table::schema() - CORE/src/ORM/Table.php, line 422
+Cake\ORM\Query::addDefaultTypes() - CORE/src/ORM/Query.php, line 139
+Cake\ORM\Query::__construct() - CORE/src/ORM/Query.php, line 121
+Cake\ORM\Table::query() - CORE/src/ORM/Table.php, line 1227
+Cake\ORM\Table::find() - CORE/src/ORM/Table.php, line 930
+Cake\ORM\Table::get() - CORE/src/ORM/Table.php, line 1173
+App\Service\ProductService::updateCode() - APP/Service/ProductService.php, line 253
+App\Service\ProductService::generateCode() - APP/Service/ProductService.php, line 262
+App\Service\OrderService::beforeOrder() - APP/Service/OrderService.php, line 205
+App\Controller\PurchasesController::orderBefore() - APP/Controller/PurchasesController.php, line 255
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 15:56:48 Warning: Warning (512): SplFileInfo::openFile(/var/www/fcctv.co.kr/tmp/cache/models/myapp_cake_model_default_ch_code_gen) [<a href='http://php.net/splfileinfo.openfile'>splfileinfo.openfile</a>]: failed to open stream: Permission denied in [/var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Cache/Engine/FileEngine.php, line 391]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+Cake\Cache\Engine\FileEngine::_setKey() - CORE/src/Cache/Engine/FileEngine.php, line 391
+Cake\Cache\Engine\FileEngine::write() - CORE/src/Cache/Engine/FileEngine.php, line 130
+Cake\Cache\Cache::write() - CORE/src/Cache/Cache.php, line 234
+Cake\Database\Schema\CachedCollection::describe() - CORE/src/Database/Schema/CachedCollection.php, line 67
+Cake\ORM\Table::schema() - CORE/src/ORM/Table.php, line 422
+Cake\ORM\Query::addDefaultTypes() - CORE/src/ORM/Query.php, line 139
+Cake\ORM\Query::__construct() - CORE/src/ORM/Query.php, line 121
+Cake\ORM\Table::query() - CORE/src/ORM/Table.php, line 1227
+Cake\ORM\Table::find() - CORE/src/ORM/Table.php, line 930
+Cake\ORM\Table::get() - CORE/src/ORM/Table.php, line 1173
+App\Service\ProductService::updateCode() - APP/Service/ProductService.php, line 253
+App\Service\ProductService::generateCode() - APP/Service/ProductService.php, line 262
+App\Service\OrderService::beforeOrder() - APP/Service/OrderService.php, line 205
+App\Controller\PurchasesController::orderBefore() - APP/Controller/PurchasesController.php, line 255
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 15:56:48 Warning: Warning (512): _cake_model_ cache was unable to write 'default_ch_code_gen' to Cake\Cache\Engine\FileEngine cache in [/var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Cache/Cache.php, line 244]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+Cake\Cache\Cache::write() - CORE/src/Cache/Cache.php, line 244
+Cake\Database\Schema\CachedCollection::describe() - CORE/src/Database/Schema/CachedCollection.php, line 67
+Cake\ORM\Table::schema() - CORE/src/ORM/Table.php, line 422
+Cake\ORM\Query::addDefaultTypes() - CORE/src/ORM/Query.php, line 139
+Cake\ORM\Query::__construct() - CORE/src/ORM/Query.php, line 121
+Cake\ORM\Table::query() - CORE/src/ORM/Table.php, line 1227
+Cake\ORM\Table::find() - CORE/src/ORM/Table.php, line 930
+Cake\ORM\Table::get() - CORE/src/ORM/Table.php, line 1173
+App\Service\ProductService::updateCode() - APP/Service/ProductService.php, line 253
+App\Service\ProductService::generateCode() - APP/Service/ProductService.php, line 262
+App\Service\OrderService::beforeOrder() - APP/Service/OrderService.php, line 205
+App\Controller\PurchasesController::orderBefore() - APP/Controller/PurchasesController.php, line 255
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 15:56:48 Error: [Cake\Network\Exception\BadRequestException] 선택된 상품의 재고가 부족합니다.
+상품명 : IPHONE 6 CASE - SELLY, VINTAGE HAIR PIN, CURLY HAIR, WATCH
+장바구니에서 해당 상품을 제거 하거나 수량 변경후 주문 해주세요.
+Request URL: /Purchases/orderBefore
+Stack Trace:
+#0 [internal function]: App\Controller\PurchasesController->orderBefore()
+#1 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Controller/Controller.php(412): call_user_func_array(Array, Array)
+#2 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#3 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\PurchasesController))
+#4 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#5 {main}
+
+
+2016-05-09 16:33:36 Warning: Warning (2): Missing argument 1 for App\Controller\DesignersController::detail() in [/var/www/fcctv.co.kr/src/Controller/DesignersController.php, line 65]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+App\Controller\DesignersController::detail() - APP/Controller/DesignersController.php, line 65
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 16:49:42 Error: [Facebook\Exceptions\FacebookSDKException] Cross-site request forgery validation failed. Required param "state" missing.
+Request URL: /auth/loginCallBackFacebook?code=AQBXm3mP_vUB3e_bTjlXMVVmLhk6vAMGYLLppz6cF25tz1hoRxWCIE1qyCW2qMJjKKpwLHMSw1SewkUHD7NxI8egGKKqaG4gIWOVTsgndIkRh6rpSs0EiNJOslePgOwJXjGvr-60rBPFRlYeW5HWKfxsulO-a4fuqANk66MnmvjcQWqSEEIBYsOScO3_WHC4FQFQgXx0ETaZno_NkqsE3qMuFORNui15nmGKOizowUTtnSF_5Pye1mfweHlmRL7uibMVspM6szhHyIfzzP1PxJQhDj0m3CeGQ_o7YUAA8AsLsgjF52b9HKeYT5wylo3qvYuMpl9y_sPomDKlTl6_pQCx&state=956d63bbfbb1155b3c983008fb777d88
+Stack Trace:
+#0 /var/www/fcctv.co.kr/vendor/facebook/php-sdk-v4/src/Facebook/Helpers/FacebookRedirectLoginHelper.php(221): Facebook\Helpers\FacebookRedirectLoginHelper->validateCsrf()
+#1 /var/www/fcctv.co.kr/src/Service/FacebookService.php(106): Facebook\Helpers\FacebookRedirectLoginHelper->getAccessToken()
+#2 /var/www/fcctv.co.kr/src/Controller/AuthController.php(220): App\Service\FacebookService->getProfile()
+#3 [internal function]: App\Controller\AuthController->loginCallBackFacebook()
+#4 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Controller/Controller.php(412): call_user_func_array(Array, Array)
+#5 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#6 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\AuthController))
+#7 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#8 {main}
+
+
+2016-05-09 16:49:54 Error: [Facebook\Exceptions\FacebookSDKException] Cross-site request forgery validation failed. Required param "state" missing.
+Request URL: /auth/loginCallBackFacebook?code=AQANc3XvunBdX49oi2UGZf7sNIdBU6ux1iGTYf3CZ8oJQEtjnM-9Rok6O23ZbCkbOKwHJ7-lTn5UAi3Ae3UA1-BV5KQ-4nF8NomoCg2CzkFmAaBhmC4qyIKnKGkX2x0jl5IHnIsNecUQsLXPWQ8OBsB38g-JmlUrMsxLbwHwUzbV3oo95ZV2dcxFwsz05UCcW55Wwn9pPuwzFJ3qPI0sEIHUjjzHTpelwYNNO0f6Iz7GYcA5FhPcYwu9EvwbsGZ_3jyzvPkH4dkN1ottco8D54BCOj7zJJ1XapSlnhr5-n5yFpQLqXG3ZwhXopJ7rMYGM1owx9ITRlYlk2gGaLcejRJ_&state=7fca74876cd58a1514631ff212e7bbce
+Stack Trace:
+#0 /var/www/fcctv.co.kr/vendor/facebook/php-sdk-v4/src/Facebook/Helpers/FacebookRedirectLoginHelper.php(221): Facebook\Helpers\FacebookRedirectLoginHelper->validateCsrf()
+#1 /var/www/fcctv.co.kr/src/Service/FacebookService.php(106): Facebook\Helpers\FacebookRedirectLoginHelper->getAccessToken()
+#2 /var/www/fcctv.co.kr/src/Controller/AuthController.php(220): App\Service\FacebookService->getProfile()
+#3 [internal function]: App\Controller\AuthController->loginCallBackFacebook()
+#4 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Controller/Controller.php(412): call_user_func_array(Array, Array)
+#5 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#6 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\AuthController))
+#7 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#8 {main}
+
+
+2016-05-09 16:50:40 Error: [Facebook\Exceptions\FacebookSDKException] Cross-site request forgery validation failed. Required param "state" missing.
+Request URL: /auth/loginCallBackFacebook?code=AQA98-QfqGxZOH_AWSaoupXV3NfrrEBkoTvp-vksW0FCu1ZkUGlofznxJAYKsiqYFhWCEA2w8uzOaUDyhFJ46_PWtK_Ax7l524AjcFrPsgs7gi7mgvEuToCuzVUeMZzlCwHap8pT8FAvJfLxhl_xL-fHEiF-_ExW_3HIPcrFmUZ-EKqysYbhPqdLRqrZcPAJeghEmW5cw44J65r9GZUzJIirIWnh3sDqwv-40qSLTcbBVPmtyLJEGSr6T-OVPFyN3ch6tqtuIv5_2TkQGkkJ7kGkdktk9MjNOq1ihBf9a96PLivrjXQNngKojuaIjNeq9xjdinNDvmUzePZwdVLbmG1f&state=962cf9fcc4af1291d5932c3d03063474
+Stack Trace:
+#0 /var/www/fcctv.co.kr/vendor/facebook/php-sdk-v4/src/Facebook/Helpers/FacebookRedirectLoginHelper.php(221): Facebook\Helpers\FacebookRedirectLoginHelper->validateCsrf()
+#1 /var/www/fcctv.co.kr/src/Service/FacebookService.php(106): Facebook\Helpers\FacebookRedirectLoginHelper->getAccessToken()
+#2 /var/www/fcctv.co.kr/src/Controller/AuthController.php(220): App\Service\FacebookService->getProfile()
+#3 [internal function]: App\Controller\AuthController->loginCallBackFacebook()
+#4 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Controller/Controller.php(412): call_user_func_array(Array, Array)
+#5 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#6 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\AuthController))
+#7 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#8 {main}
+
+
+2016-05-09 17:19:22 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Res could not be found.
+Request URL: /_res/mov/ZCOLICO%28master%29.jpg
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-09 18:32:02 Warning: Warning (512): SplFileInfo::openFile(/var/www/fcctv.co.kr/tmp/cache/models/myapp_cake_model_default_ch_code_gen): failed to open stream: Permission denied in [/var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Cache/Engine/FileEngine.php, line 391]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+Cake\Cache\Engine\FileEngine::_setKey() - CORE/src/Cache/Engine/FileEngine.php, line 391
+Cake\Cache\Engine\FileEngine::read() - CORE/src/Cache/Engine/FileEngine.php, line 180
+Cake\Cache\Cache::read() - CORE/src/Cache/Cache.php, line 312
+Cake\Database\Schema\CachedCollection::describe() - CORE/src/Database/Schema/CachedCollection.php, line 58
+Cake\ORM\Table::schema() - CORE/src/ORM/Table.php, line 422
+Cake\ORM\Query::addDefaultTypes() - CORE/src/ORM/Query.php, line 139
+Cake\ORM\Query::__construct() - CORE/src/ORM/Query.php, line 121
+Cake\ORM\Table::query() - CORE/src/ORM/Table.php, line 1227
+Cake\ORM\Table::find() - CORE/src/ORM/Table.php, line 930
+Cake\ORM\Table::get() - CORE/src/ORM/Table.php, line 1173
+App\Service\ProductService::updateCode() - APP/Service/ProductService.php, line 253
+App\Service\ProductService::generateCode() - APP/Service/ProductService.php, line 262
+App\Service\OrderService::beforeOrder() - APP/Service/OrderService.php, line 205
+App\Controller\PurchasesController::orderBefore() - APP/Controller/PurchasesController.php, line 255
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 18:32:02 Warning: Warning (512): SplFileInfo::openFile(/var/www/fcctv.co.kr/tmp/cache/models/myapp_cake_model_default_ch_code_gen) [<a href='http://php.net/splfileinfo.openfile'>splfileinfo.openfile</a>]: failed to open stream: Permission denied in [/var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Cache/Engine/FileEngine.php, line 391]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+Cake\Cache\Engine\FileEngine::_setKey() - CORE/src/Cache/Engine/FileEngine.php, line 391
+Cake\Cache\Engine\FileEngine::write() - CORE/src/Cache/Engine/FileEngine.php, line 130
+Cake\Cache\Cache::write() - CORE/src/Cache/Cache.php, line 234
+Cake\Database\Schema\CachedCollection::describe() - CORE/src/Database/Schema/CachedCollection.php, line 67
+Cake\ORM\Table::schema() - CORE/src/ORM/Table.php, line 422
+Cake\ORM\Query::addDefaultTypes() - CORE/src/ORM/Query.php, line 139
+Cake\ORM\Query::__construct() - CORE/src/ORM/Query.php, line 121
+Cake\ORM\Table::query() - CORE/src/ORM/Table.php, line 1227
+Cake\ORM\Table::find() - CORE/src/ORM/Table.php, line 930
+Cake\ORM\Table::get() - CORE/src/ORM/Table.php, line 1173
+App\Service\ProductService::updateCode() - APP/Service/ProductService.php, line 253
+App\Service\ProductService::generateCode() - APP/Service/ProductService.php, line 262
+App\Service\OrderService::beforeOrder() - APP/Service/OrderService.php, line 205
+App\Controller\PurchasesController::orderBefore() - APP/Controller/PurchasesController.php, line 255
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 18:32:02 Warning: Warning (512): _cake_model_ cache was unable to write 'default_ch_code_gen' to Cake\Cache\Engine\FileEngine cache in [/var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Cache/Cache.php, line 244]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+Cake\Cache\Cache::write() - CORE/src/Cache/Cache.php, line 244
+Cake\Database\Schema\CachedCollection::describe() - CORE/src/Database/Schema/CachedCollection.php, line 67
+Cake\ORM\Table::schema() - CORE/src/ORM/Table.php, line 422
+Cake\ORM\Query::addDefaultTypes() - CORE/src/ORM/Query.php, line 139
+Cake\ORM\Query::__construct() - CORE/src/ORM/Query.php, line 121
+Cake\ORM\Table::query() - CORE/src/ORM/Table.php, line 1227
+Cake\ORM\Table::find() - CORE/src/ORM/Table.php, line 930
+Cake\ORM\Table::get() - CORE/src/ORM/Table.php, line 1173
+App\Service\ProductService::updateCode() - APP/Service/ProductService.php, line 253
+App\Service\ProductService::generateCode() - APP/Service/ProductService.php, line 262
+App\Service\OrderService::beforeOrder() - APP/Service/OrderService.php, line 205
+App\Controller\PurchasesController::orderBefore() - APP/Controller/PurchasesController.php, line 255
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 18:32:10 Warning: Warning (512): SplFileInfo::openFile(/var/www/fcctv.co.kr/tmp/cache/models/myapp_cake_model_default_ch_code_gen): failed to open stream: Permission denied in [/var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Cache/Engine/FileEngine.php, line 391]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+Cake\Cache\Engine\FileEngine::_setKey() - CORE/src/Cache/Engine/FileEngine.php, line 391
+Cake\Cache\Engine\FileEngine::read() - CORE/src/Cache/Engine/FileEngine.php, line 180
+Cake\Cache\Cache::read() - CORE/src/Cache/Cache.php, line 312
+Cake\Database\Schema\CachedCollection::describe() - CORE/src/Database/Schema/CachedCollection.php, line 58
+Cake\ORM\Table::schema() - CORE/src/ORM/Table.php, line 422
+Cake\ORM\Query::addDefaultTypes() - CORE/src/ORM/Query.php, line 139
+Cake\ORM\Query::__construct() - CORE/src/ORM/Query.php, line 121
+Cake\ORM\Table::query() - CORE/src/ORM/Table.php, line 1227
+Cake\ORM\Table::find() - CORE/src/ORM/Table.php, line 930
+Cake\ORM\Table::get() - CORE/src/ORM/Table.php, line 1173
+App\Service\ProductService::updateCode() - APP/Service/ProductService.php, line 253
+App\Service\ProductService::generateCode() - APP/Service/ProductService.php, line 262
+App\Service\OrderService::beforeOrder() - APP/Service/OrderService.php, line 205
+App\Controller\PurchasesController::orderBefore() - APP/Controller/PurchasesController.php, line 255
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 18:32:10 Warning: Warning (512): SplFileInfo::openFile(/var/www/fcctv.co.kr/tmp/cache/models/myapp_cake_model_default_ch_code_gen) [<a href='http://php.net/splfileinfo.openfile'>splfileinfo.openfile</a>]: failed to open stream: Permission denied in [/var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Cache/Engine/FileEngine.php, line 391]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+Cake\Cache\Engine\FileEngine::_setKey() - CORE/src/Cache/Engine/FileEngine.php, line 391
+Cake\Cache\Engine\FileEngine::write() - CORE/src/Cache/Engine/FileEngine.php, line 130
+Cake\Cache\Cache::write() - CORE/src/Cache/Cache.php, line 234
+Cake\Database\Schema\CachedCollection::describe() - CORE/src/Database/Schema/CachedCollection.php, line 67
+Cake\ORM\Table::schema() - CORE/src/ORM/Table.php, line 422
+Cake\ORM\Query::addDefaultTypes() - CORE/src/ORM/Query.php, line 139
+Cake\ORM\Query::__construct() - CORE/src/ORM/Query.php, line 121
+Cake\ORM\Table::query() - CORE/src/ORM/Table.php, line 1227
+Cake\ORM\Table::find() - CORE/src/ORM/Table.php, line 930
+Cake\ORM\Table::get() - CORE/src/ORM/Table.php, line 1173
+App\Service\ProductService::updateCode() - APP/Service/ProductService.php, line 253
+App\Service\ProductService::generateCode() - APP/Service/ProductService.php, line 262
+App\Service\OrderService::beforeOrder() - APP/Service/OrderService.php, line 205
+App\Controller\PurchasesController::orderBefore() - APP/Controller/PurchasesController.php, line 255
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 18:32:10 Warning: Warning (512): _cake_model_ cache was unable to write 'default_ch_code_gen' to Cake\Cache\Engine\FileEngine cache in [/var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Cache/Cache.php, line 244]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+Cake\Cache\Cache::write() - CORE/src/Cache/Cache.php, line 244
+Cake\Database\Schema\CachedCollection::describe() - CORE/src/Database/Schema/CachedCollection.php, line 67
+Cake\ORM\Table::schema() - CORE/src/ORM/Table.php, line 422
+Cake\ORM\Query::addDefaultTypes() - CORE/src/ORM/Query.php, line 139
+Cake\ORM\Query::__construct() - CORE/src/ORM/Query.php, line 121
+Cake\ORM\Table::query() - CORE/src/ORM/Table.php, line 1227
+Cake\ORM\Table::find() - CORE/src/ORM/Table.php, line 930
+Cake\ORM\Table::get() - CORE/src/ORM/Table.php, line 1173
+App\Service\ProductService::updateCode() - APP/Service/ProductService.php, line 253
+App\Service\ProductService::generateCode() - APP/Service/ProductService.php, line 262
+App\Service\OrderService::beforeOrder() - APP/Service/OrderService.php, line 205
+App\Controller\PurchasesController::orderBefore() - APP/Controller/PurchasesController.php, line 255
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+

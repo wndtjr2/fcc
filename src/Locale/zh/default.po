@@ -1,0 +1,2127 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2015-08-21 02:32+0000\n"
+"PO-Revision-Date: 2015-09-09 15:03+0900\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Language: zh\n"
+"X-Generator: Poedit 1.8.4\n"
+
+#: Template/Auth/exist_login.ctp:7 Template/Auth/join.ctp:45
+#: Template/Auth/login.ctp:66 Template/Auth/password_forgot.ctp:34
+#: Template/Auth/password_reset_complete.ctp:7
+#: Template/Auth/resend_password.ctp:7 Template/Auth/reset_password.ctp:58
+#: Template/Auth/set_password.ctp:55 Template/Fcc/about.ctp:7
+#: Template/Fcc/browser_update.ctp:7 Template/Fcc/go_to_web.ctp:7
+#: Template/Layout/default.ctp:226 Template/Models/complete.ctp:7
+#: Template/Models/index.ctp:19 Template/Models/info.ctp:38
+#: Template/Models/info_add.ctp:220 Template/Models/info_edit.ctp:233
+#: Template/Users/add_basic_info.ctp:159;288
+#: Template/Users/add_basic_info_save.ctp:18
+#: Template/Users/check_verification_email.ctp:12 Template/Users/edit.ctp:221
+#: Template/Users/expired_token.ctp:7 Template/Users/first_time_join.ctp:73
+#: Template/Users/forgot_password.ctp:13 Template/Users/no_activate.ctp:14
+#: Template/Users/password_again.ctp:35 Template/Users/profile.ctp:19
+#: Template/Users/resend_verification_email.ctp:12
+msgid "DAYS"
+msgstr "天"
+
+#: Template/Auth/exist_login.ctp:8 Template/Auth/join.ctp:46
+#: Template/Auth/login.ctp:67 Template/Auth/password_forgot.ctp:35
+#: Template/Auth/password_reset_complete.ctp:8
+#: Template/Auth/resend_password.ctp:8 Template/Auth/reset_password.ctp:59
+#: Template/Auth/set_password.ctp:56 Template/Fcc/about.ctp:8
+#: Template/Fcc/browser_update.ctp:8 Template/Fcc/go_to_web.ctp:8
+#: Template/Layout/default.ctp:227 Template/Models/complete.ctp:8
+#: Template/Models/index.ctp:20 Template/Models/info.ctp:39
+#: Template/Models/info_add.ctp:221 Template/Models/info_edit.ctp:234
+#: Template/Users/add_basic_info.ctp:160;289
+#: Template/Users/add_basic_info_save.ctp:19
+#: Template/Users/check_verification_email.ctp:13 Template/Users/edit.ctp:222
+#: Template/Users/expired_token.ctp:8 Template/Users/first_time_join.ctp:74
+#: Template/Users/forgot_password.ctp:14 Template/Users/no_activate.ctp:15
+#: Template/Users/password_again.ctp:36 Template/Users/profile.ctp:20
+#: Template/Users/resend_verification_email.ctp:13
+msgid "HOURS"
+msgstr "小时"
+
+#: Template/Auth/exist_login.ctp:9 Template/Auth/join.ctp:47
+#: Template/Auth/login.ctp:68 Template/Auth/password_forgot.ctp:36
+#: Template/Auth/password_reset_complete.ctp:9
+#: Template/Auth/resend_password.ctp:9 Template/Auth/reset_password.ctp:60
+#: Template/Auth/set_password.ctp:57 Template/Fcc/about.ctp:9
+#: Template/Fcc/browser_update.ctp:9 Template/Fcc/go_to_web.ctp:9
+#: Template/Layout/default.ctp:228 Template/Models/complete.ctp:9
+#: Template/Models/index.ctp:21 Template/Models/info.ctp:40
+#: Template/Models/info_add.ctp:222 Template/Models/info_edit.ctp:235
+#: Template/Users/add_basic_info.ctp:161;290
+#: Template/Users/add_basic_info_save.ctp:20
+#: Template/Users/check_verification_email.ctp:14 Template/Users/edit.ctp:223
+#: Template/Users/expired_token.ctp:9 Template/Users/first_time_join.ctp:75
+#: Template/Users/forgot_password.ctp:15 Template/Users/no_activate.ctp:16
+#: Template/Users/password_again.ctp:37 Template/Users/profile.ctp:21
+#: Template/Users/resend_verification_email.ctp:14
+msgid "MIN"
+msgstr "分钟"
+
+#: Template/Auth/exist_login.ctp:10 Template/Auth/join.ctp:48
+#: Template/Auth/login.ctp:69 Template/Auth/password_forgot.ctp:37
+#: Template/Auth/password_reset_complete.ctp:10
+#: Template/Auth/resend_password.ctp:10 Template/Auth/reset_password.ctp:61
+#: Template/Auth/set_password.ctp:58 Template/Fcc/about.ctp:10
+#: Template/Fcc/browser_update.ctp:10 Template/Fcc/go_to_web.ctp:10
+#: Template/Layout/default.ctp:229 Template/Models/complete.ctp:10
+#: Template/Models/index.ctp:22 Template/Models/info.ctp:41
+#: Template/Models/info_add.ctp:223 Template/Models/info_edit.ctp:236
+#: Template/Users/add_basic_info.ctp:162;291
+#: Template/Users/add_basic_info_save.ctp:21
+#: Template/Users/check_verification_email.ctp:15 Template/Users/edit.ctp:224
+#: Template/Users/expired_token.ctp:10 Template/Users/first_time_join.ctp:76
+#: Template/Users/forgot_password.ctp:16 Template/Users/no_activate.ctp:17
+#: Template/Users/password_again.ctp:38 Template/Users/profile.ctp:22
+#: Template/Users/resend_verification_email.ctp:15
+msgid "SEC"
+msgstr "秒"
+
+#: Template/Auth/exist_login.ctp:18 Template/Auth/join.ctp:56
+#: Template/Auth/set_password.ctp:66 Template/Users/first_time_join.ctp:84
+msgid "JOIN"
+msgstr "注册"
+
+#: Template/Auth/exist_login.ctp:20 Template/Auth/set_password.ctp:68
+msgid "we need a few things to create your account."
+msgstr "创建账号须知"
+
+#: Template/Auth/exist_login.ctp:31 Template/Auth/reset_password.ctp:30
+#: Template/Auth/set_password.ctp:26 Template/Users/edit.ctp:61
+#: Template/Users/first_time_join.ctp:29
+msgid "Create a password of 8~20 characters (numbers, letters, symbols)"
+msgstr "创建密码需８～２０个字符（包含至少一下字符：大写字母，小写字母，数字或符号）"
+
+#: Template/Auth/exist_login.ctp:34 Template/Auth/reset_password.ctp:31
+#: Template/Auth/set_password.ctp:27 Template/Users/edit.ctp:62
+#: Template/Users/first_time_join.ctp:30
+msgid "Your password cannot consist of a numerial or alphabetical sequence."
+msgstr "创建的密码不能只以一个数值或字母的顺序排列"
+
+#: Template/Auth/exist_login.ctp:35 Template/Auth/reset_password.ctp:32
+#: Template/Auth/set_password.ctp:28 Template/Users/edit.ctp:63
+msgid "Your password cannot be the same as your user name or email."
+msgstr "密码不能与您的用户名或邮箱一致"
+
+#: Template/Auth/exist_login.ctp:39 Template/Auth/set_password.ctp:85
+msgid "Create Account"
+msgstr "创建账号"
+
+#: Template/Auth/exist_login.ctp:45 Template/Auth/join.ctp:103
+#: Template/Auth/set_password.ctp:91 Template/Users/first_time_join.ctp:128
+msgid "Are you a member?"
+msgstr "是否已注册"
+
+#: Template/Auth/exist_login.ctp:45 Template/Auth/join.ctp:91;95;99;103
+#: Template/Auth/login.ctp:78;113;133
+#: Template/Auth/password_reset_complete.ctp:23
+#: Template/Auth/set_password.ctp:91
+#: Template/Layout/default.ctp:238;239;302;494;513
+#: Template/Users/first_time_join.ctp:128 Template/Users/password_again.ctp:47
+msgid "Log in"
+msgstr "登录"
+
+#: Template/Auth/exist_login.ctp:48 Template/Auth/set_password.ctp:94
+#: Template/Users/first_time_join.ctp:131
+msgid "By creating an account, I accept FCC’s.<br>Terms and Conditions and Privacy Policy."
+msgstr "为了创建一个账号，<br>需接受ＦＣＣ的服务条款和隐私权政策"
+
+#: Template/Auth/join.ctp:27 Template/Auth/password_forgot.ctp:17
+#: Template/Users/password_again.ctp:17
+msgid "Please enter your email."
+msgstr "请输入您的邮箱地址"
+
+#: Template/Auth/join.ctp:28 Template/Auth/login.ctp:44
+#: Template/Layout/default.ctp:165
+msgid "Invalid email format."
+msgstr "电子邮件格式无效"
+
+#: Template/Auth/join.ctp:60
+msgid "Welcome to Fashion Crowd Challenge.<br>Time to meet designs and designers of every stripe from all around the world!"
+msgstr "欢迎进入Fashion Crowd Challenge.<br>迎接来自全球各国的设计师与作品！"
+
+#: Template/Auth/join.ctp:63 Template/Auth/login.ctp:82
+#: Template/Auth/password_forgot.ctp:62 Template/Layout/default.ctp:456
+#: Template/Users/password_again.ctp:52
+msgid "Social Media"
+msgstr "社交平台"
+
+#: Template/Auth/join.ctp:74 Template/Auth/login.ctp:93
+#: Template/Auth/password_forgot.ctp:53 Template/Contacts/add.ctp:30
+#: Template/Layout/default.ctp:466 Template/Users/edit.ctp:477;478
+#: Template/Users/forgot_password.ctp:35;36
+#: Template/Users/password_again.ctp:64
+msgid "Email"
+msgstr "电子邮箱"
+
+#: Template/Auth/join.ctp:83
+msgid "Join FCC"
+msgstr "注册ＦＣＣ"
+
+#: Template/Auth/join.ctp:91;95 Template/Auth/login.ctp:137
+#: Template/Layout/default.ctp:517
+msgid "This account has already been created via {0}"
+msgstr "此账号已通过创建"
+
+#: Template/Auth/join.ctp:99 Template/Auth/login.ctp:133
+#: Template/Layout/default.ctp:513
+msgid "This account was deleted. Would you like to restore this account?"
+msgstr "该账号已被删除。是否恢复此账号？"
+
+#: Template/Auth/login.ctp:43 Template/Layout/default.ctp:164
+msgid "Please enter your email"
+msgstr "请输入您的邮箱地址"
+
+#: Template/Auth/login.ctp:47 Template/Layout/default.ctp:168
+msgid "Please enter your password"
+msgstr "请输入密码"
+
+#: Template/Auth/login.ctp:79 Template/Layout/default.ctp:453
+msgid "Welcome to Fashion Crowd Challenge. <br>Time to meet designs and designers of every stripe from all around the world!"
+msgstr "欢迎进入Fashion Crowd Challenge.<br>迎接来自全球各国的设计师与作品！"
+
+#: Template/Auth/login.ctp:108 Template/Layout/default.ctp:484
+#: Template/Users/password_again.ctp:80
+msgid "Incorrect Password"
+msgstr "密码错误"
+
+#: Template/Auth/login.ctp:129 Template/Auth/password_forgot.ctp:75
+#: Template/Layout/default.ctp:509
+msgid "We couldn't find your account. Would you like to <a class=\"is-join\" href=\"/auth/join\">join us?</a>"
+msgstr "无法找到您的账号。 <br>你是否愿意 <a class=\"is-join\" href=\"/auth/join\">j加入我们?</a>"
+
+msgid "We couldn\'t find your account. Would you like to"
+msgstr "无法找到您的账号。<br>你是否愿意"
+
+msgid "join us?"
+msgstr "加入我们?"
+
+#: Template/Auth/password_forgot.ctp:45 Template/Users/forgot_password.ctp:24
+msgid "Forget your password?"
+msgstr "忘记密码？"
+
+#: Template/Auth/password_forgot.ctp:47 Template/Users/forgot_password.ctp:26
+msgid "We will send you an email with a link to reset your password."
+msgstr "我们会向您发送电子邮件的链接重设密码。"
+
+#: Template/Auth/password_forgot.ctp:68 Template/Auth/reset_password.ctp:87
+#: Template/Users/forgot_password.ctp:49
+msgid "Reset Password"
+msgstr "重置密码"
+
+#: Template/Auth/password_reset_complete.ctp:18
+msgid "Your password has been changed"
+msgstr "密码更改成功"
+
+#: Template/Auth/password_reset_complete.ctp:20
+msgid "You have changed your password. Please log in again."
+msgstr "您已更改您的密码，请重新登录"
+
+#: Template/Auth/resend_password.ctp:17
+#: Template/Users/check_verification_email.ctp:22
+#: Template/Users/resend_verification_email.ctp:22
+msgid "Go check your email !!"
+msgstr "请您查看您的电子邮件"
+
+#: Template/Auth/resend_password.ctp:18
+msgid "<p>We sent you a link to reset your password. <br>Please check your email.</p>\n"
+"            <br>\n"
+"            <p>If you cannot find the password reset email, <br>please check your spam folder or click below.</p>"
+msgstr "<p>已向您发送了一个链接来重置您的密码。 <br>请查收您的电子邮件</p>\n"
+"            <br>\n"
+"            <p>如果你没能找到密码重置电子邮件, <br>请检查您的垃圾邮件文件夹或点击下面.</p>"
+
+#: Template/Auth/reset_password.ctp:29 Template/Auth/set_password.ctp:25
+#: Template/Users/first_time_join.ctp:28
+msgid "Please enter your password."
+msgstr "请输入您的密码"
+
+#: Template/Auth/reset_password.ctp:35
+msgid "Please enter your password again."
+msgstr "请再次输入您的密码"
+
+#: Template/Auth/reset_password.ctp:69
+msgid "Create a new password."
+msgstr "创建新密码"
+
+#: Template/Auth/reset_password.ctp:71
+msgid "Please enter a new password."
+msgstr "请输入新的密码"
+
+#: Template/Contacts/add.ctp:17
+msgid "Contact"
+msgstr "联系方式"
+
+#: Template/Contacts/add.ctp:19
+msgid "If you have any inquiries, please do not hesitate to contact us.<br>\n"
+"                    We will be happy to assist you."
+msgstr "如果您有任何疑问，请随时与我们联系.<br>\n"
+"                    我们将竭诚为您提供帮助."
+
+#: Template/Contacts/add.ctp:31;32
+msgid "This is not valid email address."
+msgstr "电子邮箱地址无效"
+
+#: Template/Contacts/add.ctp:35 Template/Users/add_basic_info.ctp:362
+#: Template/Users/edit.ctp:387
+msgid "Language"
+msgstr "语言"
+
+#: Template/Contacts/add.ctp:48
+msgid "Subject"
+msgstr "主题"
+
+#: Template/Contacts/add.ctp:50
+msgid "Please enter your subject."
+msgstr "请输入您的主题"
+
+#: Template/Contacts/add.ctp:53
+msgid "Description"
+msgstr "描述"
+
+#: Template/Contacts/add.ctp:55
+msgid "Please enter your description."
+msgstr "请输入您的说明"
+
+#: Template/Contacts/add.ctp:58
+msgid "Send"
+msgstr "发送"
+
+#: Template/Contacts/complete.ctp:13
+msgid "Your comment has been successfully submitted.<br>\n"
+"                    We will send a response to {0}"
+msgstr "您的评论已成功提交.<br>\n"
+"                    我们将回复您 {0}"
+
+#: Template/Email/html/bolt_request.ctp:15
+msgid "{0}'s account deletion request is complete. The deletion <br>\n"
+"                process will occur 10 days from now. If you change your mind <br>\n"
+"                about deleting your account, simply log in within 10 days and your <br>\n"
+"                account will be restored."
+msgstr "{0}'账号注销请求完成. <br>\n"
+" 将在１０天内完成注销。.如果您改变了想法 <br>\n"
+"请在１０天之内登入您申注销的账号 <br>\n"
+" 您的账号将被恢复."
+
+#: Template/Email/html/bolt_request.ctp:23 Template/Email/html/contact.ctp:23
+#: Template/Email/html/password_reset.ctp:26 Template/Email/html/thanks.ctp:28
+#: Template/Email/html/verification.ctp:26
+msgid "Need help?"
+msgstr "如需帮助"
+
+#: Template/Email/html/bolt_request.ctp:23 Template/Email/html/contact.ctp:23
+#: Template/Email/html/password_reset.ctp:26 Template/Email/html/thanks.ctp:28
+#: Template/Email/html/verification.ctp:26 Template/Fcc/faq.ctp:236
+msgid "Contact Us"
+msgstr "请联系我们"
+
+#: Template/Fcc/about.ctp:26 Template/Models/index.ctp:52
+msgid "About"
+msgstr "关于"
+
+#: Template/Fcc/about.ctp:27 Template/Models/index.ctp:53
+msgid "Schedule"
+msgstr "日程"
+
+#: Template/Fcc/about.ctp:68 Template/Models/index.ctp:95
+msgid "Crowd<br>Evaluation"
+msgstr "大众<br>评价"
+
+#: Template/Fcc/about.ctp:82 Template/Models/index.ctp:109
+msgid "Announcement of <br>Winners"
+msgstr "公告 <br>获奖者"
+
+#: Template/Fcc/browser_update.ctp:19 Template/Fcc/go_to_web.ctp:19
+msgid "You cannot proceed any further at this time."
+msgstr "您不能进行<br>任何其他步骤."
+
+#: Template/Fcc/browser_update.ctp:20
+msgid "This step requires Internet Explorer 10 or higher. Please update your browser to continue."
+msgstr "此步骤需Internet Explorer10或更新的版本. <br>请更新您的浏览器来进行"
+
+#: Template/Fcc/detail.ctp:19;25;39 Template/Fcc/home.ctp:47
+msgid "Model"
+msgstr "模特　"
+
+#: Template/Fcc/detail.ctp:34;40 Template/Fcc/home.ctp:69
+msgid "Judge"
+msgstr "评审"
+
+#: Template/Fcc/faq.ctp:156 Template/Posts/vimeo_complete.ctp:131
+#: Template/Posts/vimeo_upload.ctp:66
+msgid "The promotion video should be under 5 minutes in length. "
+msgstr "推广视频需在５分钟以内"
+
+#: Template/Fcc/go_to_web.ctp:20
+msgid "You may register your basic info only via your smart phone. Please use your computer to continue."
+msgstr "您通过智能手机只能注册基本信息. <br>请使用您的计算机继续进行."
+
+#: Template/Layout/default.ctp:51
+msgid "This website requires Internet Explorer 10 or higher."
+msgstr "此网站需使用Internet Explorer10或更新版本"
+
+#: Template/Layout/default.ctp:244;245
+msgid "Join"
+msgstr "注册"
+
+#: Template/Layout/default.ctp:280
+msgid "My Profile"
+msgstr "个人信息"
+
+#: Template/Layout/default.ctp:281
+msgid "My Challenege"
+msgstr "我的挑战"
+
+#: Template/Layout/default.ctp:282;323
+msgid "Log Out"
+msgstr "退出"
+
+#: Template/Layout/default.ctp:328
+msgid "STORY"
+msgstr "故事"
+
+#: Template/Layout/default.ctp:329
+msgid "COMMUNITY"
+msgstr "团体"
+
+#: Template/Layout/default.ctp:330
+msgid "COMMITTEE"
+msgstr "委员会"
+
+#: Template/Layout/default.ctp:331
+msgid "FCC 2015"
+msgstr "2015FCC"
+
+#: Template/Layout/default.ctp:332
+msgid "MODEL CC 2015"
+msgstr "2015Model CC"
+
+#: Template/Layout/default.ctp:488 Template/Users/password_again.ctp:82
+msgid "Please enter your Password."
+msgstr "请输入密码"
+
+#: Template/Layout/default.ctp:557;581 Template/Users/edit.ctp:448;503;598;610
+msgid "Would you like to delete your account?"
+msgstr "是否要注销此账号？"
+
+#: Template/Layout/default.ctp:561
+msgid "Changes have not been saved.<br>\n"
+"                                    Would you like to save now?"
+msgstr "更改尚未保存.<br>\n"
+" 现在是否进行保存?"
+
+#: Template/Layout/default.ctp:585
+msgid "Your account will be deleted 10 days after the request is submitted. After 10 days, all emails containing personal information, uploaded pictures, videos, and text will be deleted."
+msgstr "您的账号将在申请提交后１０天后被注销。１０天之后，包括个人信息的所有电子邮件、上传的照片、视频和文字都将被删除。"
+
+#: Template/Layout/default.ctp:587
+msgid "If you change your mind about deleting your account, you can log in to stop the deletion process within 10 days. If you log in again, all deleted information will be automatically restored."
+msgstr "如果改变主意不想注销此账号，请在１０天之内重新登陆您的账号。重新登陆后所有被删除的信息将被自动恢复。"
+
+#: Template/Layout/default.ctp:593
+msgid "No, thank you."
+msgstr "否，谢谢"
+
+#: Template/Layout/default.ctp:594
+msgid "Yes, please."
+msgstr "是，请进行"
+
+#: Template/Layout/default.ctp:620;623
+msgid "Deletion request sent."
+msgstr "删除请求发送"
+
+#: Template/Layout/default.ctp:625
+msgid "Your account will be deleted in 10 days."
+msgstr "您的账号将在１０天内被删除"
+
+#: Template/Models/complete.ctp:19 Template/Users/profile.ctp:78
+msgid "Registration complete!"
+msgstr "注册完成"
+
+#: Template/Models/complete.ctp:20
+msgid "<p>Your registration was successfully completed.</p>\n"
+"            <p>You can check out your profile to verify your information.</p>\n"
+"            <p>You may revise your information until the final day of registration.</p>"
+msgstr "<p>您已成功注册完毕.</p>\n"
+"<p>您可以查阅您的配置文件来验证您的信息.</p>\n"
+"<p>直到报名的最后一天您都可以修改您的信息.</p>"
+
+#: Template/Models/complete.ctp:60
+msgid "Need more information? Check out the <a href=\"/fcc/faq\">FAQ</a>"
+msgstr "如需了解更多相关信息，请查阅<a href=\"/fcc/faq\">问题解答</a>"
+
+#: Template/Models/complete.ctp:61
+msgid "Verify my registration information"
+msgstr "注册信息验证"
+
+#: Template/Models/info.ctp:65 Template/Models/info_add.ctp:381
+#: Template/Models/info_edit.ctp:396
+msgid "About Me"
+msgstr "关于"
+
+#: Template/Models/info.ctp:71 Template/Models/info_add.ctp:385
+#: Template/Models/info_edit.ctp:400
+msgid "Size"
+msgstr "尺寸"
+
+#: Template/Models/info.ctp:73 Template/Models/info_add.ctp:248;249;251;387;388
+#: Template/Models/info_edit.ctp:261;262;264;402;403
+msgid "Height"
+msgstr "身高"
+
+#: Template/Models/info.ctp:76 Template/Models/info_add.ctp:277;278;279;390;391
+#: Template/Models/info_edit.ctp:290;291;292;405;406
+msgid "Weight"
+msgstr "体重"
+
+#: Template/Models/info.ctp:81 Template/Models/info_add.ctp:305;395;396
+#: Template/Models/info_edit.ctp:318;410;411
+msgid "Bust"
+msgstr "胸围"
+
+#: Template/Models/info.ctp:83 Template/Models/info_add.ctp:306;397;398
+#: Template/Models/info_edit.ctp:319;412;413
+msgid "Waist"
+msgstr "腰围"
+
+#: Template/Models/info.ctp:85 Template/Models/info_add.ctp:307;399;400
+#: Template/Models/info_edit.ctp:320;414;415
+msgid "Hips"
+msgstr "臀围"
+
+#: Template/Models/info.ctp:101 Template/Models/info_add.ctp:415
+#: Template/Models/info_edit.ctp:430
+msgid "Image"
+msgstr "相片"
+
+#: Template/Models/info.ctp:146
+msgid "Want to delete your registration information?"
+msgstr "是否删除注册信息"
+
+#: Template/Models/info.ctp:147 Template/Users/edit.ctp:230
+#: Template/Users/profile.ctp:46
+msgid "Edit"
+msgstr "编辑"
+
+#: Template/Models/info.ctp:339
+msgid "If you delete your information, your participation in ModelCC 2015 will be cancelled. Do you wish to continue?"
+msgstr "如果删除已填信息，2015ModelCC参赛资格将被取消。是否继续？"
+
+#: Template/Models/info.ctp:342
+msgid "No."
+msgstr "否"
+
+#: Template/Models/info.ctp:343
+msgid "Yes, delete."
+msgstr "是，继续"
+
+#: Template/Models/info_add.ctp:110;229 Template/Models/info_edit.ctp:124;242
+msgid "SIZE"
+msgstr "尺寸"
+
+#: Template/Models/info_add.ctp:116 Template/Models/info_edit.ctp:130
+msgid "DETAIL"
+msgstr "详细信息"
+
+#: Template/Models/info_add.ctp:122 Template/Models/info_edit.ctp:136
+msgid "VIDEO"
+msgstr "视频"
+
+#: Template/Models/info_add.ctp:166 Template/Models/info_edit.ctp:179
+msgid "You must upload at least one image."
+msgstr "至少需上传一张图片"
+
+#: Template/Models/info_add.ctp:198 Template/Models/info_edit.ctp:211
+#: Template/Models/no_season.ctp:8 Template/Users/add_basic_info_save.ctp:5
+msgid "This is Not the period during Fashion Crowd Challenge held."
+msgstr "不是Fashion Crowd Challenge举行的时间"
+
+#: Template/Models/info_add.ctp:228 Template/Models/info_edit.ctp:241
+msgid "Portfolio"
+msgstr "作品集"
+
+#: Template/Models/info_add.ctp:251;388 Template/Models/info_edit.ctp:264;403
+msgid "Please enter your height."
+msgstr "请输入您的身高"
+
+#: Template/Models/info_add.ctp:279;391 Template/Models/info_edit.ctp:292;406
+msgid "Please enter your weight."
+msgstr "请输入您的体重"
+
+#: Template/Models/info_add.ctp:303;304 Template/Models/info_edit.ctp:316;317
+msgid "Body Measurements"
+msgstr "身体的三围"
+
+#: Template/Models/info_add.ctp:305;306;307;396;398;400
+#: Template/Models/info_edit.ctp:318;319;320;411;413;415
+msgid "Please enter your body measurements."
+msgstr "请输入您的三围尺寸"
+
+#: Template/Models/info_add.ctp:331;332;333
+#: Template/Models/info_edit.ctp:344;345;346
+msgid "Shoe size"
+msgstr "鞋的尺寸"
+
+#: Template/Models/info_add.ctp:333;405 Template/Models/info_edit.ctp:346;420
+msgid "Please enter your shoe size."
+msgstr "请输入您的鞋的尺寸"
+
+#: Template/Models/info_add.ctp:365;441;483
+#: Template/Models/info_edit.ctp:378;460;512
+#: Template/Users/add_basic_info.ctp:276;426
+msgid "Next"
+msgstr "下一步"
+
+#: Template/Models/info_add.ctp:382 Template/Models/info_edit.ctp:397
+msgid "Please fill out you \"About Me\" section."
+msgstr "请填写“关于我”的一栏"
+
+#: Template/Models/info_add.ctp:416 Template/Models/info_edit.ctp:431
+msgid "Please upload a high-quality photo of yourself."
+msgstr "请勿上传有关裸露、暴力及令人震惊等与活动无关的图像"
+
+#: Template/Models/info_add.ctp:427 Template/Models/info_edit.ctp:449
+msgid "Add"
+msgstr "添加"
+
+#: Template/Models/info_add.ctp:440;482 Template/Models/info_edit.ctp:459;511
+#: Template/Users/add_basic_info.ctp:423
+msgid "Back"
+msgstr "返回"
+
+#: Template/Models/info_add.ctp:453 Template/Models/info_edit.ctp:474
+msgid "Video"
+msgstr "视频"
+
+#: Template/Models/info_add.ctp:454 Template/Models/info_edit.ctp:475
+msgid "Please upload a video that shows off your style and ability"
+msgstr "请上传能够展示您风格与能力的视频"
+
+#: Template/Models/info_add.ctp:460 Template/Models/info_edit.ctp:481
+#: Template/Posts/vimeo_complete.ctp:142
+msgid "Upload"
+msgstr "上传"
+
+#: Template/Models/info_add.ctp:497
+msgid "Almost Finished!"
+msgstr "即将完成"
+
+#: Template/Models/info_add.ctp:561
+msgid "I agree to the above and wish to register."
+msgstr "我同意以上条款，并进行注册"
+
+#: Template/Posts/vimeo_upload.ctp:80
+msgid "Choose a Video to Upload"
+msgstr "选择上传视频"
+
+#: Template/Users/add_basic_info.ctp:94 Template/Users/edit.ctp:149
+msgid "over file size. max file size 5MB"
+msgstr "最大的文件大小为５MB"
+
+#: Template/Users/add_basic_info.ctp:168;297
+msgid "Basic Info"
+msgstr "基本信息"
+
+#: Template/Users/add_basic_info.ctp:183 Template/Users/edit.ctp:248
+msgid "Profile Picture"
+msgstr "图片概要"
+
+#: Template/Users/add_basic_info.ctp:201 Template/Users/edit.ctp:265
+msgid "Allowed file types JPG, GIF or PNG.<br>Maximum size of 5MB"
+msgstr "上传的图片类型可为JPG, GIF或PNG.<br>图片最大为５MB"
+
+#: Template/Users/add_basic_info.ctp:207 Template/Users/edit.ctp:273
+msgid "Upload Photo"
+msgstr "上传相片"
+
+#: Template/Users/add_basic_info.ctp:210 Template/Users/edit.ctp:276
+msgid "Please upload your photo."
+msgstr "请上传您的相片"
+
+#: Template/Users/add_basic_info.ctp:221;224 Template/Users/edit.ctp:287;290
+msgid "Please enter your name."
+msgstr "请输入您的名字"
+
+#: Template/Users/add_basic_info.ctp:228;229 Template/Users/edit.ctp:294;295
+msgid "Birth Date"
+msgstr "出生日期"
+
+#: Template/Users/add_basic_info.ctp:240 Template/Users/edit.ctp:307
+msgid "Month"
+msgstr "月"
+
+#: Template/Users/add_basic_info.ctp:241 Template/Users/edit.ctp:308
+msgid "Day"
+msgstr "日"
+
+#: Template/Users/add_basic_info.ctp:242 Template/Users/edit.ctp:309
+msgid "Year"
+msgstr "年"
+
+#: Template/Users/add_basic_info.ctp:244 Template/Users/edit.ctp:311
+msgid "Please enter your birth date."
+msgstr "请输入您的出生日期"
+
+#: Template/Users/add_basic_info.ctp:248 Template/Users/edit.ctp:315
+msgid "Gender"
+msgstr "性别"
+
+#: Template/Users/add_basic_info.ctp:250 Template/Users/edit.ctp:318
+msgid "Female"
+msgstr "女"
+
+#: Template/Users/add_basic_info.ctp:251 Template/Users/edit.ctp:319
+msgid "Male"
+msgstr "男"
+
+#: Template/Users/add_basic_info.ctp:252 Template/Users/edit.ctp:238;320
+msgid "Other"
+msgstr "其它"
+
+#: Template/Users/add_basic_info.ctp:255 Template/Users/edit.ctp:323
+msgid "Please select a gender."
+msgstr "请选择性别"
+
+#: Template/Users/add_basic_info.ctp:310;358
+#: Template/Users/edit.ctp:335;383;384
+msgid "City"
+msgstr "城市"
+
+#: Template/Users/add_basic_info.ctp:316 Template/Users/edit.ctp:341
+msgid "Country"
+msgstr "国家"
+
+#: Template/Users/add_basic_info.ctp:356
+msgid "Please select your country."
+msgstr "请选择您的国籍"
+
+#: Template/Users/add_basic_info.ctp:359 Template/Users/edit.ctp:384
+msgid "Please enter your city."
+msgstr "请输入居住城市"
+
+#: Template/Users/add_basic_info.ctp:397
+msgid "Please select a valid language."
+msgstr "请选择使用语言"
+
+#: Template/Users/add_basic_info.ctp:412;413;414
+#: Template/Users/edit.ctp:436;437;438
+msgid "Phone Number"
+msgstr "电话号码"
+
+#: Template/Users/add_basic_info.ctp:414 Template/Users/edit.ctp:438
+msgid "(Country Code)"
+msgstr "(国家代码)"
+
+#: Template/Users/add_basic_info.ctp:415 Template/Users/edit.ctp:439
+msgid "Please enter your telephone number. We'll need it to tell you in case you win!"
+msgstr "请输入您的电话号码。如获胜我们将通过它与您联系！"
+
+#: Template/Users/add_basic_info_save.ctp:34;45
+msgid "Basic info<br>complete."
+msgstr "基本信息<br>完成"
+
+#: Template/Users/add_basic_info_save.ctp:35
+msgid "Basic info is complete.<br> Please click below to move to the next stage in the process."
+msgstr "基本信息已完成.<br> 请点击下方进入下一阶段."
+
+#: Template/Users/add_basic_info_save.ctp:40
+msgid "Submit your portfolio"
+msgstr "提交您的资料"
+
+#: Template/Users/add_basic_info_save.ctp:41
+msgid "Not ready to participate? <a href=\"/\">return to main page</a>"
+msgstr "不打算参加吗? <a href=\"/\">返回主页</a>"
+
+#: Template/Users/add_basic_info_save.ctp:46
+msgid "basic info is complete. The next step can only be done via computer. Please complete using your computer."
+msgstr "基本信息已完成。下一步骤需通过计算机进行。请使用计算机进行。"
+
+#: Template/Users/check_verification_email.ctp:23
+#: Template/Users/resend_verification_email.ctp:23
+msgid "<p>Dear <span class=\"user\">{0}</span></p>\n"
+"            <p>We have sent a verification email to <span class=\"email\">{1}</span></p>\n"
+"            <p>Open the e-mail and click the link to complete the registration process.</p>\n"
+"            <br>\n"
+"            <p>If you cannot find the activation email, <br>please check your spam folder or click below.</p>"
+msgstr "<p>尊敬的 <span class=\"用户\">{0}</span></p>\n"
+"            <p>我们已发送确认邮件到您的<span class=\"电子邮箱\">{1}</span></p>\n"
+"            <p>打开电子邮件并点击链接，即可完成注册.</p>\n"
+"            <br>\n"
+"            <p>如果您无法找到激活邮件, <br>请检查您的垃圾邮件夹或点击下方.</p>"
+
+#: Template/Users/check_verification_email.ctp:33
+#: Template/Users/no_activate.ctp:30
+#: Template/Users/resend_verification_email.ctp:33
+msgid "Resend verification email."
+msgstr "电子邮箱地址无效"
+
+#: Template/Users/edit.ctp:234
+msgid "Profile"
+msgstr "个人信息"
+
+#: Template/Users/edit.ctp:236
+msgid "Account"
+msgstr "账号"
+
+#: Template/Users/edit.ctp:282;283
+msgid "Name"
+msgstr "姓名"
+
+#: Template/Users/edit.ctp:284
+msgid "First Name"
+msgstr "姓氏"
+
+#: Template/Users/edit.ctp:285
+msgid "Last Name"
+msgstr "名字"
+
+#: Template/Users/edit.ctp:444;498;593 Template/Users/password_again.ctp:87
+msgid "Done"
+msgstr "完成"
+
+#: Template/Users/expired_token.ctp:18
+msgid "This link has expired."
+msgstr "此链接已过期"
+
+#: Template/Users/first_time_join.ctp:86
+msgid "We need a few things to create your account."
+msgstr "创建账号所需资料"
+
+#: Template/Users/first_time_join.ctp:94
+msgid "First name"
+msgstr "姓氏"
+
+#: Template/Users/first_time_join.ctp:95
+msgid "Last name"
+msgstr "名字"
+
+#: Template/Users/first_time_join.ctp:99
+msgid "Please enter your first name."
+msgstr "请输入您的姓氏"
+
+#: Template/Users/first_time_join.ctp:102
+msgid "Please enter your last name."
+msgstr "请输入您的名字"
+
+#: Template/Users/first_time_join.ctp:122
+msgid "Send verification email"
+msgstr "发送验证邮件"
+
+#: Template/Users/no_activate.ctp:24
+msgid "Account Not Verified"
+msgstr "账号未验证"
+
+#: Template/Users/no_activate.ctp:25
+msgid "You already created your account,<br>but you need to verify it via the verification email we sent."
+msgstr "账号已创建,<br>但需要我们发送的验证邮件进行验证."
+
+#: Template/Users/no_activate.ctp:27
+msgid "Can't find the verification email? <br>Click the button below to send it again."
+msgstr "找不到验证邮件? <br>点击下方按钮再次发送"
+
+#: Template/Users/password_again.ctp:18
+msgid "Invalid email format"
+msgstr "电子邮件格式无效"
+
+#: Template/Users/password_again.ctp:48
+msgid "To protect your information. please enter your password again."
+msgstr "为了保护您的个人信息，请重新输入密码"
+
+#: Template/Users/profile.ctp:53
+msgid "Notifications"
+msgstr "温馨提示"
+
+#: Template/Users/profile.ctp:72
+msgid "Try FCC's model challenge!"
+msgstr "参加FCC的模特大赛"
+
+#: Template/Users/profile.ctp:75
+msgid "You haven't registered as a model yet."
+msgstr "您还未注册成为模特"
+
+# 수동 추가 ====================
+# ##=================================
+# # 20150821 / 20:08
+msgid "Did you forget your password?"
+msgstr "是否忘记密码？"
+
+msgid "Resend email"
+msgstr "重新发送电子邮件"
+
+msgid "Password"
+msgstr "密码"
+
+msgid "Optional"
+msgstr "可选"
+
+msgid "Website"
+msgstr "网站"
+
+msgid "Enter URL"
+msgstr "输入网址"
+
+msgid "New password and confirmation do not match"
+msgstr "新密码与确认密码不相符"
+
+# ##=================================
+# # 20150821 / 20:52
+msgid "What Models Get"
+msgstr "模特将获得"
+
+msgid "Submit Your Work"
+msgstr "提交您的图集"
+
+# ##=================================
+# # 20150823 / 13:06 / FCC 2015 페이지
+# ##=================================
+# # 20150824 / 15:18 / users edit 페이지
+msgid "Save"
+msgstr "保存"
+
+# ##=================================
+# # 20150826 / 14:05 / 메인 타이틀이미지 설명
+#: Template/Users/first_time_join.ctp:47
+msgid "Show Password Errors"
+msgstr "- 至少需一个字母 (a-z, A-Z),<br>- 至少需一个数字 (0-9),<br>- 无空格."
+
+#: main Error
+msgid "We could not get your information.<br>Please participate in FCC by your email."
+msgstr "我们无法获取您的信息，<br>请通过电子邮件参与FCC。"
+
+msgid "Sorry"
+msgstr "抱歉"
+
+msgid "We will message your social media account with a link to reset your password"
+msgstr "我们已发送一个重置密码的链接到您的社交平台账号里。"
+
+msgid "Hello,"
+msgstr "你好,"
+
+msgid "Welcome to FCC.<br>To reset your password, please click the following link."
+msgstr "欢迎加入FCC.<br>请点击下面的链接重设密码。"
+
+msgid "Click Here"
+msgstr "点击这里"
+
+msgid "Password Reset"
+msgstr "重置密码"
+
+msgid "Shoes"
+msgstr "鞋的尺寸"
+
+msgid "Upload your video"
+msgstr "上传相关视频"
+
+msgid "Delete"
+msgstr "删除"
+
+msgid "We need you to agree to a few things before we can finish your ModelCC registration."
+msgstr "我们需要您同意一些条款以完成ModelCC的注册"
+
+msgid "Model<br>Submission"
+msgstr "模特<br>相关资料提交"
+
+msgid "Join Fashion CC 2015"
+msgstr "加入2015FCC "
+
+msgid "Model CC 2015</span><span>Evaluation Start"
+msgstr "2015Model CC </span><span>模特评审以启动"
+
+msgid "Join Model CC 2015"
+msgstr "加入2015Model CC "
+
+msgid "Fashion</span><span>Crowd Challenge?"
+msgstr "什么是Fashion</span><span>Crowd Challenge?"
+
+msgid "FCC's mission is to discover fashion stars and thrust them into the public eye.<br>So, FCC is holding a truly global fashion show in which anyone can participate as a designer OR as a judge.<br><br>The designs which receive the best reviews will be displayed each day during the evaluation period at FashionCrowdChallenge.com.<br>FCC will announce the full body of winners on October 16th."
+msgstr "FCC意在发掘那些隐藏的时尚新星并帮助他们成为大众关注的焦点。为此，为了保证赛事的公平，无论是谁都能以设计师或评审的身份参与FCC。<br><br>在作品评审期间，获得最高评价的设计作品都会在官方主页FashionCrowdChallenge.com发布。我们将在１０月１６日公布FCC的最终获奖者名单。"
+
+msgid "Learn about FCC "
+msgstr "了解FCC "
+
+msgid "Brochure"
+msgstr "宣传手册"
+
+msgid "Download our brochure for more detailed </span><span>information about FCC."
+msgstr "下载我们的宣传手册，</span><span>了解更多有关FCC的详细信息."
+
+msgid "Vote for me ! "
+msgstr "投我一票！"
+
+msgid "<span>MEET THE STAR</span><span>MODELS OF</span>"
+msgstr "<span>遇见由模特</span><span>组成的明星</span>"
+
+msgid "TOMORROW"
+msgstr "明天"
+
+msgid "<span>You choose the top models of ModelCC 2015.</span><span>Your input creates the stars of the future.</span>"
+msgstr "<span>由你来选择2015ModelCC的顶级模特.</span><span>由你的投票创造出未来的明星.</span>"
+
+msgid "Total"
+msgstr "总计"
+
+msgid "Today"
+msgstr "今天"
+
+msgid "The evaluation period ends in"
+msgstr "评审期结束"
+
+msgid "hours,"
+msgstr "小时"
+
+msgid "minutes."
+msgstr "分钟"
+
+msgid "Please Wait, Loading.."
+msgstr "正在进行，请稍后"
+
+msgid "Evaluate more models!"
+msgstr "对更多的模特进行评估"
+
+msgid "There is no evaluation subjects"
+msgstr "没有评估对象"
+
+msgid "Back to list"
+msgstr "返回列表"
+
+msgid "About Me"
+msgstr "关于我"
+
+msgid "Size"
+msgstr "尺寸"
+
+msgid "Height"
+msgstr "身高"
+
+msgid "Weight"
+msgstr "体重"
+
+msgid "Bust"
+msgstr "胸围"
+
+msgid "Waist"
+msgstr "腰围"
+
+msgid "Hips"
+msgstr "臀围"
+
+msgid "Shoes"
+msgstr "鞋的尺寸"
+
+msgid "Comment"
+msgstr "评语"
+
+msgid "MODEL CC 2015"
+msgstr " 2015MODEL CC"
+
+msgid "WINNER"
+msgstr "获奖者"
+
+msgid "<span>The ModelCC 2015 Winners <br>have been chosen!</span><span>Let's meet the global top models <br>who will own the runway at FCC2015!</span>"
+msgstr "<span>2015ModelCC的获奖者 <br>已被选定!</span><span>让我们看看 <br>在2015FCC里赢得属于自己舞台的顶级模特!</span>"
+
+msgid "View my results"
+msgstr "查看我的成绩"
+
+msgid "Top Model"
+msgstr "顶级模特"
+
+msgid "MODEL CC 2015 RESULTS"
+msgstr "2015MODEL CC 结果"
+
+msgid "Grade"
+msgstr "等级"
+
+msgid "Judges"
+msgstr "评审"
+
+msgid "Comments"
+msgstr "评语"
+
+msgid "Vote for me ! "
+msgstr "投我一票！"
+
+msgid "<span>MEET THE STAR</span><span>MODELS OF</span>"
+msgstr "<span>遇见由模特</span><span>组成的明星</span>"
+
+msgid "TOMORROW"
+msgstr "明天"
+
+msgid "<span>You choose the top models of ModelCC 2015.</span><span>Your input creates the stars of the future.</span>"
+msgstr "<span>2015ModelCC的获奖者 <br>已被选定!</span><span>让我们看看 <br>在2015FCC里赢得属于自己舞台的顶级模特!</span>"
+
+msgid "Total"
+msgstr "总计"
+
+msgid "Today"
+msgstr "今天"
+
+msgid "The evaluation period ends in"
+msgstr "评审期结束"
+
+msgid "hours,"
+msgstr "小时"
+
+msgid "minutes."
+msgstr "分钟"
+
+msgid "Please Wait, Loading.."
+msgstr "正在进行，请稍后"
+
+msgid "Evaluate more models!"
+msgstr "对更多的模特进行评估"
+
+msgid "There is no evaluation subjects"
+msgstr "没有评估对象"
+
+msgid "Back to list"
+msgstr "返回列表"
+
+msgid "About Me"
+msgstr "关于我"
+
+msgid "Size"
+msgstr "尺寸"
+
+msgid "Height"
+msgstr "身高"
+
+msgid "Weight"
+msgstr "体重"
+
+msgid "Bust"
+msgstr "胸围"
+
+msgid "Waist"
+msgstr "腰围"
+
+msgid "Hips"
+msgstr "臀围"
+
+msgid "Shoes"
+msgstr "鞋的尺寸"
+
+msgid "Comment"
+msgstr "评语"
+
+msgid "MODEL CC 2015"
+msgstr "2015MODEL CC "
+
+msgid "WINNER"
+msgstr "获奖者"
+
+msgid "<span>The ModelCC 2015 Winners <br>have been chosen!</span><span>Let's meet the global top models <br>who will own the runway at FCC2015!</span>"
+msgstr "<span>2015ModelCC的获奖者 <br>已被选定!</span><span>让我们看看 <br>在2015FCC里赢得属于自己舞台的顶级模特!</span>"
+
+msgid "View my results"
+msgstr "查看我的成绩"
+
+msgid "Top Model"
+msgstr "顶级模特"
+
+msgid "MODEL CC 2015 RESULTS"
+msgstr "2015MODEL CC 结果"
+
+msgid "Grade"
+msgstr "等级"
+
+msgid "Judges"
+msgstr "评审"
+
+msgid "Comments"
+msgstr "评语"
+
+msgid "View more language"
+msgstr "查看更多语言"
+
+msgid "If you delete your information, your participation in FCC 2015 will be cancelled. Do you wish to continue?"
+msgstr "如果删除已填信息，2015FCC参赛资格将被取消。是否继续？"
+
+msgid "We need you to agree to a few things before we can finish your FCC registration."
+msgstr "所有上传至FCC的设计作品受到版权维护法的保护，如抄袭或盗用设计将受到相应法规的处罚。"
+
+msgid "Email Verification"
+msgstr "电子邮件认证"
+
+msgid "Portfolio <br>Submission"
+msgstr "作品<br>提交"
+
+msgid "Crowd<br>Evaluation"
+msgstr "大众<br>评审"
+
+msgid "Crowd <br>Evaluation"
+msgstr "大众<br>评审"
+
+msgid "Announcement of <br>Winners"
+msgstr "获奖者<br>公告"
+
+msgid "Portfolio <br>Evaluation"
+msgstr "作品 <br>提交"
+
+msgid "10th Sep.<br> - <br>13th Sep."
+msgstr "9月10日<br> 至<br>9月13日"
+
+msgid "10th Sep.<br> - <br>13th Sep."
+msgstr "9月10日<br> 至<br>9月13日"
+
+msgid "FCC's Model Evaluation<br>has begun."
+msgstr "FCC的模特评审<br>已经开始。"
+
+msgid "Check out another model!"
+msgstr "查看下一个模特！"
+
+msgid "Evaluation <br>finished!."
+msgstr "完成 <br>评!审！"
+
+msgid "Evaluation finished! see you tomorrow."
+msgstr "评审以完成！明天见。"
+
+msgid "14th Sep."
+msgstr "9月14日"
+
+msgid "My results."
+msgstr "我的结果"
+
+msgid "Meet the star <br> models of <br> tomorrow"
+msgstr "遇见成为<br>明日之星的<br>模特 "
+
+msgid "Registration complete!"
+msgstr "完成注册！"
+
+msgid "No design information<br>submitted."
+msgstr "没有提交<br>设计作品"
+
+msgid "Individual</span><span>Registration"
+msgstr "个人</span><span>注册"
+
+msgid "Team</span><span>Registration"
+msgstr "团队</span><span>注册"
+
+msgid "Registration"
+msgstr "注册"
+
+msgid "Are you registering as an individual or as a team?<br>After you choose, you will not be able to change it,<br>so proceed with caution!"
+msgstr "您进行个人注册还是团队注册？<br>如选定，参赛身份将无法进行更改，<br>请细心谨慎！"
+
+msgid "Team name"
+msgstr "团队名称"
+
+msgid "Please enter a team name."
+msgstr "请输入团队名称"
+
+msgid "Back"
+msgstr "返回"
+
+msgid "Next"
+msgstr "下一步"
+
+msgid "Category"
+msgstr "分类"
+
+msgid "What category best describes your design?"
+msgstr "哪些类别最能描述你的设计？"
+
+msgid "Target customer"
+msgstr "目标客户"
+
+msgid "Optional"
+msgstr "可选"
+
+msgid "Who is the target consumer for your design?"
+msgstr "谁将成为您设计作品的目标客户？"
+
+msgid "Title"
+msgstr "名称"
+
+msgid "Please enter a title."
+msgstr "请输入名称"
+
+msgid "Simple description"
+msgstr "简单描述"
+
+msgid "Please enter a simple description of your design."
+msgstr "请输入与您作品相关的简单描述。"
+
+msgid "You must upload at least one image."
+msgstr "您至少得上传一张图片。"
+
+msgid "Detailed description"
+msgstr "详细说明"
+
+msgid "Tell us the whole story of your design."
+msgstr "描述您设计作品 的设计灵感或故事。"
+
+msgid "Please enter a detailed description of your design."
+msgstr "请输入您设计作品的详细说明。"
+
+msgid "Team members"
+msgstr "团队成员"
+
+msgid "Please enter a name."
+msgstr "请输入姓名"
+
+msgid "Please enter a valid email format."
+msgstr "请输入一个有效的电子邮箱格式。"
+
+msgid "Please enter a category."
+msgstr "请输入某个类别"
+
+msgid "We need you to agree to a few things before we can finish your FCC registration."
+msgstr "我们需要你同意几个事项才能完成FCC的注册。"
+
+msgid "Registration complete!"
+msgstr "完成注册"
+
+msgid "Your registration was successfully completed.</p><p>You can check out your profile to verify your information.</p><p>You may revise your information until the final day of registration."
+msgstr "您已完成注册。</p><p>您可以查看您的个人资料以确认您的信息。</p><p>直到报名的最后一天您都可以修改您的个人信息。"
+
+msgid "24th Aug.<br> - <br>9th Sep."
+msgstr "8月24日<br> 至 <br>9月9日"
+
+msgid "8th Oct.<br> - <br>15th Oct."
+msgstr "10月8日<br> 至 <br>10月15日"
+
+msgid "During the evaluation period,</p><p>submitters are responsible for reviewing and evaluating peer designers’ submissions.</p><p>Design submitters who do not fully participate in the evaluation process <br>may find that their own submissions have been excluded from the contest."
+msgstr "在作品评估期间，</p><p>提交作品的参赛选手应查看其他设计师提交的作品并参与评估。</p><p>提交设计作品的参赛者如不充分的参与到作品的评估，<br>自己所提交的作品有可能会被排除在外。"
+
+msgid "Verify my registration information"
+msgstr "验证我的注册信息"
+
+msgid "16th Oct."
+msgstr "10月16日"
+
+msgid "Delete your information?"
+msgstr "是否删除您的个人信息？"
+
+msgid "Team Info"
+msgstr "团队信息"
+
+msgid "Design Info"
+msgstr "设计信息"
+
+msgid "Add comment"
+msgstr "添加评论"
+
+msgid "Back to Result"
+msgstr "返回结果"
+
+msgid "New password cannot be the same as your current password"
+msgstr "新设置的密码不能与当前密码相同"
+
+#: What do you think of me?
+msgid "$data['questions'][0]['question']"
+msgstr ""
+
+msgid "FCC\'s schedule uses Greenwich Mean Time (GMT)"
+msgstr "FCC的日程将以格林威治标准时间为准"
+
+msgid "Not a member yet?"
+msgstr "还未注册会员？"
+
+msgid "Design<br>Submission"
+msgstr "作品提交"
+
+msgid "Give the FCC Challenge a shot!"
+msgstr "给于时尚挑战一个冲击"
+
+msgid "Submit"
+msgstr "提交"
+
+msgid "View"
+msgstr "查看"
+
+
+
+msgid "Winner’s Awards"
+msgstr "获奖者奖励"
+
+msgid "ModelCC 2015 Winners will receive the title of TOP MODEL."
+msgstr "2015ModelCC的获奖者将获得“TOP MODEL\"的称号. "
+
+msgid "Winners will also receive the opportunity to appear onstage at the FCC2015 fashion show."
+msgstr "获奖者还将赢得2015FCC国际时装秀阔步与Ｔ型台的机会。"
+
+msgid "Model CC 2015 WINNER"
+msgstr "2015MODELCC获奖者"
+
+msgid "A chance to work as an FCC model"
+msgstr "一个偶然的机会将使你成为FCC的专属模特，"
+
+msgid "A chance to appear onstage in the FCC fashion show."
+msgstr "一个偶然的机会将让你你能够站在FCC时装秀舞台展示自己."
+
+msgid "A chance to appear onstage"
+msgstr "一个偶然的机会将使得你能够站在"
+
+msgid "in the FCC fashion show."
+msgstr "FCC时装秀舞台展示自己."
+
+msgid "Declaration of</span><span> Winners"
+msgstr "2015Model CC</span><span>获奖者声明"
+
+msgid "View detail"
+msgstr "详细查看"
+
+msgid "FCC winners will be notified of the award ceremony <br>and fashion show via email or telephone."
+msgstr ""
+
+msgid "Model CC 2015 <br>Winners"
+msgstr ""
+
+msgid "View Model CC 2015 Winners"
+msgstr ""
+
+msgid "Did you submit your modelling portfolio?"
+msgstr "是否参加了模特比赛？"
+
+msgid "Sign in and see your results!"
+msgstr "请确认您的结果。登录"
+
+msgid "Download Now"
+msgstr "直接下载"
+
+msgid "Modhello,</span><span>an app for designers."
+msgstr "Modhello</span><span>是为设计师而设一款的软件"
+
+msgid "Upload your designs via Modhello!"
+msgstr "请试着通过Modhello软件上传设计作品"
+
+msgid "Share with your friends!"
+msgstr "与您的朋友们分享"
+
+msgid "Tell your friends that you\'ve entered FCC 2015!"
+msgstr "告知您的朋友您参加2015FCC的消息"
+
+msgid "<span>Good Luck !</span><strong>{0} {1}</strong>"
+msgstr "<span>祝您好运！</span><strong>{0} {1}</strong>"
+
+msgid "<span>Good Luck !</span><strong style='display: block;'>{0} {1}</strong>"
+msgstr "<span>祝您好运！</span><strong style='display: block;'>{0} {1}</strong>"
+
+msgid "Thank you for a registration!"
+msgstr "感谢您的注册！"
+
+msgid "See you on Oct. 8th"
+msgstr "期待10月8日的再会"
+
+msgid "Thank you for registering,{0} {1}"
+msgstr "感谢您的注册！{0} {1}"
+
+msgid "Thank you for registering with FCC! Those who are registered with FCC will occasionally receive newsletters, announcements, and updated schedules through email.<br><br>To guarantee a fair and equal opportunity for all participants, the FCC winner will be selected using an algorithm based \"collective intelligence technology.\" This process is transparent to the public. Thus, FCC allows both professionals and non-professionals to participate, free of charge. FCC hopes to serve as a revolutionary avenue for fashion designers to showcase their talents and skills.<br><br>Please check the FCC schedule.<br><br>"
+msgstr "祝贺您成为FCC的会员。<br>我们会已电子邮件的形式告知您有关活动的日程安排、公告以及最新的消息。<br><br>FCC的获奖者是通过以凝聚集体智慧技术为基础的公正评审过程所选拔出来的，且这一进行过程对所有人都是公开透明的。<br><br>想参与FCC的时尚设计师，无论你是谁都能简单快捷的参与到其中，且无需花费任何费用。<br><br>FCC将成为那些被主流所忽视的设计师们的一次难得的机会，并坚信FCC将成为凝聚住全球大众智慧所创造出的新兴时尚主流。<br><br>请确认FCC的日程安排。<br><br>"
+
+msgid "Thanks,"
+msgstr "谢谢！"
+
+msgid "FCC Committee"
+msgstr "FCC委员会"
+
+msgid "Thank you for participating."
+msgstr "感谢您的加入"
+
+msgid "Read more"
+msgstr "更多"
+
+msgid "All"
+msgstr "全部"
+
+msgid "Your story"
+msgstr "您的故事"
+
+msgid "FCC News"
+msgstr "FCC相关新闻"
+
+msgid "So, what\'s your story?"
+msgstr "您有着怎么样的故事呢？"
+
+msgid "It’s not a story about fashion.<br>It’s a story about you."
+msgstr "述说的不是与时尚相关的故事，而是您自己的故事"
+
+msgid "Share your stories with us"
+msgstr "告诉我们您自己的故事"
+
+msgid "Share"
+msgstr "转发"
+
+msgid "Announcement"
+msgstr "结果发布"
+
+msgid "FCC winners will be notified of the award ceremony <br>and fashion show via email or telephone."
+msgstr "FCC委员会将通过电子邮件和电话联系的方式向获奖者告知颁奖仪式及时装秀的日程计划。"
+
+msgid "Search the Title or Registration number"
+msgstr "搜索注册顺序号或作品标题"
+
+msgid "<span>Search results for {0}</span><strong>"
+msgstr "<span>与 {0} 相关的搜索结果</span><strong>"
+
+msgid "The URL has been copied. Please paste anywhere you want."
+msgstr "链接已复制，请粘贴"
+
+msgid "Loading more"
+msgstr "更多相关的"
+
+msgid "Meet the world's fashion lovers united through Fashion Crowd Challenge "
+msgstr "让我们遇见来自世界各国，与FashionCrowdChallenge携手的时尚人士吧。"
+
+#:FCC Main Page
+
+msgid "FASHION"
+msgstr ""
+
+msgid "CROWD"
+msgstr ""
+
+msgid "CHALLENGE"
+msgstr ""
+
+msgid "Submit your design"
+msgstr "提交"
+
+msgid "FCC 2015 design submission begins on September 10th"
+msgstr "２０１５ＦＣＣ大赛将于９月１０日开始接受设计作品提交。"
+
+msgid "What is Fashion Crowd Challenge?"
+msgstr "什么是 Fashion Crowd Challenge?"
+
+msgid "The mission of Fashion Crowd Challenge (FCC) is to find and bring talented, <br>hidden fashion stars into the spotlight of the world. To this end, FCC is introducing a new type of fashion design competition. <br>Unlike typical design contests, design submissions in FCC are evaluated <br>by general people and peer designers."
+msgstr "通过Fashion Crowd Challenge (以下简称FCC) 大赛发掘出那些有才华的 <br>隐藏在世界各个角落的时尚新星，并使之成为全球瞩目的焦点. 为此, FCC推出了本次新概念的服装设计大赛. <br>不再像以往的时尚设计大赛，这次大赛将通过设计师提交作品后通过FCC的平台<br>由同行的设计师及一般大众进行评估."
+
+msgid "Design <br>Submission"
+msgstr "提交 <br>设计作品"
+
+msgid "Upload <br>your items."
+msgstr "上传<br>您的作品."
+
+msgid "<b>10th Sep</b> (am. 00:01) <br><b>- 7th Oct</b> (pm.10:00)"
+msgstr ""
+
+msgid "Submission"
+msgstr "转到提交"
+
+msgid "Crowd <br>Evaluation"
+msgstr "大众<br>评审"
+
+msgid "All uploaded material <br>will be evaluated <br>during FCC2015."
+msgstr "所有提交的设计作品 <br>将在２０１５ＦＣＣ赛事期间<br>进行评估审定."
+
+msgid "<b>8th Oct</b> (am. 00:01) <br><b>- 15th Oct</b> (pm.10:00)"
+msgstr ""
+
+msgid "Evaluation"
+msgstr "评审"
+
+msgid "Declaration <br>of Winners"
+msgstr "获奖者 <br>声明"
+
+msgid "Here are the winners, <br>chosen by people <br>from all over the world."
+msgstr "将由来自全球各国的<br>评审评选出 <br>最后的获奖者."
+
+msgid "16th Oct"
+msgstr ""
+
+msgid "View"
+msgstr "查看详情"
+
+msgid "Upload Method"
+msgstr "上传方法"
+
+msgid "What kind of images should I submit?"
+msgstr "该提交哪种类型的图片 ?"
+
+msgid "Designs may be submitted as any image - photo, picture, sketch, illustration, etc. However, <br>to increase your chance of winning, we recommend submitting a photograph of the physical clothes you designed."
+msgstr "可以上传包括相片，图片，素描，插图等各种类型的图像 <br>为了增加获奖的可能性，我们建议你提交实际作品的照片."
+
+msgid "How many designs can I upload?"
+msgstr "可以上传几个文件 ?"
+
+msgid "There is a 20-image file limit per account. You can use all 20 images to showcase a single design or <br>up to 20 different designs. How you choose to allocate your photos is completely up to you."
+msgstr "一个账号最多能上传２０张图像文件. 你可以上传２０张单一设计作品的图像或是 <br>２０种不同设计的作品图像. 如何进行作品的上传由您自己决定."
+
+msgid "Who are the designers?"
+msgstr "谁将成为设计师 ?"
+
+msgid "The Designers are anybody who has submitted their own designs through the FCC webpage. <br>Uploaded designs will be evaluated by the judges."
+msgstr "无论是哪个设计师都可以通过FCC的官方主页提交自己的设计作品.<br>上传的设计作品将由大众评审进行评估."
+
+msgid "Designer Awards"
+msgstr "设计师大奖"
+
+msgid "Designers chosen as FCC2015 WINNERS will receive financial support for the launching of their brands. <br>The winning designs will also be eilgible to appear in the FCC2015 fashion show."
+msgstr "在2015FCC大赛中获奖的设计师将获得有助于他们启动其品牌推广的资金赞助.<br>获奖的设计作品已将受邀参与2015FCC时装秀."
+
+msgid "Winners"
+msgstr "获奖者"
+
+msgid "Financial support"
+msgstr "资金赞助"
+
+msgid "Manufacturing"
+msgstr "生产"
+
+msgid "Promotion & Marketing"
+msgstr "宣传与市场营销"
+
+msgid "Networking tools"
+msgstr "网络工具"
+
+msgid "Dream Awards"
+msgstr "圆梦奖"
+
+msgid "10 winners"
+msgstr ""
+
+msgid "5,000 USD"
+msgstr ""
+
+msgid "10 Winners"
+msgstr ""
+
+msgid "Cash prize"
+msgstr "奖金"
+
+msgid "Who are the judges?"
+msgstr "谁将成为评审 ?"
+
+msgid "Anybody who has registered for the FCC website can be a judge! <br>View and evaluate designs from all over the world via a simple process."
+msgstr "无论你是谁，只要您通过FCC官方主页进行注册您就能够成为大众评审之一! <br>通过一个简单的过程查看来至世界各地提交的作品并对其进行评估审定. "
+
+msgid "Judge Awards"
+msgstr ""
+
+msgid "Judges who make a special effort to give constructive feedback, inspiration and support to <br>the participating designers will be invited to the FCC2015 fashion show and receive products <br>from the winning designers."
+msgstr "在评审过程中对提交作品努力的给予建设性反馈意见，积极鼓励支持 <br>参赛设计师的评审将被受邀参与2015FCC时装秀并且获得<br>获奖设计师设计的产品."
+
+msgid "Trend Maker"
+msgstr ""
+
+msgid "2016 Crowd Challeng <br>Festival Shanghai Invitation"
+msgstr "受邀参与在上海举办的2016Crowd Challenge Festival"
+
+msgid "Airline"
+msgstr "往返机票"
+
+msgid "Tickets"
+msgstr " "
+
+msgid "Winning <br>Designer’s Work"
+msgstr "获奖作品"
+
+msgid "Trend Influencer"
+msgstr ""
+
+msgid "You are the star of FCC 2015 !"
+msgstr "你将成为2015FCC的新星之秀!"
+
+msgid "Come take part in FCC2015, <br>the global fashion festival which allows you to shape global fashion <br>with your very own hands. <br>We are waiting for you."
+msgstr "快来参加２０１５ＦＣＣ<br>全球时尚盛典，我们正等着您来参与，<br>共同创造新型的时尚产业."
+
+msgid "Designer’s Responsibilities"
+msgstr "设计师的职责"
+
+msgid "During the evaluation period, submitters are responsible for reviewing and evaluating peer designers’ submissions. Design submitters who do not fully participate in the evaluation process may find that their own submissions have been excluded from the contest. Works submitted to FCC should be the original creation or property of the designer. If the designer would like to use a copyrighted logo, pattern or character, proper licensing must be obtained before uploading the work to FCC. Any issues regarding copyright or plagiarism will become the sole responsibility of the designer, and their works will be excluded from the contest. Furthermore, works that include hate speech, violence, sexual harassment, racism, sexism, religious or political discrimination, stolen content, violence against animals, or generally offensive material are banned and can be excluded from winning prizes even if they receive winning votes."
+msgstr "在作品评估期间，作品提交者有义务查看和评价其他设计师所提交的作品.提交作品的设计师自己所提供意见有可能不能被充分的参与到作品的评估过程。提交到ＦＣＣ的作品应当是设计师本人原创的作品或资料。 如果设计师对自己的作品想使用有版权的标识，图案或字符，应当在作品上传之前得到相关的许可. 任何有关版权或抄袭问题将由设计师本人承担责任，其作品也将被取消参赛资格. 此外，如提交的作品包含仇恨言论，暴力，性骚扰，种族歧视，性别歧视，宗教或政治言论，抄袭内容，有关虐待动物等内容的作品，即使获得多数选票，也将有可能被取消参赛资格。"
+
+msgid "More Details"
+msgstr "更多详情"
+
+msgid "Download Brochure"
+msgstr "请下载手册"
+
+msgid "The first 5 winning designers, which consists of a 100,000USD 1st place winner (one designer), 30,000 USD 2nd place winner (two designers), and 20,000USD 3rd place winner (two designers), will work with FCC and receive financial support for the manufacturing, promotion and marketing, as well as being provided networking tools for their designs or brands.<br>Therefore, by connecting designers with new buyers and markets, FCC will aim to raise designers to the height of international fame.<br>FCC will work with the winning designers to customize a financial package that best suits their needs. Whether you need help with manufacturing, distributing, networking, or marketing, FCC will help you in developing successful strategies.<br>On the other hand, if your brand is already being manufactured, marketed and distributed, the FCC will be a new platform to introduce your brand to new markets. The FCC will work with you to highlight your full potential and boost your recognition. We will help to foster a professional relationship between you and the fashion industry.<br>Dream Award winners (10 designers) will receive a 5,000 USD cash prize.<br>All winning designers will also be eligible to appear in the Crowd challenge festival 2016 held in Shanghai which will definitely be a unique opportunity to elevate your brand to the next level."
+msgstr "最终获奖的前五位设计师，第一名获奖者（一位）将获得十万美金、第二名获奖者（两位）获得三万美金、第三名获奖者（两位）获得两万美金的奖励，另外，还将与FCC携手合作，并获得FCC为其品牌的生产、推广、销售上的资金赞助，以及为其提供网络技术上的支持与帮助。<br><br>因此，FCC将致力于通过把设计师与新的商家及市场相连接，从而提高设计师的国际知名度。<br><br>FCC将与获奖的设计师携手合作， 为设计师制定符合其所需的财务方案。无论您需要包括生产制造、销售、网络技术或是市场营销等任何一方面的帮助，FCC都将会帮助您拟定出有成效的发展战略。<br><br>另外，如果您的品牌已正进行着生产、市场营销或销售的话，我们相信FCC将是一个能够充分展示您品牌，并能够为您打开新市场的最佳平台。FCC将与您携手，帮助您凸显自己潜在的能力以获得业界的认可。我们将致力于培养促进您与时尚产业界更紧密的联系。<br><br>圆梦奖的获奖者（十位设计师）也将获得五千美金的奖励。<br><br>另外，所有的获奖设计师都将获得参与在上海举行的2016时尚音乐盛典的资格，我们相信这对于设计师在提升自己品牌知名度 上将是一个绝佳的机会。"
+
+msgid "Click here for full terms and conditions"
+msgstr "点击此处了解更多的条款与详情"
+
+msgid "The title of “Trend Maker” will be awarded to the top five judges whose evaluation style closely matches the overall trend of the general public.  “Trend Maker” award winners will receive an invitation to the 2016 Crowd Challenge Festival Shanghai, airline tickets with accommodations and the Crowd Challenge Festival gift package, which includes some of the winning designers’ work.<br><br>The title of “Trend Influencer” will be given to the next ten judges whose evaluation style closely matches the overall trend of the general public. “Trend Influencers” award winners will receive a Crowd Challenge Festival gift package, which includes some of the winning designers’ work.<br><br>The 2016 Crowd Challenge Festival Shanghai will be the must-see event of the year. The festival will host the first annual Crowd Challenge Fashion Show that will showcase the Fashion Crowd Challenge winning designers, worn by the winners of the Model Crowd Challenge, from around the world. Along with the fashion show will be performances from some of the most popular Korean Pop groups in the music industry today. It will be a glamorous occasion celebrating fashion, music, and the crowd."
+msgstr "对作品所做出的评价与大众对时尚感知的整体趋势最为接近的五位评审将被授予 “Trend Maker” 的称号。获得“Trend Maker”称号的五位评审将受邀参加在中国上海举办的2016时尚音乐盛典，并获得包含往返机票、住宿及获奖设计师的设计作品等礼品包。<br><br> 另外还会选出十位对作品所做出的评价与大众对时尚感知的整体趋势接近的优秀评审并授予 “Trend Influencers”的称号。获得“Trend Influencers”称号的评审将获的其中包含个别设计师的设计作品的时尚音乐盛典礼品包。<br><br>2016时尚音乐盛典将成为今年不可错过的一大盛事。盛典将举办首届时尚达人共同挑战参与的时装秀，时装秀上将会由在本次 Model Crowd Challenge活动中的获奖模特展示来自世界各地的获奖设计师设计的作品。且不仅只是一场时装秀，我们还将邀请一些韩国知名的偶像团体参与演出。这将是一场时尚、音乐相结合，散发无线魅力的庆典盛事。"
+
+msgid "Incentive"
+msgstr "鼓励基金"
+
+msgid "Create account<br>or Sign in"
+msgstr "创建账号<br>or 登录"
+
+msgid "View Detail"
+msgstr "详细查看"
+
+#:FCC Committee
+
+
+msgid "We\'re looking for members who can serve on the FCC2015 Committee.<br/>Recommend people you know to us !"
+msgstr "请向我们推荐与FCC2015同行的委员会成员。"
+
+msgid "This person is an inspiration that can offer valuable advice<br>and serve as a role model to others."
+msgstr "委员会成员将会是毫无保留地支持设计师并为他们提供灵感与建议的人。"
+
+msgid "Number of applications received"
+msgstr "候选人数"
+
+msgid "Number of confirmed members"
+msgstr "委员会数"
+
+msgid "Recommendation"
+msgstr "推荐者数"
+
+msgid "Information"
+msgstr "指南"
+
+msgid "Application"
+msgstr "申请"
+
+msgid "Search"
+msgstr "搜索"
+
+#: 20 candidates found
+msgid "{0}</span></strong> candidates found"
+msgstr "{0}</span></strong>为您搜索到个候选人。"
+
+msgid "Recommend"
+msgstr "推荐者数"
+
+msgid "Details"
+msgstr "查看详情"
+
+msgid "Confirmed member"
+msgstr "确定"
+
+msgid "There are no registered Committee members."
+msgstr "没有找到相关候选人信息。"
+
+msgid "Visit the application page to apply or recommend someone to be a member of the Committee."
+msgstr "任何人都可以申请成为委员会候选人。也可以推荐他人成为委员会候选人。"
+
+msgid "Back"
+msgstr "返回"
+
+msgid "You\'ve submitted a vote for a Committee member."
+msgstr "您已投票。"
+
+msgid "You can vote for each candidate once per day."
+msgstr "一天只可投票一次。"
+
+msgid "Confirm"
+msgstr "确认"
+
+msgid "Cancel"
+msgstr "取消"
+
+msgid "Recommend someone to serve on the FCC2015 Committee!"
+msgstr "请向我们推荐与FCC2015同行的委员会成员吧"
+
+msgid "Introduction"
+msgstr "简介"
+
+msgid "We would like to invite to the FCC Committee anyone can inspire, challenge, and encourage the Fashion Crowd Challenge designers."
+msgstr "我们正在邀请设计师们最崇拜的，最欣赏的，并且会支持他们新挑战的人成为FCC2015委员会。"
+
+msgid "Committee candidate recommendation and application"
+msgstr "委员会候选人推荐及申请"
+
+msgid "Submit your reason for recommending a candidate, along with their basic personal info (in any language).<br>Anyone can be recommended as a Committee candidate."
+msgstr "请输入候选人的基本信息并写上推荐理由（支持多语种）<br>任何人都可以申请成为委员会候选人"
+
+msgid "How to apply for Committee membership"
+msgstr "委员会选拔方法"
+
+msgid "Whichever candidate receives the most votes will become a member of the FCC2015 Committee.<br>Anyone can vote for a committee member. It is not necessary to log in."
+msgstr "由大众评审的方式选出FCC2015委员会成员<br>推荐委员为无需登录即可投票"
+
+msgid "Process of becoming a Committee member"
+msgstr "委员会成员认证流程"
+
+msgid "1. Committee membership application<br>2. Committee membership approval<br>3. New member formally begins Committee activity"
+msgstr "1. 委员会活动邀请函发送 <br>2. 委员会成员认证 <br>3. 开始活动"
+
+msgid "<li>If there is an error or mistake in the Committee candidate request, the submission may be canceled.</li><li>Committee candidate information may not be edited after uploading.</li>"
+msgstr "<li>委员会候选人信息如出现问题，管理员可任意删除。</li><li>您所申请的委员会信息无法修改/删除。</li>"
+
+msgid "English name"
+msgstr "英文名"
+
+msgid "<li>-You can check who is registered as a candidate.</li><li>-Registered names can be entered again.</li>"
+msgstr "<li>-您可查看已注册的委员会候选人。</li><li>-相同名字可进行重复注册。</li>"
+
+msgid "Confirm registration"
+msgstr "查找候选人"
+
+msgid "Picture"
+msgstr "图片"
+
+msgid "Browse…"
+msgstr "本地上传"
+
+msgid "<li>-Image size: 420 * 420/ ~5 MB</li><li>-Large images will be cropped.</li>"
+msgstr "<li>-图片尺寸: 420*420/ 大小: ~5MB</li><li>-如果您的图片过大,系统将以图片中央为准自动剪切。</li>"
+
+msgid "Reason for recommendation"
+msgstr "推荐理由"
+
+msgid "Provide a detailed explanation for your recommendation"
+msgstr "请您写下您推荐该候选人的具体原因。"
+
+msgid "Submitted information cannot be revised or edited."
+msgstr "您所申请的委员会信息无法修改/删除。"
+
+msgid "Country where candidate is from"
+msgstr "候选人所在国家"
+
+msgid "The candidate\'s information will be viewed primarily by people residing in his or her provided location."
+msgstr "输入您推荐的候选人主要活动国家,邀请指南将优先显示相关地区的委员会成员。"
+
+msgid "Click on the left picture to recommend."
+msgstr "请点击图片进行推荐"
+
+msgid "An error occurred. Please try again."
+msgstr "网页有误，请重试。"
+
+msgid "Recommended Image"
+msgstr "推荐图片"
+
+msgid "No image file attached."
+msgstr "图片上传不成功"
+
+msgid "You can attach only image files."
+msgstr "图片无法上传"
+
+msgid "Upload limit exceeded."
+msgstr "照片尺寸过大"
+
+msgid "Submission accepted."
+msgstr "申请成功"
+
+msgid "Once you submit this information, you will be unable to edit or delete it."
+msgstr "委员会候选人信息无法进行删除和修改"
+
+msgid "Please enter a name."
+msgstr "请输入姓名"
+
+msgid "Please enter the name using only English letters."
+msgstr "请使用英文输入姓名"
+
+msgid "You haven\'t attached a picture."
+msgstr "没有上传图片"
+
+msgid "Please enter your recommendation reason."
+msgstr "请输入推荐理由"
+
+msgid "Image size must be greater than 420x420 pixels."
+msgstr "宽（420px）＊高（420px）"
+
+msgid "Your attachment cannot exceed 5MB."
+msgstr "附件不得超过5MB"
+
+msgid "Please choose a country."
+msgstr "请选择候选人所在国家"
+
+msgid "You can submit only one candidate per day."
+msgstr "候选人申请一天只可进行一次。"
+
+msgid "Please enter the candidate\'s name in four or more English letters."
+msgstr "请输入4个字以上的候选人姓名。"
+
+msgid "Please enter the candidate\'s name in four or more English letters and then click Confirm Registration."
+msgstr "请输入英文字母4位以上的候选人姓名，并点击查找候选人"
+
+msgid "SEARCH"
+msgstr "SEARCH"
+
+msgid "Committee Application"
+msgstr "申请"
+
+msgid "Anyone can apply to be a Committee candidate.<br>Visit the application page to apply or recommend."
+msgstr "任何人都可申请成为委员会候选人。<br>请您写下您推荐该委员会的具体原因。"
+
+msgid "Application"
+msgstr "申请"
+
+msgid "What will Committee members do?"
+msgstr "委员会成员的主要工作是什么？"
+
+msgid "Committee members will cheer on the participating designers in a variety of ways, including (but not limited to!) sending inspiring messages and encouraging them to participate in the voting process."
+msgstr "委员会成员将会参与到FCC2015设计师的投票中，还可以以短信或其他方式为设计师加油。"
+
+msgid "Please Wait, Loading.."
+msgstr "正在进行，请稍后"
+
+msgid "More"
+msgstr "更多相关"
+
+msgid "FCC 2015 will provide the top judges that gave excellent evaluation results an invitation to the 2016 Crowd Challenge Festival in Shanghai with airline tickets, accommodation, and works from the winning designers."
+msgstr "我们为在2015FCC评审过程中为给予最佳评审结果的评审们准备了包含2016年在中国上海举办的时尚盛典的邀请函、往返机票、酒店住宿及获奖设计师的设计作品等在内的大礼包。"
+
+msgid "Find out more about FCC 2015"
+msgstr "2015FCC更多相关信息"
+
+msgid "During the evaluation period, this page contains the top 15 most popular designer's works by region, gender, and age updated daily."
+msgstr "在作品评审过程中所评选出的最具人气的前十五名设计师的作品，<br>将按地区、性别、年龄分类后每日在官方网页上进行公布"
+
+msgid "Do not show again today."
+msgstr "编辑个人资料"
+
+msgid "10th Sep.<br> - <br>7th Oct."
+msgstr "9月10日<br> - <br>10月7日"
+
+msgid "Check out another designer!"
+msgstr "查看其他设计师"
+
+msgid "Evaluate"
+msgstr "进行评审"
+
+msgid "FCC\'s evaluation<br>has begun."
+msgstr "FCC 开始进行评审"
+
+msgid "FCC 2015 Evaluation Guide"
+msgstr "2015FCC评审指南"
+
+msgid "The FCC 2015 Evaluation to meet the world\'s talented designers\' works has begun!"
+msgstr "能够看到来自全球各国有才能的设计师的2015FCC作品评审已经正式启动！"
+
+msgid "Do you want to be a judge? Use the evaluation guide to start judging now."
+msgstr "是否想参与作品的评审呢？请参照FCC所提供的作品评审指南进行设计作品的评审吧。"
+
+msgid "See the guide"
+msgstr "查看指南"
+
+msgid "FCC invites the top voted designers to join FCC Committee on this page."
+msgstr "FCC邀请被投票选出的顶级设计师加入FCC委员会。"
+
+msgid "Recommend or vote people you respect"
+msgstr "请推荐候选人和投票!"
+
+
+
+
+#:FCC 평가 인덱스
+
+
+msgid "Choose the winners of the Fashion Crowd Challenge!"
+msgstr "选出Fashion Crowd Challenge的最终获奖者！"
+
+msgid "Top 15 Designers"
+msgstr "前十五名设计师"
+
+msgid "Popular Designers"
+msgstr "最具人气的设计师"
+
+msgid "By Region"
+msgstr "按地区"
+
+msgid "By Gender"
+msgstr "按性别"
+
+msgid "By Age"
+msgstr "按年龄"
+
+msgid "Find out more about 2015 Fashion Crowd Challenge"
+msgstr "2015Fashion Crowd Challenge更多相关信息"
+
+msgid "The 2015 FCC Design evaluation to find the best fashion designer has started!"
+msgstr "评选出最佳设计师的2015FCC设计作品评审已经正式启动！"
+
+msgid "The daily results will be collected"
+msgstr "每日所公布的结果将通过收集"
+
+msgid "by 22:00 GMT"
+msgstr "截至格林尼治时间22点为止的评审结果"
+
+msgid "and the FCC system CES"
+msgstr "并通过由FCC自主开发的大众评审系统CES"
+
+msgid "(Crowd Evaluation System) will"
+msgstr "(Crowd Evaluation System)进行"
+
+msgid "calculate fairly"
+msgstr "公平，公正的统计后"
+
+msgid "all the designs and announce the results at 00:00 GMT after 2 hours."
+msgstr "并于2个小时后的格林尼治时间0点进行公布。"
+
+msgid "Participate in"
+msgstr "诚邀您参与"
+
+msgid "the 2015 FCC Judging!"
+msgstr "2015FCC的作品评审"
+
+msgid "Judges who make a special effort to give constructive feedback,"
+msgstr "在评审过程中对提交作品积极给予建设性反馈意见，"
+
+msgid "inspiration and support to"
+msgstr "并积极鼓励支持"
+
+msgid "the participating designers will be invited to the FCC2015 fashion show"
+msgstr "参赛设计师的评审将被受邀参与2015FCC 时装秀"
+
+msgid "and receive products"
+msgstr "并且获得"
+
+msgid "from the winning designers."
+msgstr "获奖设计师的设计作品。"
+
+msgid "Today’s evaluation has closed"
+msgstr "今日将结束作品的评审"
+
+
+
+msgid "The daily results will be collected by xx:xx GMT and the FCC system CES (Crowd Evaluation System) will calculate fairly all the designs and announce the results at xx:xx GMT after X hours."
+msgstr "每日所公布的结果是通过收集截止格林尼治时间－时－分为止的评审结果，由FCC自主开发的大众评审系统CES(Crowd Evaluation System)进行公平、公正的统计后，并于格林尼治时间－时－分进行公布的。"
+
+msgid "8th Oct"
+msgstr "10月8日"
+
+msgid "Participate in the 2015 FCC Judging!"
+msgstr "诚邀您参与2015FCC作品评审！"
+
+msgid "Evaluate Now"
+msgstr "现在进行评价"
+
+msgid "Coming soon"
+msgstr "即将开启"
+
+msgid "Announced"
+msgstr "公布"
+
+msgid "Fashion CC 2015</span><span>Design Submission Start"
+msgstr "2015FCC </span><span>开始提交设计作品"
+
+msgid "Fashion CC 2015</span><span>Evaluations Start"
+msgstr "2015FCC</span><span>开始进行评审"
+
+msgid "Be a judge"
+msgstr "以评审的身份参与"
+
+
+#: FCC 평가 페이지
+
+
+msgid "Meet the star designer of tomorrow"
+msgstr "来与未来的明星设计师相遇"
+
+msgid "You choose the top Designers of FCC 2015. Your input creates the stars of the future."
+msgstr "由你选出FCC2015的优胜者<br>你的选择将推进明星设计师的成长"
+
+msgid "There are no results."
+msgstr "没有结果"
+
+msgid "Evaluate more designers!"
+msgstr "对其他设计师作品进行评审"
+
+msgid "In Progress"
+msgstr "正在进行"
+
+msgid "Complete"
+msgstr "完成"
+
+
+
+#: FCC 평가 발표 페이지
+
+
+msgid "FCC 2015 Winner"
+msgstr "2015FCC<br>获奖者"
+
+msgid "The FCC 2015 winners have been selected!"
+msgstr "FCC 2015的优胜者已选出！"
+
+msgid "Go check out the designers who will usher in the next generation of fashion!"
+msgstr "来遇见引领世界潮流的新生代设计师吧。"
+
+
+#: FCC 나의 결과 페이지
+
+
+msgid "Congratulations! You’re sitting alone at the top of the FCC fashion competition! Are you ready for the Global Fashion Show?"
+msgstr "恭喜您！<br>你就是打造FCC时尚潮流的主角。<br>你准备好赴约国际时装秀了吗？"
+
+msgid "You have been chosen as a winner of the FCC Dream Award! Go meet the other winners in the Global Fashion Show!"
+msgstr "您被选为FCC所定主题的获奖者。<br>与FCC的其他获奖者一起来共同参加国际时装秀吧。"
+
+msgid "Congratulations! You’ve been recognized as the biggest personality in FCC! You are a genuine Master of Style! Come back to FCC next year and shoot for the gold!"
+msgstr "恭喜您！您在国际时尚比赛FCC上取得了不错的成绩！您就是真正的MASTER OF STYLE！期待您在下一季FCC上取得更加优异的成绩。"
+
+msgid "Sorry, you don’t get an award this year..but come back next year and give it another shot! You’ve got fashion sense and talent. Reach for the stars!"
+msgstr "很遗憾，<br>您因细微的差距失去了进入FCC获奖阵营的机会。<br>我们期待您在明年的FCC上可以获奖。<br>我们相信以您对时尚的见解和您独到的设计一定可以做得到。"
+
+msgid "You didn’t get an award, but don’t despair! You achieved a high rank among FCC participants. Come back next year for a fresh challenge!"
+msgstr "虽然没能获奖，但请不要气馁。我们期待在FCC参与者中处于上游水平的您可以在下次的FCC上继续挑战，成为获奖者。"
+
+
+#: FCC 평가에 등록기간 만료 페이지
+
+msgid "The FCC 2015 registration period is over."
+msgstr "2015FCC的注册期已截止"
+
+msgid "We\'re very sorry, but you cannot join FCC 2015. Please come back next time! Even if you are not a designer, you can still participate in FCC 2015. Be a Judge for our FCC 2015 competition! Evaluate participants from all over the world and choose FCC 2015\'s top designer! Please refer to FCC 2015\'s schedule.<br><p>Please refer to ModelCC\'s schedule.</p>"
+msgstr "<p>您所输入的信息未能成功提交至2015FCC，欢迎您下次参与。 就算不是设计师也可以参与2015FCC！ 您可以作为评审参与2015FCC，且将由您直接在来至全球各国的设计师中评选出2015FCC最佳的设计师。 2015FCC的日程安排如下</p>"
+
+msgid "It looks like you haven't reviewed all the designers yet. Please check the list again."
+msgstr "还有未被评审的设计师作品，请到设计师列表进行确认。"
+
+msgid "Your evaluation is complete! Go judge more designers!"
+msgstr "评审已完成！对其他设计师作品进行评审！"
+
+
+#: FCC 평가 상세 페이지
+
+
+msgid "What do you think about this design?"
+msgstr "如何评价这一设计作品？"
+
+msgid "Leave a comment for this designer."
+msgstr "给设计师留下您的短评"
+
+msgid "Prev"
+msgstr "返回"
+
+msgid "ious"
+msgstr " "
+
+msgid "Previous"
+msgstr "返回"
+
+#:What do you think about this design?
+msgid "good?"
+msgstr "如何评价这一设计作品？"
+
+msgid "Your evaluation is complete."
+msgstr "已完成所有的作品评审"
+
+msgid "Go meet more designers!"
+msgstr "对其他更多的设计师进行评审"
+
+msgid "You have finished all of today's evaluations."
+msgstr "今天的评审以完成"
+
+msgid "Come back tomorrow!"
+msgstr "明天见！"
+
+msgid "Okay, see you tomorrow."
+msgstr "好的，明天见"
+
+msgid "No, thank you."
+msgstr "否"
+
+msgid "Yes, please."
+msgstr "是"
+
+
+msgid "We\'ll back soon."
+msgstr "我们很快就会回来!"
+
+msgid "Our service is temporary down for <br>the maintenance purpose."
+msgstr "因需对服务器进行维修，我们的系统将暂时关闭。"

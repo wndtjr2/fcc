@@ -1,0 +1,126 @@
+2016-06-07 13:35:02 Debug: 
+App\Controller\CacheController::removeDesigner() - APP/Controller/CacheController.php, line 63
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'전체 products Cache 제거.'
+2016-06-07 13:59:43 Debug: 
+App\Controller\CacheController::removeProduct() - APP/Controller/CacheController.php, line 42
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'전체 products Cache 제거.'
+2016-06-07 13:59:43 Debug: 
+App\Controller\CacheController::removeProduct() - APP/Controller/CacheController.php, line 43
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'main Cache 제거'
+2016-06-07 13:59:43 Debug: 
+App\Controller\CacheController::removeProduct() - APP/Controller/CacheController.php, line 44
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'Whats New 제거'
+2016-06-07 14:01:07 Debug: 
+App\Controller\CacheController::removeProduct() - APP/Controller/CacheController.php, line 49
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'main Cache 제거'
+2016-06-07 14:08:01 Debug: 
+App\Controller\CacheController::removeDesigner() - APP/Controller/CacheController.php, line 63
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'전체 products Cache 제거.'
+2016-06-07 14:13:10 Debug: 
+App\Controller\CacheController::removeProduct() - APP/Controller/CacheController.php, line 42
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'전체 products Cache 제거.'
+2016-06-07 14:13:10 Debug: 
+App\Controller\CacheController::removeProduct() - APP/Controller/CacheController.php, line 43
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'main Cache 제거'
+2016-06-07 14:13:10 Debug: 
+App\Controller\CacheController::removeProduct() - APP/Controller/CacheController.php, line 44
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'Whats New 제거'
+2016-06-07 14:15:35 Debug: 
+App\Controller\CacheController::removeProduct() - APP/Controller/CacheController.php, line 42
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'전체 products Cache 제거.'
+2016-06-07 14:15:35 Debug: 
+App\Controller\CacheController::removeProduct() - APP/Controller/CacheController.php, line 43
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'main Cache 제거'
+2016-06-07 14:15:35 Debug: 
+App\Controller\CacheController::removeProduct() - APP/Controller/CacheController.php, line 44
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'Whats New 제거'
+2016-06-07 14:16:04 Debug: 
+App\Controller\CacheController::removeProduct() - APP/Controller/CacheController.php, line 42
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'전체 products Cache 제거.'
+2016-06-07 14:16:04 Debug: 
+App\Controller\CacheController::removeProduct() - APP/Controller/CacheController.php, line 43
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'main Cache 제거'
+2016-06-07 14:16:04 Debug: 
+App\Controller\CacheController::removeProduct() - APP/Controller/CacheController.php, line 44
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'Whats New 제거'
+2016-06-07 14:17:54 Debug: 
+App\Controller\CacheController::removeProduct() - APP/Controller/CacheController.php, line 42
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'전체 products Cache 제거.'
+2016-06-07 14:17:54 Debug: 
+App\Controller\CacheController::removeProduct() - APP/Controller/CacheController.php, line 43
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'main Cache 제거'
+2016-06-07 14:17:54 Debug: 
+App\Controller\CacheController::removeProduct() - APP/Controller/CacheController.php, line 44
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'Whats New 제거'

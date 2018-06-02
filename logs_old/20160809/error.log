@@ -1,0 +1,33 @@
+2016-08-10 07:30:36 Error: [Cake\Datasource\Exception\InvalidPrimaryKeyException] Record not found in table "mc_video_comment" with primary key [NULL]
+Request URL: /fccTv/commentAdd
+Stack Trace:
+#0 /var/www/fcctv.co.kr/src/Service/TvService.php(748): Cake\ORM\Table->get(NULL)
+#1 /var/www/fcctv.co.kr/src/Controller/FccTvController.php(168): App\Service\TvService->commentSave(Array)
+#2 [internal function]: App\Controller\FccTvController->commentAdd()
+#3 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Controller/Controller.php(412): call_user_func_array(Array, Array)
+#4 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#5 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\FccTvController))
+#6 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#7 {main}
+
+
+2016-08-10 08:29:41 Error: [PDOException] SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-25' at line 1
+Request URL: /designers/getNextPage
+Stack Trace:
+#0 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Database/Statement/MysqlStatement.php(36): PDOStatement->execute(NULL)
+#1 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Database/Connection.php(272): Cake\Database\Statement\MysqlStatement->execute()
+#2 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Database/Query.php(174): Cake\Database\Connection->run(Object(Cake\ORM\Query))
+#3 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/ORM/Query.php(667): Cake\Database\Query->execute()
+#4 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Datasource/QueryTrait.php(216): Cake\ORM\Query->_execute()
+#5 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/ORM/Query.php(618): Cake\ORM\Query->_all()
+#6 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Datasource/QueryTrait.php(130): Cake\ORM\Query->all()
+#7 /var/www/fcctv.co.kr/src/Service/DesignerService.php(80): Cake\ORM\Query->getIterator()
+#8 /var/www/fcctv.co.kr/src/Controller/DesignersController.php(73): App\Service\DesignerService->getBrandList('surl', NULL, NULL)
+#9 [internal function]: App\Controller\DesignersController->getNextPage()
+#10 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Controller/Controller.php(412): call_user_func_array(Array, Array)
+#11 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#12 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\DesignersController))
+#13 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#14 {main}
+
+

@@ -1,0 +1,21 @@
+2016-07-28 15:23:29 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Vnvftwtshq.html could not be found.
+Request URL: /vnvftwtshq.html
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-07-29 05:03:02 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Phpmyadmin could not be found.
+Request URL: /phpmyadmin
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-07-29 05:05:49 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Phpmyadmin could not be found.
+Request URL: /phpmyadmin
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+

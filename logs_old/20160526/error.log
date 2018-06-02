@@ -1,0 +1,21 @@
+2016-05-26 12:58:06 Error: [Cake\Routing\Exception\MissingControllerException] Controller class PhpMyAdmin could not be found.
+Request URL: /phpMyAdmin
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-26 19:22:59 Error: [Cake\Routing\Exception\MissingControllerException] Controller class PhpMyAdmin could not be found.
+Request URL: /phpMyAdmin
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-27 07:54:55 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Sitemap.xml could not be found.
+Request URL: /sitemap.xml
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+

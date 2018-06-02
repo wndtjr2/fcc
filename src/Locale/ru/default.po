@@ -1,0 +1,2157 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2015-08-21 02:32+0000\n"
+"PO-Revision-Date: 2015-09-11 16:53+0900\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Language: ru\n"
+"X-Generator: Poedit 1.8.4\n"
+
+#: Template/Auth/exist_login.ctp:7 Template/Auth/join.ctp:45
+#: Template/Auth/login.ctp:66 Template/Auth/password_forgot.ctp:34
+#: Template/Auth/password_reset_complete.ctp:7
+#: Template/Auth/resend_password.ctp:7 Template/Auth/reset_password.ctp:58
+#: Template/Auth/set_password.ctp:55 Template/Fcc/about.ctp:7
+#: Template/Fcc/browser_update.ctp:7 Template/Fcc/go_to_web.ctp:7
+#: Template/Layout/default.ctp:226 Template/Models/complete.ctp:7
+#: Template/Models/index.ctp:19 Template/Models/info.ctp:38
+#: Template/Models/info_add.ctp:220 Template/Models/info_edit.ctp:233
+#: Template/Users/add_basic_info.ctp:159;288
+#: Template/Users/add_basic_info_save.ctp:18
+#: Template/Users/check_verification_email.ctp:12 Template/Users/edit.ctp:221
+#: Template/Users/expired_token.ctp:7 Template/Users/first_time_join.ctp:73
+#: Template/Users/forgot_password.ctp:13 Template/Users/no_activate.ctp:14
+#: Template/Users/password_again.ctp:35 Template/Users/profile.ctp:19
+#: Template/Users/resend_verification_email.ctp:12
+msgid "DAYS"
+msgstr "ДНЕЙ"
+
+#: Template/Auth/exist_login.ctp:8 Template/Auth/join.ctp:46
+#: Template/Auth/login.ctp:67 Template/Auth/password_forgot.ctp:35
+#: Template/Auth/password_reset_complete.ctp:8
+#: Template/Auth/resend_password.ctp:8 Template/Auth/reset_password.ctp:59
+#: Template/Auth/set_password.ctp:56 Template/Fcc/about.ctp:8
+#: Template/Fcc/browser_update.ctp:8 Template/Fcc/go_to_web.ctp:8
+#: Template/Layout/default.ctp:227 Template/Models/complete.ctp:8
+#: Template/Models/index.ctp:20 Template/Models/info.ctp:39
+#: Template/Models/info_add.ctp:221 Template/Models/info_edit.ctp:234
+#: Template/Users/add_basic_info.ctp:160;289
+#: Template/Users/add_basic_info_save.ctp:19
+#: Template/Users/check_verification_email.ctp:13 Template/Users/edit.ctp:222
+#: Template/Users/expired_token.ctp:8 Template/Users/first_time_join.ctp:74
+#: Template/Users/forgot_password.ctp:14 Template/Users/no_activate.ctp:15
+#: Template/Users/password_again.ctp:36 Template/Users/profile.ctp:20
+#: Template/Users/resend_verification_email.ctp:13
+msgid "HOURS"
+msgstr "ЧАСОВ"
+
+#: Template/Auth/exist_login.ctp:9 Template/Auth/join.ctp:47
+#: Template/Auth/login.ctp:68 Template/Auth/password_forgot.ctp:36
+#: Template/Auth/password_reset_complete.ctp:9
+#: Template/Auth/resend_password.ctp:9 Template/Auth/reset_password.ctp:60
+#: Template/Auth/set_password.ctp:57 Template/Fcc/about.ctp:9
+#: Template/Fcc/browser_update.ctp:9 Template/Fcc/go_to_web.ctp:9
+#: Template/Layout/default.ctp:228 Template/Models/complete.ctp:9
+#: Template/Models/index.ctp:21 Template/Models/info.ctp:40
+#: Template/Models/info_add.ctp:222 Template/Models/info_edit.ctp:235
+#: Template/Users/add_basic_info.ctp:161;290
+#: Template/Users/add_basic_info_save.ctp:20
+#: Template/Users/check_verification_email.ctp:14 Template/Users/edit.ctp:223
+#: Template/Users/expired_token.ctp:9 Template/Users/first_time_join.ctp:75
+#: Template/Users/forgot_password.ctp:15 Template/Users/no_activate.ctp:16
+#: Template/Users/password_again.ctp:37 Template/Users/profile.ctp:21
+#: Template/Users/resend_verification_email.ctp:14
+msgid "MIN"
+msgstr "МИН"
+
+#: Template/Auth/exist_login.ctp:10 Template/Auth/join.ctp:48
+#: Template/Auth/login.ctp:69 Template/Auth/password_forgot.ctp:37
+#: Template/Auth/password_reset_complete.ctp:10
+#: Template/Auth/resend_password.ctp:10 Template/Auth/reset_password.ctp:61
+#: Template/Auth/set_password.ctp:58 Template/Fcc/about.ctp:10
+#: Template/Fcc/browser_update.ctp:10 Template/Fcc/go_to_web.ctp:10
+#: Template/Layout/default.ctp:229 Template/Models/complete.ctp:10
+#: Template/Models/index.ctp:22 Template/Models/info.ctp:41
+#: Template/Models/info_add.ctp:223 Template/Models/info_edit.ctp:236
+#: Template/Users/add_basic_info.ctp:162;291
+#: Template/Users/add_basic_info_save.ctp:21
+#: Template/Users/check_verification_email.ctp:15 Template/Users/edit.ctp:224
+#: Template/Users/expired_token.ctp:10 Template/Users/first_time_join.ctp:76
+#: Template/Users/forgot_password.ctp:16 Template/Users/no_activate.ctp:17
+#: Template/Users/password_again.ctp:38 Template/Users/profile.ctp:22
+#: Template/Users/resend_verification_email.ctp:15
+msgid "SEC"
+msgstr "СЕК"
+
+#: Template/Auth/exist_login.ctp:18 Template/Auth/join.ctp:56
+#: Template/Auth/set_password.ctp:66 Template/Users/first_time_join.ctp:84
+msgid "JOIN"
+msgstr "ЗАРЕГИСТРИРОВАТЬСЯ"
+
+#: Template/Auth/exist_login.ctp:20 Template/Auth/set_password.ctp:68
+msgid "we need a few things to create your account."
+msgstr "нам необходимо несколько деталей для создания Вашего аккаунта."
+
+#: Template/Auth/exist_login.ctp:31 Template/Auth/reset_password.ctp:30
+#: Template/Auth/set_password.ctp:26 Template/Users/edit.ctp:61
+#: Template/Users/first_time_join.ctp:29
+msgid "Create a password of 8~20 characters (numbers, letters, symbols)"
+msgstr "Придумайте пароль из 8~20 знаков (включая цифры, буквы и символы)"
+
+#: Template/Auth/exist_login.ctp:34 Template/Auth/reset_password.ctp:31
+#: Template/Auth/set_password.ctp:27 Template/Users/edit.ctp:62
+#: Template/Users/first_time_join.ctp:30
+msgid "Your password cannot consist of a numerial or alphabetical sequence."
+msgstr "Ваш пароль не может быть в цифровом или алфавитном порядке."
+
+#: Template/Auth/exist_login.ctp:35 Template/Auth/reset_password.ctp:32
+#: Template/Auth/set_password.ctp:28 Template/Users/edit.ctp:63
+msgid "Your password cannot be the same as your user name or email."
+msgstr "Ваш пароль не может быть идентичен имени пользователя или адресу электронной почты."
+
+#: Template/Auth/exist_login.ctp:39 Template/Auth/set_password.ctp:85
+msgid "Create Account"
+msgstr "Создать Аккаунт"
+
+#: Template/Auth/exist_login.ctp:45 Template/Auth/join.ctp:103
+#: Template/Auth/set_password.ctp:91 Template/Users/first_time_join.ctp:128
+msgid "Are you a member?"
+msgstr "Уже зарегистрированы?"
+
+#: Template/Auth/exist_login.ctp:45 Template/Auth/join.ctp:91;95;99;103
+#: Template/Auth/login.ctp:78;113;133
+#: Template/Auth/password_reset_complete.ctp:23
+#: Template/Auth/set_password.ctp:91
+#: Template/Layout/default.ctp:238;239;302;494;513
+#: Template/Users/first_time_join.ctp:128 Template/Users/password_again.ctp:47
+msgid "Log in"
+msgstr "Авторизоваться"
+
+#: Template/Auth/exist_login.ctp:48 Template/Auth/set_password.ctp:94
+#: Template/Users/first_time_join.ctp:131
+msgid "By creating an account, I accept FCC’s.<br>Terms and Conditions and Privacy Policy."
+msgstr "Создавая аккаунт, <br> Я принимаю Условия Сервиса и Политику Конфиденциальности FCC."
+
+#: Template/Auth/join.ctp:27 Template/Auth/password_forgot.ctp:17
+#: Template/Users/password_again.ctp:17
+msgid "Please enter your email."
+msgstr "Пожалуйста, введите Ваш e-mail."
+
+#: Template/Auth/join.ctp:28 Template/Auth/login.ctp:44
+#: Template/Layout/default.ctp:165
+msgid "Invalid email format."
+msgstr "Неправильный формат электронной почты."
+
+#: Template/Auth/join.ctp:60
+msgid "Welcome to Fashion Crowd Challenge.<br>Time to meet designs and designers of every stripe from all around the world!"
+msgstr "Добро пожаловать в Fashion Crowd Challenge. <br> Время встретить дизайнеров со всего мира!"
+
+#: Template/Auth/join.ctp:63 Template/Auth/login.ctp:82
+#: Template/Auth/password_forgot.ctp:62 Template/Layout/default.ctp:456
+#: Template/Users/password_again.ctp:52
+msgid "Social Media"
+msgstr "Социальные Сети"
+
+#: Template/Auth/join.ctp:74 Template/Auth/login.ctp:93
+#: Template/Auth/password_forgot.ctp:53 Template/Contacts/add.ctp:30
+#: Template/Layout/default.ctp:466 Template/Users/edit.ctp:477;478
+#: Template/Users/forgot_password.ctp:35;36
+#: Template/Users/password_again.ctp:64
+msgid "Email"
+msgstr "E-mail"
+
+#: Template/Auth/join.ctp:83
+msgid "Join FCC"
+msgstr "Присоединиться к FCC"
+
+#: Template/Auth/join.ctp:91;95 Template/Auth/login.ctp:137
+#: Template/Layout/default.ctp:517
+msgid "This account has already been created via {0}"
+msgstr "Этот аккаунт уже был создан через"
+
+#: Template/Auth/join.ctp:99 Template/Auth/login.ctp:133
+#: Template/Layout/default.ctp:513
+msgid "This account was deleted. Would you like to restore this account?"
+msgstr "Этот аккаунт был удален. Хотите восстановить этот аккаунт?"
+
+#: Template/Auth/login.ctp:43 Template/Layout/default.ctp:164
+msgid "Please enter your email"
+msgstr "Пожалуйста, введите Ваш e-mail."
+
+#: Template/Auth/login.ctp:47 Template/Layout/default.ctp:168
+msgid "Please enter your password"
+msgstr "Пожалуйста, введите Ваш пароль"
+
+#: Template/Auth/login.ctp:79 Template/Layout/default.ctp:453
+msgid "Welcome to Fashion Crowd Challenge. <br>Time to meet designs and designers of every stripe from all around the world!"
+msgstr "Добро пожаловать в Fashion Crowd Challenge. <br> Время встретить дизайнеров со всего мира!"
+
+#: Template/Auth/login.ctp:108 Template/Layout/default.ctp:484
+#: Template/Users/password_again.ctp:80
+msgid "Incorrect Password"
+msgstr "Неправильный пароль"
+
+#: Template/Auth/login.ctp:129 Template/Auth/password_forgot.ctp:75
+#: Template/Layout/default.ctp:509
+msgid "We couldn't find your account. Would you like to <a class=\"is-join\" href=\"/auth/join\">join us?</a>"
+msgstr "Мы не смогли найти Ваш аккаунт. Хотели бы Вы <a class=\"is-join\" href=\"/auth/join\">  присоединиться к нам?</a>"
+
+msgid "We couldn\'t find your account. Would you like to"
+msgstr "Мы не смогли найти Ваш аккаунт. Хотели бы Вы"
+
+msgid "join us?"
+msgstr "присоединиться к нам?"
+
+#: Template/Auth/password_forgot.ctp:45 Template/Users/forgot_password.ctp:24
+msgid "Forget your password?"
+msgstr "Забыли пароль?"
+
+#: Template/Auth/password_forgot.ctp:47 Template/Users/forgot_password.ctp:26
+msgid "We will send you an email with a link to reset your password."
+msgstr "Мы отправим письмо на Вашу электронную почту с ссылкой для сброса пароля."
+
+#: Template/Auth/password_forgot.ctp:68 Template/Auth/reset_password.ctp:87
+#: Template/Users/forgot_password.ctp:49
+msgid "Reset Password"
+msgstr "Сбросить Пароль"
+
+#: Template/Auth/password_reset_complete.ctp:18
+msgid "Your password has been changed"
+msgstr "Ваш пароль был изменен"
+
+#: Template/Auth/password_reset_complete.ctp:20
+msgid "You have changed your password. Please log in again."
+msgstr "Вы изменили свой пароль. Пожалуйста, авторизуйтесь снова."
+
+#: Template/Auth/resend_password.ctp:17
+#: Template/Users/check_verification_email.ctp:22
+#: Template/Users/resend_verification_email.ctp:22
+msgid "Go check your email !!"
+msgstr "Пожалуйста, проверьте Ваш e-mail!"
+
+#: Template/Auth/resend_password.ctp:18
+msgid "<p>We sent you a link to reset your password. <br>Please check your email.</p>\n"
+"            <br>\n"
+"            <p>If you cannot find the password reset email, <br>please check your spam folder or click below.</p>"
+msgstr "<p>Мы отправили ссылку для сброса Вашего пароля.</p>\n"
+"             <br>\n"
+"            <p>Если Вы не можете найти письмо для сброса пароля - <br>проверьте папку со спамом или кликните на ссылку ниже.</p>"
+
+#: Template/Auth/reset_password.ctp:29 Template/Auth/set_password.ctp:25
+#: Template/Users/first_time_join.ctp:28
+msgid "Please enter your password."
+msgstr "Пожалуйста, введите Ваш пароль."
+
+#: Template/Auth/reset_password.ctp:35
+msgid "Please enter your password again."
+msgstr "Пожалуйста, введите Ваш пароль снова."
+
+#: Template/Auth/reset_password.ctp:69
+msgid "Create a new password."
+msgstr "Создайте новый пароль."
+
+#: Template/Auth/reset_password.ctp:71
+msgid "Please enter a new password."
+msgstr "Пожалуйста, введите новый пароль."
+
+#: Template/Contacts/add.ctp:17
+msgid "Contact"
+msgstr "Связаться"
+
+#: Template/Contacts/add.ctp:19
+msgid "If you have any inquiries, please do not hesitate to contact us.<br>\n"
+"                    We will be happy to assist you."
+msgstr "Если у Вас возникнут какие-либо вопросы, пожалуйста, свяжитесь с нами.<br>\n"
+"                    Мы будем рады Вам помочь."
+
+#: Template/Contacts/add.ctp:31;32
+msgid "This is not valid email address."
+msgstr "Неправильный формат электронной почты."
+
+#: Template/Contacts/add.ctp:35 Template/Users/add_basic_info.ctp:362
+#: Template/Users/edit.ctp:387
+msgid "Language"
+msgstr "Язык"
+
+#: Template/Contacts/add.ctp:48
+msgid "Subject"
+msgstr "Тема"
+
+#: Template/Contacts/add.ctp:50
+msgid "Please enter your subject."
+msgstr "Пожалуйста, укажите тему."
+
+#: Template/Contacts/add.ctp:53
+msgid "Description"
+msgstr "Описание"
+
+#: Template/Contacts/add.ctp:55
+msgid "Please enter your description."
+msgstr "Пожалуйста, введите описание."
+
+#: Template/Contacts/add.ctp:58
+msgid "Send"
+msgstr "Отправить"
+
+#: Template/Contacts/complete.ctp:13
+msgid "Your comment has been successfully submitted.<br>\n"
+"                    We will send a response to {0}"
+msgstr "Ваш комментарий был успешно загружен.<br>\n"
+"                    Мы отправим Вам отзыв на {0}"
+
+#: Template/Email/html/bolt_request.ctp:15
+msgid "{0}'s account deletion request is complete. The deletion <br>\n"
+"                process will occur 10 days from now. If you change your mind <br>\n"
+"                about deleting your account, simply log in within 10 days and your <br>\n"
+"                account will be restored."
+msgstr "{0}'s запрос на удаление аккаунта завершен. Процесс удаления <br>\n"
+"                займет 10 суток, начиная с сегодняшнего дня. Если Вы измените свое решение <br>\n"
+"                об удалении Вашего аккаунта, Вы можете просто авторизоваться в течении 10 дней и<br>\n"
+"                Ваш аккаунт будет восстановлен."
+
+#: Template/Email/html/bolt_request.ctp:23 Template/Email/html/contact.ctp:23
+#: Template/Email/html/password_reset.ctp:26 Template/Email/html/thanks.ctp:28
+#: Template/Email/html/verification.ctp:26
+msgid "Need help?"
+msgstr "Нужна помощь?"
+
+#: Template/Email/html/bolt_request.ctp:23 Template/Email/html/contact.ctp:23
+#: Template/Email/html/password_reset.ctp:26 Template/Email/html/thanks.ctp:28
+#: Template/Email/html/verification.ctp:26 Template/Fcc/faq.ctp:236
+msgid "Contact Us"
+msgstr "Свяжитесь с Нами"
+
+#: Template/Fcc/about.ctp:26 Template/Models/index.ctp:52
+msgid "About"
+msgstr "О Конкурсе"
+
+#: Template/Fcc/about.ctp:27 Template/Models/index.ctp:53
+msgid "Schedule"
+msgstr "График"
+
+#: Template/Fcc/about.ctp:68 Template/Models/index.ctp:95
+msgid "Crowd<br>Evaluation"
+msgstr "Всеобщее<br>Голосование"
+
+#: Template/Fcc/about.ctp:82 Template/Models/index.ctp:109
+msgid "Announcement of <br>Winners"
+msgstr "Объявление <br>Победителей"
+
+#: Template/Fcc/browser_update.ctp:19 Template/Fcc/go_to_web.ctp:19
+msgid "You cannot proceed any further at this time."
+msgstr "В данное время Вы не можете продолжить."
+
+#: Template/Fcc/browser_update.ctp:20
+msgid "This step requires Internet Explorer 10 or higher. Please update your browser to continue."
+msgstr "На данном этапе необходимо использование версии Explorer 10 или выше. Пожалуйста, обновите Ваш браузер чтобы продолжить."
+
+#: Template/Fcc/detail.ctp:19;25;39 Template/Fcc/home.ctp:47
+msgid "Model"
+msgstr "Модель"
+
+#: Template/Fcc/detail.ctp:34;40 Template/Fcc/home.ctp:69
+msgid "Judge"
+msgstr "Судья"
+
+#: Template/Fcc/faq.ctp:156 Template/Posts/vimeo_complete.ctp:131
+#: Template/Posts/vimeo_upload.ctp:66
+msgid "The promotion video should be under 5 minutes in length. "
+msgstr "Продолжительность видео не должна превышать 5 минут."
+
+#: Template/Fcc/go_to_web.ctp:20
+msgid "You may register your basic info only via your smart phone. Please use your computer to continue."
+msgstr "Используя смартфон, Вы можете заполнить только базовую информацию. Используйте свой компьютер чтобы продолжить."
+
+#: Template/Layout/default.ctp:51
+msgid "This website requires Internet Explorer 10 or higher."
+msgstr "Для пользования данным веб-сайтом необходим браузер версии Explorer 10 или выше."
+
+#: Template/Layout/default.ctp:244;245
+msgid "Join"
+msgstr "Присоединиться"
+
+#: Template/Layout/default.ctp:280
+msgid "My Profile"
+msgstr "Мой Профиль"
+
+#: Template/Layout/default.ctp:281
+msgid "My Challenege"
+msgstr "Мой Вызов"
+
+#: Template/Layout/default.ctp:282;323
+msgid "Log Out"
+msgstr "Выйти"
+
+#: Template/Layout/default.ctp:328
+msgid "STORY"
+msgstr "STORY"
+
+#: Template/Layout/default.ctp:329
+msgid "COMMUNITY"
+msgstr "COMMUNITY"
+
+#: Template/Layout/default.ctp:330
+msgid "COMMITTEE"
+msgstr "COMMITTEE"
+
+#: Template/Layout/default.ctp:331
+msgid "FCC 2015"
+msgstr "FCC 2015"
+
+#: Template/Layout/default.ctp:332
+msgid "MODEL CC 2015"
+msgstr "MODEL CC 2015"
+
+#: Template/Layout/default.ctp:488 Template/Users/password_again.ctp:82
+msgid "Please enter your Password."
+msgstr "Пожалуйста, введите Ваш Пароль."
+
+#: Template/Layout/default.ctp:557;581 Template/Users/edit.ctp:448;503;598;610
+msgid "Would you like to delete your account?"
+msgstr "Хотите удалить Ваш аккаунт?"
+
+#: Template/Layout/default.ctp:561
+msgid "Changes have not been saved.<br>\n"
+"                                    Would you like to save now?"
+msgstr "Изменения не были сохранены.<br>\n"
+"                                    Хотите сохранить их сейчас?"
+
+#: Template/Layout/default.ctp:585
+msgid "Your account will be deleted 10 days after the request is submitted. After 10 days, all emails containing personal information, uploaded pictures, videos, and text will be deleted."
+msgstr "Ваш аккаунт будет удален через 10 дней после отправки запроса на удаление. Через 10 дней все сообщения, содержащие, персональную информацию, а также загруженные изображения, видео и текст будут удалены."
+
+#: Template/Layout/default.ctp:587
+msgid "If you change your mind about deleting your account, you can log in to stop the deletion process within 10 days. If you log in again, all deleted information will be automatically restored."
+msgstr "Если Вы передумаете удалять свой аккаунт, Вы можете остановить процесс удаления в течении 10 дней. Если Вы авторизуйтесь снова, вся удаленная информация будет автоматически восстановлена."
+
+#: Template/Layout/default.ctp:593
+msgid "No, thank you."
+msgstr "Нет, спасибо."
+
+#: Template/Layout/default.ctp:594
+msgid "Yes, please."
+msgstr "Да, пожалуйста."
+
+#: Template/Layout/default.ctp:620;623
+msgid "Deletion request sent."
+msgstr "Запрос на удаление был отправлен."
+
+#: Template/Layout/default.ctp:625
+msgid "Your account will be deleted in 10 days."
+msgstr "Ваш аккаунт будет удален через 10 дней."
+
+#: Template/Models/complete.ctp:19 Template/Users/profile.ctp:78
+msgid "Registration complete!"
+msgstr "Регистрация завершена!"
+
+#: Template/Models/complete.ctp:20
+msgid "<p>Your registration was successfully completed.</p>\n"
+"            <p>You can check out your profile to verify your information.</p>\n"
+"            <p>You may revise your information until the final day of registration.</p>"
+msgstr "<p>Ваша регистрация была успешно завершена.</p>\n"
+"            <p>Вы можете проверить Ваш профиль для подтверждения информации.</p>\n"
+"            <p>Вы можете изменить свою информацию до последнего дня регистрации.</p>"
+
+#: Template/Models/complete.ctp:60
+msgid "Need more information? Check out the <a href=\"/fcc/faq\">FAQ</a>"
+msgstr "Необходимо больше информации? Проверьте секцию <a href=\"/fcc/faq\">FAQs</a>"
+
+#: Template/Models/complete.ctp:61
+msgid "Verify my registration information"
+msgstr "Подтвердить мою регистрационную информацию"
+
+#: Template/Models/info.ctp:65 Template/Models/info_add.ctp:381
+#: Template/Models/info_edit.ctp:396
+msgid "About Me"
+msgstr "Обо Мне"
+
+#: Template/Models/info.ctp:71 Template/Models/info_add.ctp:385
+#: Template/Models/info_edit.ctp:400
+msgid "Size"
+msgstr "Размер"
+
+#: Template/Models/info.ctp:73 Template/Models/info_add.ctp:248;249;251;387;388
+#: Template/Models/info_edit.ctp:261;262;264;402;403
+msgid "Height"
+msgstr "Рост"
+
+#: Template/Models/info.ctp:76 Template/Models/info_add.ctp:277;278;279;390;391
+#: Template/Models/info_edit.ctp:290;291;292;405;406
+msgid "Weight"
+msgstr "Вес"
+
+#: Template/Models/info.ctp:81 Template/Models/info_add.ctp:305;395;396
+#: Template/Models/info_edit.ctp:318;410;411
+msgid "Bust"
+msgstr "Бюст"
+
+#: Template/Models/info.ctp:83 Template/Models/info_add.ctp:306;397;398
+#: Template/Models/info_edit.ctp:319;412;413
+msgid "Waist"
+msgstr "Талия"
+
+#: Template/Models/info.ctp:85 Template/Models/info_add.ctp:307;399;400
+#: Template/Models/info_edit.ctp:320;414;415
+msgid "Hips"
+msgstr "Бедра"
+
+#: Template/Models/info.ctp:101 Template/Models/info_add.ctp:415
+#: Template/Models/info_edit.ctp:430
+msgid "Image"
+msgstr "Изображение"
+
+#: Template/Models/info.ctp:146
+msgid "Want to delete your registration information?"
+msgstr "Хотите удалить свою информацию для регистрации?"
+
+#: Template/Models/info.ctp:147 Template/Users/edit.ctp:230
+#: Template/Users/profile.ctp:46
+msgid "Edit"
+msgstr "Редактировать"
+
+#: Template/Models/info.ctp:339
+msgid "If you delete your information, your participation in ModelCC 2015 will be cancelled. Do you wish to continue?"
+msgstr "Если Вы удалите информацию, Ваше участие в ModelCC 2015 будет отменено. Хотите продолжить?"
+
+#: Template/Models/info.ctp:342
+msgid "No."
+msgstr "Нет."
+
+#: Template/Models/info.ctp:343
+msgid "Yes, delete."
+msgstr "Да, удалить."
+
+#: Template/Models/info_add.ctp:110;229 Template/Models/info_edit.ctp:124;242
+msgid "SIZE"
+msgstr "РАЗМЕР"
+
+#: Template/Models/info_add.ctp:116 Template/Models/info_edit.ctp:130
+msgid "DETAIL"
+msgstr "ДЕТАЛИ"
+
+#: Template/Models/info_add.ctp:122 Template/Models/info_edit.ctp:136
+msgid "VIDEO"
+msgstr "ВИДЕО"
+
+#: Template/Models/info_add.ctp:166 Template/Models/info_edit.ctp:179
+msgid "You must upload at least one image."
+msgstr "Вы должны загрузить по крайней мере одно изображение."
+
+#: Template/Models/info_add.ctp:198 Template/Models/info_edit.ctp:211
+#: Template/Models/no_season.ctp:8 Template/Users/add_basic_info_save.ctp:5
+msgid "This is Not the period during Fashion Crowd Challenge held."
+msgstr "Данный период НЕ является периодом проведения Fashion Crowd Challenge."
+
+#: Template/Models/info_add.ctp:228 Template/Models/info_edit.ctp:241
+msgid "Portfolio"
+msgstr "Портфолио"
+
+#: Template/Models/info_add.ctp:251;388 Template/Models/info_edit.ctp:264;403
+msgid "Please enter your height."
+msgstr "Пожалуйста, введите Ваш рост."
+
+#: Template/Models/info_add.ctp:279;391 Template/Models/info_edit.ctp:292;406
+msgid "Please enter your weight."
+msgstr "Пожалуйста, введите ваш вес."
+
+#: Template/Models/info_add.ctp:303;304 Template/Models/info_edit.ctp:316;317
+msgid "Body Measurements"
+msgstr "Ваши Параметры"
+
+#: Template/Models/info_add.ctp:305;306;307;396;398;400
+#: Template/Models/info_edit.ctp:318;319;320;411;413;415
+msgid "Please enter your body measurements."
+msgstr "Пожалуйста, введите Ваши параметры."
+
+#: Template/Models/info_add.ctp:331;332;333
+#: Template/Models/info_edit.ctp:344;345;346
+msgid "Shoe size"
+msgstr "Размер обуви"
+
+#: Template/Models/info_add.ctp:333;405 Template/Models/info_edit.ctp:346;420
+msgid "Please enter your shoe size."
+msgstr "Пожалуйста, введите Ваш размер обуви."
+
+#: Template/Models/info_add.ctp:365;441;483
+#: Template/Models/info_edit.ctp:378;460;512
+#: Template/Users/add_basic_info.ctp:276;426
+msgid "Next"
+msgstr "Вперед"
+
+#: Template/Models/info_add.ctp:382 Template/Models/info_edit.ctp:397
+msgid "Please fill out you \"About Me\" section."
+msgstr "Пожалуйста, заполните секцию \"Обо Мне\"."
+
+#: Template/Models/info_add.ctp:416 Template/Models/info_edit.ctp:431
+msgid "Please upload a high-quality photo of yourself."
+msgstr "Пожалуйста, загрузите Ваше фото высокого качества."
+
+#: Template/Models/info_add.ctp:427 Template/Models/info_edit.ctp:449
+msgid "Add"
+msgstr "Добавить"
+
+#: Template/Models/info_add.ctp:440;482 Template/Models/info_edit.ctp:459;511
+#: Template/Users/add_basic_info.ctp:423
+msgid "Back"
+msgstr "Назад"
+
+#: Template/Models/info_add.ctp:453 Template/Models/info_edit.ctp:474
+msgid "Video"
+msgstr "Видео"
+
+#: Template/Models/info_add.ctp:454 Template/Models/info_edit.ctp:475
+msgid "Please upload a video that shows off your style and ability"
+msgstr "Пожалуйста, загрузите видео,<br> демонстрирующее Ваши способности и чувство стиля"
+
+#: Template/Models/info_add.ctp:460 Template/Models/info_edit.ctp:481
+#: Template/Posts/vimeo_complete.ctp:142
+msgid "Upload"
+msgstr "Загрузить"
+
+#: Template/Models/info_add.ctp:497
+msgid "Almost Finished!"
+msgstr "Почти Готово!"
+
+#: Template/Models/info_add.ctp:561
+msgid "I agree to the above and wish to register."
+msgstr "Я согласен и хочу зарегистрироваться."
+
+#: Template/Posts/vimeo_upload.ctp:80
+msgid "Choose a Video to Upload"
+msgstr "Выберите Видео для Загрузки"
+
+#: Template/Users/add_basic_info.ctp:94 Template/Users/edit.ctp:149
+msgid "over file size. max file size 5MB"
+msgstr "превышение допустимого размера. Максимально допустимый размер изображения 5MB"
+
+#: Template/Users/add_basic_info.ctp:168;297
+msgid "Basic Info"
+msgstr "Основная Информация"
+
+#: Template/Users/add_basic_info.ctp:183 Template/Users/edit.ctp:248
+msgid "Profile Picture"
+msgstr "Изображение Профиля"
+
+#: Template/Users/add_basic_info.ctp:201 Template/Users/edit.ctp:265
+msgid "Allowed file types JPG, GIF or PNG.<br>Maximum size of 5MB"
+msgstr "К загрузке допустимы изображения формата JPG, GIF или PNG.<br>Максимальный размер изображения 5MB"
+
+#: Template/Users/add_basic_info.ctp:207 Template/Users/edit.ctp:273
+msgid "Upload Photo"
+msgstr "Загрузить Фото"
+
+#: Template/Users/add_basic_info.ctp:210 Template/Users/edit.ctp:276
+msgid "Please upload your photo."
+msgstr "Пожалуйста, загрузите Ваше фото."
+
+#: Template/Users/add_basic_info.ctp:221;224 Template/Users/edit.ctp:287;290
+msgid "Please enter your name."
+msgstr "Пожалуйста, введите Ваше имя."
+
+#: Template/Users/add_basic_info.ctp:228;229 Template/Users/edit.ctp:294;295
+msgid "Birth Date"
+msgstr "Дата Рождения"
+
+#: Template/Users/add_basic_info.ctp:240 Template/Users/edit.ctp:307
+msgid "Month"
+msgstr "Месяц"
+
+#: Template/Users/add_basic_info.ctp:241 Template/Users/edit.ctp:308
+msgid "Day"
+msgstr "День"
+
+#: Template/Users/add_basic_info.ctp:242 Template/Users/edit.ctp:309
+msgid "Year"
+msgstr "Год"
+
+#: Template/Users/add_basic_info.ctp:244 Template/Users/edit.ctp:311
+msgid "Please enter your birth date."
+msgstr "Пожалуйста, введите Вашу дату рождения."
+
+#: Template/Users/add_basic_info.ctp:248 Template/Users/edit.ctp:315
+msgid "Gender"
+msgstr "Пол"
+
+#: Template/Users/add_basic_info.ctp:250 Template/Users/edit.ctp:318
+msgid "Female"
+msgstr "Женский"
+
+#: Template/Users/add_basic_info.ctp:251 Template/Users/edit.ctp:319
+msgid "Male"
+msgstr "Мужской"
+
+#: Template/Users/add_basic_info.ctp:252 Template/Users/edit.ctp:238;320
+msgid "Other"
+msgstr "Другое"
+
+#: Template/Users/add_basic_info.ctp:255 Template/Users/edit.ctp:323
+msgid "Please select a gender."
+msgstr "Пожалуйста, выберите Ваш пол."
+
+#: Template/Users/add_basic_info.ctp:310;358
+#: Template/Users/edit.ctp:335;383;384
+msgid "City"
+msgstr "Город"
+
+#: Template/Users/add_basic_info.ctp:316 Template/Users/edit.ctp:341
+msgid "Country"
+msgstr "Страна"
+
+#: Template/Users/add_basic_info.ctp:356
+msgid "Please select your country."
+msgstr "Пожалуйста, введите Вашу страну."
+
+#: Template/Users/add_basic_info.ctp:359 Template/Users/edit.ctp:384
+msgid "Please enter your city."
+msgstr "Пожалуйста, введите Ваш город."
+
+#: Template/Users/add_basic_info.ctp:397
+msgid "Please select a valid language."
+msgstr "Пожалуйста, выберите необходимый язык."
+
+#: Template/Users/add_basic_info.ctp:412;413;414
+#: Template/Users/edit.ctp:436;437;438
+msgid "Phone Number"
+msgstr "Номер Телефона"
+
+#: Template/Users/add_basic_info.ctp:414 Template/Users/edit.ctp:438
+msgid "(Country Code)"
+msgstr "(Код Страны)"
+
+#: Template/Users/add_basic_info.ctp:415 Template/Users/edit.ctp:439
+msgid "Please enter your telephone number. We'll need it to tell you in case you win!"
+msgstr "Пожалуйста, введите Ваш номер телефона. Мы свяжемся с Вами в случае Вашей победы!"
+
+#: Template/Users/add_basic_info_save.ctp:34;45
+msgid "Basic info<br>complete."
+msgstr "Основная информация<br>заполнена."
+
+#: Template/Users/add_basic_info_save.ctp:35
+msgid "Basic info is complete.<br> Please click below to move to the next stage in the process."
+msgstr "Основная информация заполнена.<br> Пожалуйста, кликните ниже чтобы приступить к следующему этапу."
+
+#: Template/Users/add_basic_info_save.ctp:40
+msgid "Submit your portfolio"
+msgstr "Загрузите Ваше портфолио"
+
+#: Template/Users/add_basic_info_save.ctp:41
+msgid "Not ready to participate? <a href=\"/\">return to main page</a>"
+msgstr "Еще не готовы принять участие?<a href=\"/\">Вернутся на главную страницу</a>"
+
+#: Template/Users/add_basic_info_save.ctp:46
+msgid "basic info is complete. The next step can only be done via computer. Please complete using your computer."
+msgstr "базовая информация заполнена. Следующий этап может быть выполнен только при помощи компьютера. Пожалуйста, используйте Ваш компьютер."
+
+#: Template/Users/check_verification_email.ctp:23
+#: Template/Users/resend_verification_email.ctp:23
+msgid "<p>Dear <span class=\"user\">{0}</span></p>\n"
+"            <p>We have sent a verification email to <span class=\"email\">{1}</span></p>\n"
+"            <p>Open the e-mail and click the link to complete the registration process.</p>\n"
+"            <br>\n"
+"            <p>If you cannot find the activation email, <br>please check your spam folder or click below.</p>"
+msgstr "<p>Здравствуйте <span class=\"user\">{0}</span></p>\n"
+"            <p>Мы отправили Вам письмо с подтверждением на <span class=\"email\">{1}</span></p>\n"
+"            <p>Откройте Вашу почту и кликните на ссылку для завершения регистрации.</p>\n"
+"            <br>\n"
+"            <p>Если Вы не можете найти e-mail с активацией, <br>пожалуйста, проверьте папку со спамом или нажмите на ссылку ниже</p>"
+
+#: Template/Users/check_verification_email.ctp:33
+#: Template/Users/no_activate.ctp:30
+#: Template/Users/resend_verification_email.ctp:33
+msgid "Resend verification email."
+msgstr "Отправить письмо с подтверждением снова."
+
+#: Template/Users/edit.ctp:234
+msgid "Profile"
+msgstr "Профиль"
+
+#: Template/Users/edit.ctp:236
+msgid "Account"
+msgstr "Аккаунт"
+
+#: Template/Users/edit.ctp:282;283
+msgid "Name"
+msgstr "Имя"
+
+#: Template/Users/edit.ctp:284
+msgid "First Name"
+msgstr "Имя"
+
+#: Template/Users/edit.ctp:285
+msgid "Last Name"
+msgstr "Фамилия"
+
+#: Template/Users/edit.ctp:444;498;593 Template/Users/password_again.ctp:87
+msgid "Done"
+msgstr "Готово"
+
+#: Template/Users/expired_token.ctp:18
+msgid "This link has expired."
+msgstr "Данная ссылка больше не действительна."
+
+#: Template/Users/first_time_join.ctp:86
+msgid "We need a few things to create your account."
+msgstr "Нам необходимо несколько деталей для создания Вашего аккаунта."
+
+#: Template/Users/first_time_join.ctp:94
+msgid "First name"
+msgstr "Имя"
+
+#: Template/Users/first_time_join.ctp:95
+msgid "Last name"
+msgstr "Фамилия"
+
+#: Template/Users/first_time_join.ctp:99
+msgid "Please enter your first name."
+msgstr "Пожалуйста, введите Ваше имя."
+
+#: Template/Users/first_time_join.ctp:102
+msgid "Please enter your last name."
+msgstr "Пожалуйста, введите Вашу фамилию."
+
+#: Template/Users/first_time_join.ctp:122
+msgid "Send verification email"
+msgstr "Отправить письмо с подтвержением"
+
+#: Template/Users/no_activate.ctp:24
+msgid "Account Not Verified"
+msgstr "Аккаунт Не Подтвержден."
+
+#: Template/Users/no_activate.ctp:25
+msgid "You already created your account,<br>but you need to verify it via the verification email we sent."
+msgstr "Вы уже создали свой аккаунт, <br> но Вам необходимо пройти процесс подтверждения через письмо, которое мы Вам отправили."
+
+#: Template/Users/no_activate.ctp:27
+msgid "Can't find the verification email? <br>Click the button below to send it again."
+msgstr "Не можете найти письмо с подтверждением? <br>Нажмите на кнопку ниже чтобы отправить его снова."
+
+#: Template/Users/password_again.ctp:18
+msgid "Invalid email format"
+msgstr "Неправильный формат электронной почты"
+
+#: Template/Users/password_again.ctp:48
+msgid "To protect your information. please enter your password again."
+msgstr "Для защиты Вашей информации, пожалуйста, введите Ваш пароль снова."
+
+#: Template/Users/profile.ctp:53
+msgid "Notifications"
+msgstr "Уведомления"
+
+#: Template/Users/profile.ctp:72
+msgid "Try FCC's model challenge!"
+msgstr "Узнате о конкурсе моделей при FCC!"
+
+#: Template/Users/profile.ctp:75
+msgid "You haven't registered as a model yet."
+msgstr "Вы еще не зарегистрировались как модель."
+
+# 수동 추가 ====================
+# ##=================================
+# # 20150821 / 20:08
+msgid "Did you forget your password?"
+msgstr "Забыли Ваш пароль?"
+
+msgid "Resend email"
+msgstr "Отправить e-mail повторно"
+
+msgid "Password"
+msgstr "Пароль"
+
+msgid "Optional"
+msgstr "Необязательно"
+
+msgid "Website"
+msgstr "Вебсайт"
+
+msgid "Enter URL"
+msgstr "Введите URL"
+
+msgid "New password and confirmation do not match"
+msgstr "Несоответствие нового пароля и подтверждения"
+
+# ##=================================
+# # 20150821 / 20:52
+msgid "What Models Get"
+msgstr "Что Получат Модели"
+
+msgid "Submit Your Work"
+msgstr "Загрузите Вашу Работу"
+
+# ##=================================
+# # 20150823 / 13:06 / FCC 2015 페이지
+# ##=================================
+# # 20150824 / 15:18 / users edit 페이지
+msgid "Save"
+msgstr "Сохранить"
+
+# ##=================================
+# # 20150826 / 14:05 / 메인 타이틀이미지 설명
+#: Template/Users/first_time_join.ctp:47
+msgid "Show Password Errors"
+msgstr "Показать Ошибки Пароля"
+
+#: main Error
+msgid "We could not get your information.<br>Please participate in FCC by your email."
+msgstr "Мы не можем обработать Вашу информацию.<br>Пожалуйста, участвуйте в FCC используя свой e-mail."
+
+msgid "Sorry"
+msgstr "Извините"
+
+msgid "We will message your social media account with a link to reset your password"
+msgstr "Мы свяжемся с Вами через Ваш аккаунт в социальной сети для сброса Вашего пароля"
+
+msgid "Hello,"
+msgstr "Здравствуйте,"
+
+msgid "Welcome to FCC.<br>To reset your password, please click the following link."
+msgstr "Добро Пожаловать в FCC.<br>Для сброса Вашего пароля, пожалуйста, кликните по данной ссылке."
+
+msgid "Click Here"
+msgstr "Нажмите Здесь"
+
+msgid "Password Reset"
+msgstr "Сброс Пароля"
+
+msgid "Shoes"
+msgstr "Обувь"
+
+msgid "Upload your video"
+msgstr "Загрузить Ваше видео"
+
+msgid "Delete"
+msgstr "Удалить"
+
+msgid "We need you to agree to a few things before we can finish your ModelCC registration."
+msgstr "Нам необходимо согласовать несколько деталей перед завершением Вашей регистрации на ModelCC."
+
+msgid "Model<br>Submission"
+msgstr "Загрузка<br>Моделей"
+
+msgid "Join Fashion CC 2015"
+msgstr "Присоединиться к Fashion CC 2015"
+
+msgid "Model CC 2015</span><span>Evaluation Start"
+msgstr "Model CC 2015</span><span>Начало Голосования"
+
+msgid "Join Model CC 2015"
+msgstr "Присоседиться к Model CC 2015"
+
+msgid "Fashion</span><span>Crowd Challenge?"
+msgstr "Fashion</span><span>Crowd Challenge?"
+
+msgid "FCC's mission is to discover fashion stars and thrust them into the public eye.<br>So, FCC is holding a truly global fashion show in which anyone can participate as a designer OR as a judge.<br><br>The designs which receive the best reviews will be displayed each day during the evaluation period at FashionCrowdChallenge.com.<br>FCC will announce the full body of winners on October 16th."
+msgstr "Целью FCC является поиск талантливых звезд индустрии моды и представление их всему миру.<br>Именно для этого FCC проводит действительно мировое по своей значимости событие, в котором любой желающий может принять участие в роли дизайнера ИЛИ судьи.<br><br>Дизайнеры, получившие наибольшее количество обзоров, будут опубликованы на ежедневной основе на FashionCrowdChallenge.com.<br>FCC объявит всех победителей 16 октября."
+
+msgid "Learn about FCC "
+msgstr "Узнать об  FCC"
+
+msgid "Brochure"
+msgstr "Брошюра"
+
+msgid "Download our brochure for more detailed </span><span>information about FCC."
+msgstr "Скачать нашу брошюру для большей </span><span> информации об FCC."
+
+msgid "Vote for me ! "
+msgstr "Голосуйте за меня!"
+
+msgid "<span>MEET THE STAR</span><span>MODELS OF</span>"
+msgstr "<span>ВСТРЕЧАЙТЕ ЗВЕЗДНЫХ</span><span>МОДЕЛЕЙ</span>"
+
+msgid "TOMORROW"
+msgstr "ЗАВТРА"
+
+msgid "<span>You choose the top models of ModelCC 2015.</span><span>Your input creates the stars of the future.</span>"
+msgstr "<span>Вы участвуете в отборе топ-моделей для ModelCC 2015.</span><span>Ваш вклад создает звезд будущего.</span>"
+
+msgid "Total"
+msgstr "Итого"
+
+msgid "Today"
+msgstr "Сегодня"
+
+msgid "The evaluation period ends in"
+msgstr "Всеобщее голосование заканчивается через"
+
+msgid "hours,"
+msgstr "часов,"
+
+msgid "minutes."
+msgstr "минут."
+
+msgid "Please Wait, Loading.."
+msgstr "Идет Загрузка..."
+
+msgid "Evaluate more models!"
+msgstr "Оцените больше моделей!"
+
+msgid "There is no evaluation subjects"
+msgstr "Объекты для голосования отсутствуют"
+
+msgid "Back to list"
+msgstr "Вернуться к списку"
+
+msgid "About Me"
+msgstr "Обо Мне"
+
+msgid "Size"
+msgstr "Размер"
+
+msgid "Height"
+msgstr "Рост"
+
+msgid "Weight"
+msgstr "Вес"
+
+msgid "Bust"
+msgstr "Бюст"
+
+msgid "Waist"
+msgstr "Талия"
+
+msgid "Hips"
+msgstr "Бедра"
+
+msgid "Shoes"
+msgstr "Обувь"
+
+msgid "Comment"
+msgstr "Комментарий"
+
+msgid "MODEL CC 2015"
+msgstr "MODEL CC 2015"
+
+msgid "WINNER"
+msgstr "ПОБЕДИТЕЛЬ"
+
+msgid "<span>The ModelCC 2015 Winners <br>have been chosen!</span><span>Let's meet the global top models <br>who will own the runway at FCC2015!</span>"
+msgstr "<span>Победители ModelCC 2015 <br>были определены!</span><span>Давайте поприветствуем мировых топ-моделей, <br>которым будет принадлежать подиум FCC2015!</span>"
+
+msgid "View my results"
+msgstr "Посмотреть мои результаты"
+
+msgid "Top Model"
+msgstr "Топ-Модель"
+
+msgid "MODEL CC 2015 RESULTS"
+msgstr "РЕЗУЛЬТАТЫ MODEL CC 2015"
+
+msgid "Grade"
+msgstr "Оценка"
+
+msgid "Judges"
+msgstr "Судьи"
+
+msgid "Comments"
+msgstr "Комментарии"
+
+msgid "Vote for me ! "
+msgstr "Голосуйте за меня!"
+
+msgid "<span>MEET THE STAR</span><span>MODELS OF</span>"
+msgstr "<span>ВСТРЕЧАЙТЕ ЗВЕЗДНЫХ</span><span>МОДЕЛЕЙ</span>"
+
+msgid "TOMORROW"
+msgstr "ЗАВТРА"
+
+msgid "<span>You choose the top models of ModelCC 2015.</span><span>Your input creates the stars of the future.</span>"
+msgstr "<span>Вы участвуете в отборе топ-моделей для ModelCC 2015.</span><span>Ваш вклад создает звезд будущего.</span>"
+
+msgid "Total"
+msgstr "Итого"
+
+msgid "Today"
+msgstr "Сегодня"
+
+msgid "The evaluation period ends in"
+msgstr "Всеобщее голосование заканчивается через"
+
+msgid "hours,"
+msgstr "часов,"
+
+msgid "minutes."
+msgstr "минут."
+
+msgid "Please Wait, Loading.."
+msgstr "Идет Загрузка..."
+
+msgid "Evaluate more models!"
+msgstr "Оцените больше моделей!"
+
+msgid "There is no evaluation subjects"
+msgstr "Объекты для голосования отсутствуют"
+
+msgid "Back to list"
+msgstr "Вернуться к списку"
+
+msgid "About Me"
+msgstr "Обо Мне"
+
+msgid "Size"
+msgstr "Размер"
+
+msgid "Height"
+msgstr "Рост"
+
+msgid "Weight"
+msgstr "Вес"
+
+msgid "Bust"
+msgstr "Бюст"
+
+msgid "Waist"
+msgstr "Талия"
+
+msgid "Hips"
+msgstr "Бедра"
+
+msgid "Shoes"
+msgstr "Обувь"
+
+msgid "Comment"
+msgstr "Комментарий"
+
+msgid "MODEL CC 2015"
+msgstr "MODEL CC 2015"
+
+msgid "WINNER"
+msgstr "ПОБЕДИТЕЛЬ"
+
+msgid "<span>The ModelCC 2015 Winners <br>have been chosen!</span><span>Let's meet the global top models <br>who will own the runway at FCC2015!</span>"
+msgstr "<span>Победители ModelCC 2015 <br>были определены!</span><span>Давайте поприветствуем мировых топ-моделей, <br>которым будет принадлежать подиум FCC2015!</span>"
+
+msgid "View my results"
+msgstr "Посмотреть мои результаты"
+
+msgid "Top Model"
+msgstr "Топ-Модель"
+
+msgid "MODEL CC 2015 RESULTS"
+msgstr "РЕЗУЛЬТАТЫ MODEL CC 2015"
+
+msgid "Grade"
+msgstr "Оценка"
+
+msgid "Judges"
+msgstr "Судьи"
+
+msgid "Comments"
+msgstr "Комментарии"
+
+msgid "View more language"
+msgstr "Посмотреть другие языки"
+
+msgid "If you delete your information, your participation in FCC 2015 will be cancelled. Do you wish to continue?"
+msgstr "Если Вы удалите свою информацию, Ваше участие в FCC будет отменено. Хотите продолжить?"
+
+msgid "Email Verification"
+msgstr "Подтверждение Электронной Почты"
+
+msgid "Portfolio <br>Submission"
+msgstr "Загрузка <br>Портфолио"
+
+msgid "Crowd<br>Evaluation"
+msgstr "Всеобщее<br>Голосование"
+
+msgid "Crowd <br>Evaluation"
+msgstr "Всеобщее <br>Голосование"
+
+msgid "Announcement of <br>Winners"
+msgstr "Объявление <br>Победителей"
+
+msgid "Portfolio <br>Evaluation"
+msgstr "Оценка <br>Портфолио"
+
+msgid "10th Sep.<br> - <br>13th Sep."
+msgstr "10 Сен. <br> - <br> 13 Сен."
+
+msgid "FCC's Model Evaluation<br>has begun."
+msgstr "Период Голосования Конкурса Моделей FCC<br>начался."
+
+msgid "Check out another model!"
+msgstr "Оцените другую модель!"
+
+msgid "Evaluation <br>finished!."
+msgstr "Голосование <br>окончено!"
+
+msgid "Evaluation finished! see you tomorrow."
+msgstr "Голосование окончено! Увидимся завтра."
+
+msgid "14th Sep."
+msgstr "14 Сен."
+
+msgid "My results."
+msgstr "Мои результаты."
+
+msgid "Meet the star <br> models of <br> tomorrow"
+msgstr "Узнайте кто <br>стал ТОП-моделью  <br> будущего!"
+
+msgid "Registration complete!"
+msgstr "Регистрация завершена!"
+
+msgid "No design information<br>submitted."
+msgstr "Информация о работе не была<br> загружена."
+
+msgid "Individual</span><span>Registration"
+msgstr "Индивидуальная</span><span>Регистрация"
+
+msgid "Team</span><span>Registration"
+msgstr "Регистрация</span><span>Команды"
+
+msgid "Registration"
+msgstr "Регистрация"
+
+msgid "Are you registering as an individual or as a team?<br>After you choose, you will not be able to change it,<br>so proceed with caution!"
+msgstr "Вы регистрируетесь как индивидуальный участник или как команда?<br>После сделанного выбора Вы не сможете изменить порядок участия,<br>поэтому будьте внимательны!"
+
+msgid "Team name"
+msgstr "Имя Команды "
+
+msgid "Please enter a team name."
+msgstr "Пожалуйста, введите имя Вашей команды."
+
+msgid "Back"
+msgstr "Назад"
+
+msgid "Next"
+msgstr "Вперед"
+
+msgid "Category"
+msgstr "Категория"
+
+msgid "What category best describes your design?"
+msgstr "Какая категория более точно подходит к Вашей работе?"
+
+msgid "Target customer"
+msgstr "Целевой клиент"
+
+msgid "Optional"
+msgstr "Необязательно"
+
+msgid "Who is the target consumer for your design?"
+msgstr "Кто является целевым клиентом для Вашей работы?"
+
+msgid "Title"
+msgstr "Название"
+
+msgid "Please enter a title."
+msgstr "Пожалуйста, введите название"
+
+msgid "Simple description"
+msgstr "Краткое описание"
+
+msgid "Please enter a simple description of your design."
+msgstr "Пожалуйста, введите краткое описание Вашей работы."
+
+msgid "You must upload at least one image."
+msgstr "Вы должны загрузить по крайней мере одно изображение."
+
+msgid "Detailed description"
+msgstr "Детальное описание"
+
+msgid "Tell us the whole story of your design."
+msgstr "Расскажите нам историю Вашей работы"
+
+msgid "Please enter a detailed description of your design."
+msgstr "Пожалуйста, введите детальную историю Вашей работы."
+
+msgid "Team members"
+msgstr "Члены команды"
+
+msgid "Please enter a name."
+msgstr "Пожалуйста, введите имя."
+
+msgid "Please enter a valid email format."
+msgstr "Пожалуйста, введите правильный формат электронной почты."
+
+msgid "Please enter a category."
+msgstr "Пожалуйста, введите категорию."
+
+msgid "We need you to agree to a few things before we can finish your FCC registration."
+msgstr "Нам необходимо согласовать несколько деталей перед завершением Вашей регистрации на FCC."
+
+msgid "Registration complete!"
+msgstr "Регистрация завершена!"
+
+msgid "Your registration was successfully completed.</p><p>You can check out your profile to verify your information.</p><p>You may revise your information until the final day of registration."
+msgstr "Ваша регистрация была успешно завершена.</p><p>Вы можете проверить Ваш профиль для подтверждения информации.</p><p>Вы можете изменить свою информацию до последнего дня регистрации.</p>"
+
+msgid "24th Aug.<br> - <br>9th Sep."
+msgstr "24 Авг.<br> - <br>9 Сен."
+
+msgid "8th Oct.<br> - <br>15th Oct."
+msgstr "8 Окт.<br> - <br>15 Окт."
+
+msgid "During the evaluation period,</p><p>submitters are responsible for reviewing and evaluating peer designers’ submissions.</p><p>Design submitters who do not fully participate in the evaluation process <br>may find that their own submissions have been excluded from the contest."
+msgstr "Во время периода голосования</p><p>участники обязаны принимать участие в просмотре и голосовании за работы других участников.</p><p>Работы дизайнеров, не принявших полное участие в процессе голосования,<br>могут быть исключены из конкурса."
+
+msgid "Verify my registration information"
+msgstr "Подтвердить мою регистрационную информацию"
+
+msgid "16th Oct."
+msgstr "16 Окт."
+
+msgid "Delete your information?"
+msgstr "Удалить Вашу информацию?"
+
+msgid "Team Info"
+msgstr "Информация о Команде"
+
+msgid "Design Info"
+msgstr "Информация о Работе"
+
+msgid "Add comment"
+msgstr "Добавить Комментарий"
+
+msgid "Back to Result"
+msgstr "Вернуться к Рузультату"
+
+msgid "New password cannot be the same as your current password"
+msgstr "Вы не можете использовать предыдущий пароль в качестве нового"
+
+#: What do you think of me?
+msgid "$data['questions'][0]['question']"
+msgstr ""
+
+msgid "Fashion</span><span> Crowd Challenge?"
+msgstr "Что такое Fashion</span><span> Crowd Challenge?"
+
+msgid "Welcome to FCC.<br>To activate your account, please click the following link."
+msgstr "Добро пожаловать в FCC.<br>Для активации Вашего аккаунта, пожалуйста, кликните по ссылке ниже."
+
+msgid "Register"
+msgstr "Регистрация"
+
+msgid "Give the FCC Challenge a shot!"
+msgstr "Примите участие в конкурсе FCC!"
+
+msgid "Submit"
+msgstr "Загрузка"
+
+msgid "If you delete your information, your participation in FCC 2015 will be cancelled. Do you wish to continue?"
+msgstr "Если Вы удалить информацию, Ваше участие в FCC 2015 будет отменено. Хотите продолжить?"
+
+msgid "We need you to agree to a few things before we can finish your FCC registration."
+msgstr "Дизайнеры являются единственными полноправными  обладателями своих работ и имеют все права на представленные ими работы. Если работы дизайнера будут незаконно использованы третьим лицом, FCC выступит в роли поддержки законных прав обладателя."
+
+msgid "Winner’s Awards"
+msgstr "Награждение Победителей"
+
+msgid "ModelCC 2015 Winners will receive the title of TOP MODEL."
+msgstr "Победители ModelCC 2015 получат звания ТОП-МОДЕЛЕЙ. "
+
+msgid "Winners will also receive the opportunity to appear onstage at the FCC2015 fashion show."
+msgstr "Победители также получат возможность принять участие в FCC2015 Fashion Show."
+
+msgid "Model CC 2015 WINNER"
+msgstr "Победители Model CC 2015"
+
+msgid "A chance to work as an FCC model"
+msgstr "Шанс стать моделью FCC"
+
+msgid "A chance to appear onstage in the FCC fashion show."
+msgstr "Шанс появиться на подиуме FCC fashion show."
+
+msgid "A chance to appear onstage"
+msgstr "Шанс появиться на подиуме"
+
+msgid "in the FCC fashion show."
+msgstr "в FCC fashion show."
+
+msgid "Declaration of</span><span> Winners"
+msgstr "Model CC 2015</span><span>Объявление Победителей"
+
+msgid "View detail"
+msgstr "Просмотр "
+
+msgid "FCC winners will be notified of the award ceremony <br>and fashion show via email or telephone."
+msgstr "Победители конкурса моделей при FCC будут уведомлены  о церемонии награждения и деталях <br>Fashion Show через электронную почту или мобильный телефон."
+
+msgid "Model CC 2015 <br>Winners"
+msgstr "Победители Model CC 2015"
+
+msgid "View Model CC 2015 Winners"
+msgstr "Посмотреть Победителей Model CC 2015"
+
+msgid "Announcement"
+msgstr "Важная Информация"
+
+msgid "New password"
+msgstr "Новый пароль"
+
+msgid "Confirm password"
+msgstr "Введите новый пароль снова"
+
+msgid "Email Address"
+msgstr "Электронная почта"
+
+msgid "Hello"
+msgstr "Здравствуйте"
+
+msgid "View"
+msgstr "Узнать"
+
+msgid "Design<br>Submission"
+msgstr "Загрузка<br>Работ"
+
+msgid "Saved"
+msgstr "Сохранено"
+
+msgid "Current password"
+msgstr "Текущий пароль"
+
+msgid "Team name"
+msgstr "Название Команды"
+
+msgid "Team Info"
+msgstr "Информация о Команде"
+
+msgid "Did you submit your modelling portfolio?"
+msgstr "Загрузили свое модельное портфолио?      "
+
+msgid "Sign in and see your results!"
+msgstr "Авторизуйтесь и посмотрите Ваши результаты!"
+
+msgid "Download Now"
+msgstr "Скачать сейчас!"
+
+msgid "Modhello,</span><span>an app for designers."
+msgstr "Modhello, </span><span>приложение для дизайнеров."
+
+msgid "Upload your designs via Modhello!"
+msgstr "Загружайте Ваши работы через приложение Modhello!"
+
+msgid "Share with your friends!"
+msgstr "Поделитесь с друзьями!"
+
+msgid "Tell your friends that you\'ve entered FCC 2015!"
+msgstr "Расскажите своим друзьям о Вашем участии в FCC!"
+
+msgid "<span>Good Luck !</span><strong>{0} {1}</strong>"
+msgstr "<span><strong>{0} {1}</strong></span>, удачи!"
+
+msgid "<span>Good Luck !</span><strong style='display: block;'>{0} {1}</strong>"
+msgstr "<span><strong style='display: block;'>{0} {1}</strong></span>, удачи! "
+
+msgid "Thank you for a registration!"
+msgstr "Благодарим за регистрацию!"
+
+msgid "See you on Oct. 8th"
+msgstr "Возвращайтесь 8 октября."
+
+msgid "Thank you for registering,{0} {1}"
+msgstr "{0} {1}, благодарим Вас за регистрацию!"
+
+msgid "Thank you for registering with FCC! Those who are registered with FCC will occasionally receive newsletters, announcements, and updated schedules through email.<br><br>To guarantee a fair and equal opportunity for all participants, the FCC winner will be selected using an algorithm based \"collective intelligence technology.\" This process is transparent to the public. Thus, FCC allows both professionals and non-professionals to participate, free of charge. FCC hopes to serve as a revolutionary avenue for fashion designers to showcase their talents and skills.<br><br>Please check the FCC schedule.<br><br>"
+msgstr 'Спасибо за регистрацию в FCC! <br>Все участники, зарегистрированные в FCC, <br>будут получать письма с уведомлениями, важными объявлениями и обновленным графиком на указанный электронный адрес.<br><br>Для гарантированно справедливых и непредвзятых возмонжостей для всех участников, победитель FCC будет выбран посредством "технологии коллективного рузума". <br>Этот процесс абсолютно прозрачен и понятен для публики. <br>Таким образом FCC позволяет как профессионалам, так и любителям моды принять участие в данном мероприятии, при этом не ставя никаких ограничений в виде вступительных или последующий взносов. <br>FCC надеется стать проводником дизайнерам и модельерам к демонстрации своих талантов и умений.<br><br>Для информации проверьте график конкурса FCC. <br><br>'
+
+msgid "Thanks,"
+msgstr "С уважением."
+
+msgid "FCC Committee"
+msgstr "Комитет FCC. "
+
+msgid "Thank you for participating."
+msgstr "Благодарим Вас за участие."
+
+msgid "Read more"
+msgstr "Посмотреть больше"
+
+msgid "All"
+msgstr "Все"
+
+msgid "Your story"
+msgstr "Ваша история"
+
+msgid "FCC News"
+msgstr "Новости FCC"
+
+msgid "So, what\'s your story?"
+msgstr "Итак, какова Ваша история?"
+
+msgid "It’s not a story about fashion.<br>It’s a story about you."
+msgstr "Это не рассказ о моде. Это рассказ о Вас."
+
+msgid "Share your stories with us"
+msgstr "Поделитесь с нами Вашей историей"
+
+msgid "Share"
+msgstr "Поделиться"
+
+msgid "Search the Title or Registration number"
+msgstr "Искать по Названию или Номеру Регистрации"
+
+msgid "<span>Search results for {0}</span><strong>"
+msgstr "<span>Результат поиска для {0}</span><strong>"
+
+msgid "The URL has been copied. Please paste anywhere you want."
+msgstr "Ссылка была скопирована. Пожалуйста, вставьте ссылку в необходимый ресурс."
+
+msgid "Loading more"
+msgstr "Загрузка"
+
+msgid "Meet the world's fashion lovers united through Fashion Crowd Challenge "
+msgstr "Встречайте ценителей моды со всего мира, объединенных под единым началом  FCC!"
+
+#:FCC Main Page
+
+msgid "FASHION"
+msgstr ""
+
+msgid "CROWD"
+msgstr ""
+
+msgid "CHALLENGE"
+msgstr ""
+
+msgid "Submit your design"
+msgstr "Загрузка"
+
+msgid "FCC 2015 design submission begins on September 10th"
+msgstr "Загрузка работ для участия в FCC 2015 начинается с 10 Сентября"
+
+msgid "What is Fashion Crowd Challenge?"
+msgstr "Что такое Fashion Crowd Challenge?"
+
+msgid "The mission of Fashion Crowd Challenge (FCC) is to find and bring talented, <br>hidden fashion stars into the spotlight of the world. To this end, FCC is introducing a new type of fashion design competition. <br>Unlike typical design contests, design submissions in FCC are evaluated <br>by general people and peer designers."
+msgstr "Целью конкурса Fashion Crowd Challenge (FCC) является поиск талантливых, <br>до сих пор неизвестных в индустрии моды дизайнеров и их представление всему миру.<br>Именно для этого FCC презентует совершенно новый формат конкурса для дизайнеров-модельеров.  <br>В отличие от типичных дизайнерских конкурсов, заявленные участниками работы открыто оцениваются <br>общественностью и другими участниками."
+
+msgid "Design <br>Submission"
+msgstr "Загрузка <br>Работ"
+
+msgid "Upload <br>your items."
+msgstr "Загрузить <br>Ваши работы"
+
+msgid "<b>10th Sep</b> (am. 00:01) <br><b>- 7th Oct</b> (pm.10:00)"
+msgstr "10 Сен.</b> (00:01)<br><b>- 7 Окт.</b> (22:00)"
+
+msgid "Submission"
+msgstr "Перейти к загрузке"
+
+msgid "Crowd <br>Evaluation"
+msgstr "Всеобщее <br>Голосование"
+
+msgid "All uploaded material <br>will be evaluated <br>during FCC2015."
+msgstr "Все загруженные материалы будут оцениваться<br> в течении конкурса FCC2015"
+
+msgid "<b>8th Oct</b> (am. 00:01) <br><b>- 15th Oct</b> (pm.10:00)"
+msgstr "8 Окт.</b> (00:01) <br><b>- 15 Окт.</b> (22:00)"
+
+msgid "Evaluation"
+msgstr "Перейти к голосованию"
+
+msgid "Declaration <br>of Winners"
+msgstr "Объявление <br>Победителей"
+
+msgid "Here are the winners, <br>chosen by people <br>from all over the world."
+msgstr "Победители, выбранные <br>участниками со всего мира, <br>будут представлены"
+
+msgid "16th Oct"
+msgstr "16 Окт."
+
+msgid "View"
+msgstr "Просмотр"
+
+msgid "FCC\'s schedule uses Greenwich Mean Time (GMT)"
+msgstr "График FCC следует согласно формату GMT (время по Гринвичу)"
+
+msgid "Upload Method"
+msgstr "Метод загрузки"
+
+msgid "What kind of images should I submit?"
+msgstr "Какие изображения я могу загрузить?"
+
+msgid "Designs may be submitted as any image - photo, picture, sketch, illustration, etc. However, <br>to increase your chance of winning, we recommend submitting a photograph of the physical clothes you designed."
+msgstr "Работы могут быть загружены в виде любого изображения - фото, картинки, эскиза, иллюстрации и т.д. Однако <br>для повышения Ваших шансов на победу, мы рекомендуем использовать для загрузки фотографии Ваших изделий."
+
+msgid "How many designs can I upload?"
+msgstr "Сколько файлов я могу загрузить?"
+
+msgid "There is a 20-image file limit per account. You can use all 20 images to showcase a single design or <br>up to 20 different designs. How you choose to allocate your photos is completely up to you."
+msgstr "Ограничением загрузки является 20 фотографий от одного профиля. <br>Вы можете использовать все 20 изображений для демонстрации одного изделия или <br>20 различных изделий. В каком порядке загружать изображения - зависит целиком от Вас. "
+
+msgid "Who are the designers?"
+msgstr "Кем являются Дизайнеры?"
+
+msgid "The Designers are anybody who has submitted their own designs through the FCC webpage. <br>Uploaded designs will be evaluated by the judges."
+msgstr "Дизайнером считается любой участник, предоставивший свои работы для участия через сайт FCC. <br>Загруженные работы будут оценены Судьями."
+
+msgid "Designer Awards"
+msgstr "Награждение Победителей"
+
+msgid "Designers chosen as FCC2015 WINNERS will receive financial support for the launching of their brands. <br>The winning designs will also be eilgible to appear in the FCC2015 fashion show."
+msgstr "Дизайнеры, выбранные в качестве ПОБЕДИТЕЛЕЙ FCC2015, получат финансовую поддержку для создания их брендов. <br>Победители так же получат возможность демонстрировать свои работы в FCC2015 Fashion Show."
+
+msgid "Winners"
+msgstr "Победители"
+
+msgid "Financial support"
+msgstr "Финансовая поддержка"
+
+msgid "Manufacturing"
+msgstr "Производство"
+
+msgid "Promotion & Marketing"
+msgstr "Промоушн и Маркетинг"
+
+msgid "Networking tools"
+msgstr "Налаживание <br>профессиональных связей"
+
+msgid "Dream Awards"
+msgstr "Dream Awards"
+
+msgid "10 winners"
+msgstr ""
+
+msgid "5,000 USD"
+msgstr ""
+
+msgid "10 Winners"
+msgstr ""
+
+msgid "Cash prize"
+msgstr "Денежный приз"
+
+msgid "View Detail"
+msgstr "Узнать Больше"
+
+
+msgid "Who are the judges?"
+msgstr "Кем являются Судьи ?"
+
+msgid "Anybody who has registered for the FCC website can be a judge! <br>View and evaluate designs from all over the world via a simple process."
+msgstr "Любой желающий, зарегистрировавшийся на сайте FCC, может выступать в качестве Судьи!  <br>Просматривайте и голосуйте за понравившиеся работы дизайнеров со всего мира через очень простой процесс голосования."
+
+msgid "Judge Awards"
+msgstr "Награждение Судей"
+
+msgid "Judges who make a special effort to give constructive feedback, inspiration and support to <br>the participating designers will be invited to the FCC2015 fashion show and receive products <br>from the winning designers."
+msgstr "Судьи, особо активно участвующие в процессе голосования, предоставившие конструктивные отзывы и поддерживающие <br> дизайнеров, будут приглашены на FCC2015 Fashion Show, а также получат продукцию <br> от победивших участников."
+
+msgid "Trend Maker"
+msgstr ""
+
+msgid "2016 Crowd Challeng <br>Festival Shanghai Invitation"
+msgstr "Приглашение на 2016 Crowd Challenge Festival "
+
+msgid "Airline"
+msgstr "Авиабилеты"
+
+msgid "Tickets"
+msgstr " "
+
+msgid "Trend Influencer"
+msgstr ""
+
+msgid "Winning <br>Designer’s Work"
+msgstr "Изделия дизайнеров-победителей"
+
+msgid "You are the star of FCC 2015 !"
+msgstr "Вы звезда FCC 2015 !"
+
+msgid "Come take part in FCC2015, <br>the global fashion festival which allows you to shape global fashion <br>with your very own hands. <br>We are waiting for you."
+msgstr "Примите участие в FCC2015, <br>международном фестивале моды, который позволит Вам создать мировую моду <br>самостоятельно. Мы ждем Вас."
+
+msgid "Designer’s Responsibilities"
+msgstr "Ответственность Дизайнера"
+
+msgid "During the evaluation period, submitters are responsible for reviewing and evaluating peer designers’ submissions. Design submitters who do not fully participate in the evaluation process may find that their own submissions have been excluded from the contest. Works submitted to FCC should be the original creation or property of the designer. If the designer would like to use a copyrighted logo, pattern or character, proper licensing must be obtained before uploading the work to FCC. Any issues regarding copyright or plagiarism will become the sole responsibility of the designer, and their works will be excluded from the contest. Furthermore, works that include hate speech, violence, sexual harassment, racism, sexism, religious or political discrimination, stolen content, violence against animals, or generally offensive material are banned and can be excluded from winning prizes even if they receive winning votes."
+msgstr "Во время периода голосования, заявители несут ответственность за рассмотрение и оценивание работ других дизайнеров. Работы тех участников, которые не в полной мере участвовали в процессе голосования, могут быть исключены из конкурса. Работы, представленные для участия в FCC должны быть оригинальным творением или собственностью дизайнера. Если дизайнер хотел бы использовать защиту авторского права, логотип или инициалы, права должны быть зарегистрированы до презентацию работ на FCC. Любые вопросы, касающиеся авторского права или плагиат, являются индивидуальной ответственностью дизайнеров, и в случае нарушения, их работы будут исключены из конкурса. Кроме того, произведения, которые включают в себя аспекты ненависти, насилия, сексуальных домогательств, расизм, сексизм, религиозной или политической дискриминации, украденный контент, насилие в отношении животных или оскорбительные материалы - запрещены и могут быть исключены из числа призовых мест, даже если они получат большее количество голосов."
+
+msgid "More Details"
+msgstr "Для Большей Информации"
+
+msgid "Download Brochure"
+msgstr "Скачать Брошюру"
+
+msgid "The first 5 winning designers, which consists of a 100,000USD 1st place winner (one designer), 30,000 USD 2nd place winner (two designers), and 20,000USD 3rd place winner (two designers), will work with FCC and receive financial support for the manufacturing, promotion and marketing, as well as being provided networking tools for their designs or brands.<br>Therefore, by connecting designers with new buyers and markets, FCC will aim to raise designers to the height of international fame.<br>FCC will work with the winning designers to customize a financial package that best suits their needs. Whether you need help with manufacturing, distributing, networking, or marketing, FCC will help you in developing successful strategies.<br>On the other hand, if your brand is already being manufactured, marketed and distributed, the FCC will be a new platform to introduce your brand to new markets. The FCC will work with you to highlight your full potential and boost your recognition. We will help to foster a professional relationship between you and the fashion industry.<br>Dream Award winners (10 designers) will receive a 5,000 USD cash prize.<br>All winning designers will also be eligible to appear in the Crowd challenge festival 2016 held in Shanghai which will definitely be a unique opportunity to elevate your brand to the next level."
+msgstr "обладатель 1-ого места с призовым фондом 100,000 USD (1 дизайнер), финалисты разделившие 2-ое место (2 дизайнера) с призовым фондом 30,000 USD и финалисты, занявшие 3-е место (2 дизайнера) с призовым фондом 20,000 USD, будут работать совместно с FCC и получат финансовую поддержку для производства, продвижения и маркетинга, а также им будут предоставлены необходимые инструменты и связи для улучшения полного процесса работы их брендов.<br><br>Посредством соединения дизайнеров с потенциальными заказчиками и непосредственно рынком сбыта, FCC ставит перед собой цель развить возможности дизайнеров до международных стандартов.<br><br>FCC будет работать с дизайнерами-победителями касательно финансового плана, который более эффективно будет подходить потребностям дизайнеров. FCC окажет поддержку и поможет в составлении эффективного стратегического планирования относительно любого Вашего вопроса, касающегося производства, продвижения, сетей поставок или маркетинга Вашего бренда.<br><br>Также необходимо отметить, что в случае если Ваш бренд уже достаточно успешен, FCC выступит в роли платформы для представления  вышеупомянутых брендов на новые мировые рынки. FCC будет сотрудничать  с Вами с целью оптимизации Вашего потенциала и всеобщего признания. Мы поможем Вам настроить профессиональные связи с различными составляющими индустрии моды.<br><br>Победители в номинации Dream Awards (10 дизайнеров) получат денежный приз в размере 5,000 USD.<br><br>Все финалисты конкурса также получат право представить свои работы на Crowd Challenge Festival 2016, который будет проводиться в Шанхае и вне всяких сомнений станет уникальной возможностью поднять бренды участников на совершенно новый уровень."
+
+msgid "Click here for full terms and conditions"
+msgstr "Кликните здесь для большей информации о сроках и деталях."
+
+msgid "The title of “Trend Maker” will be awarded to the top five judges whose evaluation style closely matches the overall trend of the general public.  “Trend Maker” award winners will receive an invitation to the 2016 Crowd Challenge Festival Shanghai, airline tickets with accommodations and the Crowd Challenge Festival gift package, which includes some of the winning designers’ work.<br><br>The title of “Trend Influencer” will be given to the next ten judges whose evaluation style closely matches the overall trend of the general public. “Trend Influencers” award winners will receive a Crowd Challenge Festival gift package, which includes some of the winning designers’ work.<br><br>The 2016 Crowd Challenge Festival Shanghai will be the must-see event of the year. The festival will host the first annual Crowd Challenge Fashion Show that will showcase the Fashion Crowd Challenge winning designers, worn by the winners of the Model Crowd Challenge, from around the world. Along with the fashion show will be performances from some of the most popular Korean Pop groups in the music industry today. It will be a glamorous occasion celebrating fashion, music, and the crowd."
+msgstr "Звание \"Trend Maker\” будет дано тем дизайнерам, чья оценка будет наиболее близко соответствовать общей статистике. Победители номинации “Trend Maker” получат приглашения на 2016 Crowd Challenge Festival в Шанхае, совместно с авиабилетами, проживанием и подарочными наборами, которые будут включать в себя изделия от дизайнеров-победителей.<br><br>Звание “Trend Influencer“ будет дано следующим 10-ти судьям, чьи оценки наиболее точно отразят тенденции всеобщего голосования. Победители номинации “Trend Influencer” получат подарочные наборы, которые будут включать в себя изделия от дизайнеров-победителей.<br><br>2016 Crowd  Challenge Festival в Шанхае это  одно из главных событий года. Данное событие ознаменует первое ежегодное Crowd Challenge Fashion Show, на котором будут представлены дизайнеры-победители конкурса Fashion Crowd Challenge и их работы, продемонстрированные победившими в конкурсе Model Crowd Challenge моделями со всего мира. Совместно  с fashion show, фестиваль будет включать в себя выступления нескольких широко известных в музыкальной индустрии K-POP коллективов. Это будет действительно блистательное событие, отождествляющее моду, музыку и широкую общественность."
+
+msgid "Incentive"
+msgstr "Поощрение"
+
+msgid "Create account<br>or Sign in"
+msgstr "Присоединиться<br>или Авторизоваться"
+
+#:FCC Committee
+
+
+msgid "We\'re looking for members who can serve on the FCC2015 Committee.<br/>Recommend people you know to us !"
+msgstr "Мы ищем кандидатов, которые могут быть частью Комитета FCC2015. Рекомендуйте подходящих для этой позиции людей! "
+
+msgid "This person is an inspiration that can offer valuable advice<br>and serve as a role model to others."
+msgstr "Этот человек является  вдохновением для дизайнеров во всем мире и может дать ценные советы для других."
+
+msgid "Number of applications received"
+msgstr "Число полученных заявок"
+
+msgid "Number of confirmed members"
+msgstr "Число подтвержденных участников"
+
+msgid "Recommendation"
+msgstr "Число рекомендаций"
+
+msgid "Information"
+msgstr "О Комитете"
+
+msgid "Application"
+msgstr "Заявка в Комитет"
+
+msgid "Search"
+msgstr "Поиск"
+
+#: 20 candidates found
+msgid "0</span></strong> candidates found"
+msgstr "0</span></strong> Найдено кандидатов "
+
+msgid "Recommend"
+msgstr "Рекомендовать"
+
+msgid "Details"
+msgstr "Детали"
+
+msgid "Confirmed member"
+msgstr "Утвержденный член"
+
+msgid "There are no registered Committee members."
+msgstr "Зарегистрированных членов Комитета не обнаружено"
+
+msgid "Visit the application page to apply or recommend someone to be a member of the Committee."
+msgstr "Любой желающий может подать заявку на членство в Комитете.<br/>Вы можете посетить страницу подачи заявок, чтобы зарегистрироваться или рекомендовать кого-то."
+
+msgid "Back"
+msgstr "Назад"
+
+msgid "You\'ve submitted a vote for a Committee member."
+msgstr "Вы проголосовали за члена Комитета."
+
+msgid "You can vote for each candidate once per day."
+msgstr "Вы можете проголосовать за каждого кандидата один раз в день."
+
+msgid "Confirm"
+msgstr "Подтверждение"
+
+msgid "Cancel"
+msgstr "Закрыть"
+
+msgid "Recommend someone to serve on the FCC2015 Committee!"
+msgstr "Рекомендуйте кандидата для вступления в Комитет FCC2015!"
+
+msgid "Introduction"
+msgstr "О Комитете"
+
+msgid "We would like to invite to the FCC Committee anyone can inspire, challenge, and encourage the Fashion Crowd Challenge designers."
+msgstr "Мы приглашаем стать членом Комитета FCC любого желающего, способного вдохновить и поддержать участвующих дизайнеров"
+
+msgid "Committee candidate recommendation and application"
+msgstr "Заявка на вступление и рекомендация кандидата"
+
+msgid "Submit your reason for recommending a candidate, along with their basic personal info (in any language).<br>Anyone can be recommended as a Committee candidate."
+msgstr "Предоставьте объяснение рекомендации выбранного кандидата вместе с его биографией (на любом языке). <br>Любой желающий может быть рекомендован в роли кандидата."
+
+msgid "How to apply for Committee membership"
+msgstr "Как подать заявку на членство в Комитете"
+
+msgid "Whichever candidate receives the most votes will become a member of the FCC2015 Committee.<br>Anyone can vote for a committee member. It is not necessary to log in."
+msgstr "Кандидат, получивший большее количество голосов, получит привилегию быть членом Комитета FCC2015.<br>Участвовать в голосовании может любой желающий. Использование авторизации не обязательно."
+
+msgid "Process of becoming a Committee member"
+msgstr "Процесс подтверждения членства в Комитете"
+
+msgid "1. Committee membership application<br>2. Committee membership approval<br>3. New member formally begins Committee activity"
+msgstr "1. Заявка на членство в Комитете <br>2. Подтверждение членства <br>3. Участие в конкурсе в роли утвержденного члена Комитета"
+
+msgid "<li>If there is an error or mistake in the Committee candidate request, the submission may be canceled.</li><li>Committee candidate information may not be edited after uploading.</li>"
+msgstr "<li>Ваш запрос на участие может быть удален в случае возникновения проблем с заявкой.</li><li>Ваша заявка на участие в роли члена Комитета не может быть отредактирована или удалена.</li>"
+
+msgid "English name"
+msgstr "Имя на английском"
+
+msgid "<li>-You can check who is registered as a candidate.</li><li>-Registered names can be entered again.</li>"
+msgstr "<li>-Вы можете проверить кто зарегистрирован в качестве кандидата.</li><li>-Зарегистрированные имена могут быть введены снова.</li>"
+
+msgid "Confirm registration"
+msgstr "Подтверждение"
+
+msgid "Picture"
+msgstr "Изображение"
+
+msgid "Browse…"
+msgstr "Обзор…"
+
+msgid "<li>-Image size: 420 * 420/ ~5 MB</li><li>-Large images will be cropped.</li>"
+msgstr "<li>-Размер изображения: 420 * 420 / ~5 МБ </li><li>-Большие изображения будут обрезаны.</li>"
+
+msgid "Reason for recommendation"
+msgstr "Причина рекомендации"
+
+msgid "Provide a detailed explanation for your recommendation"
+msgstr "Пожалуйста, дайте подробное объяснение Вашей рекомендации."
+
+msgid "Submitted information cannot be revised or edited."
+msgstr "Вы не сможете изменить или отредактировать информацию после загрузки работ."
+
+msgid "Country where candidate is from"
+msgstr "Страна проживания кандидата"
+
+msgid "The candidate\'s information will be viewed primarily by people residing in his or her provided location."
+msgstr "Заявка кандидата будет рассматриваться в первую очередь людьми, проживающих в его (ее) местности."
+
+msgid "Click on the left picture to recommend."
+msgstr "Нажмите на изображение слева для рекомендации."
+
+msgid "An error occurred. Please try again."
+msgstr "Произошла ошибка. Пожалуйста, попробуйте снова."
+
+msgid "Recommended Image"
+msgstr "Рекомендованное изображение. "
+
+msgid "No image file attached."
+msgstr "Ни одного изображения не было загружено."
+
+msgid "You can attach only image files."
+msgstr "Вы можете загрузить только изображение."
+
+msgid "Upload limit exceeded."
+msgstr "Превышение лимита загрузок."
+
+msgid "Submission accepted."
+msgstr "Заявка принята."
+
+msgid "Once you submit this information, you will be unable to edit or delete it."
+msgstr "Вы не сможете изменить или удалить информацию после ее загрузки."
+
+msgid "Please enter a name."
+msgstr "Пожалуйста, введите Ваше имя"
+
+msgid "Please enter the name using only English letters."
+msgstr "Пожалуйста, введите Ваше имя на английском языке."
+
+msgid "You haven\'t attached a picture."
+msgstr "Вы не загрузили изображение."
+
+msgid "Please enter your recommendation reason."
+msgstr "Пожалуйста, введите причину Вашей рекомендации."
+
+msgid "Image size must be greater than 420x420 pixels."
+msgstr "Формат изображения должен быть больше 420х420 пикселей."
+
+msgid "Your attachment cannot exceed 5MB."
+msgstr "Ваши загруженные материалы не должны превышать 5 MB."
+
+msgid "Please choose a country."
+msgstr "Выберите страну."
+
+msgid "You can submit only one candidate per day."
+msgstr "Вы можете зарегистрировать одного кандидата в день."
+
+msgid "Please enter the candidate\'s name in four or more English letters."
+msgstr "Введите имя кандидата, используя 4 или больше латинских символов."
+
+msgid "Please enter the candidate\'s name in four or more English letters and then click Confirm Registration."
+msgstr "Введите имя кандидата, используя 4 или больше латинских символов и нажмите кнопку Подтвердить Регистрацию."
+
+msgid "SEARCH"
+msgstr ""
+
+msgid "Committee Application"
+msgstr "Заявка в Комитет"
+
+msgid "Anyone can apply to be a Committee candidate.<br>Visit the application page to apply or recommend."
+msgstr "Любой желающий может подать заявку на членство в Комитете.<br>Вы можете посетить страницу подачи заявок, чтобы подать заявку или рекомендовать другого кандидата. Пожалуйста, заполняйте Вашу рекомендацию внимательно!"
+
+msgid "Application"
+msgstr "Заявка в Комитет"
+
+msgid "What will Committee members do?"
+msgstr "Как именно будут задействованы члены Комитета?"
+
+msgid "Committee members will cheer on the participating designers in a variety of ways, including (but not limited to!) sending inspiring messages and encouraging them to participate in the voting process."
+msgstr "Члены Комитета будут всячески поддерживать участвующих в конкурсе дизайнеров различными способами (например отправлять сообщения с советами и воодушевлять их принять участие в процессе голосования)."
+
+msgid "Please Wait, Loading.."
+msgstr "Подождите, идет загрузка..."
+
+msgid "More"
+msgstr "Больше"
+
+msgid "FCC 2015 will provide the top judges that gave excellent evaluation results an invitation to the 2016 Crowd Challenge Festival in Shanghai with airline tickets, accommodation, and works from the winning designers."
+msgstr "FCC 2015 предоставит топ-судьям, принявшим наиболее активное участие во всеобщем голосовании, приглашение на 2016 Crowd Challenge Festival в Шанхае, в покрытием затрат на авиабилеты и проживание, а также топ-судьи получат подарочные наборы с работами от дизайнеров-победителей."
+
+msgid "Find out more about FCC 2015"
+msgstr "Узнайте больше о FCC 2015"
+
+msgid "Do not show again today."
+msgstr "Не показывать сегодня снова."
+
+msgid "10th Sep.<br> - <br>7th Oct."
+msgstr "10 Сен.<br> - <br>7 Окт."
+
+msgid "Not a member yet?"
+msgstr "Еще не зарегистрировались?"
+
+msgid "Fashion CC 2015</span><span>Design Submission Start"
+msgstr "FCC 2015</span><span>Начало Загрузки Работ"
+
+msgid "Fashion CC 2015</span><span>Evaluations Start"
+msgstr "FCC 2015</span><span>Всеобщее Голосование Начинается!"
+
+msgid "Be a judge"
+msgstr "Будьте судьей"
+
+msgid "Check out another designer!"
+msgstr "посмотреть другого дизайнера"
+
+msgid "Evaluate"
+msgstr "оценить"
+
+msgid "FCC\'s evaluation<br>has begun."
+msgstr "FCC Всеобщее Голосование Начинается"
+
+msgid "FCC 2015 Evaluation Guide"
+msgstr "Руководство для голосования FCC 2015"
+
+msgid "The FCC 2015 Evaluation to meet the world\'s talented designers\' works has begun!"
+msgstr "Всеобщее голосование FCC 2015 - возможность встретить работы талантивых дизайнеров со всего мира!"
+
+msgid "Do you want to be a judge? Use the evaluation guide to start judging now."
+msgstr "Хотите стать судьей? Используйте руководство к голосованию чтобы начать оценивать работы прямо сейчас."
+
+msgid "See the guide"
+msgstr "Посмотреть руководство"
+
+msgid "FCC invites the top voted designers to join FCC Committee on this page."
+msgstr "FCC приглашает дизайнеров, занявших топ-позиции в нашем ежедневном голосовании, <br>вступить в FCC Committee на нашей официальной странице"
+
+msgid "Recommend or vote people you respect"
+msgstr "Рекомендуйте кандидатов и голосуйте!"
+
+
+#:FCC 평가 인덱스
+
+
+msgid "Choose the winners of the Fashion Crowd Challenge!"
+msgstr "Выберите победителей конкурса Fashion Crowd Challenge!"
+
+msgid "Top 15 Designers"
+msgstr "15 Топ-Дизайнеров"
+
+msgid "Popular Designers"
+msgstr "Самые популярные дизайнеры"
+
+msgid "By Region"
+msgstr "По региону"
+
+msgid "By Gender"
+msgstr "По полу"
+
+msgid "By Age"
+msgstr "По возрасту"
+
+msgid "Find out more about 2015 Fashion Crowd Challenge"
+msgstr "Узнайте больше о Fashion Crowd Challenge 2015"
+
+msgid "The 2015 FCC Design evaluation to find the best fashion designer has started!"
+msgstr "Начался период всеобщего голосования FCC 2015, определяющий лучших дизайнеров конкурса!"
+
+msgid "During the evaluation period, this page contains the top 15 most popular designer's works by region, gender, and age updated daily."
+msgstr "Во время периода всеобщего голосования, на данной странице ежедневно будут публиковаться 15 наиболее популярных дизайнеров, выбранных по региону, полу и возрасту."
+
+
+msgid "The daily results will be collected"
+msgstr "Ежедневные результаты будут подсчитываться"
+
+msgid "by 22:00 GMT"
+msgstr "к 22:00 GMT"
+
+msgid "and the FCC system CES"
+msgstr "и система CES"
+
+msgid "(Crowd Evaluation System) will"
+msgstr "(Crowd Evaluation System) будет"
+
+msgid "calculate fairly"
+msgstr "совершенно непредвзято вычислять"
+
+msgid "all the designs and announce the results at 00:00 GMT after 2 hours."
+msgstr "результаты всех дизайнеров и аннонсировать их к 00:00 GMT после 2 часов."
+
+msgid "Participate in"
+msgstr "Участвуйте в"
+
+msgid "the 2015 FCC Judging!"
+msgstr "голосовании FCC 2015"
+
+msgid "Judges who make a special effort to give constructive feedback,"
+msgstr "Судьи, особо активно участвующие в процессе голосования,"
+
+msgid "inspiration and support to"
+msgstr "предоставившие конструктивные отзывы"
+
+msgid "the participating designers will be invited to the FCC2015 fashion show"
+msgstr "и поддерживающие <br> дизайнеров, будут приглашены на FCC2015 Fashion Show,"
+
+msgid "and receive products"
+msgstr "а также получат продукцию"
+
+msgid "from the winning designers."
+msgstr "от победивших участников."
+
+msgid "Today’s evaluation has closed"
+msgstr "Процесс голосования на сегодня окончен"
+
+
+
+msgid "The daily results will be collected by xx:xx GMT and the FCC system CES (Crowd Evaluation System) will calculate fairly all the designs and announce the results at xx:xx GMT after X hours."
+msgstr "Ежедневные результаты будут подсчитываться к xx:xx GMT и система CES (Crowd Evaluation System) будет совершенно непредвзято вычислять результаты всех дизайнеров и аннонсировать их к xx:xx GMT после  X часов."
+
+msgid "8th Oct"
+msgstr "8 Окт."
+
+msgid "Participate in the 2015 FCC Judging!"
+msgstr "Участвуйте в  голосовании FCC 2015!"
+
+msgid "Evaluate Now"
+msgstr "Голосуйте Прямо Сейчас!"
+
+msgid "Coming soon"
+msgstr ""
+
+msgid "Announced"
+msgstr ""
+
+
+#: FCC 평가 페이지
+
+
+msgid "Meet the star designer of tomorrow"
+msgstr "Узнайте кто станет<br>лучшим дизайнером будущего!"
+
+msgid "You choose the top Designers of FCC 2015. Your input creates the stars of the future."
+msgstr "Вы выбираете топ-дизайнеров FCC2015.<br>Ваш вклад очень важен для будущего моды!"
+
+msgid "There are no results."
+msgstr "Нет результатов."
+
+msgid "Evaluate more designers!"
+msgstr "Оценить больше дизайнеров!"
+
+msgid "In Progress"
+msgstr ""
+
+msgid "Complete"
+msgstr ""
+
+
+
+
+#: FCC 평가 발표 페이지
+
+
+msgid "FCC 2015 Winner"
+msgstr "Победитель<br>FCC 2015 "
+
+msgid "The FCC 2015 winners have been selected!"
+msgstr "Победители FCC 2015 были выбраны!"
+
+msgid "Go check out the designers who will usher in the next generation of fashion!"
+msgstr "Узнайте кто возглавит следующее поколение дизайнеров!"
+
+
+#: FCC 나의 결과 페이지
+
+
+msgid "Congratulations! You’re sitting alone at the top of the FCC fashion competition! Are you ready for the Global Fashion Show?"
+msgstr "Поздравляем!<br>Вы на вершине конкурса FCC!<br>Вы готовы к мировому Fashion Show?"
+
+msgid "You have been chosen as a winner of the FCC Dream Award! Go meet the other winners in the Global Fashion Show!"
+msgstr "Вы были выбраны в качестве победителя в номинации FCC Dream Award! <br>Встретьтесь с другими победителями на мировом Fashion Show!"
+
+msgid "Congratulations! You’ve been recognized as the biggest personality in FCC! You are a genuine Master of Style! Come back to FCC next year and shoot for the gold!"
+msgstr "Поздравляем! Вы являетесь одним из важнейших участников FCC! Вы гениальный мастер стиля и моды! Присоединяйтесь к FCC в следующем году и возвращайтесь за победой!"
+
+msgid "Sorry, you don’t get an award this year..but come back next year and give it another shot! You’ve got fashion sense and talent. Reach for the stars!"
+msgstr "К сожалению Вы не победили в этом году… <br>возвращайтесь в следующем году и поборитесь за победу снова!                 "
+
+msgid "You didn’t get an award, but don’t despair! You achieved a high rank among FCC participants. Come back next year for a fresh challenge!"
+msgstr "Вы не победили в какой-либо номинации, но находитесь на вершине чарта среди участников FCC. Возвращайтесь в следующем году за победой!"
+
+
+#: FCC 평가에 등록기간 만료 페이지
+
+msgid "The FCC 2015 registration period is over."
+msgstr "Регистрационный период FCC 2015 закончен. "
+
+msgid "We\'re very sorry, but you cannot join FCC 2015. Please come back next time! Even if you are not a designer, you can still participate in FCC 2015. Be a Judge for our FCC 2015 competition! Evaluate participants from all over the world and choose FCC 2015\'s top designer! Please refer to FCC 2015\'s schedule.<br><p>Please refer to ModelCC\'s schedule.</p>"
+msgstr "<p>Нам очень жаль, но Вы не можете присоединиться к FCC 2015. <br>Пожалуйста, возвращайтесь в следующий раз! <br>Даже если Вы не являетесь дизайнером, Вы можете принять учаcтие в FCC 2015. <br>Будьте Судьей в нашем конкурсе FCC 2015! <br>Оценивайте работы участников со всего мира и выберите топ-дизайнера FCC 2015! <br>Обратите внимание на график FCC 2015. </p>"
+
+msgid "It looks like you haven't reviewed all the designers yet. Please check the list again."
+msgstr "Похоже Вы еще не оценили всех дизайнеров. Пожалуйста, проверьте список снова."
+
+msgid "Your evaluation is complete! Go judge more designers!"
+msgstr "Ваше голосование завершено! Оцените больше дизайнеров!"
+
+
+#: FCC 평가 상세 페이지
+
+
+msgid "What do you think about this design?"
+msgstr "Что Вы думаете о данной работе?"
+
+msgid "Leave a comment for this designer."
+msgstr "Оставить комментарий для дизайнера."
+
+#:What do you think about this design?
+msgid "good?"
+msgstr "Что Вы думаете о данной работе?"
+
+
+msgid "Prev"
+msgstr "Пред."
+
+msgid "ious"
+msgstr " "
+
+msgid "Previous"
+msgstr "Пред."
+
+msgid "Your evaluation is complete."
+msgstr "Ваше голосование завершено."
+
+msgid "Go meet more designers!"
+msgstr "Посмотрите других дизайнеров!"
+
+msgid "You have finished all of today's evaluations."
+msgstr "Ваше голосование на сегодня завершено."
+
+msgid "Come back tomorrow!"
+msgstr "Возвращайтесь завтра!"
+
+msgid "Okay, see you tomorrow."
+msgstr "Увидимся завтра."
+
+msgid "No, thank you."
+msgstr "Нет, спасибо."
+
+msgid "Yes, please."
+msgstr "Да, пожалуйста."
+
+
+msgid "We\'ll back soon."
+msgstr "Мы скоро вернемся."
+
+msgid "Our service is temporary down for <br>the maintenance purpose."
+msgstr "В данный момент наш сайт закрыт в связи с техническими работами."

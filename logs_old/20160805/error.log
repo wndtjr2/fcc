@@ -1,0 +1,14 @@
+2016-08-06 01:43:34 Error: [Cake\Routing\Exception\MissingControllerException] Controller class .well-known could not be found.
+Request URL: /.well-known/apple-app-site-association
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-08-06 01:56:04 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Apple-app-site-association could not be found.
+Request URL: /apple-app-site-association
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+

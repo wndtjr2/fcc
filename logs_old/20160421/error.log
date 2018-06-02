@@ -1,0 +1,28 @@
+2016-04-21 11:34:33 Error: [Facebook\Exceptions\FacebookSDKException] Cross-site request forgery validation failed. Required param "state" missing.
+Request URL: /auth/loginCallBackFacebook?code=AQBDESRK0mL71jgQX8UX2ZlwDYUatEozCKx2WaMdtXuMZPxW7AJtkgLR8_AIS_Ypqcyu1qgLemv8tdIA9fpSJvdQutMFRbcK64yMFwWtwKfzXZWxKBAx4q0LTu8z5EQRRZ8IQBFdQkjOde73RVKCSMkUwG6mRfVvL2jyOH0l35PPvJkYI9b3cgKOfSvZI_403Uo1LuDlhjqKMQTuQR1AMh6r2_f6BKINNyu49gpkXsD15fkaHitRYxjxq0JL678gcSsyweTUC9O4bYjWNtc32nV7SAZK9FTXWnrGm5_Q4_NZZWZn7uEJLJzR2zfS1bCfZmyX4rqap2AzKDV69U0bNvHS&state=672e4bb23904a4db73abbaaea5912913
+Stack Trace:
+#0 /var/www/fcctv.co.kr/vendor/facebook/php-sdk-v4/src/Facebook/Helpers/FacebookRedirectLoginHelper.php(221): Facebook\Helpers\FacebookRedirectLoginHelper->validateCsrf()
+#1 /var/www/fcctv.co.kr/src/Service/FacebookService.php(106): Facebook\Helpers\FacebookRedirectLoginHelper->getAccessToken()
+#2 /var/www/fcctv.co.kr/src/Controller/AuthController.php(220): App\Service\FacebookService->getProfile()
+#3 [internal function]: App\Controller\AuthController->loginCallBackFacebook()
+#4 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Controller/Controller.php(412): call_user_func_array(Array, Array)
+#5 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#6 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\AuthController))
+#7 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#8 {main}
+
+
+2016-04-21 11:35:01 Error: [Facebook\Exceptions\FacebookSDKException] Cross-site request forgery validation failed. The "state" param from the URL and session do not match.
+Request URL: /auth/loginCallBackFacebook?code=AQDKPW98jsPezajO9tH0PwgpGnNBoqsvSyE_W8-8KUhnzS_dXsU2_U7BQ9R0OAnnjmPsmu-ceLb0PEYDTkJclkqjuxzelhj-ZnG3ZznDQ4Uh70T-Rpn-GcNwSB2_UIWd7X0Hwsw4tTR2NQulotXLwb5qKYIq4nk2zTfP8PF_M7x3jmvh11C-YffEjNgAFumqEJzcoYbxzZ6bKUO0c4-ne7uoE9R1aWWnCuvHdkbWBfmRCpdqCZQd_NgqHuNLvtDZQSEvE7qkhxbYg7olS23AiiBzUchPCqARo9_XAGJvx01eiyXe5zN7bljioUjVdRp1qt9v0SLl73kVOtq0XpGkZnCc&state=c90db3148c07228ebc3e0823267a29ea
+Stack Trace:
+#0 /var/www/fcctv.co.kr/vendor/facebook/php-sdk-v4/src/Facebook/Helpers/FacebookRedirectLoginHelper.php(221): Facebook\Helpers\FacebookRedirectLoginHelper->validateCsrf()
+#1 /var/www/fcctv.co.kr/src/Service/FacebookService.php(106): Facebook\Helpers\FacebookRedirectLoginHelper->getAccessToken()
+#2 /var/www/fcctv.co.kr/src/Controller/AuthController.php(220): App\Service\FacebookService->getProfile()
+#3 [internal function]: App\Controller\AuthController->loginCallBackFacebook()
+#4 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Controller/Controller.php(412): call_user_func_array(Array, Array)
+#5 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#6 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\AuthController))
+#7 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#8 {main}
+
+

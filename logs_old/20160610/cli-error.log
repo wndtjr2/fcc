@@ -1,0 +1,19 @@
+2016-06-11 06:01:36 Error: [Cake\Core\Exception\Exception] fopen(http://api.facebook.com/restserver.php?method=links.getStats&urls=https://www.facebook.com/fcctvhq): failed to open stream: Connection timed out
+Stack Trace:
+#0 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Network/Http/Adapter/Stream.php(260): Cake\Network\Http\Adapter\Stream->_open('http://api.face...')
+#1 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Network/Http/Adapter/Stream.php(81): Cake\Network\Http\Adapter\Stream->_send(Object(Cake\Network\Http\Request))
+#2 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Network/Http/Client.php(358): Cake\Network\Http\Adapter\Stream->send(Object(Cake\Network\Http\Request), Array)
+#3 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Network/Http/Client.php(332): Cake\Network\Http\Client->send(Object(Cake\Network\Http\Request), Array)
+#4 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Network/Http/Client.php(207): Cake\Network\Http\Client->_doRequest('GET', 'http://api.face...', Array, Array)
+#5 /var/www/fcctv.co.kr/src/Service/FacebookService.php(176): Cake\Network\Http\Client->get('http://api.face...')
+#6 /var/www/fcctv.co.kr/src/Shell/SnsCounterShell.php(46): App\Service\FacebookService->getLikeCount()
+#7 /var/www/fcctv.co.kr/src/Shell/SnsCounterShell.php(34): App\Shell\SnsCounterShell->getFacebookLikeCounter()
+#8 [internal function]: App\Shell\SnsCounterShell->main()
+#9 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Console/Shell.php(390): call_user_func_array(Array, Array)
+#10 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Console/ShellDispatcher.php(203): Cake\Console\Shell->runCommand(Array, true)
+#11 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Console/ShellDispatcher.php(174): Cake\Console\ShellDispatcher->_dispatch()
+#12 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Console/ShellDispatcher.php(125): Cake\Console\ShellDispatcher->dispatch()
+#13 /var/www/fcctv.co.kr/bin/cake.php(33): Cake\Console\ShellDispatcher::run(Array)
+#14 {main}
+
+

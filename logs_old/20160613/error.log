@@ -1,0 +1,474 @@
+2016-06-13 14:21:43 Error: 
+App\Controller\PurchasesController::orderBefore() - APP/Controller/PurchasesController.php, line 282
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'Unauthorized Action was detected., users_id : 31, session's token and oid do not match.'
+2016-06-13 14:21:43 Error: [Cake\Network\Exception\BadRequestException] Unauthorized Action was detected.
+Request URL: /Purchases/orderBefore
+Stack Trace:
+#0 [internal function]: App\Controller\PurchasesController->orderBefore()
+#1 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Controller/Controller.php(412): call_user_func_array(Array, Array)
+#2 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#3 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\PurchasesController))
+#4 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#5 {main}
+
+
+2016-06-13 14:23:42 Error: 
+App\Controller\PurchasesController::orderBefore() - APP/Controller/PurchasesController.php, line 282
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'Unauthorized Action was detected., users_id : 31, session's token and oid do not match.'
+2016-06-13 14:23:42 Error: [Cake\Network\Exception\BadRequestException] Unauthorized Action was detected.
+Request URL: /Purchases/orderBefore
+Stack Trace:
+#0 [internal function]: App\Controller\PurchasesController->orderBefore()
+#1 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Controller/Controller.php(412): call_user_func_array(Array, Array)
+#2 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#3 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\PurchasesController))
+#4 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#5 {main}
+
+
+2016-06-13 14:23:51 Error: 
+App\Controller\PurchasesController::orderBefore() - APP/Controller/PurchasesController.php, line 282
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'Unauthorized Action was detected., users_id : 31, session's token and oid do not match.'
+2016-06-13 14:23:51 Error: [Cake\Network\Exception\BadRequestException] Unauthorized Action was detected.
+Request URL: /Purchases/orderBefore
+Stack Trace:
+#0 [internal function]: App\Controller\PurchasesController->orderBefore()
+#1 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Controller/Controller.php(412): call_user_func_array(Array, Array)
+#2 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#3 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\PurchasesController))
+#4 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#5 {main}
+
+
+2016-06-13 14:23:59 Error: 
+App\Controller\PurchasesController::orderBefore() - APP/Controller/PurchasesController.php, line 282
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'Unauthorized Action was detected., users_id : 31, session's token and oid do not match.'
+2016-06-13 14:23:59 Error: [Cake\Network\Exception\BadRequestException] Unauthorized Action was detected.
+Request URL: /Purchases/orderBefore
+Stack Trace:
+#0 [internal function]: App\Controller\PurchasesController->orderBefore()
+#1 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Controller/Controller.php(412): call_user_func_array(Array, Array)
+#2 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#3 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\PurchasesController))
+#4 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#5 {main}
+
+
+2016-06-13 14:44:30 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Res could not be found.
+Request URL: /_res/css/maps/style.css.map
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+
+2016-06-13 14:59:59 Error
+Array
+(
+    [result] => 
+    [msg] => 해당 상품이 매진되었습니다.
+)
+
+
+2016-06-13 15:02:13 Error
+Array
+(
+    [result] => 
+    [msg] => 해당 상품이 매진되었습니다.
+)
+
+
+2016-06-13 15:03:45 Error
+Array
+(
+    [result] => 
+    [msg] => 해당 상품이 매진되었습니다.
+)
+
+2016-06-13 16:33:58 Warning: Warning (2): Invalid argument supplied for foreach() in [/var/www/fcctv.co.kr/src/Template/Tv/detail.ctp, line 147]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Tv/detail.ctp, line 147
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-06-13 16:33:58 Warning: Warning (2): Invalid argument supplied for foreach() in [/var/www/fcctv.co.kr/src/Template/Tv/detail.ctp, line 147]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Tv/detail.ctp, line 147
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-06-13 16:33:58 Warning: Warning (2): Invalid argument supplied for foreach() in [/var/www/fcctv.co.kr/src/Template/Tv/detail.ctp, line 147]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Tv/detail.ctp, line 147
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-06-13 16:33:58 Warning: Warning (2): Invalid argument supplied for foreach() in [/var/www/fcctv.co.kr/src/Template/Tv/detail.ctp, line 147]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Tv/detail.ctp, line 147
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-06-13 16:33:58 Warning: Warning (2): Invalid argument supplied for foreach() in [/var/www/fcctv.co.kr/src/Template/Tv/detail.ctp, line 147]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Tv/detail.ctp, line 147
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-06-13 16:33:58 Warning: Warning (2): Invalid argument supplied for foreach() in [/var/www/fcctv.co.kr/src/Template/Tv/detail.ctp, line 147]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Tv/detail.ctp, line 147
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-06-13 16:33:58 Warning: Warning (2): Invalid argument supplied for foreach() in [/var/www/fcctv.co.kr/src/Template/Tv/detail.ctp, line 147]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Tv/detail.ctp, line 147
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-06-13 16:35:21 Warning: Warning (2): Invalid argument supplied for foreach() in [/var/www/fcctv.co.kr/src/Template/Tv/detail.ctp, line 147]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Tv/detail.ctp, line 147
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-06-13 16:35:21 Warning: Warning (2): Invalid argument supplied for foreach() in [/var/www/fcctv.co.kr/src/Template/Tv/detail.ctp, line 147]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Tv/detail.ctp, line 147
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-06-13 16:35:21 Warning: Warning (2): Invalid argument supplied for foreach() in [/var/www/fcctv.co.kr/src/Template/Tv/detail.ctp, line 147]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Tv/detail.ctp, line 147
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-06-13 16:42:46 Warning: Warning (2): Invalid argument supplied for foreach() in [/var/www/fcctv.co.kr/src/Template/Tv/detail.ctp, line 147]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Tv/detail.ctp, line 147
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-06-13 16:42:46 Warning: Warning (2): Invalid argument supplied for foreach() in [/var/www/fcctv.co.kr/src/Template/Tv/detail.ctp, line 147]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Tv/detail.ctp, line 147
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-06-13 16:42:46 Warning: Warning (2): Invalid argument supplied for foreach() in [/var/www/fcctv.co.kr/src/Template/Tv/detail.ctp, line 147]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Tv/detail.ctp, line 147
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-06-13 16:47:39 Warning: Warning (2): Invalid argument supplied for foreach() in [/var/www/fcctv.co.kr/src/Template/Tv/detail.ctp, line 147]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Tv/detail.ctp, line 147
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-06-13 16:47:39 Warning: Warning (2): Invalid argument supplied for foreach() in [/var/www/fcctv.co.kr/src/Template/Tv/detail.ctp, line 147]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Tv/detail.ctp, line 147
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-06-13 16:47:39 Warning: Warning (2): Invalid argument supplied for foreach() in [/var/www/fcctv.co.kr/src/Template/Tv/detail.ctp, line 147]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Tv/detail.ctp, line 147
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-06-13 16:48:02 Warning: Warning (2): Invalid argument supplied for foreach() in [/var/www/fcctv.co.kr/src/Template/Tv/detail.ctp, line 147]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Tv/detail.ctp, line 147
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-06-13 16:48:02 Warning: Warning (2): Invalid argument supplied for foreach() in [/var/www/fcctv.co.kr/src/Template/Tv/detail.ctp, line 147]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Tv/detail.ctp, line 147
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-06-13 16:48:02 Warning: Warning (2): Invalid argument supplied for foreach() in [/var/www/fcctv.co.kr/src/Template/Tv/detail.ctp, line 147]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Tv/detail.ctp, line 147
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-06-13 16:52:42 Warning: Warning (2): Invalid argument supplied for foreach() in [/var/www/fcctv.co.kr/src/Template/Tv/detail.ctp, line 147]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Tv/detail.ctp, line 147
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-06-13 16:52:42 Warning: Warning (2): Invalid argument supplied for foreach() in [/var/www/fcctv.co.kr/src/Template/Tv/detail.ctp, line 147]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Tv/detail.ctp, line 147
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-06-13 16:52:42 Warning: Warning (2): Invalid argument supplied for foreach() in [/var/www/fcctv.co.kr/src/Template/Tv/detail.ctp, line 147]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Tv/detail.ctp, line 147
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-06-13 17:17:25 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Designer could not be found.
+Request URL: /designer
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-13 17:17:28 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Designer could not be found.
+Request URL: /designer/
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-13 17:59:05 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Sitemap.xml could not be found.
+Request URL: /sitemap.xml
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-13 18:18:40 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Res could not be found.
+Request URL: /_res/css/maps/style.css.map
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-13 18:19:05 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Res could not be found.
+Request URL: /_res/css/maps/style.css.map
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-13 18:19:13 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Res could not be found.
+Request URL: /_res/css/maps/style.css.map
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-13 18:19:17 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Res could not be found.
+Request URL: /_res/css/maps/style.css.map
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-13 18:20:07 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Res could not be found.
+Request URL: /_res/css/maps/style.css.map
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-13 18:20:31 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Designer could not be found.
+Request URL: /designer/
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+

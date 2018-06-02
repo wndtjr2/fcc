@@ -1,0 +1,272 @@
+2016-05-04 11:01:16 Notice: Notice (8): Undefined variable: shippingTotal in [/var/www/fcctv.co.kr/src/Template/Purchases/order_info.ctp, line 5]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Purchases/order_info.ctp, line 5
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-04 12:23:18 Notice: Notice (8): Undefined index: onAirInfo in [/var/www/fcctv.co.kr/src/Template/FccTv/detail.ctp, line 8]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/FccTv/detail.ctp, line 8
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-04 14:09:03 Debug: 
+App\Controller\CacheController::removeProduct() - APP/Controller/CacheController.php, line 34
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'전체 products Cache 제거.'
+2016-05-04 14:09:03 Debug: 
+App\Controller\CacheController::removeProduct() - APP/Controller/CacheController.php, line 35
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'main Cache 제거'
+2016-05-04 14:09:03 Debug: 
+App\Controller\CacheController::removeProduct() - APP/Controller/CacheController.php, line 36
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'Whats New 제거'
+2016-05-04 14:09:52 Debug: 
+App\Controller\CacheController::removeProduct() - APP/Controller/CacheController.php, line 34
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'전체 products Cache 제거.'
+2016-05-04 14:09:52 Debug: 
+App\Controller\CacheController::removeProduct() - APP/Controller/CacheController.php, line 35
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'main Cache 제거'
+2016-05-04 14:09:52 Debug: 
+App\Controller\CacheController::removeProduct() - APP/Controller/CacheController.php, line 36
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'Whats New 제거'
+2016-05-04 14:09:53 Debug: 
+App\Controller\CacheController::removeProduct() - APP/Controller/CacheController.php, line 34
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'전체 products Cache 제거.'
+2016-05-04 14:09:53 Debug: 
+App\Controller\CacheController::removeProduct() - APP/Controller/CacheController.php, line 35
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'main Cache 제거'
+2016-05-04 14:09:53 Debug: 
+App\Controller\CacheController::removeProduct() - APP/Controller/CacheController.php, line 36
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'Whats New 제거'
+2016-05-04 14:10:22 Debug: 
+App\Controller\CacheController::removeProduct() - APP/Controller/CacheController.php, line 34
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'전체 products Cache 제거.'
+2016-05-04 14:10:22 Debug: 
+App\Controller\CacheController::removeProduct() - APP/Controller/CacheController.php, line 35
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'main Cache 제거'
+2016-05-04 14:10:22 Debug: 
+App\Controller\CacheController::removeProduct() - APP/Controller/CacheController.php, line 36
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'Whats New 제거'
+2016-05-04 14:10:22 Debug: 
+App\Controller\CacheController::removeProduct() - APP/Controller/CacheController.php, line 34
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'전체 products Cache 제거.'
+2016-05-04 14:10:22 Debug: 
+App\Controller\CacheController::removeProduct() - APP/Controller/CacheController.php, line 35
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'main Cache 제거'
+2016-05-04 14:10:22 Debug: 
+App\Controller\CacheController::removeProduct() - APP/Controller/CacheController.php, line 36
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'Whats New 제거'
+2016-05-04 14:10:52 Debug: 
+App\Controller\CacheController::removeProduct() - APP/Controller/CacheController.php, line 34
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'전체 products Cache 제거.'
+2016-05-04 14:10:52 Debug: 
+App\Controller\CacheController::removeProduct() - APP/Controller/CacheController.php, line 35
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'main Cache 제거'
+2016-05-04 14:10:52 Debug: 
+App\Controller\CacheController::removeProduct() - APP/Controller/CacheController.php, line 36
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'Whats New 제거'
+2016-05-04 14:10:52 Debug: 
+App\Controller\CacheController::removeProduct() - APP/Controller/CacheController.php, line 34
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'전체 products Cache 제거.'
+2016-05-04 14:10:52 Debug: 
+App\Controller\CacheController::removeProduct() - APP/Controller/CacheController.php, line 35
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'main Cache 제거'
+2016-05-04 14:10:52 Debug: 
+App\Controller\CacheController::removeProduct() - APP/Controller/CacheController.php, line 36
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'Whats New 제거'
+2016-05-04 15:57:31 Notice: Notice (8): Undefined offset: 0 in [/var/www/fcctv.co.kr/src/Controller/PurchasesController.php, line 136]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+App\Controller\PurchasesController::orderInfo() - APP/Controller/PurchasesController.php, line 136
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-04 15:57:31 Notice: Notice (8): Undefined offset: 0 in [/var/www/fcctv.co.kr/src/Controller/PurchasesController.php, line 137]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+App\Controller\PurchasesController::orderInfo() - APP/Controller/PurchasesController.php, line 137
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-04 15:57:31 Debug: 
+App\Controller\PurchasesController::orderInfo() - APP/Controller/PurchasesController.php, line 141
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+[
+	'data' => []
+]
+2016-05-04 15:57:31 Notice: Notice (8): Undefined variable: shippingTotal in [/var/www/fcctv.co.kr/src/Template/Purchases/order_info.ctp, line 5]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Purchases/order_info.ctp, line 5
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-04 15:57:31 Notice: Notice (8): Undefined variable: grandTotal in [/var/www/fcctv.co.kr/src/Template/Purchases/order_info.ctp, line 5]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Purchases/order_info.ctp, line 5
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-04 15:57:31 Debug: 
+include - APP/Template/Purchases/order_info.ctp, line 14
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'No Purchase Infomation Given. Please try again.'
+2016-05-04 15:57:31 Notice: Notice (8): Undefined variable: products in [/var/www/fcctv.co.kr/src/Template/Purchases/order_info.ctp, line 294]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Purchases/order_info.ctp, line 294
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-04 15:57:31 Notice: Notice (8): Undefined variable: grandTotal in [/var/www/fcctv.co.kr/src/Template/Purchases/order_info.ctp, line 314]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Purchases/order_info.ctp, line 314
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+

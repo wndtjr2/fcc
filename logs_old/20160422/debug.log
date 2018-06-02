@@ -1,0 +1,48 @@
+2016-04-22 15:44:05 Notice: Notice (8): Trying to get property of non-object in [/var/www/fcctv.co.kr/src/Service/TvService.php, line 527]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+App\Service\TvService::getDetailShareInfo() - APP/Service/TvService.php, line 527
+App\Controller\FccTvController::detail() - APP/Controller/FccTvController.php, line 117
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-22 15:44:05 Notice: Notice (8): Trying to get property of non-object in [/var/www/fcctv.co.kr/src/Service/TvService.php, line 528]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+App\Service\TvService::getDetailShareInfo() - APP/Service/TvService.php, line 528
+App\Controller\FccTvController::detail() - APP/Controller/FccTvController.php, line 117
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-22 15:47:52 Notice: Notice (8): Trying to get property of non-object in [/var/www/fcctv.co.kr/src/Service/TvService.php, line 527]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+App\Service\TvService::getDetailShareInfo() - APP/Service/TvService.php, line 527
+App\Controller\FccTvController::detail() - APP/Controller/FccTvController.php, line 117
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-22 15:47:52 Notice: Notice (8): Trying to get property of non-object in [/var/www/fcctv.co.kr/src/Service/TvService.php, line 528]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+App\Service\TvService::getDetailShareInfo() - APP/Service/TvService.php, line 528
+App\Controller\FccTvController::detail() - APP/Controller/FccTvController.php, line 117
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+

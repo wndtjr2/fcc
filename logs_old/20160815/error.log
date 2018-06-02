@@ -1,0 +1,7 @@
+2016-08-15 16:58:50 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Redirect.aspx could not be found.
+Request URL: /redirect.aspx
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+

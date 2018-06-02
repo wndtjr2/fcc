@@ -1,0 +1,33 @@
+<div class="modal__content">
+    <div class="modal__content--wrap">
+        <h6 class="modal__save-title">선택하신 상품이 장바구니에 담겼습니다. <br><span class="red">장바구니로 이동</span>하시겠습니까?</h6>
+        <div class="modal__bottom is-zoom">
+            <div class="left">
+                <button type="button" class="buttons cancel" onclick="modal.hide();">
+                    <span class="text">계속 쇼핑하기</span>
+                    <span class="size">계속 쇼핑하기</span>
+                    <span class="bg"></span>
+                </button>
+            </div>
+            <div class="right">
+                <a href="/cart/" class="buttons save">
+                    <span class="text">장바구니 확인하기</span>
+                    <span class="size">장바구니 확인하기</span>
+                    <span class="bg"></span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="modal__close"><button type="button" class="modal__close--btn" onclick="modal.hide();">닫기</button></div>
+</div>
+
+<style>
+    .modal__content { max-width: 480px; }
+    .modal__save-title { font-size: 18px; }
+    .modal__save-title .red { color: #ff4b46; }
+     /*************/
+     @media only screen and ( min-width: 1024px ) {
+        .modal__content { max-width: 540px; }
+        .modal__save-title { font-size: 24px; }
+     }
+</style>

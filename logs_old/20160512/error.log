@@ -1,0 +1,7 @@
+2016-05-12 11:50:35 Error: [Cake\Routing\Exception\MissingControllerException] Controller class INDEX.PHP could not be found.
+Request URL: /INDEX.PHP
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+

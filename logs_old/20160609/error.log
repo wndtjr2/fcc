@@ -1,0 +1,10 @@
+2016-06-09 10:42:39 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Designer could not be found.
+Request URL: /designer/
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+
+2016-06-09 11:14:18 Error
+이니시스토큰 : OR000008와 세션토큰 : OR0000000268 이 일치하지 않습니다.

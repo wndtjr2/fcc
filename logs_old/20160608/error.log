@@ -1,0 +1,347 @@
+2016-06-08 13:34:17 Error: [BadMethodCallException] Cache engine redis is not available.
+Request URL: /
+Stack Trace:
+#0 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Core/ObjectRegistry.php(91): Cake\Cache\CacheRegistry->_throwMissingClassError('redis', NULL)
+#1 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Cache/Cache.php(154): Cake\Core\ObjectRegistry->load('Session', Array)
+#2 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Cache/Cache.php(186): Cake\Cache\Cache::_buildEngine('Session')
+#3 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Cache/Cache.php(311): Cake\Cache\Cache::engine('Session')
+#4 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Network/Session/CacheSession.php(85): Cake\Cache\Cache::read('aggvgrsgthesv86...', 'Session')
+#5 [internal function]: Cake\Network\Session\CacheSession->read('aggvgrsgthesv86...')
+#6 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Network/Session.php(324): session_start()
+#7 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Network/Session.php(361): Cake\Network\Session->start()
+#8 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Controller/Component/AuthComponent.php(658): Cake\Network\Session->check('Auth.User')
+#9 /var/www/fcctv.co.kr/src/Controller/AppController.php(103): Cake\Controller\Component\AuthComponent->user()
+#10 /var/www/fcctv.co.kr/src/Controller/FccTvController.php(35): App\Controller\AppController->initialize()
+#11 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Controller/Controller.php(279): App\Controller\FccTvController->initialize()
+#12 [internal function]: Cake\Controller\Controller->__construct(Object(Cake\Network\Request), Object(Cake\Network\Response), 'FccTv')
+#13 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/Filter/ControllerFactoryFilter.php(90): ReflectionClass->newInstance(Object(Cake\Network\Request), Object(Cake\Network\Response), 'FccTv')
+#14 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/Filter/ControllerFactoryFilter.php(49): Cake\Routing\Filter\ControllerFactoryFilter->_getController(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#15 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/DispatcherFilter.php(145): Cake\Routing\Filter\ControllerFactoryFilter->beforeDispatch(Object(Cake\Event\Event))
+#16 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Event/EventManager.php(389): Cake\Routing\DispatcherFilter->handle(Object(Cake\Event\Event), Object(Cake\Network\Request), Object(Cake\Network\Response))
+#17 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Event/EventManager.php(355): Cake\Event\EventManager->_callListener(Array, Object(Cake\Event\Event))
+#18 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Event/EventDispatcherTrait.php(78): Cake\Event\EventManager->dispatch(Object(Cake\Event\Event))
+#19 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(62): Cake\Routing\Dispatcher->dispatchEvent('Dispatcher.befo...', Array)
+#20 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#21 {main}
+
+
+2016-06-08 13:34:17 Error: [BadMethodCallException] Cache engine redis is not available.
+Request URL: /
+Stack Trace:
+#0 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Core/ObjectRegistry.php(91): Cake\Cache\CacheRegistry->_throwMissingClassError('redis', NULL)
+#1 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Cache/Cache.php(154): Cake\Core\ObjectRegistry->load('Session', Array)
+#2 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Cache/Cache.php(186): Cake\Cache\Cache::_buildEngine('Session')
+#3 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Cache/Cache.php(311): Cake\Cache\Cache::engine('Session')
+#4 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Network/Session/CacheSession.php(85): Cake\Cache\Cache::read('aggvgrsgthesv86...', 'Session')
+#5 [internal function]: Cake\Network\Session\CacheSession->read('aggvgrsgthesv86...')
+#6 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Network/Session.php(324): session_start()
+#7 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Network/Session.php(361): Cake\Network\Session->start()
+#8 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Controller/Component/AuthComponent.php(658): Cake\Network\Session->check('Auth.User')
+#9 /var/www/fcctv.co.kr/src/Controller/AppController.php(103): Cake\Controller\Component\AuthComponent->user()
+#10 /var/www/fcctv.co.kr/src/Controller/FccTvController.php(35): App\Controller\AppController->initialize()
+#11 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Controller/Controller.php(279): App\Controller\FccTvController->initialize()
+#12 [internal function]: Cake\Controller\Controller->__construct(Object(Cake\Network\Request), Object(Cake\Network\Response), 'FccTv')
+#13 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/Filter/ControllerFactoryFilter.php(90): ReflectionClass->newInstance(Object(Cake\Network\Request), Object(Cake\Network\Response), 'FccTv')
+#14 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/Filter/ControllerFactoryFilter.php(49): Cake\Routing\Filter\ControllerFactoryFilter->_getController(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#15 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/DispatcherFilter.php(145): Cake\Routing\Filter\ControllerFactoryFilter->beforeDispatch(Object(Cake\Event\Event))
+#16 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Event/EventManager.php(389): Cake\Routing\DispatcherFilter->handle(Object(Cake\Event\Event), Object(Cake\Network\Request), Object(Cake\Network\Response))
+#17 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Event/EventManager.php(355): Cake\Event\EventManager->_callListener(Array, Object(Cake\Event\Event))
+#18 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Event/EventDispatcherTrait.php(78): Cake\Event\EventManager->dispatch(Object(Cake\Event\Event))
+#19 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(62): Cake\Routing\Dispatcher->dispatchEvent('Dispatcher.befo...', Array)
+#20 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#21 {main}
+
+
+2016-06-08 13:34:17 Error: [BadMethodCallException] Cache engine redis is not available.
+Request URL: /
+Stack Trace:
+#0 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Core/ObjectRegistry.php(91): Cake\Cache\CacheRegistry->_throwMissingClassError('redis', NULL)
+#1 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Cache/Cache.php(154): Cake\Core\ObjectRegistry->load('Session', Array)
+#2 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Cache/Cache.php(186): Cake\Cache\Cache::_buildEngine('Session')
+#3 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Cache/Cache.php(311): Cake\Cache\Cache::engine('Session')
+#4 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Network/Session/CacheSession.php(85): Cake\Cache\Cache::read('aggvgrsgthesv86...', 'Session')
+#5 [internal function]: Cake\Network\Session\CacheSession->read('aggvgrsgthesv86...')
+#6 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Network/Session.php(324): session_start()
+#7 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Network/Session.php(361): Cake\Network\Session->start()
+#8 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Controller/Component/AuthComponent.php(658): Cake\Network\Session->check('Auth.User')
+#9 /var/www/fcctv.co.kr/src/Controller/AppController.php(103): Cake\Controller\Component\AuthComponent->user()
+#10 /var/www/fcctv.co.kr/src/Controller/FccTvController.php(35): App\Controller\AppController->initialize()
+#11 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Controller/Controller.php(279): App\Controller\FccTvController->initialize()
+#12 [internal function]: Cake\Controller\Controller->__construct(Object(Cake\Network\Request), Object(Cake\Network\Response), 'FccTv')
+#13 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/Filter/ControllerFactoryFilter.php(90): ReflectionClass->newInstance(Object(Cake\Network\Request), Object(Cake\Network\Response), 'FccTv')
+#14 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/Filter/ControllerFactoryFilter.php(49): Cake\Routing\Filter\ControllerFactoryFilter->_getController(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#15 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/DispatcherFilter.php(145): Cake\Routing\Filter\ControllerFactoryFilter->beforeDispatch(Object(Cake\Event\Event))
+#16 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Event/EventManager.php(389): Cake\Routing\DispatcherFilter->handle(Object(Cake\Event\Event), Object(Cake\Network\Request), Object(Cake\Network\Response))
+#17 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Event/EventManager.php(355): Cake\Event\EventManager->_callListener(Array, Object(Cake\Event\Event))
+#18 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Event/EventDispatcherTrait.php(78): Cake\Event\EventManager->dispatch(Object(Cake\Event\Event))
+#19 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(62): Cake\Routing\Dispatcher->dispatchEvent('Dispatcher.befo...', Array)
+#20 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#21 {main}
+
+
+2016-06-08 13:36:00 Error: [BadMethodCallException] Cache engine redis is not available.
+Request URL: /auth/login?types=page
+Stack Trace:
+#0 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Core/ObjectRegistry.php(91): Cake\Cache\CacheRegistry->_throwMissingClassError('redis', NULL)
+#1 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Cache/Cache.php(154): Cake\Core\ObjectRegistry->load('Session', Array)
+#2 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Cache/Cache.php(186): Cake\Cache\Cache::_buildEngine('Session')
+#3 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Cache/Cache.php(311): Cake\Cache\Cache::engine('Session')
+#4 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Network/Session/CacheSession.php(85): Cake\Cache\Cache::read('it1vjiu0j4aei3q...', 'Session')
+#5 [internal function]: Cake\Network\Session\CacheSession->read('it1vjiu0j4aei3q...')
+#6 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Network/Session.php(324): session_start()
+#7 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Network/Session.php(432): Cake\Network\Session->start()
+#8 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Controller/Component/AuthComponent.php(614): Cake\Network\Session->write('Auth.User', Array)
+#9 /var/www/fcctv.co.kr/src/Controller/AuthController.php(893): Cake\Controller\Component\AuthComponent->setUser(Array)
+#10 /var/www/fcctv.co.kr/src/Controller/AuthController.php(154): App\Controller\AuthController->logUserIn(8)
+#11 [internal function]: App\Controller\AuthController->login()
+#12 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Controller/Controller.php(412): call_user_func_array(Array, Array)
+#13 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#14 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\AuthController))
+#15 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#16 {main}
+
+
+2016-06-08 13:36:07 Error: [BadMethodCallException] Cache engine redis is not available.
+Request URL: /
+Stack Trace:
+#0 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Core/ObjectRegistry.php(91): Cake\Cache\CacheRegistry->_throwMissingClassError('redis', NULL)
+#1 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Cache/Cache.php(154): Cake\Core\ObjectRegistry->load('Session', Array)
+#2 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Cache/Cache.php(186): Cake\Cache\Cache::_buildEngine('Session')
+#3 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Cache/Cache.php(311): Cake\Cache\Cache::engine('Session')
+#4 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Network/Session/CacheSession.php(85): Cake\Cache\Cache::read('it1vjiu0j4aei3q...', 'Session')
+#5 [internal function]: Cake\Network\Session\CacheSession->read('it1vjiu0j4aei3q...')
+#6 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Network/Session.php(324): session_start()
+#7 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Network/Session.php(361): Cake\Network\Session->start()
+#8 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Controller/Component/AuthComponent.php(658): Cake\Network\Session->check('Auth.User')
+#9 /var/www/fcctv.co.kr/src/Controller/AppController.php(103): Cake\Controller\Component\AuthComponent->user()
+#10 /var/www/fcctv.co.kr/src/Controller/FccTvController.php(35): App\Controller\AppController->initialize()
+#11 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Controller/Controller.php(279): App\Controller\FccTvController->initialize()
+#12 [internal function]: Cake\Controller\Controller->__construct(Object(Cake\Network\Request), Object(Cake\Network\Response), 'FccTv')
+#13 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/Filter/ControllerFactoryFilter.php(90): ReflectionClass->newInstance(Object(Cake\Network\Request), Object(Cake\Network\Response), 'FccTv')
+#14 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/Filter/ControllerFactoryFilter.php(49): Cake\Routing\Filter\ControllerFactoryFilter->_getController(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#15 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/DispatcherFilter.php(145): Cake\Routing\Filter\ControllerFactoryFilter->beforeDispatch(Object(Cake\Event\Event))
+#16 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Event/EventManager.php(389): Cake\Routing\DispatcherFilter->handle(Object(Cake\Event\Event), Object(Cake\Network\Request), Object(Cake\Network\Response))
+#17 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Event/EventManager.php(355): Cake\Event\EventManager->_callListener(Array, Object(Cake\Event\Event))
+#18 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Event/EventDispatcherTrait.php(78): Cake\Event\EventManager->dispatch(Object(Cake\Event\Event))
+#19 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(62): Cake\Routing\Dispatcher->dispatchEvent('Dispatcher.befo...', Array)
+#20 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#21 {main}
+
+
+2016-06-08 13:36:07 Error: [BadMethodCallException] Cache engine redis is not available.
+Request URL: /
+Stack Trace:
+#0 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Core/ObjectRegistry.php(91): Cake\Cache\CacheRegistry->_throwMissingClassError('redis', NULL)
+#1 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Cache/Cache.php(154): Cake\Core\ObjectRegistry->load('Session', Array)
+#2 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Cache/Cache.php(186): Cake\Cache\Cache::_buildEngine('Session')
+#3 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Cache/Cache.php(311): Cake\Cache\Cache::engine('Session')
+#4 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Network/Session/CacheSession.php(85): Cake\Cache\Cache::read('it1vjiu0j4aei3q...', 'Session')
+#5 [internal function]: Cake\Network\Session\CacheSession->read('it1vjiu0j4aei3q...')
+#6 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Network/Session.php(324): session_start()
+#7 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Network/Session.php(361): Cake\Network\Session->start()
+#8 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Controller/Component/AuthComponent.php(658): Cake\Network\Session->check('Auth.User')
+#9 /var/www/fcctv.co.kr/src/Controller/AppController.php(103): Cake\Controller\Component\AuthComponent->user()
+#10 /var/www/fcctv.co.kr/src/Controller/FccTvController.php(35): App\Controller\AppController->initialize()
+#11 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Controller/Controller.php(279): App\Controller\FccTvController->initialize()
+#12 [internal function]: Cake\Controller\Controller->__construct(Object(Cake\Network\Request), Object(Cake\Network\Response), 'FccTv')
+#13 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/Filter/ControllerFactoryFilter.php(90): ReflectionClass->newInstance(Object(Cake\Network\Request), Object(Cake\Network\Response), 'FccTv')
+#14 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/Filter/ControllerFactoryFilter.php(49): Cake\Routing\Filter\ControllerFactoryFilter->_getController(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#15 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/DispatcherFilter.php(145): Cake\Routing\Filter\ControllerFactoryFilter->beforeDispatch(Object(Cake\Event\Event))
+#16 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Event/EventManager.php(389): Cake\Routing\DispatcherFilter->handle(Object(Cake\Event\Event), Object(Cake\Network\Request), Object(Cake\Network\Response))
+#17 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Event/EventManager.php(355): Cake\Event\EventManager->_callListener(Array, Object(Cake\Event\Event))
+#18 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Event/EventDispatcherTrait.php(78): Cake\Event\EventManager->dispatch(Object(Cake\Event\Event))
+#19 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(62): Cake\Routing\Dispatcher->dispatchEvent('Dispatcher.befo...', Array)
+#20 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#21 {main}
+
+
+2016-06-08 13:36:36 Error: [BadMethodCallException] Cache engine redis is not available.
+Request URL: /
+Stack Trace:
+#0 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Core/ObjectRegistry.php(91): Cake\Cache\CacheRegistry->_throwMissingClassError('redis', NULL)
+#1 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Cache/Cache.php(154): Cake\Core\ObjectRegistry->load('Session', Array)
+#2 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Cache/Cache.php(186): Cake\Cache\Cache::_buildEngine('Session')
+#3 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Cache/Cache.php(311): Cake\Cache\Cache::engine('Session')
+#4 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Network/Session/CacheSession.php(85): Cake\Cache\Cache::read('it1vjiu0j4aei3q...', 'Session')
+#5 [internal function]: Cake\Network\Session\CacheSession->read('it1vjiu0j4aei3q...')
+#6 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Network/Session.php(324): session_start()
+#7 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Network/Session.php(361): Cake\Network\Session->start()
+#8 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Controller/Component/AuthComponent.php(658): Cake\Network\Session->check('Auth.User')
+#9 /var/www/fcctv.co.kr/src/Controller/AppController.php(103): Cake\Controller\Component\AuthComponent->user()
+#10 /var/www/fcctv.co.kr/src/Controller/FccTvController.php(35): App\Controller\AppController->initialize()
+#11 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Controller/Controller.php(279): App\Controller\FccTvController->initialize()
+#12 [internal function]: Cake\Controller\Controller->__construct(Object(Cake\Network\Request), Object(Cake\Network\Response), 'FccTv')
+#13 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/Filter/ControllerFactoryFilter.php(90): ReflectionClass->newInstance(Object(Cake\Network\Request), Object(Cake\Network\Response), 'FccTv')
+#14 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/Filter/ControllerFactoryFilter.php(49): Cake\Routing\Filter\ControllerFactoryFilter->_getController(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#15 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/DispatcherFilter.php(145): Cake\Routing\Filter\ControllerFactoryFilter->beforeDispatch(Object(Cake\Event\Event))
+#16 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Event/EventManager.php(389): Cake\Routing\DispatcherFilter->handle(Object(Cake\Event\Event), Object(Cake\Network\Request), Object(Cake\Network\Response))
+#17 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Event/EventManager.php(355): Cake\Event\EventManager->_callListener(Array, Object(Cake\Event\Event))
+#18 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Event/EventDispatcherTrait.php(78): Cake\Event\EventManager->dispatch(Object(Cake\Event\Event))
+#19 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(62): Cake\Routing\Dispatcher->dispatchEvent('Dispatcher.befo...', Array)
+#20 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#21 {main}
+
+
+2016-06-08 13:36:36 Error: [BadMethodCallException] Cache engine redis is not available.
+Request URL: /
+Stack Trace:
+#0 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Core/ObjectRegistry.php(91): Cake\Cache\CacheRegistry->_throwMissingClassError('redis', NULL)
+#1 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Cache/Cache.php(154): Cake\Core\ObjectRegistry->load('Session', Array)
+#2 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Cache/Cache.php(186): Cake\Cache\Cache::_buildEngine('Session')
+#3 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Cache/Cache.php(311): Cake\Cache\Cache::engine('Session')
+#4 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Network/Session/CacheSession.php(85): Cake\Cache\Cache::read('it1vjiu0j4aei3q...', 'Session')
+#5 [internal function]: Cake\Network\Session\CacheSession->read('it1vjiu0j4aei3q...')
+#6 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Network/Session.php(324): session_start()
+#7 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Network/Session.php(361): Cake\Network\Session->start()
+#8 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Controller/Component/AuthComponent.php(658): Cake\Network\Session->check('Auth.User')
+#9 /var/www/fcctv.co.kr/src/Controller/AppController.php(103): Cake\Controller\Component\AuthComponent->user()
+#10 /var/www/fcctv.co.kr/src/Controller/FccTvController.php(35): App\Controller\AppController->initialize()
+#11 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Controller/Controller.php(279): App\Controller\FccTvController->initialize()
+#12 [internal function]: Cake\Controller\Controller->__construct(Object(Cake\Network\Request), Object(Cake\Network\Response), 'FccTv')
+#13 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/Filter/ControllerFactoryFilter.php(90): ReflectionClass->newInstance(Object(Cake\Network\Request), Object(Cake\Network\Response), 'FccTv')
+#14 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/Filter/ControllerFactoryFilter.php(49): Cake\Routing\Filter\ControllerFactoryFilter->_getController(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#15 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/DispatcherFilter.php(145): Cake\Routing\Filter\ControllerFactoryFilter->beforeDispatch(Object(Cake\Event\Event))
+#16 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Event/EventManager.php(389): Cake\Routing\DispatcherFilter->handle(Object(Cake\Event\Event), Object(Cake\Network\Request), Object(Cake\Network\Response))
+#17 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Event/EventManager.php(355): Cake\Event\EventManager->_callListener(Array, Object(Cake\Event\Event))
+#18 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Event/EventDispatcherTrait.php(78): Cake\Event\EventManager->dispatch(Object(Cake\Event\Event))
+#19 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(62): Cake\Routing\Dispatcher->dispatchEvent('Dispatcher.befo...', Array)
+#20 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#21 {main}
+
+
+2016-06-08 13:36:37 Error: [BadMethodCallException] Cache engine redis is not available.
+Request URL: /
+Stack Trace:
+#0 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Core/ObjectRegistry.php(91): Cake\Cache\CacheRegistry->_throwMissingClassError('redis', NULL)
+#1 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Cache/Cache.php(154): Cake\Core\ObjectRegistry->load('Session', Array)
+#2 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Cache/Cache.php(186): Cake\Cache\Cache::_buildEngine('Session')
+#3 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Cache/Cache.php(311): Cake\Cache\Cache::engine('Session')
+#4 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Network/Session/CacheSession.php(85): Cake\Cache\Cache::read('it1vjiu0j4aei3q...', 'Session')
+#5 [internal function]: Cake\Network\Session\CacheSession->read('it1vjiu0j4aei3q...')
+#6 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Network/Session.php(324): session_start()
+#7 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Network/Session.php(361): Cake\Network\Session->start()
+#8 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Controller/Component/AuthComponent.php(658): Cake\Network\Session->check('Auth.User')
+#9 /var/www/fcctv.co.kr/src/Controller/AppController.php(103): Cake\Controller\Component\AuthComponent->user()
+#10 /var/www/fcctv.co.kr/src/Controller/FccTvController.php(35): App\Controller\AppController->initialize()
+#11 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Controller/Controller.php(279): App\Controller\FccTvController->initialize()
+#12 [internal function]: Cake\Controller\Controller->__construct(Object(Cake\Network\Request), Object(Cake\Network\Response), 'FccTv')
+#13 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/Filter/ControllerFactoryFilter.php(90): ReflectionClass->newInstance(Object(Cake\Network\Request), Object(Cake\Network\Response), 'FccTv')
+#14 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/Filter/ControllerFactoryFilter.php(49): Cake\Routing\Filter\ControllerFactoryFilter->_getController(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#15 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/DispatcherFilter.php(145): Cake\Routing\Filter\ControllerFactoryFilter->beforeDispatch(Object(Cake\Event\Event))
+#16 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Event/EventManager.php(389): Cake\Routing\DispatcherFilter->handle(Object(Cake\Event\Event), Object(Cake\Network\Request), Object(Cake\Network\Response))
+#17 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Event/EventManager.php(355): Cake\Event\EventManager->_callListener(Array, Object(Cake\Event\Event))
+#18 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Event/EventDispatcherTrait.php(78): Cake\Event\EventManager->dispatch(Object(Cake\Event\Event))
+#19 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(62): Cake\Routing\Dispatcher->dispatchEvent('Dispatcher.befo...', Array)
+#20 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#21 {main}
+
+
+2016-06-08 13:37:18 Error: [BadMethodCallException] Cache engine redis is not available.
+Request URL: /
+Stack Trace:
+#0 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Core/ObjectRegistry.php(91): Cake\Cache\CacheRegistry->_throwMissingClassError('redis', NULL)
+#1 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Cache/Cache.php(154): Cake\Core\ObjectRegistry->load('Session', Array)
+#2 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Cache/Cache.php(186): Cake\Cache\Cache::_buildEngine('Session')
+#3 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Cache/Cache.php(311): Cake\Cache\Cache::engine('Session')
+#4 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Network/Session/CacheSession.php(85): Cake\Cache\Cache::read('it1vjiu0j4aei3q...', 'Session')
+#5 [internal function]: Cake\Network\Session\CacheSession->read('it1vjiu0j4aei3q...')
+#6 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Network/Session.php(324): session_start()
+#7 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Network/Session.php(361): Cake\Network\Session->start()
+#8 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Controller/Component/AuthComponent.php(658): Cake\Network\Session->check('Auth.User')
+#9 /var/www/fcctv.co.kr/src/Controller/AppController.php(103): Cake\Controller\Component\AuthComponent->user()
+#10 /var/www/fcctv.co.kr/src/Controller/FccTvController.php(35): App\Controller\AppController->initialize()
+#11 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Controller/Controller.php(279): App\Controller\FccTvController->initialize()
+#12 [internal function]: Cake\Controller\Controller->__construct(Object(Cake\Network\Request), Object(Cake\Network\Response), 'FccTv')
+#13 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/Filter/ControllerFactoryFilter.php(90): ReflectionClass->newInstance(Object(Cake\Network\Request), Object(Cake\Network\Response), 'FccTv')
+#14 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/Filter/ControllerFactoryFilter.php(49): Cake\Routing\Filter\ControllerFactoryFilter->_getController(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#15 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/DispatcherFilter.php(145): Cake\Routing\Filter\ControllerFactoryFilter->beforeDispatch(Object(Cake\Event\Event))
+#16 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Event/EventManager.php(389): Cake\Routing\DispatcherFilter->handle(Object(Cake\Event\Event), Object(Cake\Network\Request), Object(Cake\Network\Response))
+#17 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Event/EventManager.php(355): Cake\Event\EventManager->_callListener(Array, Object(Cake\Event\Event))
+#18 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Event/EventDispatcherTrait.php(78): Cake\Event\EventManager->dispatch(Object(Cake\Event\Event))
+#19 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(62): Cake\Routing\Dispatcher->dispatchEvent('Dispatcher.befo...', Array)
+#20 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#21 {main}
+
+
+2016-06-08 13:37:18 Error: [BadMethodCallException] Cache engine redis is not available.
+Request URL: /
+Stack Trace:
+#0 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Core/ObjectRegistry.php(91): Cake\Cache\CacheRegistry->_throwMissingClassError('redis', NULL)
+#1 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Cache/Cache.php(154): Cake\Core\ObjectRegistry->load('Session', Array)
+#2 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Cache/Cache.php(186): Cake\Cache\Cache::_buildEngine('Session')
+#3 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Cache/Cache.php(311): Cake\Cache\Cache::engine('Session')
+#4 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Network/Session/CacheSession.php(85): Cake\Cache\Cache::read('it1vjiu0j4aei3q...', 'Session')
+#5 [internal function]: Cake\Network\Session\CacheSession->read('it1vjiu0j4aei3q...')
+#6 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Network/Session.php(324): session_start()
+#7 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Network/Session.php(361): Cake\Network\Session->start()
+#8 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Controller/Component/AuthComponent.php(658): Cake\Network\Session->check('Auth.User')
+#9 /var/www/fcctv.co.kr/src/Controller/AppController.php(103): Cake\Controller\Component\AuthComponent->user()
+#10 /var/www/fcctv.co.kr/src/Controller/FccTvController.php(35): App\Controller\AppController->initialize()
+#11 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Controller/Controller.php(279): App\Controller\FccTvController->initialize()
+#12 [internal function]: Cake\Controller\Controller->__construct(Object(Cake\Network\Request), Object(Cake\Network\Response), 'FccTv')
+#13 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/Filter/ControllerFactoryFilter.php(90): ReflectionClass->newInstance(Object(Cake\Network\Request), Object(Cake\Network\Response), 'FccTv')
+#14 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/Filter/ControllerFactoryFilter.php(49): Cake\Routing\Filter\ControllerFactoryFilter->_getController(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#15 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/DispatcherFilter.php(145): Cake\Routing\Filter\ControllerFactoryFilter->beforeDispatch(Object(Cake\Event\Event))
+#16 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Event/EventManager.php(389): Cake\Routing\DispatcherFilter->handle(Object(Cake\Event\Event), Object(Cake\Network\Request), Object(Cake\Network\Response))
+#17 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Event/EventManager.php(355): Cake\Event\EventManager->_callListener(Array, Object(Cake\Event\Event))
+#18 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Event/EventDispatcherTrait.php(78): Cake\Event\EventManager->dispatch(Object(Cake\Event\Event))
+#19 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(62): Cake\Routing\Dispatcher->dispatchEvent('Dispatcher.befo...', Array)
+#20 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#21 {main}
+
+
+2016-06-08 13:41:48 Error: [BadMethodCallException] Cache engine redis is not available.
+Request URL: /
+Stack Trace:
+#0 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Core/ObjectRegistry.php(91): Cake\Cache\CacheRegistry->_throwMissingClassError('redis', NULL)
+#1 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Cache/Cache.php(154): Cake\Core\ObjectRegistry->load('Session', Array)
+#2 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Cache/Cache.php(186): Cake\Cache\Cache::_buildEngine('Session')
+#3 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Cache/Cache.php(311): Cake\Cache\Cache::engine('Session')
+#4 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Network/Session/CacheSession.php(85): Cake\Cache\Cache::read('it1vjiu0j4aei3q...', 'Session')
+#5 [internal function]: Cake\Network\Session\CacheSession->read('it1vjiu0j4aei3q...')
+#6 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Network/Session.php(324): session_start()
+#7 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Network/Session.php(361): Cake\Network\Session->start()
+#8 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Controller/Component/AuthComponent.php(658): Cake\Network\Session->check('Auth.User')
+#9 /var/www/fcctv.co.kr/src/Controller/AppController.php(103): Cake\Controller\Component\AuthComponent->user()
+#10 /var/www/fcctv.co.kr/src/Controller/FccTvController.php(35): App\Controller\AppController->initialize()
+#11 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Controller/Controller.php(279): App\Controller\FccTvController->initialize()
+#12 [internal function]: Cake\Controller\Controller->__construct(Object(Cake\Network\Request), Object(Cake\Network\Response), 'FccTv')
+#13 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/Filter/ControllerFactoryFilter.php(90): ReflectionClass->newInstance(Object(Cake\Network\Request), Object(Cake\Network\Response), 'FccTv')
+#14 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/Filter/ControllerFactoryFilter.php(49): Cake\Routing\Filter\ControllerFactoryFilter->_getController(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#15 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/DispatcherFilter.php(145): Cake\Routing\Filter\ControllerFactoryFilter->beforeDispatch(Object(Cake\Event\Event))
+#16 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Event/EventManager.php(389): Cake\Routing\DispatcherFilter->handle(Object(Cake\Event\Event), Object(Cake\Network\Request), Object(Cake\Network\Response))
+#17 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Event/EventManager.php(355): Cake\Event\EventManager->_callListener(Array, Object(Cake\Event\Event))
+#18 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Event/EventDispatcherTrait.php(78): Cake\Event\EventManager->dispatch(Object(Cake\Event\Event))
+#19 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(62): Cake\Routing\Dispatcher->dispatchEvent('Dispatcher.befo...', Array)
+#20 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#21 {main}
+
+
+2016-06-08 13:42:23 Error: [BadMethodCallException] Cache engine redis is not available.
+Request URL: /auth/login?types=page
+Stack Trace:
+#0 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Core/ObjectRegistry.php(91): Cake\Cache\CacheRegistry->_throwMissingClassError('redis', NULL)
+#1 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Cache/Cache.php(154): Cake\Core\ObjectRegistry->load('Session', Array)
+#2 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Cache/Cache.php(186): Cake\Cache\Cache::_buildEngine('Session')
+#3 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Cache/Cache.php(311): Cake\Cache\Cache::engine('Session')
+#4 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Network/Session/CacheSession.php(85): Cake\Cache\Cache::read('i170fi5sq1b0rgn...', 'Session')
+#5 [internal function]: Cake\Network\Session\CacheSession->read('i170fi5sq1b0rgn...')
+#6 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Network/Session.php(324): session_start()
+#7 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Network/Session.php(432): Cake\Network\Session->start()
+#8 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Controller/Component/AuthComponent.php(614): Cake\Network\Session->write('Auth.User', Array)
+#9 /var/www/fcctv.co.kr/src/Controller/AuthController.php(893): Cake\Controller\Component\AuthComponent->setUser(Array)
+#10 /var/www/fcctv.co.kr/src/Controller/AuthController.php(154): App\Controller\AuthController->logUserIn(8)
+#11 [internal function]: App\Controller\AuthController->login()
+#12 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Controller/Controller.php(412): call_user_func_array(Array, Array)
+#13 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#14 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\AuthController))
+#15 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#16 {main}
+
+
+
+2016-06-08 17:50:05 Error
+주문코드 : OR0000000259의 실제 결제 금액 (4500)과 결제 예상 금액(400500)이 일치하지 않습니다.
+
+2016-06-08 18:15:16 Error
+주문코드 : OR0000000260의 실제 결제 금액 (1000)과 결제 예상 금액(5000)이 일치하지 않습니다.

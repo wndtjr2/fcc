@@ -1,0 +1,2389 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2015-08-21 02:32+0000\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: Template/Auth/exist_login.ctp:7
+#: Template/Auth/join.ctp:45
+#: Template/Auth/login.ctp:66
+#: Template/Auth/password_forgot.ctp:34
+#: Template/Auth/password_reset_complete.ctp:7
+#: Template/Auth/resend_password.ctp:7
+#: Template/Auth/reset_password.ctp:58
+#: Template/Auth/set_password.ctp:55
+#: Template/Fcc/about.ctp:7
+#: Template/Fcc/browser_update.ctp:7
+#: Template/Fcc/go_to_web.ctp:7
+#: Template/Layout/default.ctp:226
+#: Template/Models/complete.ctp:7
+#: Template/Models/index.ctp:19
+#: Template/Models/info.ctp:38
+#: Template/Models/info_add.ctp:220
+#: Template/Models/info_edit.ctp:233
+#: Template/Users/add_basic_info.ctp:159;288
+#: Template/Users/add_basic_info_save.ctp:18
+#: Template/Users/check_verification_email.ctp:12
+#: Template/Users/edit.ctp:221
+#: Template/Users/expired_token.ctp:7
+#: Template/Users/first_time_join.ctp:73
+#: Template/Users/forgot_password.ctp:13
+#: Template/Users/no_activate.ctp:14
+#: Template/Users/password_again.ctp:35
+#: Template/Users/profile.ctp:19
+#: Template/Users/resend_verification_email.ctp:12
+msgid "DAYS"
+msgstr "days"
+
+#: Template/Auth/exist_login.ctp:8
+#: Template/Auth/join.ctp:46
+#: Template/Auth/login.ctp:67
+#: Template/Auth/password_forgot.ctp:35
+#: Template/Auth/password_reset_complete.ctp:8
+#: Template/Auth/resend_password.ctp:8
+#: Template/Auth/reset_password.ctp:59
+#: Template/Auth/set_password.ctp:56
+#: Template/Fcc/about.ctp:8
+#: Template/Fcc/browser_update.ctp:8
+#: Template/Fcc/go_to_web.ctp:8
+#: Template/Layout/default.ctp:227
+#: Template/Models/complete.ctp:8
+#: Template/Models/index.ctp:20
+#: Template/Models/info.ctp:39
+#: Template/Models/info_add.ctp:221
+#: Template/Models/info_edit.ctp:234
+#: Template/Users/add_basic_info.ctp:160;289
+#: Template/Users/add_basic_info_save.ctp:19
+#: Template/Users/check_verification_email.ctp:13
+#: Template/Users/edit.ctp:222
+#: Template/Users/expired_token.ctp:8
+#: Template/Users/first_time_join.ctp:74
+#: Template/Users/forgot_password.ctp:14
+#: Template/Users/no_activate.ctp:15
+#: Template/Users/password_again.ctp:36
+#: Template/Users/profile.ctp:20
+#: Template/Users/resend_verification_email.ctp:13
+msgid "HOURS"
+msgstr "hours"
+
+#: Template/Auth/exist_login.ctp:9
+#: Template/Auth/join.ctp:47
+#: Template/Auth/login.ctp:68
+#: Template/Auth/password_forgot.ctp:36
+#: Template/Auth/password_reset_complete.ctp:9
+#: Template/Auth/resend_password.ctp:9
+#: Template/Auth/reset_password.ctp:60
+#: Template/Auth/set_password.ctp:57
+#: Template/Fcc/about.ctp:9
+#: Template/Fcc/browser_update.ctp:9
+#: Template/Fcc/go_to_web.ctp:9
+#: Template/Layout/default.ctp:228
+#: Template/Models/complete.ctp:9
+#: Template/Models/index.ctp:21
+#: Template/Models/info.ctp:40
+#: Template/Models/info_add.ctp:222
+#: Template/Models/info_edit.ctp:235
+#: Template/Users/add_basic_info.ctp:161;290
+#: Template/Users/add_basic_info_save.ctp:20
+#: Template/Users/check_verification_email.ctp:14
+#: Template/Users/edit.ctp:223
+#: Template/Users/expired_token.ctp:9
+#: Template/Users/first_time_join.ctp:75
+#: Template/Users/forgot_password.ctp:15
+#: Template/Users/no_activate.ctp:16
+#: Template/Users/password_again.ctp:37
+#: Template/Users/profile.ctp:21
+#: Template/Users/resend_verification_email.ctp:14
+msgid "MIN"
+msgstr "minutes"
+
+#: Template/Auth/exist_login.ctp:10
+#: Template/Auth/join.ctp:48
+#: Template/Auth/login.ctp:69
+#: Template/Auth/password_forgot.ctp:37
+#: Template/Auth/password_reset_complete.ctp:10
+#: Template/Auth/resend_password.ctp:10
+#: Template/Auth/reset_password.ctp:61
+#: Template/Auth/set_password.ctp:58
+#: Template/Fcc/about.ctp:10
+#: Template/Fcc/browser_update.ctp:10
+#: Template/Fcc/go_to_web.ctp:10
+#: Template/Layout/default.ctp:229
+#: Template/Models/complete.ctp:10
+#: Template/Models/index.ctp:22
+#: Template/Models/info.ctp:41
+#: Template/Models/info_add.ctp:223
+#: Template/Models/info_edit.ctp:236
+#: Template/Users/add_basic_info.ctp:162;291
+#: Template/Users/add_basic_info_save.ctp:21
+#: Template/Users/check_verification_email.ctp:15
+#: Template/Users/edit.ctp:224
+#: Template/Users/expired_token.ctp:10
+#: Template/Users/first_time_join.ctp:76
+#: Template/Users/forgot_password.ctp:16
+#: Template/Users/no_activate.ctp:17
+#: Template/Users/password_again.ctp:38
+#: Template/Users/profile.ctp:22
+#: Template/Users/resend_verification_email.ctp:15
+msgid "SEC"
+msgstr ""
+
+#: Template/Auth/exist_login.ctp:18
+#: Template/Auth/join.ctp:56
+#: Template/Auth/set_password.ctp:66
+#: Template/Users/first_time_join.ctp:84
+msgid "JOIN"
+msgstr "Create account"
+
+#: Template/Auth/exist_login.ctp:20
+#: Template/Auth/set_password.ctp:68
+msgid "we need a few things to create your account."
+msgstr ""
+
+#: Template/Auth/exist_login.ctp:31
+#: Template/Auth/reset_password.ctp:30
+#: Template/Auth/set_password.ctp:26
+#: Template/Users/edit.ctp:61
+#: Template/Users/first_time_join.ctp:29
+msgid "Create a password of 8~20 characters (numbers, letters, symbols)"
+msgstr "Create a password of 8~20 characters (numbers and symbols)"
+
+#: Template/Auth/exist_login.ctp:34
+#: Template/Auth/reset_password.ctp:31
+#: Template/Auth/set_password.ctp:27
+#: Template/Users/edit.ctp:62
+#: Template/Users/first_time_join.ctp:30
+msgid "Your password cannot consist of a numerial or alphabetical sequence."
+msgstr ""
+
+#: Template/Auth/exist_login.ctp:35
+#: Template/Auth/reset_password.ctp:32
+#: Template/Auth/set_password.ctp:28
+#: Template/Users/edit.ctp:63
+msgid "Your password cannot be the same as your user name or email."
+msgstr ""
+
+#: Template/Auth/exist_login.ctp:39
+#: Template/Auth/set_password.ctp:85
+msgid "Create Account"
+msgstr ""
+
+#: Template/Auth/exist_login.ctp:45
+#: Template/Auth/join.ctp:103
+#: Template/Auth/set_password.ctp:91
+#: Template/Users/first_time_join.ctp:128
+msgid "Are you a member?"
+msgstr ""
+
+#: Template/Auth/exist_login.ctp:45
+#: Template/Auth/join.ctp:91;95;99;103
+#: Template/Auth/login.ctp:78;113;133
+#: Template/Auth/password_reset_complete.ctp:23
+#: Template/Auth/set_password.ctp:91
+#: Template/Layout/default.ctp:238;239;302;494;513
+#: Template/Users/first_time_join.ctp:128
+#: Template/Users/password_again.ctp:47
+msgid "Log in"
+msgstr "Sign in"
+
+#: Template/Auth/exist_login.ctp:48
+#: Template/Auth/set_password.ctp:94
+#: Template/Users/first_time_join.ctp:131
+msgid "By creating an account, <br>I accept FCC’s Terms of Service and Privacy Policy."
+msgstr ""
+
+#: Template/Auth/join.ctp:27
+#: Template/Auth/password_forgot.ctp:17
+#: Template/Users/password_again.ctp:17
+msgid "Please enter your email."
+msgstr ""
+
+#: Template/Auth/join.ctp:28
+#: Template/Auth/login.ctp:44
+#: Template/Layout/default.ctp:165
+msgid "Invalid email format."
+msgstr ""
+
+#: Template/Auth/join.ctp:60
+msgid "Welcome to Fashion Crowd Challenge.<br>Time to meet designs and designers of every stripe from all around the world!"
+msgstr ""
+
+#: Template/Auth/join.ctp:63
+#: Template/Auth/login.ctp:82
+#: Template/Auth/password_forgot.ctp:62
+#: Template/Layout/default.ctp:456
+#: Template/Users/password_again.ctp:52
+msgid "Social Media"
+msgstr ""
+
+#: Template/Auth/join.ctp:74
+#: Template/Auth/login.ctp:93
+#: Template/Auth/password_forgot.ctp:53
+#: Template/Contacts/add.ctp:30
+#: Template/Layout/default.ctp:466
+#: Template/Users/edit.ctp:477;478
+#: Template/Users/forgot_password.ctp:35;36
+#: Template/Users/password_again.ctp:64
+msgid "Email"
+msgstr ""
+
+#: Template/Auth/join.ctp:83
+msgid "Join FCC"
+msgstr "Create your account"
+
+#: Template/Auth/join.ctp:91;95
+#: Template/Auth/login.ctp:137
+#: Template/Layout/default.ctp:517
+msgid "This account has already been created via {0}"
+msgstr ""
+
+#: Template/Auth/join.ctp:99
+#: Template/Auth/login.ctp:133
+#: Template/Layout/default.ctp:513
+msgid "This account was deleted. Would you like to restore this account?"
+msgstr ""
+
+#: Template/Auth/login.ctp:43
+#: Template/Layout/default.ctp:164
+msgid "Please enter your email"
+msgstr ""
+
+#: Template/Auth/login.ctp:47
+#: Template/Layout/default.ctp:168
+msgid "Please enter your password"
+msgstr ""
+
+#: Template/Auth/login.ctp:79
+#: Template/Layout/default.ctp:453
+msgid "Welcome to Fashion Crowd Challenge. <br>Time to meet designs and designers of every stripe from all around the world!"
+msgstr ""
+
+#: Template/Auth/login.ctp:108
+#: Template/Layout/default.ctp:484
+#: Template/Users/password_again.ctp:80
+msgid "Incorrect Password"
+msgstr ""
+
+#: Template/Auth/login.ctp:129
+#: Template/Auth/password_forgot.ctp:75
+#: Template/Layout/default.ctp:509
+msgid "We couldn\'t find your account. Would you like to <a class=\"is-join\" href=\"/auth/join\">join us?</a>"
+msgstr "We couldn\'t find your account. <br>Would you like to <a class=\"is-join\" href=\"/auth/join\">create account?</a>"
+
+msgid "We couldn\'t find your account. Would you like to"
+msgstr "We couldn\'t find your account. <br>Would you like to"
+
+msgid "join us?"
+msgstr "create account?"
+
+#: Template/Auth/password_forgot.ctp:45
+#: Template/Users/forgot_password.ctp:24
+msgid "Forget your password?"
+msgstr ""
+
+#: Template/Auth/password_forgot.ctp:47
+#: Template/Users/forgot_password.ctp:26
+msgid "We will send you an email with a link to reset your password."
+msgstr ""
+
+#: Template/Auth/password_forgot.ctp:68
+#: Template/Auth/reset_password.ctp:87
+#: Template/Users/forgot_password.ctp:49
+msgid "Reset Password"
+msgstr ""
+
+#: Template/Auth/password_reset_complete.ctp:18
+msgid "Your password has been changed"
+msgstr ""
+
+#: Template/Auth/password_reset_complete.ctp:20
+msgid "You have changed your password. Please log in again."
+msgstr "You have changed your password. Please sign in again."
+
+#: Template/Auth/resend_password.ctp:17
+#: Template/Users/check_verification_email.ctp:22
+#: Template/Users/resend_verification_email.ctp:22
+msgid "Go check your email !!"
+msgstr ""
+
+#: Template/Auth/resend_password.ctp:18
+msgid "<p>We sent you a link to reset your password. <br>Please check your email.</p>\n            <br>\n            <p>If you cannot find the password reset email, <br>please check your spam folder or click below.</p>"
+msgstr ""
+
+#: Template/Auth/reset_password.ctp:29
+#: Template/Auth/set_password.ctp:25
+#: Template/Users/first_time_join.ctp:28
+msgid "Please enter your password."
+msgstr ""
+
+#: Template/Auth/reset_password.ctp:35
+msgid "Please enter your password again."
+msgstr ""
+
+#: Template/Auth/reset_password.ctp:69
+msgid "Create a new password."
+msgstr ""
+
+#: Template/Auth/reset_password.ctp:71
+msgid "Please enter a new password."
+msgstr ""
+
+#: Template/Contacts/add.ctp:17
+msgid "Contact"
+msgstr ""
+
+#: Template/Contacts/add.ctp:19
+msgid "If you have any inquiries, please do not hesitate to contact us.<br>\n                    We will be happy to assist you."
+msgstr ""
+
+#: Template/Contacts/add.ctp:31;32
+msgid "This is not valid email address."
+msgstr ""
+
+#: Template/Contacts/add.ctp:35
+#: Template/Users/add_basic_info.ctp:362
+#: Template/Users/edit.ctp:387
+msgid "Language"
+msgstr ""
+
+#: Template/Contacts/add.ctp:48
+msgid "Subject"
+msgstr ""
+
+#: Template/Contacts/add.ctp:50
+msgid "Please enter your subject."
+msgstr ""
+
+#: Template/Contacts/add.ctp:53
+msgid "Description"
+msgstr ""
+
+#: Template/Contacts/add.ctp:55
+msgid "Please enter your description."
+msgstr ""
+
+#: Template/Contacts/add.ctp:58
+msgid "Send"
+msgstr ""
+
+#: Template/Contacts/complete.ctp:13
+msgid "Your comment has been successfully submitted.<br>\n                    We will send a response to {0}"
+msgstr ""
+
+#: Template/Email/html/bolt_request.ctp:15
+msgid "{0}'s account deletion request is complete. The deletion <br>\n                process will occur 10 days from now. If you change your mind <br>\n                about deleting your account, simply log in within 10 days and your <br>\n                account will be restored."
+msgstr "{0}'s account deletion request is complete. The deletion <br>\n                process will occur 10 days from now. If you change your mind <br>\n                about deleting your account, simply sign in within 10 days and your <br>\n                account will be restored."
+
+#: Template/Email/html/bolt_request.ctp:23
+#: Template/Email/html/contact.ctp:23
+#: Template/Email/html/password_reset.ctp:26
+#: Template/Email/html/thanks.ctp:28
+#: Template/Email/html/verification.ctp:26
+msgid "Need help?"
+msgstr ""
+
+#: Template/Email/html/bolt_request.ctp:23
+#: Template/Email/html/contact.ctp:23
+#: Template/Email/html/password_reset.ctp:26
+#: Template/Email/html/thanks.ctp:28
+#: Template/Email/html/verification.ctp:26
+#: Template/Fcc/faq.ctp:236
+msgid "Contact Us"
+msgstr ""
+
+#: Template/Fcc/about.ctp:20
+msgid "FASHION CROWD CHALLENGE"
+msgstr ""
+
+#: Template/Fcc/about.ctp:26
+#: Template/Models/index.ctp:52
+msgid "About"
+msgstr ""
+
+#: Template/Fcc/about.ctp:27
+#: Template/Models/index.ctp:53
+msgid "Schedule"
+msgstr ""
+
+#: Template/Fcc/about.ctp:28
+msgid "What Designers Get"
+msgstr ""
+
+#: Template/Fcc/about.ctp:29
+msgid "What Judges Get"
+msgstr ""
+
+#: Template/Fcc/about.ctp:30
+msgid "Submit your Work"
+msgstr ""
+
+#: Template/Fcc/about.ctp:39
+msgid "The mission of Fashion Crowd Challenge (FCC) is to find and bring talented, hidden fashion stars into the spotlight of the world. To this end, FCC is introducing a new type of fashion design competition. Unlike typical design contests, design submissions in FCC are evaluated by general people and peer designers.<br>\nThe slogan of FCC is “Time to Think” about fashion. The purpose of our slogan is to empower the fashion-loving layperson to re-think their own senses of style and design, instead of having their opinions handed to them by the fashion industry.<br><br>\nFCC is open and accessible. Anyone, who is over 14 years old, can participate as a fashion designer and as a design judge.<br><br>\nFCC administrates the fashion design competition through its own unique algorithm called Crowd Evaluation System (CES). Founded upon the theory of the collective intelligence or crowd-wisdom, CES selects judges from both the public and peer designers, and manages the evaluation logistics to generate fair, unbiased, and constructive evaluations.<br><br>\nThroughout the course of the competition period, FCC highlights top designers based on the most highly evaluated design work for each day. Those selections will be displayed on the FCC website. After the competition period, FCC will publish the winners and release the full evaluation results as generated by the CES, giving each and every designer valuable feedback. In addition to these features, FCC will support a virtual community where designers can network with their fans in potential markets.<br><br>\nAs participation in FCC is free of charge and the potential benefits enormous, this is a no-risk, high-reward opportunity for people of all stripes to participate in the fashion community."
+msgstr ""
+
+#: Template/Fcc/about.ctp:54
+msgid "Design<br>Submission"
+msgstr ""
+
+#: Template/Fcc/about.ctp:56
+msgid "10th Sep<br> - <br>7th Oct"
+msgstr ""
+
+#: Template/Fcc/about.ctp:68
+#: Template/Models/index.ctp:95
+msgid "Crowd<br>Evaluation"
+msgstr "Crowd <br>Evaluation"
+
+#: Template/Fcc/about.ctp:70
+msgid "8th Oct<br> - <br>15th Oct"
+msgstr ""
+
+#: Template/Fcc/about.ctp:82
+#: Template/Models/index.ctp:109
+msgid "Announcement of <br>Winners"
+msgstr ""
+
+#: Template/Fcc/about.ctp:84
+msgid "16th Oct"
+msgstr ""
+
+#: Template/Fcc/about.ctp:97
+msgid "<h4>1. Introduce Your Designs</h4>\n                                <ul>\n                                    <li>FCC supports you and gives you the opportunity to fulfill your dreams by introducing your work to the world and letting you hear what the world has to say. </li>\n                                    <li>All the submissions are evaluated fairly and equally.</li>\n                                </ul>"
+msgstr ""
+
+#: Template/Fcc/about.ctp:104
+msgid "<h4>2. Develop Your Designs</h4>\n                                <ul>\n                                    <li>Submitters receive feedback from both the general public and peer designers through our Designer Growth Report. FCC provides a fan community that allows all the participating designers and their global fans to network and grow together.</li>\n                                </ul>"
+msgstr ""
+
+#: Template/Fcc/about.ctp:110
+msgid "<h4>3. Become a Global Rising Star</h4>\n                                <ul>\n                                    <li>The FCC provides an opportunity for promising designers to debut in the global arena.<br>\n                                    The top winners chosen by our panel of judges will be given the opportunity to attend FCC’s Global Fashion Show and have a fashion shoot with international fashion magazines. </li>\n                                    <li>In addition, the winners will receive USD 250,000 in financial aid to support their entries in the global design market. FCC will work with both domestic and overseas commerce companies to help the designer market their items. </li>\n                                    <li>Turn your dreams into reality!</li>\n                                </ul>"
+msgstr ""
+
+#: Template/Fcc/about.ctp:123
+msgid "<h4>1. Discover Global Star Designers</h4>\n                                <ul>\n                                    <li>Please assist us in discovering hidden, talented designers and supporting their development into the new leading designers of the global fashion industry. </li>\n                                    <li>By participating, you can help the designers raise a global fan base. Do not hesitate to give FCC designers advice, encouragement, and constructive criticism. Create world-famous designers with your own hands!</li>\n                                </ul>"
+msgstr ""
+
+#: Template/Fcc/about.ctp:130
+msgid "<h4>2. Realize Your Dream</h4>\n                                <ul>\n                                    <li>After the evaluation of design submissions, FCC will match you with your favorite fashion designers to realize your dream of having your own personal fashion designers. With your designers, you can make your fashion styles unique and lead fashion trends.</li>\n                                </ul>"
+msgstr ""
+
+#: Template/Fcc/about.ctp:136
+msgid "<h4>3. Be a Trend Maker</h4>\n                                <ul>\n                                    <li>Show off your fashion sense as an FCC judge. Change fashion trends with your votes! </li>\n                                    <li>The title of “Trend Maker” will be conferred upon those few FCC judges who do their job with special enthusiasm and care. If the result shows that a certain judge's evaluations closely reflect the general opinion, that judge may also be called “Trend Maker.” </li>\n                                    <li>Those judges deemed “Trend Maker” will receive an invitation to FCC's Global Fashion Show. <br>\n                                    FCC provides Trend Makers with opportunities to work as a fashion merchandiser, brand manager, or trend consultant in an actual fashion company.</li>\n                                </ul>"
+msgstr ""
+
+#: Template/Fcc/about.ctp:149
+msgid "<h4>Design Topics</h4>\n                                <ul>\n                                    <li>Designers can freely work on whatever topic they want - there is no limit to your expression (except for those written in the “Designer's Responsibilities” section).</li>\n                                </ul>"
+msgstr ""
+
+#: Template/Fcc/about.ctp:155
+msgid "<h4>Preferences</h4>\n                                <ul>\n                                    <li>FCC prefers submissions created without using animal products, precious metals or stones.</li>\n                                </ul>"
+msgstr ""
+
+#: Template/Fcc/about.ctp:161
+msgid "<h4>Qualifications</h4>\n                                <ul>\n                                    <li>Anyone age 14 or over who loves fashion.</li>\n                                    <li>FCC can be entered individually or in teams of up to 4 people.</li>\n                                </ul>"
+msgstr ""
+
+#: Template/Fcc/about.ctp:168
+msgid "<h4>Submission Rules</h4>\n                                <ul>\n                                    <li>Include a written description and images and/or a video of your fashion designs.</li>\n                                    <li>Submitted items must be self-designed. FCC prefers items manufactured for under USD 200.</li>\n                                </ul>"
+msgstr "<h4>Submission Rules</h4>\n                                <ul>\n                                    <li>Include a written description and photo images and/or a video of your fashion designs.</li>\n                                    <li>Submitted items must be self-designed. FCC prefers items manufactured for under USD 200.</li>\n                                </ul>"
+
+#: Template/Fcc/about.ctp:175
+msgid "<h4>Submission Method</h4>\n                                <ul>\n                                    <li>\n                                        <h5>Images</h5>\n                                        <ul>\n                                            <li>The number of images submitted should not exceed 20 per design work submitted.</li>\n                                            <li>Submit original images so as to avoid copyright issues.</li>\n                                            <li>Images should be in JPEG files (RGB format is required).</li>\n                                        </ul>\n                                    </li>\n                                    <li>\n                                        <h5>Video</h5>\n                                        <ul>\n                                            <li>Video submission is optional, but recommended.</li>\n                                            <li>Video contents should include the designer's philosophy or concept.</li>\n                                            <li>Video should only be in mp4 format and should run for less than 5 minutes.</li>\n                                        </ul>\n                                    </li>\n                                    <li>\n                                        <h5>Description</h5>\n                                        <ul>\n                                            <li>Online applications can be submitted in any language, but it is recommended that the title and participant name be written in English.</li>\n                                            <li>In addition to the title and brief description, the application form includes space for a written description of the work. Written descriptions should include a design philosophy or explanation.</li>\n                                        </ul>\n                                    </li>\n                                </ul>"
+msgstr "<h4>Submission Method</h4>\n                                <ul>\n                                    <li>\n                                        <h5>Photo Images</h5>\n                                        <ul>\n                                            <li>The number of photo images submitted should not exceed 20 per design work submitted.</li>\n                                            <li>Submit original photo images so as to avoid copyright issues.</li>\n                                            <li>Photo Images should be in JPEG files (RGB format is required).</li>\n                                        </ul>\n                                    </li>\n                                    <li>\n                                        <h5>Video</h5>\n                                        <ul>\n                                            <li>Video submission is optional, but recommended.</li>\n                                            <li>Video contents should include the designer's philosophy or concept.</li>\n                                            <li>Video should only be in mp4 format and should run for less than 5 minutes.</li>\n                                        </ul>\n                                    </li>\n                                    <li>\n                                        <h5>Description</h5>\n                                        <ul>\n                                            <li>Online applications can be submitted in any language, but it is recommended that the title and participant name be written in English.</li>\n                                            <li>In addition to the title and brief description, the application form includes space for a written description of the work. Written descriptions should include a design philosophy or explanation.</li>\n                                        </ul>\n                                    </li>\n                                </ul>"
+
+#: Template/Fcc/about.ctp:203
+msgid "<h4>Designer’s Responsibilities</h4>\n                                <ul>\n                                    <li>During the evaluation period, submitters are responsible for reviewing and evaluating peer designers’ submissions. Design submitters who do not fully participate in the evaluation process may find that their own submissions have been excluded from the contest.</li>\n                                    <li>Works submitted to FCC should be the original creation or property of the designer. If the designer would like to use a copyrighted logo, pattern or character, proper licensing must be obtained before uploading the work to FCC. Any issues regarding copyright or plagiarism will become the sole responsibility of the designer, and their works will be excluded from the contest.</li>\n                                    <li>Furthermore, works that include hate speech, violence, sexual harassment, racism, sexism, religious or political discrimination, stolen content, violence against animals, or generally offensive material are banned and can be excluded from winning prizes even if they receive winning votes.</li>\n                                </ul>"
+msgstr ""
+
+#: Template/Fcc/browser_update.ctp:19
+#: Template/Fcc/go_to_web.ctp:19
+msgid "You cannot proceed any further at this time."
+msgstr "You cannot proceed <br>any further at this time."
+
+#: Template/Fcc/browser_update.ctp:20
+msgid "This step requires Internet Explorer 10 or higher. Please update your browser to continue."
+msgstr "This step requires Internet Explorer 10 or higher. <br>Please update your browser to continue."
+
+#: Template/Fcc/detail.ctp:9;24
+#: Template/Fcc/home.ctp:25
+msgid "Designer"
+msgstr ""
+
+#: Template/Fcc/detail.ctp:11
+msgid "Enter the global stage through our designer<br>\n                    challenge! FCC gives you the chance to<br>\n                    become a fashion designer.<br>\n                    Everyone is evaluated equally;<br>\n                    you will be judged on your talent alone.<br>\n                    Start realizing your dream!"
+msgstr ""
+
+#: Template/Fcc/detail.ctp:19;25;39
+#: Template/Fcc/home.ctp:47
+msgid "Model"
+msgstr ""
+
+#: Template/Fcc/detail.ctp:27
+msgid "Model in the FCC2015 Fashion Show,<br>\n                    a global fashion festival! Show your<br>\n                    grace and style on the glamorous catwalk!<br>\n                    Make living, breathing art out of fashion.<br>\n                    FCC2015 Fashion Show:<br>\n                    time to turn their heads."
+msgstr ""
+
+#: Template/Fcc/detail.ctp:34;40
+#: Template/Fcc/home.ctp:69
+msgid "Judge"
+msgstr ""
+
+#: Template/Fcc/detail.ctp:42
+msgid "Don't follow fashion trends - make them. With your high eye for fashion, use your power as an FCC Judge to anoint the next global fashion<br>\n                    star. Discover those hidden fashion designer gems and help them rise to the top!<br>\n                    Those judges with a rare passion for fashion and a truly sophisticated eye for talent will be bestowed with the title \"Trend Maker.\"<br>\n                    Your vote can change the course<br>\n                    of fashion's future."
+msgstr ""
+
+#: Template/Fcc/faq.ctp:156
+#: Template/Posts/vimeo_complete.ctp:131
+#: Template/Posts/vimeo_upload.ctp:66
+msgid "The promotion video should be under 5 minutes in length. "
+msgstr ""
+
+#: Template/Fcc/go_to_web.ctp:20
+msgid "You may register your basic info only via your smart phone. Please use your computer to continue."
+msgstr "You may register your basic info only via your smart phone. <br>Please use your computer to continue."
+
+#: Template/Fcc/home.ctp:98
+msgid "Countries"
+msgstr ""
+
+#: Template/Fcc/home.ctp:106
+msgid "Cities"
+msgstr ""
+
+#: Template/Fcc/home.ctp:111
+msgid "<strong>Here gathers all fashion lovers</strong>\n                        <strong>from every city and country</strong>\n                        <span>\n                            Here to for unable to meet, they gather together at FCC to create new fashion trends.<br>\n                            The challenge, once begun, shall continue ceaselessly, <br>\n                            and fashion lovers will know no setback or defeat.<br>\n                            This is the way we love fashion.\n                        </span>"
+msgstr ""
+
+#: Template/Fcc/home.ctp:153
+msgid "Brochure"
+msgstr ""
+
+#: Template/Fcc/home.ctp:154
+msgid "Fashion Crowd Challenge 2015"
+msgstr ""
+
+#: Template/Fcc/home.ctp:155
+msgid "<p>Download our brochure for more detailed <br>information about FCC.</p>"
+msgstr ""
+
+#: Template/Fcc/home.ctp:159;182
+msgid "Download our Brochure"
+msgstr ""
+
+#: Template/Fcc/home.ctp:205
+msgid "<span class=\"date\">10th Sep - 7th Oct</span>\n                            <span class=\"txt\">Design <br>Submission</span>"
+msgstr ""
+
+#: Template/Fcc/home.ctp:209
+msgid "<span class=\"date\">8th Oct - 15th Oct</span>\n                            <span class=\"txt\">Crowd <br>Evaluation</span>"
+msgstr ""
+
+#: Template/Fcc/home.ctp:213
+msgid "<span class=\"date\">16th Oct</span>\n                            <span class=\"txt\">Announcement <br>of Winners</span>"
+msgstr ""
+
+#: Template/Fcc/home.ctp:217
+msgid "FCC Details"
+msgstr ""
+
+#: Template/Fcc/home.ctp:222
+msgid "Download our brochure for more detailed information about FCC."
+msgstr ""
+
+#: Template/Fcc/home.ctp:230
+msgid "View Stories"
+msgstr ""
+
+#: Template/Layout/default.ctp:51
+msgid "This website requires Internet Explorer 10 or higher."
+msgstr ""
+
+#: Template/Layout/default.ctp:244;245
+msgid "Join"
+msgstr "Create account"
+
+#: Template/Layout/default.ctp:280
+msgid "My Profile"
+msgstr ""
+
+#: Template/Layout/default.ctp:281
+msgid "My Challenege"
+msgstr ""
+
+#: Template/Layout/default.ctp:282;323
+msgid "Log Out"
+msgstr "Sign Out"
+
+#: Template/Layout/default.ctp:328
+msgid "STORY"
+msgstr ""
+
+#: Template/Layout/default.ctp:329
+msgid "COMMUNITY"
+msgstr ""
+
+#: Template/Layout/default.ctp:330
+msgid "COMMITTEE"
+msgstr ""
+
+#: Template/Layout/default.ctp:331
+msgid "FCC 2015"
+msgstr "FCC 2015"
+
+#: Template/Layout/default.ctp:332
+msgid "MODEL CC 2015"
+msgstr ""
+
+#: Template/Layout/default.ctp:488
+#: Template/Users/password_again.ctp:82
+msgid "Please enter your Password."
+msgstr ""
+
+#: Template/Layout/default.ctp:557;581
+#: Template/Users/edit.ctp:448;503;598;610
+msgid "Would you like to delete your account?"
+msgstr ""
+
+#: Template/Layout/default.ctp:561
+msgid "Changes have not been saved.<br>\n                                    Would you like to save now?"
+msgstr ""
+
+#: Template/Layout/default.ctp:585
+msgid "Your account will be deleted 10 days after the request is submitted. After 10 days, all emails containing personal information, uploaded pictures, videos, and text will be deleted."
+msgstr ""
+
+#: Template/Layout/default.ctp:587
+msgid "If you change your mind about deleting your account, you can log in to stop the deletion process within 10 days. If you log in again, all deleted information will be automatically restored."
+msgstr "If you change your mind about deleting your account, you can sign in to stop the deletion process within 10 days. If you sign in again, all deleted information will be automatically restored."
+
+#: Template/Layout/default.ctp:593
+msgid "No, thank you."
+msgstr ""
+
+#: Template/Layout/default.ctp:594
+msgid "Yes, please."
+msgstr ""
+
+#: Template/Layout/default.ctp:620;623
+msgid "Deletion request sent."
+msgstr ""
+
+#: Template/Layout/default.ctp:625
+msgid "Your account will be deleted in 10 days."
+msgstr ""
+
+#: Template/Models/complete.ctp:19
+#: Template/Users/profile.ctp:78
+msgid "Registration complete!"
+msgstr ""
+
+#: Template/Models/complete.ctp:20
+msgid "<p>Your registration was successfully completed.</p>\n            <p>You can check out your profile to verify your information.</p>\n            <p>You may revise your information until the final day of registration.</p>"
+msgstr ""
+
+#: Template/Models/complete.ctp:60
+msgid "Need more information? Check out the <a href=\"/fcc/faq\">FAQ</a>"
+msgstr ""
+
+#: Template/Models/complete.ctp:61
+msgid "Verify my registration information"
+msgstr ""
+
+#: Template/Models/index.ctp:35
+msgid "Are you ready to show the world your passion for fashion?"
+msgstr ""
+
+#: Template/Models/index.ctp:37
+msgid "Be a Model"
+msgstr "Portfolio Submission"
+
+#: Template/Models/index.ctp:39
+msgid "<span>If you are represented by a modeling agency,</span>\n                    <span>you must obtain permission to participate in ModelCC.</span>"
+msgstr ""
+
+#: Template/Models/index.ctp:46
+msgid "MODEL CROWD CHALLENGE"
+msgstr ""
+
+#: Template/Models/index.ctp:64
+msgid "We are looking for models to participate in Model Crowd Challenge (ModelCC), a fashion show linked with Fashion Crowd Challenge 2015 (FCC), a global fashion competition.<br><br>\n                                    ModelCC uses the same \"crowd-wisdom technology\" as the Fashion Crowd Challenge (FCC).<br>\n                                    Anybody in the world can vote in our election, ensuring a fair competition.<br>\n                                    Anyone, regardless of gender, nationality, or qualifications, can participate in ModelCC.<br><br>\n                                    Model in the FCC2015 Fashion Show, a global fashion festival! Show your grace and style on the glamorous runway! Make living, breathing art out of fashion.<br><br>\n                                    ModelCC 2015 and FCC 2015 Fashion Show: time to turn their heads.<br>\n                                    FCC 2015 belongs to you.<br>\n                                    We are waiting for you.<br>"
+msgstr ""
+
+#: Template/Models/index.ctp:81
+msgid "Portfolio<br>Submission"
+msgstr "Portfolio <br>Submission"
+
+#: Template/Models/index.ctp:83
+msgid "24th Aug.<br> - <br>9th Sep."
+msgstr ""
+
+#: Template/Models/index.ctp:97
+msgid "10th Sep.<br> - <br>13th Sep."
+msgstr ""
+
+#: Template/Models/index.ctp:111
+msgid "14th Sep."
+msgstr ""
+
+#: Template/Models/index.ctp:124
+msgid "<h4>Steal the FCC Spotlight</h4>\n                                <ul>\n                                    <li>If you dream of becoming an international top model, ModelCC is offering you the chance to shine! </li>\n                                    <li>The winners of ModelCC will step into the spotlight on the FCC2015 runway. Anyone with modeling dreams can participate and will be judged fairly according to their talent and personality.</li>\n                                </ul>"
+msgstr ""
+
+#: Template/Models/index.ctp:131
+msgid "<h4>Realize Your Ambition</h4>\n                                <ul>\n                                    <li>ModelCC is a great opportunity for a glamourous debut in a global fashion show. Model FCC 2015's winning designs on the runway and get the professional exposure you deserve.</li>\n                                </ul>"
+msgstr ""
+
+#: Template/Models/index.ctp:141
+msgid "<h4>Qualifications</h4>\n                                <ul>\n                                    <li>Anyone over the age of 14 can participate regardless of nationality, gender or occupation.</li>\n                                </ul>"
+msgstr ""
+
+#: Template/Models/index.ctp:147
+msgid "<h4>Submission Rules</h4>\n                                <ul>\n                                    <li>Submissions can include pictures, stories or videos that show off the model's personality and talent.</li>\n                                    <li>You can submit up to five pictures. Since any pictures submitted may be exhibited in the competition, please choose wisely.</li>\n                                </ul>"
+msgstr ""
+
+#: Template/Models/index.ctp:154
+msgid "<h4>Submission Guidelines</h4>\n                                <ul>\n                                    <li>\n                                        <h5>Image</h5>\n                                        <ul>\n                                            <li>You may submit up to five images.</li>\n                                            <li>Images should be in JPEG files (RGB format is required).</li>\n                                        </ul>\n                                    </li>\n                                    <li>\n                                        <h5>Video</h5>\n                                        <ul>\n                                            <li>Video submission is optional, but recommended.</li>\n                                            <li>Videos should display the model's personality and talent.</li>\n                                            <li>Videos should only be in mp4 format and should run for less than 5 minutes.</li>\n                                        </ul>\n                                    </li>\n                                    <li>\n                                        <h5>Description</h5>\n                                        <ul>\n                                            <li>All models must submit a story that explains their lives, dreams and philosophies. There are no language restrictions, but we recommend that you use the language in which you can best express yourself.</li>\n                                        </ul>\n                                    </li>\n                                </ul>"
+msgstr "<h4>Submission Guidelines</h4>\n                                <ul>\n                                    <li>\n                                        <h5>Photo Images</h5>\n                                        <ul>\n                                            <li>You may submit up to five photo images.</li>\n                                            <li>Photo Images should be in JPEG files (RGB format is required).</li>\n                                        </ul>\n                                    </li>\n                                    <li>\n                                        <h5>Video</h5>\n                                        <ul>\n                                            <li>Video submission is optional, but recommended.</li>\n                                            <li>Videos should only be in mp4 format and should run for less than 5 minutes.</li>\n                                        </ul>\n                                    </li>\n                                    <li>\n                                        <h5>Description</h5>\n                                        <ul>\n                                            <li>All models must submit a story that explains their lives, dreams and philosophies. There are no language restrictions, but we recommend that you use the language in which you can best express yourself.</li>\n                                        </ul>\n                                    </li>\n                                </ul>"
+
+#: Template/Models/index.ctp:180
+msgid "<h4>Designer’s Responsibilities</h4>\n                                <ul>\n                                    <li>During the evaluation period, participants are responsible for reviewing and evaluating peer models' submissions. Models who do not fully participate in the evaluation process may find that their own submissions have been excluded from the contest.</li>\n                                    <li>Works submitted to ModelCC should be an original creation or property of the model. Any issues regarding copyright or plagiarism will become the sole responsibility of the model, and their works will be excluded from the contest.</li>\n                                    <li>Furthermore, works that include hate speech, violence, sexual harassment, racism, sexism, religious or political discrimination, stolen content, violence against animals, or generally offensive material are banned and can be excluded from winning prizes even if they receive winning votes.</li>\n                                </ul>"
+msgstr "<h4>Model’s Responsibilities</h4>\n                                <ul>\n                                    <li>During the evaluation period, participants are responsible for reviewing and evaluating peer models' submissions. Models who do not fully participate in the evaluation process may find that their own submissions have been excluded from the contest.</li>\n                                    <li>Works submitted to ModelCC should be an original creation or property of the model. Any issues regarding copyright or plagiarism will become the sole responsibility of the model, and their works will be excluded from the contest.</li>\n                                    <li>Furthermore, works that include hate speech, violence, sexual harassment, racism, sexism, religious or political discrimination, stolen content, violence against animals, or generally offensive material are banned and can be excluded from winning prizes even if they receive winning votes.</li>\n                                </ul>"
+
+#: Template/Models/info.ctp:65
+#: Template/Models/info_add.ctp:381
+#: Template/Models/info_edit.ctp:396
+msgid "About Me"
+msgstr ""
+
+#: Template/Models/info.ctp:71
+#: Template/Models/info_add.ctp:385
+#: Template/Models/info_edit.ctp:400
+msgid "Size"
+msgstr ""
+
+#: Template/Models/info.ctp:73
+#: Template/Models/info_add.ctp:248;249;251;387;388
+#: Template/Models/info_edit.ctp:261;262;264;402;403
+msgid "Height"
+msgstr ""
+
+#: Template/Models/info.ctp:76
+#: Template/Models/info_add.ctp:277;278;279;390;391
+#: Template/Models/info_edit.ctp:290;291;292;405;406
+msgid "Weight"
+msgstr ""
+
+#: Template/Models/info.ctp:81
+#: Template/Models/info_add.ctp:305;395;396
+#: Template/Models/info_edit.ctp:318;410;411
+msgid "Bust"
+msgstr ""
+
+#: Template/Models/info.ctp:83
+#: Template/Models/info_add.ctp:306;397;398
+#: Template/Models/info_edit.ctp:319;412;413
+msgid "Waist"
+msgstr ""
+
+#: Template/Models/info.ctp:85
+#: Template/Models/info_add.ctp:307;399;400
+#: Template/Models/info_edit.ctp:320;414;415
+msgid "Hips"
+msgstr ""
+
+#: Template/Models/info.ctp:101
+#: Template/Models/info_add.ctp:415
+#: Template/Models/info_edit.ctp:430
+msgid "Image"
+msgstr "Photo Images"
+
+#: Template/Models/info.ctp:146
+msgid "Want to delete your registration information?"
+msgstr ""
+
+#: Template/Models/info.ctp:147
+#: Template/Users/edit.ctp:230
+#: Template/Users/profile.ctp:46
+msgid "Edit"
+msgstr ""
+
+#: Template/Models/info.ctp:339
+msgid "If you delete your information, your participation in ModelCC 2015 will be cancelled. Do you wish to continue?"
+msgstr ""
+
+#: Template/Models/info.ctp:342
+msgid "No."
+msgstr ""
+
+#: Template/Models/info.ctp:343
+msgid "Yes, delete."
+msgstr ""
+
+#: Template/Models/info_add.ctp:110;229
+#: Template/Models/info_edit.ctp:124;242
+msgid "SIZE"
+msgstr ""
+
+#: Template/Models/info_add.ctp:116
+#: Template/Models/info_edit.ctp:130
+msgid "DETAIL"
+msgstr ""
+
+#: Template/Models/info_add.ctp:122
+#: Template/Models/info_edit.ctp:136
+msgid "VIDEO"
+msgstr ""
+
+#: Template/Models/info_add.ctp:166
+#: Template/Models/info_edit.ctp:179
+msgid "You must upload at least one image."
+msgstr "You must upload at least one photo image."
+
+#: Template/Models/info_add.ctp:198
+#: Template/Models/info_edit.ctp:211
+#: Template/Models/no_season.ctp:8
+#: Template/Users/add_basic_info_save.ctp:5
+msgid "This is Not the period during Fashion Crowd Challenge held."
+msgstr ""
+
+#: Template/Models/info_add.ctp:228
+#: Template/Models/info_edit.ctp:241
+msgid "Portfolio"
+msgstr ""
+
+#: Template/Models/info_add.ctp:251;388
+#: Template/Models/info_edit.ctp:264;403
+msgid "Please enter your height."
+msgstr ""
+
+#: Template/Models/info_add.ctp:279;391
+#: Template/Models/info_edit.ctp:292;406
+msgid "Please enter your weight."
+msgstr ""
+
+#: Template/Models/info_add.ctp:303;304
+#: Template/Models/info_edit.ctp:316;317
+msgid "Body Measurements"
+msgstr ""
+
+#: Template/Models/info_add.ctp:305;306;307;396;398;400
+#: Template/Models/info_edit.ctp:318;319;320;411;413;415
+msgid "Please enter your body measurements."
+msgstr ""
+
+#: Template/Models/info_add.ctp:331;332;333
+#: Template/Models/info_edit.ctp:344;345;346
+msgid "Shoe size"
+msgstr ""
+
+#: Template/Models/info_add.ctp:333;405
+#: Template/Models/info_edit.ctp:346;420
+msgid "Please enter your shoe size."
+msgstr ""
+
+#: Template/Models/info_add.ctp:365;441;483
+#: Template/Models/info_edit.ctp:378;460;512
+#: Template/Users/add_basic_info.ctp:276;426
+msgid "Next"
+msgstr ""
+
+#: Template/Models/info_add.ctp:382
+#: Template/Models/info_edit.ctp:397
+msgid "Please fill out you \"About Me\" section."
+msgstr ""
+
+#: Template/Models/info_add.ctp:416
+#: Template/Models/info_edit.ctp:431
+msgid "Please upload a high-quality photo of yourself."
+msgstr "Keep it clean - no nudity, violence, shocking imagery, etc."
+
+#: Template/Models/info_add.ctp:427
+#: Template/Models/info_edit.ctp:449
+msgid "Add"
+msgstr ""
+
+#: Template/Models/info_add.ctp:440;482
+#: Template/Models/info_edit.ctp:459;511
+#: Template/Users/add_basic_info.ctp:423
+msgid "Back"
+msgstr ""
+
+#: Template/Models/info_add.ctp:453
+#: Template/Models/info_edit.ctp:474
+msgid "Video"
+msgstr ""
+
+#: Template/Models/info_add.ctp:454
+#: Template/Models/info_edit.ctp:475
+msgid "Please upload a video that shows off your style and ability"
+msgstr ""
+
+#: Template/Models/info_add.ctp:460
+#: Template/Models/info_edit.ctp:481
+#: Template/Posts/vimeo_complete.ctp:142
+msgid "Upload"
+msgstr ""
+
+#: Template/Models/info_add.ctp:497
+msgid "Almost Finished!"
+msgstr ""
+
+#: Template/Models/info_add.ctp:561
+msgid "I agree to the above and wish to register."
+msgstr ""
+
+#: Template/Posts/vimeo_upload.ctp:80
+msgid "Choose a Video to Upload"
+msgstr ""
+
+#: Template/Users/add_basic_info.ctp:94
+#: Template/Users/edit.ctp:149
+msgid "over file size. max file size 5MB"
+msgstr ""
+
+#: Template/Users/add_basic_info.ctp:168;297
+msgid "Basic Info"
+msgstr ""
+
+#: Template/Users/add_basic_info.ctp:183
+#: Template/Users/edit.ctp:248
+msgid "Profile Picture"
+msgstr ""
+
+#: Template/Users/add_basic_info.ctp:201
+#: Template/Users/edit.ctp:265
+msgid "Allowed file types JPG, GIF or PNG.<br>Maximum size of 5MB"
+msgstr ""
+
+#: Template/Users/add_basic_info.ctp:207
+#: Template/Users/edit.ctp:273
+msgid "Upload Photo"
+msgstr ""
+
+#: Template/Users/add_basic_info.ctp:210
+#: Template/Users/edit.ctp:276
+msgid "Please upload your photo."
+msgstr ""
+
+#: Template/Users/add_basic_info.ctp:221;224
+#: Template/Users/edit.ctp:287;290
+msgid "Please enter your name."
+msgstr ""
+
+#: Template/Users/add_basic_info.ctp:228;229
+#: Template/Users/edit.ctp:294;295
+msgid "Birth Date"
+msgstr ""
+
+#: Template/Users/add_basic_info.ctp:240
+#: Template/Users/edit.ctp:307
+msgid "Month"
+msgstr ""
+
+#: Template/Users/add_basic_info.ctp:241
+#: Template/Users/edit.ctp:308
+msgid "Day"
+msgstr ""
+
+#: Template/Users/add_basic_info.ctp:242
+#: Template/Users/edit.ctp:309
+msgid "Year"
+msgstr ""
+
+#: Template/Users/add_basic_info.ctp:244
+#: Template/Users/edit.ctp:311
+msgid "Please enter your birth date."
+msgstr ""
+
+#: Template/Users/add_basic_info.ctp:248
+#: Template/Users/edit.ctp:315
+msgid "Gender"
+msgstr ""
+
+#: Template/Users/add_basic_info.ctp:250
+#: Template/Users/edit.ctp:318
+msgid "Female"
+msgstr ""
+
+#: Template/Users/add_basic_info.ctp:251
+#: Template/Users/edit.ctp:319
+msgid "Male"
+msgstr ""
+
+#: Template/Users/add_basic_info.ctp:252
+#: Template/Users/edit.ctp:238;320
+msgid "Other"
+msgstr ""
+
+#: Template/Users/add_basic_info.ctp:255
+#: Template/Users/edit.ctp:323
+msgid "Please select a gender."
+msgstr ""
+
+#: Template/Users/add_basic_info.ctp:310;358
+#: Template/Users/edit.ctp:335;383;384
+msgid "City"
+msgstr ""
+
+#: Template/Users/add_basic_info.ctp:316
+#: Template/Users/edit.ctp:341
+msgid "Country"
+msgstr ""
+
+#: Template/Users/add_basic_info.ctp:356
+msgid "Please select your country."
+msgstr ""
+
+#: Template/Users/add_basic_info.ctp:359
+#: Template/Users/edit.ctp:384
+msgid "Please enter your city."
+msgstr ""
+
+#: Template/Users/add_basic_info.ctp:397
+msgid "Please select a valid language."
+msgstr ""
+
+#: Template/Users/add_basic_info.ctp:412;413;414
+#: Template/Users/edit.ctp:436;437;438
+msgid "Phone Number"
+msgstr ""
+
+#: Template/Users/add_basic_info.ctp:414
+#: Template/Users/edit.ctp:438
+msgid "Country Code"
+msgstr ""
+
+#: Template/Users/add_basic_info.ctp:415
+#: Template/Users/edit.ctp:439
+msgid "Please enter your telephone number. We'll need it to tell you in case you win!"
+msgstr ""
+
+#: Template/Users/add_basic_info_save.ctp:34;45
+msgid "Basic info<br>complete."
+msgstr ""
+
+#: Template/Users/add_basic_info_save.ctp:35
+msgid "Basic info is complete.<br> Please click below to move to the next stage in the process."
+msgstr "Registration is complete.<br>Please click below to move to the next stage in the process."
+
+#: Template/Users/add_basic_info_save.ctp:40
+msgid "Submit your portfolio"
+msgstr ""
+
+#: Template/Users/add_basic_info_save.ctp:41
+msgid "Not ready to participate? <a href=\"/\">return to main page</a>"
+msgstr ""
+
+#: Template/Users/add_basic_info_save.ctp:46
+msgid "basic info is complete. The next step can only be done via computer. Please complete using your computer."
+msgstr "Input of basic information completed.<br>You cannot proceed to the next step <br>through the mobile web.<br><br>If you wish to continue registering your work,<br>please proceed using a computer <br>or the Modhello App."
+
+#: Template/Users/check_verification_email.ctp:23
+#: Template/Users/resend_verification_email.ctp:23
+msgid "<p>Dear <span class=\"user\">{0}</span></p>\n            <p>We have sent a verification email to <span class=\"email\">{1}</span></p>\n            <p>Open the e-mail and click the link to complete the registration process.</p>\n            <br>\n            <p>If you cannot find the activation email, <br>please check your spam folder or click below.</p>"
+msgstr ""
+
+#: Template/Users/check_verification_email.ctp:33
+#: Template/Users/no_activate.ctp:30
+#: Template/Users/resend_verification_email.ctp:33
+msgid "Resend verification email."
+msgstr ""
+
+#: Template/Users/edit.ctp:234
+msgid "Profile"
+msgstr ""
+
+#: Template/Users/edit.ctp:236
+msgid "Account"
+msgstr ""
+
+#: Template/Users/edit.ctp:282;283
+msgid "Name"
+msgstr ""
+
+#: Template/Users/edit.ctp:284
+msgid "First Name"
+msgstr ""
+
+#: Template/Users/edit.ctp:285
+msgid "Last Name"
+msgstr ""
+
+#: Template/Users/edit.ctp:444;498;593
+#: Template/Users/password_again.ctp:87
+msgid "Done"
+msgstr ""
+
+#: Template/Users/expired_token.ctp:18
+msgid "This link has expired."
+msgstr ""
+
+#: Template/Users/first_time_join.ctp:86
+msgid "We need a few things to create your account."
+msgstr ""
+
+#: Template/Users/first_time_join.ctp:94
+msgid "First name"
+msgstr ""
+
+#: Template/Users/first_time_join.ctp:95
+msgid "Last name"
+msgstr ""
+
+#: Template/Users/first_time_join.ctp:99
+msgid "Please enter your first name."
+msgstr ""
+
+#: Template/Users/first_time_join.ctp:102
+msgid "Please enter your last name."
+msgstr ""
+
+#: Template/Users/first_time_join.ctp:122
+msgid "Send verification email"
+msgstr ""
+
+#: Template/Users/no_activate.ctp:24
+msgid "Account Not Verified"
+msgstr ""
+
+#: Template/Users/no_activate.ctp:25
+msgid "You already created your account,<br>but you need to verify it via the verification email we sent."
+msgstr ""
+
+#: Template/Users/no_activate.ctp:27
+msgid "Can't find the verification email? <br>Click the button below to send it again."
+msgstr ""
+
+#: Template/Users/password_again.ctp:18
+msgid "Invalid email format"
+msgstr ""
+
+#: Template/Users/password_again.ctp:48
+msgid "To protect your information. please enter your password again."
+msgstr ""
+
+#: Template/Users/profile.ctp:53
+msgid "Notifications"
+msgstr ""
+
+#: Template/Users/profile.ctp:72
+msgid "Try FCC's model challenge!"
+msgstr ""
+
+#: Template/Users/profile.ctp:75
+msgid "You haven't registered as a model yet."
+msgstr ""
+
+
+# 수동 추가 ====================
+#: Template/Models/index.ctp:38     // MCC 2015 모바일 전용 버튼
+msgid "Register your Basic info"
+msgstr ""
+
+
+###=================================
+## 20150821 / 20:08
+#:
+msgid "Did you forget your password?"
+msgstr ""
+
+#:
+msgid "Resend email"
+msgstr ""
+
+#:
+msgid "Password"
+msgstr ""
+
+#:
+msgid "Optional"
+msgstr ""
+
+#:
+msgid "Website"
+msgstr ""
+
+#:
+msgid "Enter URL"
+msgstr ""
+
+#:
+msgid "New password and confirmation do not match"
+msgstr ""
+
+###=================================
+## 20150821 / 20:52
+#:
+msgid "What Models Get"
+msgstr ""
+
+#:
+msgid "Submit Your Work"
+msgstr "Submit Your Portfolio"
+
+
+###=================================
+## 20150823 / 13:06 / FCC 2015 페이지
+
+#: index.ctp:26
+msgid "The mission of Fashion Crowd Challenge (FCC) is to find and bring talented,<br>\n                    hidden fashion stars into the spotlight of the world.<br>\n                    To this end, FCC is introducing a new type of fashion design competition."
+msgstr ""
+
+#: index.ctp:31
+msgid "FCC 2015 design submission begins on September 10th."
+msgstr "Design submission begins on September 10th"
+
+#: index.ctp:53
+msgid "Designers who wish to participate in FCC must upload their designs between September 10th and October 7th."
+msgstr ""
+
+#: index.ctp:56;120
+msgid "<span class=\"date\">10th Sep - 7th Oct</span>\n                                        <p>Design<br>Submission</p>"
+msgstr ""
+
+#: index.ctp:60;124
+msgid "<span class=\"date\">8th Oct - 15th Oct</span>\n                                        <p>Crowd<br>Evaluation</p>"
+msgstr ""
+
+#: index.ctp:64;128
+msgid "<span class=\"date\">16th Oct</span>\n                                        <p>Announcement<br>of Winners</p>"
+msgstr ""
+
+#: index.ctp:70
+msgid "Submission Method"
+msgstr ""
+
+#: index.ctp:71
+msgid "What sort of thing can designer submit?"
+msgstr ""
+
+#: index.ctp:109
+msgid "The grant may vary from country to country, according to tax laws."
+msgstr ""
+
+#: index.ctp:117
+msgid "Judges can submit evaluations from October 8th until October 15th."
+msgstr ""
+
+#: index.ctp:135
+msgid "The 5 Judges selected as Trend Makers will receive invitation FCC 2015 Fashion Show.<br>Trend Makers attending the fashion show will receive hand-made gifts from the Designers!"
+msgstr ""
+
+
+###=================================
+## 20150824 / 15:18 / users edit 페이지
+
+msgid "Save"
+msgstr ""
+
+
+###=================================
+## 20150826 / 14:05 / 메인 타이틀이미지 설명
+
+#: /home.ctp:28
+msgid "Enter the global stage through our designer<br>\n                                challenge! FCC gives you the chance to<br>\n                                become a fashion designer.<br>\n                                Everyone is evaluated equally;<br>\n                                you will be judged on your talent alone.<br>\n                                Start realizing your dream!"
+msgstr ""
+
+#: /home.ctp:50
+msgid "Model in the FCC2015 Fashion Show,<br>\n                                a global fashion festival! Show your<br>\n                                grace and style on the glamorous catwalk!<br>\n                                Make living, breathing art out of fashion.<br>\n                                FCC2015 Fashion Show:<br>\n                                time to turn their heads."
+msgstr ""
+
+#: /home.ctp:72
+msgid "Don't follow fashion trends - make them. With your high eye for fashion, use your poweras an FCC Judge to anoint the next global fashion<br>\n                                star. Discover those hidden fashion designer gems and help them rise to the top!<br>\n                                Those judges with a rare passion for fashion and a truly sophisticated eye for talent will be bestowed with the title \"Trend Maker.\"<br>\n                                Your vote can change the course<br>\n                                of fashion's future."
+msgstr ""
+
+#: Template/Users/first_time_join.ctp:47
+msgid "Show Password Errors"
+msgstr "- at least one English alphabet letter (a-z, A-Z),<br>- at least one digit number (0-9),<br>- and no spaces."
+
+msgid "New here?"
+msgstr ""
+
+msgid "Not a member yet?"
+msgstr ""
+
+#: Error
+msgid "We could not get your information.<br>Please participate in FCC by your email."
+msgstr ""
+
+msgid "Sorry"
+msgstr ""
+
+msgid "Privacy Policy"
+msgstr ""
+
+msgid "FAQ"
+msgstr ""
+
+
+
+
+
+
+msgid "Vote for me ! "
+msgstr ""
+
+msgid "<span>MEET THE STAR</span><span>MODELS OF</span>"
+msgstr ""
+
+msgid "TOMORROW"
+msgstr ""
+
+msgid "<span>You choose the top models of ModelCC 2015.</span><span>Your input creates the stars of the future.</span>"
+msgstr ""
+
+msgid "Total"
+msgstr ""
+
+msgid "Today"
+msgstr ""
+
+msgid "The evaluation period ends in"
+msgstr ""
+
+msgid "hours,"
+msgstr ""
+
+msgid "minutes."
+msgstr ""
+
+msgid "Please Wait, Loading.."
+msgstr ""
+
+msgid "Evaluate more models!"
+msgstr ""
+
+msgid "There is no evaluation subjects"
+msgstr ""
+
+msgid "Back to list"
+msgstr ""
+
+msgid "About Me"
+msgstr ""
+
+msgid "Size"
+msgstr ""
+
+msgid "Height"
+msgstr ""
+
+msgid "Weight"
+msgstr ""
+
+msgid "Bust"
+msgstr ""
+
+msgid "Waist"
+msgstr ""
+
+msgid "Hips"
+msgstr ""
+
+msgid "Shoes"
+msgstr ""
+
+msgid "Comment"
+msgstr ""
+
+msgid "MODEL CC 2015"
+msgstr ""
+
+msgid "WINNER"
+msgstr "WINNERS"
+
+msgid "<span>The ModelCC 2015 Winners <br>have been chosen!</span><span>Let\'s meet the global top models <br>who will own the runway at FCC2015!</span>"
+msgstr ""
+
+msgid "View my results"
+msgstr ""
+
+msgid "Top Model"
+msgstr ""
+
+msgid "MODEL CC 2015 RESULTS"
+msgstr ""
+
+msgid "Grade"
+msgstr ""
+
+msgid "Judges"
+msgstr ""
+
+msgid "Comments"
+msgstr ""
+
+msgid "View more language"
+msgstr ""
+
+msgid "We need you to agree to a few things before we can finish your ModelCC registration."
+msgstr ""
+
+msgid "We need you to agree to a few things before we can finish your FCC registration."
+msgstr "The designer owns the copyright for their design.<br> If their design is illegally used, FCC will support their legal case."
+
+msgid "FCC's mission is to discover fashion stars and thrust them into the public eye.<br>So, FCC is holding a truly global fashion show in which anyone can participate as a designer OR as a judge.<br><br>The designs which receive the best reviews will be displayed each day during the evaluation period at FashionCrowdChallenge.com.<br>FCC will announce the full body of winners on October 16th."
+msgstr "FCC's mission is to discover fashion stars and thrust them into the public eye.<br>So, FCC is holding a truly global fashion show in which anyone can participate as a designer or as a judge.<br><br>The designs which receive the best reviews will be displayed each day during the evaluation period at FashionCrowdChallenge.com.<br>FCC will announce the full body of winners on October 16th."
+
+msgid "Join Fashion CC 2015"
+msgstr "Join FCC 2015"
+
+msgid "Email Verification"
+msgstr "FCC Email Verification"
+
+msgid "Design<br>Submission"
+msgstr "Design<br>Submission"
+
+msgid "If you delete your information, your participation in FCC 2015 will be cancelled. Do you wish to continue?"
+msgstr ""
+
+msgid "Email Verification"
+msgstr ""
+
+msgid "Portfolio <br>Submission"
+msgstr ""
+
+msgid "Crowd<br>Evaluation"
+msgstr ""
+
+msgid "Crowd <br>Evaluation"
+msgstr ""
+
+msgid "Announcement of <br>Winners"
+msgstr ""
+
+msgid "Portfolio <br>Evaluation"
+msgstr ""
+
+msgid "10th Sep.<br> - <br>13th Sep."
+msgstr ""
+
+msgid "FCC\'s Model Evaluation<br>has begun."
+msgstr ""
+
+msgid "Check out another model!"
+msgstr ""
+
+msgid "Evaluation <br>finished!."
+msgstr ""
+
+msgid "Evaluation finished! see you tomorrow."
+msgstr ""
+
+msgid "14th Sep."
+msgstr ""
+
+msgid "My results."
+msgstr "My results"
+
+msgid "Meet the star <br> models of <br> tomorrow"
+msgstr ""
+
+msgid "Registration complete!"
+msgstr ""
+
+msgid "No design information<br>submitted."
+msgstr ""
+
+msgid "Individual</span><span>Registration"
+msgstr ""
+
+msgid "Team</span><span>Registration"
+msgstr ""
+
+msgid "Registration"
+msgstr ""
+
+msgid "Are you registering as an individual or as a team?<br>After you choose, you will not be able to change it,<br>so proceed with caution!"
+msgstr ""
+
+msgid "Team name"
+msgstr ""
+
+msgid "Please enter a team name."
+msgstr ""
+
+msgid "Back"
+msgstr ""
+
+msgid "Next"
+msgstr ""
+
+msgid "Category"
+msgstr ""
+
+msgid "What category best describes your design?"
+msgstr ""
+
+msgid "Target customer"
+msgstr ""
+
+msgid "Optional"
+msgstr ""
+
+msgid "Who is the target consumer for your design?"
+msgstr ""
+
+msgid "Title"
+msgstr ""
+
+msgid "Please enter a title."
+msgstr ""
+
+msgid "Simple description"
+msgstr ""
+
+msgid "Please enter a simple description of your design."
+msgstr ""
+
+msgid "You must upload at least one image."
+msgstr ""
+
+msgid "Detailed description"
+msgstr ""
+
+msgid "Tell us the whole story of your design."
+msgstr ""
+
+msgid "Please enter a detailed description of your design."
+msgstr ""
+
+msgid "Team members"
+msgstr ""
+
+msgid "Please enter a name."
+msgstr ""
+
+msgid "Please enter a valid email format."
+msgstr ""
+
+msgid "Please enter a category."
+msgstr ""
+
+msgid "We need you to agree to a few things before we can finish your FCC registration."
+msgstr ""
+
+msgid "Registration complete!"
+msgstr ""
+
+msgid "Your registration was successfully completed.</p><p>You can check out your profile to verify your information.</p><p>You may revise your information until the final day of registration."
+msgstr "Your registration was successfully completed. <br>You can check out your profile to verify your information. <br>You may revise your information until the final day of registration."
+
+msgid "24th Aug.<br> - <br>9th Sep."
+msgstr ""
+
+msgid "8th Oct.<br> - <br>15th Oct."
+msgstr ""
+
+msgid "During the evaluation period,</p><p>submitters are responsible for reviewing and evaluating peer designers’ submissions.</p><p>Design submitters who do not fully participate in the evaluation process <br>may find that their own submissions have been excluded from the contest."
+msgstr "<p>During the evaluation period,</p><p>submitters are responsible for reviewing and evaluating peer designers’ submissions.</p><p>Design submitters who do not fully participate in the evaluation process <br>may find that their own submissions have been excluded from the contest. </p>"
+
+msgid "Verify my registration information"
+msgstr ""
+
+msgid "16th Oct."
+msgstr ""
+
+msgid "Delete your information?"
+msgstr ""
+
+msgid "Team Info"
+msgstr ""
+
+msgid "Design Info"
+msgstr ""
+
+msgid "Add comment"
+msgstr ""
+
+msgid "Back to Result"
+msgstr ""
+
+msgid "New password cannot be the same as your current password"
+msgstr ""
+
+#: What do you think of me?
+msgid "$data['questions'][0]['question']"
+msgstr ""
+
+msgid "Winner’s Awards"
+msgstr ""
+
+msgid "ModelCC 2015 Winners will receive the title of TOP MODEL."
+msgstr ""
+
+msgid "Winners will also receive the opportunity to appear onstage at the FCC2015 fashion show."
+msgstr ""
+
+msgid "Model CC 2015 WINNER"
+msgstr "Model CC 2015 WINNERS"
+
+msgid "A chance to work as an FCC model"
+msgstr ""
+
+msgid "A chance to appear onstage in the FCC fashion show."
+msgstr "A chance to appear onstage in the FCC fashion show"
+
+msgid "A chance to appear onstage"
+msgstr ""
+
+msgid "in the FCC fashion show."
+msgstr "in the FCC fashion show"
+
+msgid "Declaration of</span><span> Winners"
+msgstr "Model CC 2015</span><span>Declaration of Winners"
+
+msgid "Model CC 2015 <br>Winners"
+msgstr ""
+
+msgid "View Model CC 2015 Winners"
+msgstr ""
+
+msgid "Did you submit your modelling portfolio?"
+msgstr ""
+
+msgid "Sign in and see your results!"
+msgstr ""
+
+msgid "Download Now"
+msgstr ""
+
+msgid "Modhello,</span><span>an app for designers."
+msgstr ""
+
+msgid "Upload your designs via Modhello!"
+msgstr ""
+
+msgid "Thank you for registering,"
+msgstr ""
+
+msgid "Share with your friends!"
+msgstr ""
+
+msgid "Tell your friends that you\'ve entered FCC 2015!"
+msgstr ""
+
+msgid "<span>Good Luck !</span><strong>{0} {1}</strong>"
+msgstr ""
+
+msgid "<span>Good Luck !</span><strong style='display: block;'>{0} {1}</strong>"
+msgstr ""
+
+msgid "Thank you for a registration!"
+msgstr ""
+
+msgid "See you on Oct. 8th"
+msgstr ""
+
+msgid "Thank you for registering,{0} {1}"
+msgstr ""
+
+msgid "Thank you for registering with FCC! Those who are registered with FCC will occasionally receive newsletters, announcements, and updated schedules through email.<br><br>To guarantee a fair and equal opportunity for all participants, the FCC winner will be selected using an algorithm based \"collective intelligence technology.\" This process is transparent to the public. Thus, FCC allows both professionals and non-professionals to participate, free of charge. FCC hopes to serve as a revolutionary avenue for fashion designers to showcase their talents and skills.<br><br>Please check the FCC schedule.<br><br>"
+msgstr "Thank you for registering with FCC! <br>Those who are registered with FCC will occasionally receive newsletters, announcements, and updated schedules through email.<br><br>To guarantee a fair and equal opportunity for all participants, <br>the FCC winner will be selected using an algorithm based \"collective intelligence technology.\" <br>This process is transparent to the public. <br>Thus, FCC allows both professionals and non-professionals to participate, free of charge. <br>FCC hopes to serve as a revolutionary avenue for fashion designers to showcase their talents and skills.<br><br>Please check the FCC schedule.<br><br>"
+
+msgid "Thanks,"
+msgstr ""
+
+msgid "FCC Committee"
+msgstr ""
+
+msgid "Thank you for participating."
+msgstr ""
+
+msgid "Read more"
+msgstr "View more"
+
+msgid "All"
+msgstr ""
+
+msgid "Your story"
+msgstr ""
+
+msgid "FCC News"
+msgstr ""
+
+msgid "So, what\'s your story?"
+msgstr ""
+
+msgid "It’s not a story about fashion.<br>It’s a story about you."
+msgstr ""
+
+msgid "Share your stories with us"
+msgstr ""
+
+msgid "Share"
+msgstr ""
+
+msgid "Search the Title or Registration number"
+msgstr ""
+
+msgid "<span>Search results for {0}</span><strong>"
+msgstr ""
+
+msgid "The URL has been copied. Please paste anywhere you want."
+msgstr ""
+
+msgid "Loading more"
+msgstr ""
+
+msgid "Meet the world's fashion lovers united through Fashion Crowd Challenge "
+msgstr ""
+
+#:FCC Main Page
+
+msgid "FASHION"
+msgstr ""
+
+msgid "CROWD"
+msgstr ""
+
+msgid "CHALLENGE"
+msgstr ""
+
+msgid "Submit your design"
+msgstr ""
+
+msgid "FCC 2015 design submission begins on September 10th"
+msgstr ""
+
+msgid "What is Fashion Crowd Challenge?"
+msgstr ""
+
+msgid "The mission of Fashion Crowd Challenge (FCC) is to find and bring talented, <br>hidden fashion stars into the spotlight of the world. To this end, FCC is introducing a new type of fashion design competition. <br>Unlike typical design contests, design submissions in FCC are evaluated <br>by general people and peer designers."
+msgstr ""
+
+msgid "Design <br>Submission"
+msgstr ""
+
+msgid "Upload <br>your items."
+msgstr ""
+
+msgid "<b>10th Sep</b> (am. 00:01) <br><b>- 7th Oct</b> (pm.10:00)"
+msgstr ""
+
+msgid "Submission"
+msgstr ""
+
+msgid "Crowd <br>Evaluation"
+msgstr ""
+
+msgid "All uploaded material <br>will be evaluated <br>during FCC2015."
+msgstr ""
+
+msgid "<b>8th Oct</b> (am. 00:01) <br><b>- 15th Oct</b> (pm.10:00)"
+msgstr ""
+
+msgid "Evaluation"
+msgstr ""
+
+msgid "Declaration <br>of Winners"
+msgstr ""
+
+msgid "Here are the winners, <br>chosen by people <br>from all over the world."
+msgstr ""
+
+msgid "16th Oct"
+msgstr ""
+
+msgid "View"
+msgstr ""
+
+msgid "FCC\'s schedule uses Greenwich Mean Time (GMT)"
+msgstr ""
+
+msgid "Upload Method"
+msgstr ""
+
+msgid "What kind of images should I submit?"
+msgstr ""
+
+msgid "Designs may be submitted as any image - photo, picture, sketch, illustration, etc. However, <br>to increase your chance of winning, we recommend submitting a photograph of the physical clothes you designed."
+msgstr ""
+
+msgid "How many designs can I upload?"
+msgstr ""
+
+msgid "There is a 20-image file limit per account. You can use all 20 images to showcase a single design or <br>up to 20 different designs. How you choose to allocate your photos is completely up to you."
+msgstr ""
+
+msgid "Who are the designers?"
+msgstr ""
+
+msgid "The Designers are anybody who has submitted their own designs through the FCC webpage. <br>Uploaded designs will be evaluated by the judges."
+msgstr ""
+
+msgid "Designer Awards"
+msgstr ""
+
+msgid "Designers chosen as FCC2015 WINNERS will receive financial support for the launching of their brands. <br>The winning designs will also be eilgible to appear in the FCC2015 fashion show."
+msgstr ""
+
+msgid "Winners"
+msgstr ""
+
+msgid "Financial support"
+msgstr ""
+
+msgid "Manufacturing"
+msgstr ""
+
+msgid "Promotion & Marketing"
+msgstr ""
+
+msgid "Networking tools"
+msgstr ""
+
+msgid "Dream Awards"
+msgstr ""
+
+msgid "10 winners"
+msgstr ""
+
+msgid "5,000 USD"
+msgstr ""
+
+msgid "10 Winners"
+msgstr ""
+
+msgid "Cash prize"
+msgstr ""
+
+msgid "View Detail"
+msgstr ""
+
+
+msgid "Who are the judges?"
+msgstr ""
+
+msgid "Anybody who has registered for the FCC website can be a judge! <br>View and evaluate designs from all over the world via a simple process."
+msgstr ""
+
+msgid "Judge Awards"
+msgstr ""
+
+msgid "Judges who make a special effort to give constructive feedback, inspiration and support to <br>the participating designers will be invited to the FCC2015 fashion show and receive products <br>from the winning designers."
+msgstr ""
+
+msgid "Trend Maker"
+msgstr ""
+
+msgid "2016 Crowd Challeng <br>Festival Shanghai Invitation"
+msgstr "2016 Crowd Challenge <br>Festival Shanghai Invitation"
+
+msgid "Airline"
+msgstr ""
+
+msgid "Tickets"
+msgstr ""
+
+msgid "Trend Influencer"
+msgstr ""
+
+msgid "Winning <br>Designer’s Work"
+msgstr ""
+
+msgid "You are the star of FCC 2015 !"
+msgstr ""
+
+msgid "Come take part in FCC2015, <br>the global fashion festival which allows you to shape global fashion <br>with your very own hands. <br>We are waiting for you."
+msgstr ""
+
+msgid "Designer’s Responsibilities"
+msgstr ""
+
+msgid "During the evaluation period, submitters are responsible for reviewing and evaluating peer designers’ submissions. Design submitters who do not fully participate in the evaluation process may find that their own submissions have been excluded from the contest. Works submitted to FCC should be the original creation or property of the designer. If the designer would like to use a copyrighted logo, pattern or character, proper licensing must be obtained before uploading the work to FCC. Any issues regarding copyright or plagiarism will become the sole responsibility of the designer, and their works will be excluded from the contest. Furthermore, works that include hate speech, violence, sexual harassment, racism, sexism, religious or political discrimination, stolen content, violence against animals, or generally offensive material are banned and can be excluded from winning prizes even if they receive winning votes."
+msgstr ""
+
+msgid "More Details"
+msgstr ""
+
+msgid "Download Brochure"
+msgstr ""
+
+msgid "The first 5 winning designers, which consists of a 100,000USD 1st place winner (one designer), 30,000 USD 2nd place winner (two designers), and 20,000USD 3rd place winner (two designers), will work with FCC and receive financial support for the manufacturing, promotion and marketing, as well as being provided networking tools for their designs or brands.<br>Therefore, by connecting designers with new buyers and markets, FCC will aim to raise designers to the height of international fame.<br>FCC will work with the winning designers to customize a financial package that best suits their needs. Whether you need help with manufacturing, distributing, networking, or marketing, FCC will help you in developing successful strategies.<br>On the other hand, if your brand is already being manufactured, marketed and distributed, the FCC will be a new platform to introduce your brand to new markets. The FCC will work with you to highlight your full potential and boost your recognition. We will help to foster a professional relationship between you and the fashion industry.<br>Dream Award winners (10 designers) will receive a 5,000 USD cash prize.<br>All winning designers will also be eligible to appear in the Crowd challenge festival 2016 held in Shanghai which will definitely be a unique opportunity to elevate your brand to the next level."
+msgstr "The first 5 winning designers, which consists of a 100,000USD 1st place winner (one designer), 30,000 USD 2nd place winner (two designers), and 20,000USD 3rd place winner (two designers), will work with FCC and receive financial support for the manufacturing, promotion and marketing, as well as being provided networking tools for their designs or brands.<br><br>Therefore, by connecting designers with new buyers and markets, FCC will aim to raise designers to the height of international fame.<br><br>FCC will work with the winning designers to customize a financial package that best suits their needs. Whether you need help with manufacturing, distributing, networking, or marketing, FCC will help you in developing successful strategies.<br><br>On the other hand, if your brand is already being manufactured, marketed and distributed, the FCC will be a new platform to introduce your brand to new markets. The FCC will work with you to highlight your full potential and boost your recognition. We will help to foster a professional relationship between you and the fashion industry.<br><br>Dream Award winners (10 designers) will receive a 5,000 USD cash prize.<br><br>All winning designers will also be eligible to appear in the Crowd challenge festival 2016 held in Shanghai which will definitely be a unique opportunity to elevate your brand to the next level."
+
+msgid "Click here for full terms and conditions"
+msgstr ""
+
+msgid "The title of “Trend Maker” will be awarded to the top five judges whose evaluation style closely matches the overall trend of the general public.  “Trend Maker” award winners will receive an invitation to the 2016 Crowd Challenge Festival Shanghai, airline tickets with accommodations and the Crowd Challenge Festival gift package, which includes some of the winning designers’ work.<br><br>The title of “Trend Influencer” will be given to the next ten judges whose evaluation style closely matches the overall trend of the general public. “Trend Influencers” award winners will receive a Crowd Challenge Festival gift package, which includes some of the winning designers’ work.<br><br>The 2016 Crowd Challenge Festival Shanghai will be the must-see event of the year. The festival will host the first annual Crowd Challenge Fashion Show that will showcase the Fashion Crowd Challenge winning designers, worn by the winners of the Model Crowd Challenge, from around the world. Along with the fashion show will be performances from some of the most popular Korean Pop groups in the music industry today. It will be a glamorous occasion celebrating fashion, music, and the crowd."
+msgstr ""
+
+msgid "Incentive"
+msgstr ""
+
+msgid "Create account<br>or Sign in"
+msgstr ""
+
+#:FCC Committee
+
+
+msgid "We\'re looking for members who can serve on the FCC2015 Committee.<br/>Recommend people you know to us !"
+msgstr ""
+
+msgid "This person is an inspiration that can offer valuable advice<br>and serve as a role model to others."
+msgstr ""
+
+msgid "Number of applications received"
+msgstr ""
+
+msgid "Number of confirmed members"
+msgstr ""
+
+msgid "Recommendation"
+msgstr ""
+
+msgid "Information"
+msgstr ""
+
+msgid "Search"
+msgstr ""
+
+#: 20 candidates found
+msgid "0</span></strong> candidates found"
+msgstr "0</span></strong> candidates found"
+
+msgid "Recommend"
+msgstr ""
+
+msgid "Details"
+msgstr ""
+
+msgid "Confirmed member"
+msgstr ""
+
+msgid "There are no registered Committee members."
+msgstr ""
+
+msgid "Visit the application page to apply or recommend someone to be a member of the Committee."
+msgstr ""
+
+msgid "Back"
+msgstr ""
+
+msgid "You\'ve submitted a vote for a Committee member."
+msgstr ""
+
+msgid "You can vote for each candidate once per day."
+msgstr ""
+
+msgid "Confirm"
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
+msgid "Recommend someone to serve on the FCC2015 Committee!"
+msgstr ""
+
+msgid "Introduction"
+msgstr ""
+
+msgid "We would like to invite to the FCC Committee anyone can inspire, challenge, and encourage the Fashion Crowd Challenge designers."
+msgstr ""
+
+msgid "Committee candidate recommendation and application"
+msgstr ""
+
+msgid "Submit your reason for recommending a candidate, along with their basic personal info (in any language).<br>Anyone can be recommended as a Committee candidate."
+msgstr ""
+
+msgid "How to apply for Committee membership"
+msgstr ""
+
+msgid "Whichever candidate receives the most votes will become a member of the FCC2015 Committee.<br>Anyone can vote for a committee member. It is not necessary to log in."
+msgstr ""
+
+msgid "Process of becoming a Committee member"
+msgstr ""
+
+msgid "1. Committee membership application<br>2. Committee membership approval<br>3. New member formally begins Committee activity"
+msgstr ""
+
+msgid "<li>If there is an error or mistake in the Committee candidate request, the submission may be canceled.</li><li>Committee candidate information may not be edited after uploading.</li>"
+msgstr ""
+
+msgid "English name"
+msgstr ""
+
+msgid "<li>-You can check who is registered as a candidate.</li><li>-Registered names can be entered again.</li>"
+msgstr ""
+
+msgid "Confirm registration"
+msgstr ""
+
+msgid "Picture"
+msgstr ""
+
+msgid "Browse…"
+msgstr ""
+
+msgid "<li>-Image size: 420 * 420/ ~5 MB</li><li>-Large images will be cropped.</li>"
+msgstr ""
+
+msgid "Reason for recommendation"
+msgstr ""
+
+msgid "Provide a detailed explanation for your recommendation"
+msgstr ""
+
+msgid "Submitted information cannot be revised or edited."
+msgstr ""
+
+msgid "Country where candidate is from"
+msgstr ""
+
+msgid "The candidate\'s information will be viewed primarily by people residing in his or her provided location."
+msgstr ""
+
+msgid "Click on the left picture to recommend."
+msgstr ""
+
+msgid "An error occurred. Please try again."
+msgstr ""
+
+msgid "Recommended Image"
+msgstr ""
+
+msgid "No image file attached."
+msgstr ""
+
+msgid "You can attach only image files."
+msgstr ""
+
+msgid "Upload limit exceeded."
+msgstr ""
+
+msgid "Submission accepted."
+msgstr ""
+
+msgid "Once you submit this information, you will be unable to edit or delete it."
+msgstr ""
+
+msgid "Please enter a name."
+msgstr ""
+
+msgid "Please enter the name using only English letters."
+msgstr ""
+
+msgid "You haven\'t attached a picture."
+msgstr ""
+
+msgid "Please enter your recommendation reason."
+msgstr ""
+
+msgid "Image size must be greater than 420x420 pixels."
+msgstr ""
+
+msgid "Your attachment cannot exceed 5MB."
+msgstr ""
+
+msgid "Please choose a country."
+msgstr ""
+
+msgid "You can submit only one candidate per day."
+msgstr ""
+
+msgid "Please enter the candidate\'s name in four or more English letters."
+msgstr ""
+
+msgid "Please enter the candidate\'s name in four or more English letters and then click Confirm Registration."
+msgstr ""
+
+msgid "SEARCH"
+msgstr ""
+
+msgid "Committee Application"
+msgstr ""
+
+msgid "Anyone can apply to be a Committee candidate.<br>Visit the application page to apply or recommend."
+msgstr ""
+
+msgid "Application"
+msgstr "Invite"
+
+msgid "What will Committee members do?"
+msgstr ""
+
+msgid "Committee members will cheer on the participating designers in a variety of ways, including (but not limited to!) sending inspiring messages and encouraging them to participate in the voting process."
+msgstr ""
+
+msgid "Please Wait, Loading.."
+msgstr ""
+
+msgid "More"
+msgstr ""
+
+msgid "Don\'t show again today"
+msgstr "Do not show again today"
+
+msgid "Do not show again today."
+msgstr ""
+
+msgid "10th Sep.<br> - <br>7th Oct."
+msgstr ""
+
+msgid "Fashion CC 2015</span><span>Design Submission Start"
+msgstr "FCC 2015</span><span>Design Submission Start"
+
+msgid "Fashion CC 2015</span><span>Evaluations Start"
+msgstr "FCC 2015</span><span>Evaluations Start"
+
+msgid "Be a judge"
+msgstr ""
+
+msgid "Check out another designer!"
+msgstr ""
+
+msgid "Evaluate"
+msgstr ""
+
+msgid "FCC\'s evaluation<br>has begun."
+msgstr ""
+
+msgid "FCC invites the top voted designers to join FCC Committee on this page."
+msgstr ""
+
+msgid "Recommend or vote people you respect"
+msgstr ""
+
+
+#:FCC 평가 인덱스
+
+
+msgid "Choose the winners of the Fashion Crowd Challenge!"
+msgstr "Choose the winners of the Fashion Crowd Challenge!"
+
+msgid "Top 15"
+msgstr ""
+
+msgid "Designers"
+msgstr ""
+
+msgid "Popular Designers"
+msgstr ""
+
+msgid "By Region"
+msgstr "by Regions"
+
+msgid "By Gender"
+msgstr "by Gender"
+
+msgid "By Age"
+msgstr "by Age"
+
+msgid "Find out more about 2015 Fashion Crowd Challenge"
+msgstr "Find out <br>more about 2015 Fashion Crowd Challenge"
+
+msgid "The 2015 FCC Design evaluation to find the best fashion designer has started!"
+msgstr "The 2015 FCC Design evaluation <br>to find the best fashion designer has started!"
+
+msgid "During the evaluation period, this page contains the top 15 most popular designer's works by region, gender, and age updated daily. "
+msgstr "During the evaluation period, <br>this page contains the top 15 most popular designer's works <br>by region, gender, and age updated daily."
+
+
+
+
+
+
+msgid "The daily results will be collected"
+msgstr ""
+
+msgid "by 22:00 GMT"
+msgstr ""
+
+msgid "and the FCC system CES"
+msgstr ""
+
+msgid "(Crowd Evaluation System) will"
+msgstr ""
+
+msgid "calculate fairly"
+msgstr ""
+
+msgid "all the designs and announce the results at 00:00 GMT after 2 hours."
+msgstr "all the designs and announce the results at 00:00 GMT after 2 hours."
+
+msgid "Participate in"
+msgstr ""
+
+msgid "the 2015 FCC Judging!"
+msgstr ""
+
+msgid "Judges who make a special effort to give constructive feedback,"
+msgstr ""
+
+msgid "inspiration and support to"
+msgstr ""
+
+msgid "the participating designers will be invited to the FCC2015 fashion show"
+msgstr ""
+
+msgid "and receive products"
+msgstr ""
+
+msgid "from the winning designers."
+msgstr ""
+
+msgid "8th Oct"
+msgstr ""
+
+msgid "Today’s evaluation has closed"
+msgstr ""
+
+msgid "Participate in the 2015 FCC Judging!"
+msgstr "Participate in<br>the FCC 2015 Judging!"
+
+msgid "Evaluate Now"
+msgstr ""
+
+msgid "FCC 2015 will provide the top judges that gave excellent evaluation results an invitation to the 2016 Crowd Challenge Festival in Shanghai with airline tickets, accommodation, and works from the winning designers."
+msgstr "FCC 2015 will provide the top judges that gave excellent evaluation with an invitation to the 2016 Crowd Challenge Festival in Shanghai with airline tickets, accommodation, and works from the winning designers."
+
+msgid "Find out more about FCC 2015"
+msgstr ""
+
+msgid "Coming soon"
+msgstr ""
+
+msgid "Announced"
+msgstr ""
+
+msgid "FCC 2015 Evaluation Guide"
+msgstr "FCC 2015 <br>Evaluation Guide"
+
+msgid "The FCC 2015 Evaluation to meet the world\'s talented designers\' works has begun!"
+msgstr ""
+
+msgid "Do you want to be a judge? Use the evaluation guide to start judging now."
+msgstr ""
+
+msgid "See the guide"
+msgstr ""
+
+
+#: FCC 평가 페이지
+
+
+msgid "Meet the star designer of tomorrow"
+msgstr "MEET THE STAR<br>DESIGNER <br>OF TOMORROW"
+
+msgid "You choose the top Designers of FCC 2015. Your input creates the stars of the future."
+msgstr "Choose the top Designers of FCC 2015.</span><span>Your input creates the stars of the future."
+
+msgid "There are no results."
+msgstr ""
+
+msgid "Evaluate more designers!"
+msgstr ""
+
+msgid "In Progress"
+msgstr ""
+
+msgid "Complete"
+msgstr ""
+
+
+
+#: FCC 평가 발표 페이지
+
+
+msgid "FCC 2015 Winner"
+msgstr "FCC 2015<br>WINNER"
+
+msgid "The FCC 2015 winners have been selected!"
+msgstr ""
+
+msgid "Go check out the designers who will usher in the next generation of fashion!"
+msgstr ""
+
+
+#: FCC 나의 결과 페이지
+
+
+msgid "Congratulations! You’re sitting alone at the top of the FCC fashion competition! Are you ready for the Global Fashion Show?"
+msgstr "Congratulations!<br>You’re sitting alone at the top of the FCC fashion competition! <br>Are you ready for the Global Fashion Show?"
+
+msgid "You have been chosen as a winner of the FCC Dream Award! Go meet the other winners in the Global Fashion Show!"
+msgstr "You have been chosen as a winner of the FCC Dream Award!<br>Go meet the other winners in the Global Fashion Show!"
+
+msgid "Congratulations! You’ve been recognized as the biggest personality in FCC! You are a genuine Master of Style! Come back to FCC next year and shoot for the gold!"
+msgstr ""
+
+msgid "Sorry, you don’t get an award this year..but come back next year and give it another shot! You’ve got fashion sense and talent. Reach for the stars!"
+msgstr "Sorry,<br>you don’t get an award this year..<br>but come back next year and give it another shot! <br>You’ve got fashion sense and talent. Reach for the stars!"
+
+msgid "You didn’t get an award, but don’t despair! You achieved a high rank among FCC participants. Come back next year for a fresh challenge!"
+msgstr ""
+
+
+#: FCC 평가에 등록기간 만료 페이지
+
+msgid "The FCC 2015 registration period is over."
+msgstr ""
+
+msgid "We\'re very sorry, but you cannot join FCC 2015. Please come back next time! Even if you are not a designer, you can still participate in FCC 2015. Be a Judge for our FCC 2015 competition! Evaluate participants from all over the world and choose FCC 2015\'s top designer! Please refer to FCC 2015\'s schedule.<br><p>Please refer to ModelCC\'s schedule.</p>"
+msgstr "<p>We\'re very sorry, but you cannot join FCC 2015. <br>Please come back next time! </p><br><p>Even if you are not a designer, you can still participate in FCC 2015. <br>Be a Judge for our FCC 2015 competition! <br>Evaluate participants from all over the world and choose <br>FCC 2015\'s top designer! Please refer to FCC 2015\'s schedule.</p>"
+
+msgid "It looks like you haven't reviewed all the designers yet. Please check the list again."
+msgstr "It looks like you haven't reviewed<br/>all the Designers yet.<br/> Please check the list again!<br/>"
+
+msgid "Your evaluation is complete! Go judge more designers!"
+msgstr "Your evaluation is complete!<br>Go judge more designers!"
+
+
+#: FCC 평가 상세 페이지
+
+
+msgid "What do you think about this design?"
+msgstr ""
+
+msgid "Leave a comment for this designer."
+msgstr ""
+
+#:What do you think about this design?
+msgid "good?"
+msgstr "What do you think about this design?"
+
+msgid "Your evaluation is complete."
+msgstr ""
+
+msgid "Go meet more designers!"
+msgstr ""
+
+msgid "You have finished all of today's evaluations."
+msgstr ""
+
+msgid "Come back tomorrow!"
+msgstr ""
+
+msgid "Okay, see you tomorrow."
+msgstr ""
+
+msgid "No, thank you."
+msgstr ""
+
+msgid "Yes, please."
+msgstr ""
+
+
+
+#20151012
+msgid "View detail"
+msgstr "View details"
+
+
+msgid "We\'ll back soon."
+msgstr ""
+
+msgid "Our service is temporary down for <br>the maintenance purpose."
+msgstr ""

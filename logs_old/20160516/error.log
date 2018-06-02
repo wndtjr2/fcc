@@ -1,0 +1,49 @@
+2016-05-16 10:40:24 Error: [RedisException] Connection closed
+Request URL: /hot/
+Stack Trace:
+#0 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Network/Session.php(0): session_start()
+#1 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Network/Session.php(361): Cake\Network\Session->start()
+#2 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Controller/Component/AuthComponent.php(658): Cake\Network\Session->check('Auth.User')
+#3 /var/www/fcctv.co.kr/src/Controller/AppController.php(102): Cake\Controller\Component\AuthComponent->user()
+#4 /var/www/fcctv.co.kr/src/Controller/WhatController.php(24): App\Controller\AppController->initialize()
+#5 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Controller/Controller.php(279): App\Controller\WhatController->initialize()
+#6 [internal function]: Cake\Controller\Controller->__construct(Object(Cake\Network\Request), Object(Cake\Network\Response), 'What')
+#7 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/Filter/ControllerFactoryFilter.php(90): ReflectionClass->newInstance(Object(Cake\Network\Request), Object(Cake\Network\Response), 'What')
+#8 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/Filter/ControllerFactoryFilter.php(49): Cake\Routing\Filter\ControllerFactoryFilter->_getController(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#9 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/DispatcherFilter.php(145): Cake\Routing\Filter\ControllerFactoryFilter->beforeDispatch(Object(Cake\Event\Event))
+#10 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Event/EventManager.php(389): Cake\Routing\DispatcherFilter->handle(Object(Cake\Event\Event), Object(Cake\Network\Request), Object(Cake\Network\Response))
+#11 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Event/EventManager.php(355): Cake\Event\EventManager->_callListener(Array, Object(Cake\Event\Event))
+#12 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Event/EventDispatcherTrait.php(78): Cake\Event\EventManager->dispatch(Object(Cake\Event\Event))
+#13 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(62): Cake\Routing\Dispatcher->dispatchEvent('Dispatcher.befo...', Array)
+#14 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#15 {main}
+
+
+2016-05-16 10:40:30 Error: [RedisException] Connection closed
+Request URL: /
+Stack Trace:
+#0 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Network/Session.php(0): session_start()
+#1 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Network/Session.php(361): Cake\Network\Session->start()
+#2 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Controller/Component/AuthComponent.php(658): Cake\Network\Session->check('Auth.User')
+#3 /var/www/fcctv.co.kr/src/Controller/AppController.php(102): Cake\Controller\Component\AuthComponent->user()
+#4 /var/www/fcctv.co.kr/src/Controller/FccTvController.php(35): App\Controller\AppController->initialize()
+#5 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Controller/Controller.php(279): App\Controller\FccTvController->initialize()
+#6 [internal function]: Cake\Controller\Controller->__construct(Object(Cake\Network\Request), Object(Cake\Network\Response), 'FccTv')
+#7 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/Filter/ControllerFactoryFilter.php(90): ReflectionClass->newInstance(Object(Cake\Network\Request), Object(Cake\Network\Response), 'FccTv')
+#8 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/Filter/ControllerFactoryFilter.php(49): Cake\Routing\Filter\ControllerFactoryFilter->_getController(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#9 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/DispatcherFilter.php(145): Cake\Routing\Filter\ControllerFactoryFilter->beforeDispatch(Object(Cake\Event\Event))
+#10 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Event/EventManager.php(389): Cake\Routing\DispatcherFilter->handle(Object(Cake\Event\Event), Object(Cake\Network\Request), Object(Cake\Network\Response))
+#11 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Event/EventManager.php(355): Cake\Event\EventManager->_callListener(Array, Object(Cake\Event\Event))
+#12 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Event/EventDispatcherTrait.php(78): Cake\Event\EventManager->dispatch(Object(Cake\Event\Event))
+#13 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(62): Cake\Routing\Dispatcher->dispatchEvent('Dispatcher.befo...', Array)
+#14 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#15 {main}
+
+
+2016-05-16 19:47:19 Error: [Cake\Routing\Exception\MissingControllerException] Controller class PhpMyAdmin could not be found.
+Request URL: /phpMyAdmin
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+

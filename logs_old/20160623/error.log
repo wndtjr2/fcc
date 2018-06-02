@@ -1,0 +1,34 @@
+2016-06-23 10:11:01 Error: [PDOException] SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-25' at line 1
+Request URL: /tv/getNextPage
+Stack Trace:
+#0 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Database/Statement/MysqlStatement.php(36): PDOStatement->execute(NULL)
+#1 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Database/Connection.php(272): Cake\Database\Statement\MysqlStatement->execute()
+#2 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Database/Query.php(174): Cake\Database\Connection->run(Object(Cake\ORM\Query))
+#3 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/ORM/Query.php(667): Cake\Database\Query->execute()
+#4 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Datasource/QueryTrait.php(216): Cake\ORM\Query->_execute()
+#5 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/ORM/Query.php(618): Cake\ORM\Query->_all()
+#6 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Datasource/QueryTrait.php(130): Cake\ORM\Query->all()
+#7 /var/www/fcctv.co.kr/src/Service/TvCacheService.php(94): Cake\ORM\Query->getIterator()
+#8 /var/www/fcctv.co.kr/src/Controller/TvController.php(87): App\Service\TvCacheService->getSchedule(NULL, NULL)
+#9 [internal function]: App\Controller\TvController->getNextPage()
+#10 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Controller/Controller.php(412): call_user_func_array(Array, Array)
+#11 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#12 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\TvController))
+#13 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#14 {main}
+
+
+2016-06-23 11:43:52 Error: [Cake\Routing\Exception\MissingControllerException] Controller class (null) could not be found.
+Request URL: /(null)/nKAOWebBrowserController/complete
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-24 02:35:48 Error: [Cake\Routing\Exception\MissingControllerException] Controller class .well-known could not be found.
+Request URL: /.well-known/assetlinks.json
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+

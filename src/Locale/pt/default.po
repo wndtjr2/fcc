@@ -1,0 +1,2058 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2015-08-21 02:32+0000\n"
+"PO-Revision-Date: 2015-09-14 17:48+0900\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ko_KR\n"
+"X-Generator: Poedit 1.8.4\n"
+
+#: Template/Auth/exist_login.ctp:7 Template/Auth/join.ctp:45
+#: Template/Auth/login.ctp:66 Template/Auth/password_forgot.ctp:34
+#: Template/Auth/password_reset_complete.ctp:7
+#: Template/Auth/resend_password.ctp:7 Template/Auth/reset_password.ctp:58
+#: Template/Auth/set_password.ctp:55 Template/Fcc/about.ctp:7
+#: Template/Fcc/browser_update.ctp:7 Template/Fcc/go_to_web.ctp:7
+#: Template/Layout/default.ctp:226 Template/Models/complete.ctp:7
+#: Template/Models/index.ctp:19 Template/Models/info.ctp:38
+#: Template/Models/info_add.ctp:220 Template/Models/info_edit.ctp:233
+#: Template/Users/add_basic_info.ctp:159;288
+#: Template/Users/add_basic_info_save.ctp:18
+#: Template/Users/check_verification_email.ctp:12 Template/Users/edit.ctp:221
+#: Template/Users/expired_token.ctp:7 Template/Users/first_time_join.ctp:73
+#: Template/Users/forgot_password.ctp:13 Template/Users/no_activate.ctp:14
+#: Template/Users/password_again.ctp:35 Template/Users/profile.ctp:19
+#: Template/Users/resend_verification_email.ctp:12
+msgid "DAYS"
+msgstr "DIAS"
+
+#: Template/Auth/exist_login.ctp:8 Template/Auth/join.ctp:46
+#: Template/Auth/login.ctp:67 Template/Auth/password_forgot.ctp:35
+#: Template/Auth/password_reset_complete.ctp:8
+#: Template/Auth/resend_password.ctp:8 Template/Auth/reset_password.ctp:59
+#: Template/Auth/set_password.ctp:56 Template/Fcc/about.ctp:8
+#: Template/Fcc/browser_update.ctp:8 Template/Fcc/go_to_web.ctp:8
+#: Template/Layout/default.ctp:227 Template/Models/complete.ctp:8
+#: Template/Models/index.ctp:20 Template/Models/info.ctp:39
+#: Template/Models/info_add.ctp:221 Template/Models/info_edit.ctp:234
+#: Template/Users/add_basic_info.ctp:160;289
+#: Template/Users/add_basic_info_save.ctp:19
+#: Template/Users/check_verification_email.ctp:13 Template/Users/edit.ctp:222
+#: Template/Users/expired_token.ctp:8 Template/Users/first_time_join.ctp:74
+#: Template/Users/forgot_password.ctp:14 Template/Users/no_activate.ctp:15
+#: Template/Users/password_again.ctp:36 Template/Users/profile.ctp:20
+#: Template/Users/resend_verification_email.ctp:13
+msgid "HOURS"
+msgstr "HORAS"
+
+#: Template/Auth/exist_login.ctp:9 Template/Auth/join.ctp:47
+#: Template/Auth/login.ctp:68 Template/Auth/password_forgot.ctp:36
+#: Template/Auth/password_reset_complete.ctp:9
+#: Template/Auth/resend_password.ctp:9 Template/Auth/reset_password.ctp:60
+#: Template/Auth/set_password.ctp:57 Template/Fcc/about.ctp:9
+#: Template/Fcc/browser_update.ctp:9 Template/Fcc/go_to_web.ctp:9
+#: Template/Layout/default.ctp:228 Template/Models/complete.ctp:9
+#: Template/Models/index.ctp:21 Template/Models/info.ctp:40
+#: Template/Models/info_add.ctp:222 Template/Models/info_edit.ctp:235
+#: Template/Users/add_basic_info.ctp:161;290
+#: Template/Users/add_basic_info_save.ctp:20
+#: Template/Users/check_verification_email.ctp:14 Template/Users/edit.ctp:223
+#: Template/Users/expired_token.ctp:9 Template/Users/first_time_join.ctp:75
+#: Template/Users/forgot_password.ctp:15 Template/Users/no_activate.ctp:16
+#: Template/Users/password_again.ctp:37 Template/Users/profile.ctp:21
+#: Template/Users/resend_verification_email.ctp:14
+msgid "MIN"
+msgstr "MIN"
+
+#: Template/Auth/exist_login.ctp:10 Template/Auth/join.ctp:48
+#: Template/Auth/login.ctp:69 Template/Auth/password_forgot.ctp:37
+#: Template/Auth/password_reset_complete.ctp:10
+#: Template/Auth/resend_password.ctp:10 Template/Auth/reset_password.ctp:61
+#: Template/Auth/set_password.ctp:58 Template/Fcc/about.ctp:10
+#: Template/Fcc/browser_update.ctp:10 Template/Fcc/go_to_web.ctp:10
+#: Template/Layout/default.ctp:229 Template/Models/complete.ctp:10
+#: Template/Models/index.ctp:22 Template/Models/info.ctp:41
+#: Template/Models/info_add.ctp:223 Template/Models/info_edit.ctp:236
+#: Template/Users/add_basic_info.ctp:162;291
+#: Template/Users/add_basic_info_save.ctp:21
+#: Template/Users/check_verification_email.ctp:15 Template/Users/edit.ctp:224
+#: Template/Users/expired_token.ctp:10 Template/Users/first_time_join.ctp:76
+#: Template/Users/forgot_password.ctp:16 Template/Users/no_activate.ctp:17
+#: Template/Users/password_again.ctp:38 Template/Users/profile.ctp:22
+#: Template/Users/resend_verification_email.ctp:15
+msgid "SEC"
+msgstr "SEC"
+
+#: Template/Auth/exist_login.ctp:18 Template/Auth/join.ctp:56
+#: Template/Auth/set_password.ctp:66 Template/Users/first_time_join.ctp:84
+msgid "JOIN"
+msgstr "INSCREVA-SE"
+
+#: Template/Auth/exist_login.ctp:20 Template/Auth/set_password.ctp:68
+msgid "we need a few things to create your account."
+msgstr "Precisamos de algumas informações para criar sua conta"
+
+#: Template/Auth/exist_login.ctp:31 Template/Auth/reset_password.ctp:30
+#: Template/Auth/set_password.ctp:26 Template/Users/edit.ctp:61
+#: Template/Users/first_time_join.ctp:29
+msgid "Create a password of 8~20 characters (numbers, letters, symbols)"
+msgstr "Crie uma senha de 8~20 caracteres (números, letras, símbolos)"
+
+#: Template/Auth/exist_login.ctp:34 Template/Auth/reset_password.ctp:31
+#: Template/Auth/set_password.ctp:27 Template/Users/edit.ctp:62
+#: Template/Users/first_time_join.ctp:30
+msgid "Your password cannot consist of a numerial or alphabetical sequence."
+msgstr "A sua senha não pode conter uma sequência numérica ou alfabética"
+
+#: Template/Auth/exist_login.ctp:35 Template/Auth/reset_password.ctp:32
+#: Template/Auth/set_password.ctp:28 Template/Users/edit.ctp:63
+msgid "Your password cannot be the same as your user name or email."
+msgstr "A sua senha não pode ser a mesma que seu nome de usuário ou email"
+
+#: Template/Auth/exist_login.ctp:39 Template/Auth/set_password.ctp:85
+msgid "Create Account"
+msgstr "Crie sua Conta"
+
+#: Template/Auth/exist_login.ctp:45 Template/Auth/join.ctp:103
+#: Template/Auth/set_password.ctp:91 Template/Users/first_time_join.ctp:128
+msgid "Are you a member?"
+msgstr "Já é cadastrado?"
+
+#: Template/Auth/exist_login.ctp:45 Template/Auth/join.ctp:91;95;99;103
+#: Template/Auth/login.ctp:78;113;133
+#: Template/Auth/password_reset_complete.ctp:23
+#: Template/Auth/set_password.ctp:91
+#: Template/Layout/default.ctp:238;239;302;494;513
+#: Template/Users/first_time_join.ctp:128 Template/Users/password_again.ctp:47
+msgid "Log in"
+msgstr "Log in"
+
+#: Template/Auth/exist_login.ctp:48 Template/Auth/set_password.ctp:94
+#: Template/Users/first_time_join.ctp:131
+msgid "By creating an account, I accept FCC’s.<br>Terms and Conditions and Privacy Policy."
+msgstr "Ao criar uma conta eu concordo com os<br>Termos, Condições e Política de Privacidade do FCC"
+
+#: Template/Auth/join.ctp:27 Template/Auth/password_forgot.ctp:17
+#: Template/Users/password_again.ctp:17
+msgid "Please enter your email."
+msgstr "Por favor insira seu email."
+
+#: Template/Auth/join.ctp:28 Template/Auth/login.ctp:44
+#: Template/Layout/default.ctp:165
+msgid "Invalid email format."
+msgstr "Email inválido."
+
+#: Template/Auth/join.ctp:60
+msgid "Welcome to Fashion Crowd Challenge.<br>Time to meet designs and designers of every stripe from all around the world!"
+msgstr "Bem vindo ao Fashion Crowd Challenge.<br>É a hora de conhecer designs e designers de todos os tipos e de todas as partes do mundo!"
+
+#: Template/Auth/join.ctp:63 Template/Auth/login.ctp:82
+#: Template/Auth/password_forgot.ctp:62 Template/Layout/default.ctp:456
+#: Template/Users/password_again.ctp:52
+msgid "Social Media"
+msgstr "Redes Sociais"
+
+#: Template/Auth/join.ctp:74 Template/Auth/login.ctp:93
+#: Template/Auth/password_forgot.ctp:53 Template/Contacts/add.ctp:30
+#: Template/Layout/default.ctp:466 Template/Users/edit.ctp:477;478
+#: Template/Users/forgot_password.ctp:35;36
+#: Template/Users/password_again.ctp:64
+msgid "Email"
+msgstr "Email"
+
+#: Template/Auth/join.ctp:83
+msgid "Join FCC"
+msgstr "Inscreva-se no FCC"
+
+#: Template/Auth/join.ctp:91;95 Template/Auth/login.ctp:137
+#: Template/Layout/default.ctp:517
+msgid "This account has already been created via {0}"
+msgstr "Esta conta já foi criada via"
+
+#: Template/Auth/join.ctp:99 Template/Auth/login.ctp:133
+#: Template/Layout/default.ctp:513
+msgid "This account was deleted. Would you like to restore this account?"
+msgstr "Esta conta foi deletada. Você gostaria de restaurá-la?"
+
+#: Template/Auth/login.ctp:43 Template/Layout/default.ctp:164
+msgid "Please enter your email"
+msgstr "Por favor insira seu email"
+
+#: Template/Auth/login.ctp:47 Template/Layout/default.ctp:168
+msgid "Please enter your password"
+msgstr "Por favor insira sua senha"
+
+#: Template/Auth/login.ctp:79 Template/Layout/default.ctp:453
+msgid "Welcome to Fashion Crowd Challenge. <br>Time to meet designs and designers of every stripe from all around the world!"
+msgstr "Bem vindo ao Fashion Crowd Challenge.<br>É a hora de conhecer designs e designers de todos os tipos e de todas as partes do mundo!"
+
+#: Template/Auth/login.ctp:108 Template/Layout/default.ctp:484
+#: Template/Users/password_again.ctp:80
+msgid "Incorrect Password"
+msgstr "Senha Incorreta"
+
+#: Template/Auth/login.ctp:129 Template/Auth/password_forgot.ctp:75
+#: Template/Layout/default.ctp:509
+msgid "We couldn't find your account. Would you like to <a class=\"is-join\" href=\"/auth/join\">join us?</a>"
+msgstr "Não conseguimos encontrar sua conta. Você gostaria de <a class=\"is-join\" href=\"/auth/join\">se inscrever?</a>"
+
+msgid "We couldn\'t find your account. Would you like to"
+msgstr "Não conseguimos encontrar sua conta.<br>Você gostaria de"
+
+msgid "join us?"
+msgstr "se inscrever?"
+
+#: Template/Auth/password_forgot.ctp:45 Template/Users/forgot_password.ctp:24
+msgid "Forget your password?"
+msgstr "Esqueceu sua senha?"
+
+#: Template/Auth/password_forgot.ctp:47 Template/Users/forgot_password.ctp:26
+msgid "We will send you an email with a link to reset your password."
+msgstr "Enviaremos um email com um link para restaurar sua senha."
+
+#: Template/Auth/password_forgot.ctp:68 Template/Auth/reset_password.ctp:87
+#: Template/Users/forgot_password.ctp:49
+msgid "Reset Password"
+msgstr "Restaure sua Senha"
+
+#: Template/Auth/password_reset_complete.ctp:18
+msgid "Your password has been changed"
+msgstr "Sua senha foi alterada"
+
+#: Template/Auth/password_reset_complete.ctp:20
+msgid "You have changed your password. Please log in again."
+msgstr "Você alterou sua senha. Por favor faça o login novamente."
+
+#: Template/Auth/resend_password.ctp:17
+#: Template/Users/check_verification_email.ctp:22
+#: Template/Users/resend_verification_email.ctp:22
+msgid "Go check your email !!"
+msgstr "Confira seu email!!"
+
+#: Template/Auth/resend_password.ctp:18
+msgid "<p>We sent you a link to reset your password. <br>Please check your email.</p>\n"
+"            <br>\n"
+"            <p>If you cannot find the password reset email, <br>please check your spam folder or click below.</p>"
+msgstr "<p>Enviamos um link para restaurar sua senha. <br>Por favor confira seu email.</p>\n"
+"            <br>\n"
+"            <p>Caso você não encontre o email para restauração de senha, <br>por favor olhe em sua pasta de spam ou clique abaixo.</p>"
+
+#: Template/Auth/reset_password.ctp:29 Template/Auth/set_password.ctp:25
+#: Template/Users/first_time_join.ctp:28
+msgid "Please enter your password."
+msgstr "Por favor insira sua senha."
+
+#: Template/Auth/reset_password.ctp:35
+msgid "Please enter your password again."
+msgstr "Por favor insira sua senha novamente."
+
+#: Template/Auth/reset_password.ctp:69
+msgid "Create a new password."
+msgstr "Crie uma nova senha."
+
+#: Template/Auth/reset_password.ctp:71
+msgid "Please enter a new password."
+msgstr "Por favor insira uma nova senha."
+
+#: Template/Contacts/add.ctp:17
+msgid "Contact"
+msgstr "Contato"
+
+#: Template/Contacts/add.ctp:19
+msgid "If you have any inquiries, please do not hesitate to contact us.<br>\n"
+"                    We will be happy to assist you."
+msgstr "Em caso de dúvidas não hesite em nos contactar.<br>\n"
+"Ficaremos felizes em ajudá-lo."
+
+#: Template/Contacts/add.ctp:31;32
+msgid "This is not valid email address."
+msgstr "Este endereço de email é inválido."
+
+#: Template/Contacts/add.ctp:35 Template/Users/add_basic_info.ctp:362
+#: Template/Users/edit.ctp:387
+msgid "Language"
+msgstr "Idioma"
+
+msgid "language"
+msgstr "idioma"
+
+#: Template/Contacts/add.ctp:48
+msgid "Subject"
+msgstr "Assunto"
+
+#: Template/Contacts/add.ctp:50
+msgid "Please enter your subject."
+msgstr "Por favor insira um assunto."
+
+#: Template/Contacts/add.ctp:53
+msgid "Description"
+msgstr "Descrição"
+
+#: Template/Contacts/add.ctp:55
+msgid "Please enter your description."
+msgstr "Por favor insira uma descrição."
+
+#: Template/Contacts/add.ctp:58
+msgid "Send"
+msgstr "Enviar"
+
+#: Template/Contacts/complete.ctp:13
+msgid "Your comment has been successfully submitted.<br>\n"
+"                    We will send a response to {0}"
+msgstr "Seu comentário foi enviado com sucesso.<br>\n"
+"Enviaremos uma resposta para {0} "
+
+#: Template/Email/html/bolt_request.ctp:15
+msgid "{0}'s account deletion request is complete. The deletion <br>\n"
+"                process will occur 10 days from now. If you change your mind <br>\n"
+"                about deleting your account, simply log in within 10 days and your <br>\n"
+"                account will be restored."
+msgstr "O pedido de remoção da conta {0} está completo. O processo de remoção <br>\n"
+"               acontecerá em 10 dias. Caso mude de ideia <br>\n"
+"               sobre remover sua conta apenas faça o login dentro destes 10 dias e sua <br>\n"
+"               conta será restaurada."
+
+#: Template/Email/html/bolt_request.ctp:23 Template/Email/html/contact.ctp:23
+#: Template/Email/html/password_reset.ctp:26 Template/Email/html/thanks.ctp:28
+#: Template/Email/html/verification.ctp:26
+msgid "Need help?"
+msgstr "Precisa de ajuda?"
+
+#: Template/Email/html/bolt_request.ctp:23 Template/Email/html/contact.ctp:23
+#: Template/Email/html/password_reset.ctp:26 Template/Email/html/thanks.ctp:28
+#: Template/Email/html/verification.ctp:26 Template/Fcc/faq.ctp:236
+msgid "Contact Us"
+msgstr "Entre em Contato"
+
+#: Template/Fcc/about.ctp:26 Template/Models/index.ctp:52
+msgid "About"
+msgstr "Sobre"
+
+#: Template/Fcc/about.ctp:27 Template/Models/index.ctp:53
+msgid "Schedule"
+msgstr "Cronograma"
+
+#: Template/Fcc/about.ctp:68 Template/Models/index.ctp:95
+msgid "Crowd<br>Evaluation"
+msgstr "Avaliação<br>do Público"
+
+#: Template/Fcc/about.ctp:82 Template/Models/index.ctp:109
+msgid "Announcement of <br>Winners"
+msgstr "Anúncio dos <br>Vencedores"
+
+#: Template/Fcc/browser_update.ctp:19 Template/Fcc/go_to_web.ctp:19
+msgid "You cannot proceed any further at this time."
+msgstr "Não é possível prosseguir neste momento."
+
+#: Template/Fcc/browser_update.ctp:20
+msgid "This step requires Internet Explorer 10 or higher. Please update your browser to continue."
+msgstr "Esta etapa exige Internet Explorer 10 ou superior. Por favor faça o update do seu browser para continuar."
+
+#: Template/Fcc/detail.ctp:19;25;39 Template/Fcc/home.ctp:47
+msgid "Model"
+msgstr "Modelo"
+
+#: Template/Fcc/detail.ctp:34;40 Template/Fcc/home.ctp:69
+msgid "Judge"
+msgstr "Jurado"
+
+#: Template/Fcc/faq.ctp:156 Template/Posts/vimeo_complete.ctp:131
+#: Template/Posts/vimeo_upload.ctp:66
+msgid "The promotion video should be under 5 minutes in length. "
+msgstr "O vídeo não deve ultrapassar 5 minutos de duração."
+
+#: Template/Fcc/go_to_web.ctp:20
+msgid "You may register your basic info only via your smart phone. Please use your computer to continue."
+msgstr "Você pode apenas registrar informações básicas através de seu smartphone. Por favor use um computador para continuar."
+
+#: Template/Layout/default.ctp:51
+msgid "This website requires Internet Explorer 10 or higher."
+msgstr "Este website exige Internet Explorer 10 ou superior."
+
+#: Template/Layout/default.ctp:244;245
+msgid "Join"
+msgstr "Inscreva-se"
+
+#: Template/Layout/default.ctp:280
+msgid "My Profile"
+msgstr "Meu perfil"
+
+#: Template/Layout/default.ctp:281
+msgid "My Challenege"
+msgstr "Meu desafio"
+
+#: Template/Layout/default.ctp:282;323
+msgid "Log Out"
+msgstr "Log Out"
+
+#: Template/Layout/default.ctp:328
+msgid "STORY"
+msgstr "HISTÓRIA"
+
+#: Template/Layout/default.ctp:329
+msgid "COMMUNITY"
+msgstr "COMUNIDADE"
+
+#: Template/Layout/default.ctp:330
+msgid "COMMITTEE"
+msgstr "COMITÊ"
+
+#: Template/Layout/default.ctp:331
+msgid "FCC 2015"
+msgstr "FCC 2015"
+
+#: Template/Layout/default.ctp:332
+msgid "MODEL CC 2015"
+msgstr "MODEL CC 2015"
+
+#: Template/Layout/default.ctp:488 Template/Users/password_again.ctp:82
+msgid "Please enter your Password."
+msgstr "Por favor insira sua senha."
+
+#: Template/Layout/default.ctp:557;581 Template/Users/edit.ctp:448;503;598;610
+msgid "Would you like to delete your account?"
+msgstr "Você gostaria de deletar sua conta?"
+
+#: Template/Layout/default.ctp:561
+msgid "Changes have not been saved.<br>\n"
+"                                    Would you like to save now?"
+msgstr "As alterações não foram salvas.<br>\n"
+"                                    Você gostaria de salvar agora?"
+
+#: Template/Layout/default.ctp:585
+msgid "Your account will be deleted 10 days after the request is submitted. After 10 days, all emails containing personal information, uploaded pictures, videos, and text will be deleted."
+msgstr "Sua conta será apagada 10 dias após o pedido ser enviado. Após 10 dias todos os e-mails contendo informações pessoais, fotos, vídeos e textos carregados serão apagados."
+
+#: Template/Layout/default.ctp:587
+msgid "If you change your mind about deleting your account, you can log in to stop the deletion process within 10 days. If you log in again, all deleted information will be automatically restored."
+msgstr "Caso você mude de ideia sobre apagar sua conta você pode fazer o login dentro de 10 dias para parar o processo de remoção da conta. Se você acessar sua conta novamente todas as informações serão automaticamente restauradas."
+
+#: Template/Layout/default.ctp:593
+msgid "No, thank you."
+msgstr "Não, obrigada."
+
+#: Template/Layout/default.ctp:594
+msgid "Yes, please."
+msgstr "Sim, por favor."
+
+#: Template/Layout/default.ctp:620;623
+msgid "Deletion request sent."
+msgstr "Pedido de remoção enviado."
+
+#: Template/Layout/default.ctp:625
+msgid "Your account will be deleted in 10 days."
+msgstr "Sua conta será apagada em 10 dias."
+
+#: Template/Models/complete.ctp:19 Template/Users/profile.ctp:78
+msgid "Registration complete!"
+msgstr "Inscrição completa!"
+
+#: Template/Models/complete.ctp:20
+msgid "<p>Your registration was successfully completed.</p>\n"
+"            <p>You can check out your profile to verify your information.</p>\n"
+"            <p>You may revise your information until the final day of registration.</p>"
+msgstr "<p>Sua inscrição está completa.</p>\n"
+"            <p>Você pode conferir seu perfil para verificar suas informações.</p>\n"
+"            <p>Você pode revisar suas informações até o último dia para inscrições.</p>"
+
+#: Template/Models/complete.ctp:60
+msgid "Need more information? Check out the <a href=\"/fcc/faq\">FAQ</a>"
+msgstr "Precisa de mais informações? Confira o <a href=\"/fcc/faq\">FAQ</a>."
+
+#: Template/Models/complete.ctp:61
+msgid "Verify my registration information"
+msgstr "Verificar minhas informações de inscrição"
+
+#: Template/Models/info.ctp:65 Template/Models/info_add.ctp:381
+#: Template/Models/info_edit.ctp:396
+msgid "About Me"
+msgstr "Sobre Mim"
+
+#: Template/Models/info.ctp:71 Template/Models/info_add.ctp:385
+#: Template/Models/info_edit.ctp:400
+msgid "Size"
+msgstr "Tamanho"
+
+#: Template/Models/info.ctp:73 Template/Models/info_add.ctp:248;249;251;387;388
+#: Template/Models/info_edit.ctp:261;262;264;402;403
+msgid "Height"
+msgstr "Altura"
+
+#: Template/Models/info.ctp:76 Template/Models/info_add.ctp:277;278;279;390;391
+#: Template/Models/info_edit.ctp:290;291;292;405;406
+msgid "Weight"
+msgstr "Peso"
+
+#: Template/Models/info.ctp:81 Template/Models/info_add.ctp:305;395;396
+#: Template/Models/info_edit.ctp:318;410;411
+msgid "Bust"
+msgstr "Busto"
+
+#: Template/Models/info.ctp:83 Template/Models/info_add.ctp:306;397;398
+#: Template/Models/info_edit.ctp:319;412;413
+msgid "Waist"
+msgstr "Cintura"
+
+#: Template/Models/info.ctp:85 Template/Models/info_add.ctp:307;399;400
+#: Template/Models/info_edit.ctp:320;414;415
+msgid "Hips"
+msgstr "Quadril"
+
+#: Template/Models/info.ctp:101 Template/Models/info_add.ctp:415
+#: Template/Models/info_edit.ctp:430
+msgid "Image"
+msgstr "Imagem"
+
+#: Template/Models/info.ctp:146
+msgid "Want to delete your registration information?"
+msgstr "Gostaria de apagar suas informações?"
+
+#: Template/Models/info.ctp:147 Template/Users/edit.ctp:230
+#: Template/Users/profile.ctp:46
+msgid "Edit"
+msgstr "Editar"
+
+#: Template/Models/info.ctp:339
+msgid "If you delete your information, your participation in ModelCC 2015 will be cancelled. Do you wish to continue?"
+msgstr "Se você apagar sua informações sua participação no ModelCC 2015 será cancelada. Gostaria de continuar?"
+
+#: Template/Models/info.ctp:342
+msgid "No."
+msgstr "Não."
+
+#: Template/Models/info.ctp:343
+msgid "Yes, delete."
+msgstr "Sim, apague."
+
+#: Template/Models/info_add.ctp:110;229 Template/Models/info_edit.ctp:124;242
+msgid "SIZE"
+msgstr "TAMANHO"
+
+#: Template/Models/info_add.ctp:116 Template/Models/info_edit.ctp:130
+msgid "DETAIL"
+msgstr "DETALHE"
+
+#: Template/Models/info_add.ctp:122 Template/Models/info_edit.ctp:136
+msgid "VIDEO"
+msgstr "VIDEO"
+
+#: Template/Models/info_add.ctp:166 Template/Models/info_edit.ctp:179
+msgid "You must upload at least one image."
+msgstr "Você deve enviar pelo menos uma imagem."
+
+#: Template/Models/info_add.ctp:198 Template/Models/info_edit.ctp:211
+#: Template/Models/no_season.ctp:8 Template/Users/add_basic_info_save.ctp:5
+msgid "This is Not the period during Fashion Crowd Challenge held."
+msgstr "Este não é período no qual o Fashion Crowd Challenge está acontecendo."
+
+#: Template/Models/info_add.ctp:228 Template/Models/info_edit.ctp:241
+msgid "Portfolio"
+msgstr "Portfolio"
+
+#: Template/Models/info_add.ctp:251;388 Template/Models/info_edit.ctp:264;403
+msgid "Please enter your height."
+msgstr "Por favor insira sua altura."
+
+#: Template/Models/info_add.ctp:279;391 Template/Models/info_edit.ctp:292;406
+msgid "Please enter your weight."
+msgstr "Por favor insira seu peso."
+
+#: Template/Models/info_add.ctp:303;304 Template/Models/info_edit.ctp:316;317
+msgid "Body Measurements"
+msgstr "Medidas"
+
+#: Template/Models/info_add.ctp:305;306;307;396;398;400
+#: Template/Models/info_edit.ctp:318;319;320;411;413;415
+msgid "Please enter your body measurements."
+msgstr "Por favor insira suas medidas"
+
+#: Template/Models/info_add.ctp:331;332;333
+#: Template/Models/info_edit.ctp:344;345;346
+msgid "Shoe size"
+msgstr "tamanho do sapato"
+
+#: Template/Models/info_add.ctp:333;405 Template/Models/info_edit.ctp:346;420
+msgid "Please enter your shoe size."
+msgstr "Por favor insira o tamanho do seu sapato."
+
+#: Template/Models/info_add.ctp:365;441;483
+#: Template/Models/info_edit.ctp:378;460;512
+#: Template/Users/add_basic_info.ctp:276;426
+msgid "Next"
+msgstr "Próximo"
+
+#: Template/Models/info_add.ctp:382 Template/Models/info_edit.ctp:397
+msgid "Please fill out you \"About Me\" section."
+msgstr "Por favor complete a sessão \"Sobre Mim\"."
+
+#: Template/Models/info_add.ctp:416 Template/Models/info_edit.ctp:431
+msgid "Please upload a high-quality photo of yourself."
+msgstr "Por favor envie uma foto de alta qualidade."
+
+#: Template/Models/info_add.ctp:427 Template/Models/info_edit.ctp:449
+msgid "Add"
+msgstr "Inserir"
+
+#: Template/Models/info_add.ctp:440;482 Template/Models/info_edit.ctp:459;511
+#: Template/Users/add_basic_info.ctp:423
+msgid "Back"
+msgstr "Voltar"
+
+#: Template/Models/info_add.ctp:453 Template/Models/info_edit.ctp:474
+msgid "Video"
+msgstr "Video"
+
+#: Template/Models/info_add.ctp:454 Template/Models/info_edit.ctp:475
+msgid "Please upload a video that shows off your style and ability"
+msgstr "Por favor envie um vídeo que mostre seu estilo e habilidade."
+
+#: Template/Models/info_add.ctp:460 Template/Models/info_edit.ctp:481
+#: Template/Posts/vimeo_complete.ctp:142
+msgid "Upload"
+msgstr "Upload"
+
+#: Template/Models/info_add.ctp:497
+msgid "Almost Finished!"
+msgstr "Quase Terminando!"
+
+#: Template/Models/info_add.ctp:561
+msgid "I agree to the above and wish to register."
+msgstr "Eu concordo e gostaria de me inscrever."
+
+#: Template/Posts/vimeo_upload.ctp:80
+msgid "Choose a Video to Upload"
+msgstr "Escolha um vídeo para enviar"
+
+#: Template/Users/add_basic_info.ctp:94 Template/Users/edit.ctp:149
+msgid "over file size. max file size 5MB"
+msgstr "O vídeo é muito grande. Tamanho máximo: 5MB"
+
+#: Template/Users/add_basic_info.ctp:168;297
+msgid "Basic Info"
+msgstr "Informações Básicas"
+
+#: Template/Users/add_basic_info.ctp:183 Template/Users/edit.ctp:248
+msgid "Profile Picture"
+msgstr "Imagem do Perfil"
+
+#: Template/Users/add_basic_info.ctp:201 Template/Users/edit.ctp:265
+msgid "Allowed file types JPG, GIF or PNG.<br>Maximum size of 5MB"
+msgstr "Arquivos permitidos: JPG, GIF ou PNG.<br>Tamanho máximo: 5MB"
+
+#: Template/Users/add_basic_info.ctp:207 Template/Users/edit.ctp:273
+msgid "Upload Photo"
+msgstr "Envio de imagem"
+
+#: Template/Users/add_basic_info.ctp:210 Template/Users/edit.ctp:276
+msgid "Please upload your photo."
+msgstr "Por favor envia sua foto."
+
+#: Template/Users/add_basic_info.ctp:221;224 Template/Users/edit.ctp:287;290
+msgid "Please enter your name."
+msgstr "Por favor insira seu nome."
+
+#: Template/Users/add_basic_info.ctp:228;229 Template/Users/edit.ctp:294;295
+msgid "Birth Date"
+msgstr "Data de Nascimento"
+
+#: Template/Users/add_basic_info.ctp:240 Template/Users/edit.ctp:307
+msgid "Month"
+msgstr "Mês"
+
+#: Template/Users/add_basic_info.ctp:241 Template/Users/edit.ctp:308
+msgid "Day"
+msgstr "Dia"
+
+#: Template/Users/add_basic_info.ctp:242 Template/Users/edit.ctp:309
+msgid "Year"
+msgstr "Ano"
+
+#: Template/Users/add_basic_info.ctp:244 Template/Users/edit.ctp:311
+msgid "Please enter your birth date."
+msgstr "Por favor insira sua data de aniversário."
+
+#: Template/Users/add_basic_info.ctp:248 Template/Users/edit.ctp:315
+msgid "Gender"
+msgstr "Gênero"
+
+#: Template/Users/add_basic_info.ctp:250 Template/Users/edit.ctp:318
+msgid "Female"
+msgstr "Feminino"
+
+#: Template/Users/add_basic_info.ctp:251 Template/Users/edit.ctp:319
+msgid "Male"
+msgstr "Masculino"
+
+#: Template/Users/add_basic_info.ctp:252 Template/Users/edit.ctp:238;320
+msgid "Other"
+msgstr "Outros"
+
+#: Template/Users/add_basic_info.ctp:255 Template/Users/edit.ctp:323
+msgid "Please select a gender."
+msgstr "Por favor selecione um gênero."
+
+#: Template/Users/add_basic_info.ctp:310;358
+#: Template/Users/edit.ctp:335;383;384
+msgid "City"
+msgstr "Cidade"
+
+#: Template/Users/add_basic_info.ctp:316 Template/Users/edit.ctp:341
+msgid "Country"
+msgstr "País"
+
+#: Template/Users/add_basic_info.ctp:356
+msgid "Please select your country."
+msgstr "Por favor selecione seu país."
+
+#: Template/Users/add_basic_info.ctp:359 Template/Users/edit.ctp:384
+msgid "Please enter your city."
+msgstr "Por favor insira sua cidade."
+
+#: Template/Users/add_basic_info.ctp:397
+msgid "Please select a valid language."
+msgstr "Por favor selecione um idioma válido."
+
+#: Template/Users/add_basic_info.ctp:412;413;414
+#: Template/Users/edit.ctp:436;437;438
+msgid "Phone Number"
+msgstr "Telefone"
+
+#: Template/Users/add_basic_info.ctp:414 Template/Users/edit.ctp:438
+msgid "(Country Code)"
+msgstr "(Código do País)"
+
+#: Template/Users/add_basic_info.ctp:415 Template/Users/edit.ctp:439
+msgid "Please enter your telephone number. We'll need it to tell you in case you win!"
+msgstr "Por favor insira seu telefone. Precisaremos dele caso você vença!"
+
+#: Template/Users/add_basic_info_save.ctp:34;45
+msgid "Basic info<br>complete."
+msgstr "Informações básicas<br>completas."
+
+#: Template/Users/add_basic_info_save.ctp:35
+msgid "Basic info is complete.<br> Please click below to move to the next stage in the process."
+msgstr "As informações básicas estão completas.<br> Por favor clique abaixo para continuar."
+
+#: Template/Users/add_basic_info_save.ctp:40
+msgid "Submit your portfolio"
+msgstr "Envie seu portfolio"
+
+#: Template/Users/add_basic_info_save.ctp:41
+msgid "Not ready to participate? <a href=\"/\">return to main page</a>"
+msgstr "Não está preparado para participar? <a href=\"/\">Volte para a página principal</a>"
+
+#: Template/Users/add_basic_info_save.ctp:46
+msgid "basic info is complete. The next step can only be done via computer. Please complete using your computer."
+msgstr "Informações básicas completas. A próxima etapa só pode ser feita pelo computador. Por favor continue utilizando um computador."
+
+#: Template/Users/check_verification_email.ctp:23
+#: Template/Users/resend_verification_email.ctp:23
+msgid "<p>Dear <span class=\"user\">{0}</span></p>\n"
+"            <p>We have sent a verification email to <span class=\"email\">{1}</span></p>\n"
+"            <p>Open the e-mail and click the link to complete the registration process.</p>\n"
+"            <br>\n"
+"            <p>If you cannot find the activation email, <br>please check your spam folder or click below.</p>"
+msgstr "<p>Prezado/a <span class=\"user\">{0}</span></p>\n"
+"            <p>Enviamos um email de verificação para <span class=\"email\">{1}</span></p>\n"
+"            <p>Abra o email e clique no link para completar o processo de inscrição.</p>\n"
+"            <br>\n"
+"            <p>Caso não encontre o email, <br>por favor olhe em sua pasta de spam ou clique abaixo.</p>"
+
+#: Template/Users/check_verification_email.ctp:33
+#: Template/Users/no_activate.ctp:30
+#: Template/Users/resend_verification_email.ctp:33
+msgid "Resend verification email."
+msgstr "Reenviar email de verificação."
+
+#: Template/Users/edit.ctp:234
+msgid "Profile"
+msgstr "Perfil"
+
+#: Template/Users/edit.ctp:236
+msgid "Account"
+msgstr "Conta"
+
+#: Template/Users/edit.ctp:282;283
+msgid "Name"
+msgstr "Nome"
+
+#: Template/Users/edit.ctp:284
+msgid "First Name"
+msgstr "Primeiro Nome"
+
+#: Template/Users/edit.ctp:285
+msgid "Last Name"
+msgstr "Sobrenome"
+
+#: Template/Users/edit.ctp:444;498;593 Template/Users/password_again.ctp:87
+msgid "Done"
+msgstr "Feito"
+
+#: Template/Users/expired_token.ctp:18
+msgid "This link has expired."
+msgstr "Este link expirou."
+
+#: Template/Users/first_time_join.ctp:86
+msgid "We need a few things to create your account."
+msgstr "Precisamos de algumas informações para criar sua conta."
+
+#: Template/Users/first_time_join.ctp:94
+msgid "First name"
+msgstr "Primeiro Nome"
+
+#: Template/Users/first_time_join.ctp:95
+msgid "Last name"
+msgstr "Sobrenome"
+
+#: Template/Users/first_time_join.ctp:99
+msgid "Please enter your first name."
+msgstr "Por favor insira seu nome"
+
+#: Template/Users/first_time_join.ctp:102
+msgid "Please enter your last name."
+msgstr "Por favor insira seu sobrenome."
+
+#: Template/Users/first_time_join.ctp:122
+msgid "Send verification email"
+msgstr "Enviar email de verificação"
+
+#: Template/Users/no_activate.ctp:24
+msgid "Account Not Verified"
+msgstr "Conta não verificada"
+
+#: Template/Users/no_activate.ctp:25
+msgid "You already created your account,<br>but you need to verify it via the verification email we sent."
+msgstr "Você já criou sua conta,<br>mas você precisa verificá-la através do email  que enviamos."
+
+#: Template/Users/no_activate.ctp:27
+msgid "Can't find the verification email? <br>Click the button below to send it again."
+msgstr "Não consegue encontrar o email de verificação?<br>Clique no botão abaixo para reenviá-lo. "
+
+#: Template/Users/password_again.ctp:18
+msgid "Invalid email format"
+msgstr "Formato de email inválido"
+
+#: Template/Users/password_again.ctp:48
+msgid "To protect your information. please enter your password again."
+msgstr "Para proteger suas informações, por favor insira sua senha novamente."
+
+#: Template/Users/profile.ctp:53
+msgid "Notifications"
+msgstr "Notificações"
+
+#: Template/Users/profile.ctp:72
+msgid "Try FCC's model challenge!"
+msgstr "Tente o FCC model Challenge!"
+
+#: Template/Users/profile.ctp:75
+msgid "You haven't registered as a model yet."
+msgstr "Você não se registrou como modelo ainda."
+
+# 수동 추가 ====================
+# ##=================================
+# # 20150821 / 20:08
+msgid "Did you forget your password?"
+msgstr "Esqueceu sua senha?"
+
+msgid "Resend email"
+msgstr "Reenviar email "
+
+msgid "Password"
+msgstr "Senha"
+
+msgid "Optional"
+msgstr "Opcional"
+
+msgid "Website"
+msgstr "Website"
+
+msgid "Enter URL"
+msgstr "Insira URL"
+
+msgid "New password and confirmation do not match"
+msgstr "A senha e a confirmação não são as mesmas"
+
+# ##=================================
+# # 20150821 / 20:52
+msgid "What Models Get"
+msgstr "O que modelos recebem?"
+
+msgid "Submit Your Work"
+msgstr "Envie seu trabalho"
+
+# ##=================================
+# # 20150823 / 13:06 / FCC 2015 페이지
+# ##=================================
+# # 20150824 / 15:18 / users edit 페이지
+msgid "Save"
+msgstr "Salvar"
+
+# ##=================================
+# # 20150826 / 14:05 / 메인 타이틀이미지 설명
+#: Template/Users/first_time_join.ctp:47
+msgid "Show Password Errors"
+msgstr "Mostre o que está errado com a senha"
+
+#: main Error
+msgid "We could not get your information.<br>Please participate in FCC by your email."
+msgstr "Não conseguimos obter sua sinformações.<br>Por favor participe do FCC através de seu email."
+
+msgid "Sorry"
+msgstr "Desculpe"
+
+msgid "We will message your social media account with a link to reset your password"
+msgstr "Enviaremos uma mensagem através de sua rede social com um link para restaurar sua senha"
+
+msgid "Hello,"
+msgstr "Olá,"
+
+msgid "Welcome to FCC.<br>To reset your password, please click the following link."
+msgstr "Bem vindo ao FCC.<br>Para restaurar sua senha, por favor clique no link a seguir."
+
+msgid "Welcome to FCC.<br>To activate your account, please click the following link."
+msgstr "Bem vindo ao FCC.<br>Para ativar sua conta, por favor clique no link a seguir."
+
+msgid "Click Here"
+msgstr "Clique aqui"
+
+msgid "Password Reset"
+msgstr "Restaure sua senha"
+
+msgid "Shoes"
+msgstr "Sapatos"
+
+msgid "Upload your video"
+msgstr "Envie seu video"
+
+msgid "Delete"
+msgstr "Apagar"
+
+msgid "We need you to agree to a few things before we can finish your ModelCC registration."
+msgstr "Precisamos que você concorde com algumas regras antes de podermos finalizar sua inscrição no ModelCC."
+
+msgid "Model<br>Submission"
+msgstr "Envio para<br>modelos"
+
+msgid "Join Fashion CC 2015"
+msgstr "Inscreva-se no Fashion CC 2015"
+
+msgid "Model CC 2015</span><span>Evaluation Start"
+msgstr "Model CC 2015</span><span>Início das Avaliações"
+
+msgid "Join Model CC 2015"
+msgstr "Inscreva-se no Model CC 2015"
+
+msgid "Fashion</span><span>Crowd Challenge?"
+msgstr "Fashion</span><span>Crowd Challenge?"
+
+msgid "FCC's mission is to discover fashion stars and thrust them into the public eye.<br>So, FCC is holding a truly global fashion show in which anyone can participate as a designer OR as a judge.<br><br>The designs which receive the best reviews will be displayed each day during the evaluation period at FashionCrowdChallenge.com.<br>FCC will announce the full body of winners on October 16th."
+msgstr "A missão do FCC é descobrir estrelas da moda e apresentá-los aos olhos do mundo.<br>Desta maneira, o FCC está criando um verdadeiro show da moda onde qualquer um pode participar como designer ou jurado.<br>Os designs que receberem as melhores críticas serão apresentados durante o período de avaliação no FashionCrowdChallenge.com.<br>O FCC anunciará todos os vencedores no dia 16 de Outubro."
+
+msgid "Learn about FCC "
+msgstr "Saiba mais sobre o FCC"
+
+msgid "Brochure"
+msgstr "Brochura"
+
+msgid "Download our brochure for more detailed </span><span>information about FCC."
+msgstr "Faça o download de nossa brochura para maiores </span><span>detalhes sobre o FCC."
+
+msgid "Vote for me ! "
+msgstr "Vote em mim!"
+
+msgid "<span>MEET THE STAR</span><span>MODELS OF</span>"
+msgstr "<span>CONHEÇA AS</span><span>MODELOS DO</span>"
+
+msgid "TOMORROW"
+msgstr " FUTURO"
+
+msgid "<span>You choose the top models of ModelCC 2015.</span><span>Your input creates the stars of the future.</span>"
+msgstr "<span>Você escolhe as top modelos do ModelCC 2015.</span><span>A sua opinião cria as estrelas do futuro.</span>"
+
+msgid "Total"
+msgstr "Total"
+
+msgid "Today"
+msgstr "Today"
+
+msgid "The evaluation period ends in"
+msgstr "O período de avaliação termina em "
+
+msgid "hours,"
+msgstr "horas, "
+
+msgid "minutes."
+msgstr "minutos."
+
+msgid "Please Wait, Loading.."
+msgstr "Por favor, aguarde. Carregando.."
+
+msgid "Evaluate more models!"
+msgstr "Avalie mais modelos!"
+
+msgid "There is no evaluation subjects"
+msgstr "Não há nada a ser avaliado."
+
+msgid "Back to list"
+msgstr "Volte para a lista"
+
+msgid "About Me"
+msgstr "Sobre Mim"
+
+msgid "Size"
+msgstr "Tamanho"
+
+msgid "Height"
+msgstr "Altura"
+
+msgid "Weight"
+msgstr "Peso"
+
+msgid "Bust"
+msgstr "Busto"
+
+msgid "Waist"
+msgstr "Cintura"
+
+msgid "Hips"
+msgstr "Quadril"
+
+msgid "Shoes"
+msgstr "Sapatos"
+
+msgid "Comment"
+msgstr "Comentários"
+
+msgid "MODEL CC 2015"
+msgstr "MODEL CC 2015"
+
+msgid "WINNER"
+msgstr "VENCEDOR"
+
+msgid "<span>The ModelCC 2015 Winners <br>have been chosen!</span><span>Let's meet the global top models <br>who will own the runway at FCC2015!</span>"
+msgstr "<span>Os ganhadores do ModelCC 2015 <br>foram escolhidos!</span><span>Vamos conhecer as top modelos globais que estarão na passarela do FCC2015!</span>"
+
+msgid "View my results"
+msgstr "Ver meus resultados"
+
+msgid "Top Model"
+msgstr "Top Modelo"
+
+msgid "MODEL CC 2015 RESULTS"
+msgstr "RESULTADOS DO MODELCC 2015"
+
+msgid "Grade"
+msgstr "Pontuação"
+
+msgid "Judges"
+msgstr "Jurados"
+
+msgid "Comments"
+msgstr "Comentários"
+
+msgid "View more language"
+msgstr "Ver mais idiomas"
+
+msgid "View"
+msgstr "Ver mais"
+
+msgid "It looks like you haven't reviewed<br/>all the models yet.<br/> Please check the list again!<br/>"
+msgstr "Parece que você não avaliou<br/>todos os modelos ainda.<br/>Por favor confira a lista novamente!<br/>"
+
+msgid "If you delete your information, your participation in FCC 2015 will be cancelled. Do you wish to continue?"
+msgstr "Se você apagar sua informações sua participação no FCC 2015 será cancelada. Gostaria de continuar?"
+
+msgid "If you delete your information, your participation in FCC 2015 will be cancelled. Do you wish to continue?"
+msgstr "Se você apagar sua informações sua participação no FCC 2015 será cancelada. Gostaria de continuar?"
+
+msgid "Email Verification"
+msgstr "Verificação de email"
+
+msgid "Portfolio <br>Submission"
+msgstr "Envio de<br>Portfolio"
+
+msgid "Crowd<br>Evaluation"
+msgstr "Avaliação<br>do Público"
+
+msgid "Crowd <br>Evaluation"
+msgstr "Avaliação<br>do Público"
+
+msgid "Announcement of <br>Winners"
+msgstr "Anúncio dos <br>Vencedores"
+
+msgid "Portfolio <br>Evaluation"
+msgstr "Avaliação de <br>Portfolio"
+
+msgid "10th Sep.<br> - <br>13th Sep."
+msgstr "10 de Setembro<br>-<br>13 de Setembro"
+
+msgid "FCC's Model Evaluation<br>has begun."
+msgstr "As avaliações de modelos<br>já começou."
+
+msgid "Check out another model!"
+msgstr "veja outra modelo!"
+
+msgid "Evaluation <br>finished!."
+msgstr "Avaliação<br>finalizada!"
+
+msgid "Evaluation finished! see you tomorrow."
+msgstr "Avaliação finalizada! Nos vemos amanhã."
+
+msgid "14th Sep."
+msgstr "14 de Setembro"
+
+msgid "My results."
+msgstr "Meus resultados"
+
+msgid "Meet the star <br> models of <br> tomorrow"
+msgstr "Conheça as <br> modelos do <br> futuro"
+
+msgid "Registration complete!"
+msgstr "Inscrição completa!"
+
+msgid "No design information<br>submitted."
+msgstr "Você não enviou as informações<br> do design"
+
+msgid "Individual</span><span>Registration"
+msgstr "Inscrição</span><span>Individual"
+
+msgid "Team</span><span>Registration"
+msgstr "Inscrição</span><span>em Grupo"
+
+msgid "Registration"
+msgstr "Inscrição"
+
+msgid "Are you registering as an individual or as a team?<br>After you choose, you will not be able to change it,<br>so proceed with caution!"
+msgstr "Você está se inscrevendo individualmente ou em grupo?<br>Depois que você escolher não poderá fazer modificações,<br> escolha com cuidado!"
+
+msgid "Team name"
+msgstr "Nome do grupo"
+
+msgid "Please enter a team name."
+msgstr "Por favor insira um nome para o grupo"
+
+msgid "Back"
+msgstr "Voltar"
+
+msgid "Next"
+msgstr "Próximo"
+
+msgid "Category"
+msgstr "Categoria"
+
+msgid "What category best describes your design?"
+msgstr "Qual categoria melhor descreve o seu design?"
+
+msgid "Target customer"
+msgstr "Público alvo"
+
+msgid "Optional"
+msgstr "Opcional"
+
+msgid "Who is the target consumer for your design?"
+msgstr "Quem é o público alvo de seus designs?"
+
+msgid "Title"
+msgstr "Título"
+
+msgid "Please enter a title."
+msgstr "Por favor insira um título"
+
+msgid "Simple description"
+msgstr "Descrição simples"
+
+msgid "Please enter a simple description of your design."
+msgstr "Por favor insira uma simples descrição do seu design"
+
+msgid "You must upload at least one image."
+msgstr "Você deve enviar pelo menos uma imagem"
+
+msgid "Detailed description"
+msgstr "Descrição detalhada"
+
+msgid "Tell us the whole story of your design."
+msgstr "Nos conte a história completa de seus designs"
+
+msgid "Please enter a detailed description of your design."
+msgstr "Por favor insira uma descrição detalhada de seus designs."
+
+msgid "Team members"
+msgstr "Membros do grupo"
+
+msgid "Please enter a name."
+msgstr "Por favor insira um nome."
+
+msgid "Please enter a valid email format."
+msgstr "Por favor insira um formato de email válido."
+
+msgid "Please enter a category."
+msgstr "Por favor insira uma categoria."
+
+msgid "We need you to agree to a few things before we can finish your FCC registration."
+msgstr "Precisamos que você concorde com alguma regras antes de terminar sua inscrição para o FCC."
+
+msgid "Registration complete!"
+msgstr "Inscrição completa!"
+
+msgid "Your registration was successfully completed.</p><p>You can check out your profile to verify your information.</p><p>You may revise your information until the final day of registration."
+msgstr "<p>Sua inscrição está completa.</p><p>Você pode conferir seu perfil para verificar suas informações.</p><p>Você pode revisar suas informações até o último dia para inscrições."
+
+msgid "24th Aug.<br> - <br>9th Sep."
+msgstr "24 de Agosto<br>-<br>09 de Setembro"
+
+msgid "8th Oct.<br> - <br>15th Oct."
+msgstr "08 de Outubro<br>-<br>15 de Outubro"
+
+msgid "During the evaluation period,</p><p>submitters are responsible for reviewing and evaluating peer designers’ submissions.</p><p>Design submitters who do not fully participate in the evaluation process <br>may find that their own submissions have been excluded from the contest."
+msgstr "Durante o período de avaliação</p><p> os participantes são responsáveis por avaliar os trabalhos de outros designers.</p><p>Os participantes que não participarem ativamente no processo de avaliação<br> pode ter seus trabalhos removidos da competição."
+
+msgid "Verify my registration information"
+msgstr "Verificar minhas informações de inscrição"
+
+msgid "16th Oct."
+msgstr "16 de Outubro"
+
+msgid "Delete your information?"
+msgstr "Apagar suas informações?"
+
+msgid "Team Info"
+msgstr "Informações do Grupo"
+
+msgid "Design Info"
+msgstr "Informações do Design"
+
+msgid "Add comment"
+msgstr "Adicionar comentário"
+
+msgid "Back to Result"
+msgstr "Voltar aos resultados"
+
+msgid "New password cannot be the same as your current password"
+msgstr "A nova senha deve ser diferente da senha atual"
+
+#: What do you think of me?
+msgid "$data['questions'][0]['question']"
+msgstr ""
+
+msgid "Design<br>Submission"
+msgstr "Envio de <br> Design"
+
+msgid "Continue"
+msgstr "Continuar"
+
+msgid "Declaration of</span><span> Winners"
+msgstr "Anúncio dos Vencedores"
+
+msgid "View detail"
+msgstr "Veja os detalhes"
+
+msgid "This field is required"
+msgstr "Este campo é obrigatório"
+
+msgid "Email Address"
+msgstr "Endereço de Email"
+
+msgid "New password"
+msgstr "Nova senha"
+
+msgid "Confirm password"
+msgstr "Confirme sua senha"
+
+msgid "Not a member yet?"
+msgstr "Ainda não é um membro?"
+
+msgid "Give the FCC Challenge a shot!"
+msgstr "Dê uma chance ao desafio FCC!"
+
+msgid "Submit"
+msgstr "Envio"
+
+msgid "Current password"
+msgstr "Senha atual"
+
+msgid "Did you submit your modelling portfolio?"
+msgstr "Você enviou seu portfólio?"
+
+msgid "Sign in and see your results!"
+msgstr "Entre e veja seus resultados!"
+
+msgid "Winner’s Awards"
+msgstr "Premiação dos Vencedores"
+
+msgid "ModelCC 2015 Winners will receive the title of TOP MODEL."
+msgstr "Os vencedores do ModelCC receberão o título de TOP MODELOS"
+
+msgid "Winners will also receive the opportunity to appear onstage at the FCC2015 fashion show."
+msgstr "Os vencedores também receberão a oportunidade de aparecer no desfile do FCC2015."
+
+msgid "Model CC 2015 WINNER"
+msgstr "Vencedor do Model CC 2015"
+
+msgid "A chance to work as an FCC model"
+msgstr "Oportunidade de trabalhar como modelo do FCC."
+
+msgid "A chance to appear onstage in the FCC fashion show."
+msgstr "Oportunidade de aparecer no desfile do FCC."
+
+msgid "A chance to appear onstage"
+msgstr "Oportunidade de estar na passarela"
+
+msgid "in the FCC fashion show."
+msgstr "no desfile do FCC."
+
+msgid "Announcement"
+msgstr "Anúncio"
+
+msgid "FCC winners will be notified of the award ceremony <br>and fashion show via email or telephone."
+msgstr "Os vencedores do FCC serão notificados da cerimônia de premiação e sobre o desfile por email ou telefone."
+
+msgid "e.g. Casual, Dress, shoes"
+msgstr "ex. Casual, Vestido, Calçados"
+
+msgid "Model CC 2015 <br>Winners"
+msgstr "Vencedores do Model CC 2015"
+
+msgid "View Model CC 2015 Winners"
+msgstr "Veja os vencedores do Model CC 2015"
+
+msgid "Don\'t show again today"
+msgstr "Não mostrar novamente"
+
+msgid "Download Now"
+msgstr "Fáca o download agora mesmo!"
+
+msgid "Modhello,</span><span>an app for designers."
+msgstr "Modhello, </span><span>um aplicativo para designers."
+
+msgid "Upload your designs via Modhello!"
+msgstr "Envie seus designs através do Modhello!"
+
+msgid "Thank you for registering,"
+msgstr ""
+
+msgid "Share with your friends!"
+msgstr "Compartilhe com seus amigos!"
+
+msgid "Tell your friends that you\'ve entered FCC 2015!"
+msgstr "Conte aos seus amigos que você se inscreveu no  FCC 2015!"
+
+msgid "<span>Good Luck !</span><strong>{0} {1}</strong>"
+msgstr "<span>Boa Sorte! </span><strong>{0} {1}</strong>"
+
+msgid "<span>Good Luck !</span><strong style='display: block;'>{0} {1}</strong>"
+msgstr "<span>Boa Sorte! </span><strong style='display: block;'>{0} {1}</strong>"
+
+msgid "Thank you for a registration!"
+msgstr "Obrigado pela sua inscrição!"
+
+msgid "See you on Oct. 8th"
+msgstr "Nos vemos em 08 de Outubro"
+
+msgid "Thank you for registering,{0} {1}"
+msgstr "Obrigado por se inscrever, {0} {1}"
+
+msgid "Thank you for registering with FCC! Those who are registered with FCC will occasionally receive newsletters, announcements, and updated schedules through email.<br><br>To guarantee a fair and equal opportunity for all participants, the FCC winner will be selected using an algorithm based \"collective intelligence technology.\" This process is transparent to the public. Thus, FCC allows both professionals and non-professionals to participate, free of charge. FCC hopes to serve as a revolutionary avenue for fashion designers to showcase their talents and skills.<br><br>Please check the FCC schedule.<br><br>"
+msgstr "Obrigado por se inscrever no FCC! <br>Aqueles inscritos no FCC irão ocasionalmente receber newsletters, anúncios e updates sobre o nosso cronograma através de email.<br><br>Para garantir oportunidades iguais e justas a todos os participantes, o vencedor do FCC será selecionado através de um algorítimo de \"inteligência coletiva\". <br>Esse processo é completamente transparente ao público. <br>Assim, o FCC permite que profissionais e não-profissionais participem sem custo algum. <br>O FCC espera servir como um caminho revolucionário para designers de moda mostrarem seu talento e habilidades.<br><br>Por favor confira nosso cronograma.<br><br>"
+
+msgid "Thanks,"
+msgstr "Obrigado."
+
+msgid "FCC Committee"
+msgstr "Comitê do FCC"
+
+msgid "Thank you for participating."
+msgstr "Obrigado por participar."
+
+msgid "Read more"
+msgstr "Veja mais"
+
+msgid "All"
+msgstr "Todos"
+
+msgid "Your story"
+msgstr "Sua História"
+
+msgid "FCC News"
+msgstr "Notícias FCC"
+
+msgid "So, what\'s your story?"
+msgstr "Então, qual a sua história?"
+
+msgid "It’s not a story about fashion.<br>It’s a story about you."
+msgstr "Não é uma história sobre moda. É a sua história."
+
+msgid "Share your stories with us"
+msgstr "Compartilhe sua história conosco"
+
+msgid "Share"
+msgstr "Compartilhe"
+
+msgid "Search the Title or Registration number"
+msgstr "Procurar Título ou Número de Inscrição"
+
+msgid "<span>Search results for {0}</span><strong>"
+msgstr "<span>Procurar resultados por {0}</span><strong>"
+
+msgid "The URL has been copied. Please paste anywhere you want."
+msgstr "A URL foi copiada. Cole aonde precisar."
+
+msgid "Loading more"
+msgstr "Carregando"
+
+msgid "Meet the world's fashion lovers united through Fashion Crowd Challenge "
+msgstr "Conheça os amantes da moda ao redor do mundo, reunidos através do Fashion Crowd Challenge"
+
+#:FCC Main Page
+
+msgid "FASHION"
+msgstr ""
+
+msgid "CROWD"
+msgstr ""
+
+msgid "CHALLENGE"
+msgstr ""
+
+msgid "Submit your design"
+msgstr "Envie seu design"
+
+msgid "FCC 2015 design submission begins on September 10th"
+msgstr "O envio de designs para o FCC 2015 começa em 10 de setembro"
+
+msgid "What is Fashion Crowd Challenge?"
+msgstr "O que é o Fashion Crowd Challenge?"
+
+msgid "The mission of Fashion Crowd Challenge (FCC) is to find and bring talented, <br>hidden fashion stars into the spotlight of the world. To this end, FCC is introducing a new type of fashion design competition. <br>Unlike typical design contests, design submissions in FCC are evaluated <br>by general people and peer designers."
+msgstr "A missão do Fashion Crowd Challenge (FCC) é encontrar estrelas fashion talentosas  <br>e trazê-las para os holofotes do mundo. Com essa finalidade o FCC apresenta um novo tipo de competição de designs de moda. <br>Diferente de outras competições de moda, os designs enviados ao FCC são avaliados <br>pelo público em geral e outros designers participantes."
+
+msgid "Design <br>Submission"
+msgstr "Envio<br>de Designs"
+
+msgid "Upload <br>your items."
+msgstr "Faça o upload<br>de seus itens."
+
+msgid "<b>10th Sep</b> (am. 00:01) <br><b>- 7th Oct</b> (pm.10:00)"
+msgstr "10 de Setembro</b> (am. 00:01) GMT<br><b>- 7 de Outubro</b> (pm.10:00) GMT"
+
+msgid "Submission"
+msgstr "Envio"
+
+msgid "Crowd <br>Evaluation"
+msgstr "Avaliação <br>do Público"
+
+msgid "All uploaded material <br>will be evaluated <br>during FCC2015."
+msgstr "Todo o material enviado <br>será avaliado <br>durante o FCC2015."
+
+msgid "<b>8th Oct</b> (am. 00:01) <br><b>- 15th Oct</b> (pm.10:00)"
+msgstr "8 de Outubro</b> (am. 00:01) GMT <br><b>- 15 de Outubro</b> (pm.10:00) GMT"
+
+msgid "Evaluation"
+msgstr "Avaliação"
+
+msgid "Declaration <br>of Winners"
+msgstr "Anúncio <br>dos Vencedores"
+
+msgid "Here are the winners, <br>chosen by people <br>from all over the world."
+msgstr "Aqui estão os vencedores <br>escolhidos por pessoas <br>de todo o mundo."
+
+msgid "16th Oct"
+msgstr "16 de Outubro</b> GMT"
+
+msgid "View"
+msgstr "Ver"
+
+msgid "FCC\'s schedule uses Greenwich Mean Time (GMT)"
+msgstr ""
+
+msgid "Upload Method"
+msgstr "Método de Upload"
+
+msgid "What kind of images should I submit?"
+msgstr "Que tipo de imagens eu devo enviar?"
+
+msgid "Designs may be submitted as any image - photo, picture, sketch, illustration, etc. However, <br>to increase your chance of winning, we recommend submitting a photograph of the physical clothes you designed."
+msgstr "Os designs podem ser enviados como qualquer tipo de imagem – foto, ilustração, esboço, etc. Porém, <br>para aumentar suas chances de vencer, nós recomendamos que você envie uma foto das roupas que você desenhou prontas."
+
+msgid "How many designs can I upload?"
+msgstr "Quantos designs eu posso enviar?"
+
+msgid "There is a 20-image file limit per account. You can use all 20 images to showcase a single design or <br>up to 20 different designs. How you choose to allocate your photos is completely up to you."
+msgstr "Existe um limite de 20 imagens por conta. Você pode utilizar as 20 imagens para apresentar apenas um design ou <br>até 20 designs diferentes. A escolha de como  alocar suas imagens é completamente sua."
+
+msgid "Who are the designers?"
+msgstr "Quem são os designers?"
+
+msgid "The Designers are anybody who has submitted their own designs through the FCC webpage. <br>Uploaded designs will be evaluated by the judges."
+msgstr "Os designers são qualquer pessoa que tenha enviado seu trabalho através da página do FCC. <br>Os designs enviados serão avaliados pelos jurados."
+
+msgid "Designer Awards"
+msgstr "Prêmios para os Designers"
+
+msgid "Designers chosen as FCC2015 WINNERS will receive financial support for the launching of their brands. <br>The winning designs will also be eilgible to appear in the FCC2015 fashion show."
+msgstr "Os designers escolhidos como vencedores do FCC2015 receberão suporte financeiro para que lancem suas marcas. <br>Os trabalhos vencedores também terão a chance de estar no desfile do FCC2015."
+
+msgid "Winners"
+msgstr "Vencedors"
+
+msgid "Financial support"
+msgstr "Suporte Financeiro"
+
+msgid "Manufacturing"
+msgstr "Produção"
+
+msgid "Promotion & Marketing"
+msgstr "Promoção & Marketing"
+
+msgid "Networking tools"
+msgstr "Ferramentas de Networking"
+
+msgid "Dream Awards"
+msgstr ""
+
+msgid "10 winners"
+msgstr ""
+
+msgid "5,000 USD"
+msgstr ""
+
+msgid "10 Winners"
+msgstr ""
+
+msgid "Cash prize"
+msgstr "Prêmios em Dinheiro"
+
+msgid "View Detail"
+msgstr "Veja os detalhes"
+
+
+msgid "Who are the judges?"
+msgstr "Quem são os jurados?"
+
+msgid "Anybody who has registered for the FCC website can be a judge! <br>View and evaluate designs from all over the world via a simple process."
+msgstr "Qualquer pessoa registrada no website do FCC pode ser um jurado! <br>Veja e avalie designs de todo o mundo de maneira simples. "
+
+msgid "Judge Awards"
+msgstr "Prêmios para os Jurados"
+
+msgid "Judges who make a special effort to give constructive feedback, inspiration and support to <br>the participating designers will be invited to the FCC2015 fashion show and receive products <br>from the winning designers."
+msgstr "Jurados que se esforcem em oferecer críticas construtivas, inspiração e apoio aos <br>designers participantes serão convidados para o desfile do FCC2015 e receberão produtos <br>dos designers vencedores."
+
+msgid "Trend Maker"
+msgstr ""
+
+msgid "2016 Crowd Challeng <br>Festival Shanghai Invitation"
+msgstr "Convite para o Crowd Challenge Festival 2016 em Xangai"
+
+msgid "Airline"
+msgstr "Passagens"
+
+msgid "Tickets"
+msgstr "Aéreas"
+
+msgid "Winning <br>Designer’s Work"
+msgstr "Criações de Designers Vencedores"
+
+msgid "Trend Influencer"
+msgstr ""
+
+msgid "You are the star of FCC 2015 !"
+msgstr "Você é a estrela do FCC 2015 !"
+
+msgid "Come take part in FCC2015, <br>the global fashion festival which allows you to shape global fashion <br>with your very own hands. <br>We are waiting for you."
+msgstr "Venha fazer parte do FCC2015, <br>O festival global de moda que permite que você modifique a moda ao redor do mundo <br>com suas próprias mãos. Estamos esperando você!"
+
+msgid "Designer’s Responsibilities"
+msgstr "Responsabilidades do Designer"
+
+msgid "During the evaluation period, submitters are responsible for reviewing and evaluating peer designers’ submissions. Design submitters who do not fully participate in the evaluation process may find that their own submissions have been excluded from the contest. Works submitted to FCC should be the original creation or property of the designer. If the designer would like to use a copyrighted logo, pattern or character, proper licensing must be obtained before uploading the work to FCC. Any issues regarding copyright or plagiarism will become the sole responsibility of the designer, and their works will be excluded from the contest. Furthermore, works that include hate speech, violence, sexual harassment, racism, sexism, religious or political discrimination, stolen content, violence against animals, or generally offensive material are banned and can be excluded from winning prizes even if they receive winning votes."
+msgstr "Durante o período de avaliação, participantes são responsáveis por examinar e avaliar o trabalho de outros participantes. Aqueles que não participarem ativamente do processo de avaliação podem ter seu trabalho removido da competição. Os trabalhos enviados ao FCC devem ser originais e de propriedade do designer. Se o designer desejar utilizar alguma marca, logo, padrão ou personagem já registrado, deve obter uma licensa apropriada antes de fazer o upload no FCC. Qualquer problema envolvendo direitos autorais ou plagiarismo será de total responsabilidade do designer e seu trabalho será excluído da competição. Além disso, trabalhos que incluam discurso de ódio, violência, assédio sexual, racismo, sexismo, discriminação política ou religiosa, material roubado, violência contra animais ou qualquer outro material ofensivo serão banidos e excluídos de receberem prêmios mesmo que sejam vencedores."
+
+msgid "More Details"
+msgstr "Mais Detalhes"
+
+msgid "Download Brochure"
+msgstr "Faça Download do Folheto"
+
+msgid "The first 5 winning designers, which consists of a 100,000USD 1st place winner (one designer), 30,000 USD 2nd place winner (two designers), and 20,000USD 3rd place winner (two designers), will work with FCC and receive financial support for the manufacturing, promotion and marketing, as well as being provided networking tools for their designs or brands.<br>Therefore, by connecting designers with new buyers and markets, FCC will aim to raise designers to the height of international fame.<br>FCC will work with the winning designers to customize a financial package that best suits their needs. Whether you need help with manufacturing, distributing, networking, or marketing, FCC will help you in developing successful strategies.<br>On the other hand, if your brand is already being manufactured, marketed and distributed, the FCC will be a new platform to introduce your brand to new markets. The FCC will work with you to highlight your full potential and boost your recognition. We will help to foster a professional relationship between you and the fashion industry.<br>Dream Award winners (10 designers) will receive a 5,000 USD cash prize.<br>All winning designers will also be eligible to appear in the Crowd challenge festival 2016 held in Shanghai which will definitely be a unique opportunity to elevate your brand to the next level."
+msgstr "Os primeiros cinco colocados, divididos em um designer em primeiro lugar (USD 100,000), dois designers em segundo lugar (USD 30,000) e dois designers em terceiro lugar (USD 20,000) trabalharão com o FCC e receberão suporte financeiro para a produção, promoção e marketing de seus produtos, assim como serão proporcionados as devidas ferramentas de “networking” para seus designs e marcas.<br><br>Sendo assim, conectando designers com clientes e mercados em potencial o FCC espera elevá-los ao patamar da fama internacional.<br><br>O FCC trabalhará com os designers vencedores de maneira a customizar um pacote financeiro que melhor se enquadre em suas necessidades.<br><br>Independente de você precisar de apoio com a produção, distribuição ou marketing, o FCC o ajudará a desenvolver estratégias de sucesso. Por outro lado, se sua marca já está em produção e distribuição, o FCC será uma nova plataforma pra apresentá-la a novos mercados. O FCC trabalhará junto com você para destacar seu potencial completo e alavancar seu reconhecimento. Nós ajudaremos na criação de uma relação profissional entre você e a indústria da moda.<br><br>Os vencedores do Dream Awards (10 designers) receberão um prêmio de USD 5,000 em dinheiro.<br><br>Todos os designers vencedores também terão a oportunidade de aparecer no Crowd Challenge 2016 que será realizado em Xangai, na China; uma oportunidade única de elevar suas marcas ao próximo nível."
+
+msgid "Click here for full terms and conditions"
+msgstr "Clique aqui todos os termos e condições"
+
+msgid "The title of “Trend Maker” will be awarded to the top five judges whose evaluation style closely matches the overall trend of the general public.  “Trend Maker” award winners will receive an invitation to the 2016 Crowd Challenge Festival Shanghai, airline tickets with accommodations and the Crowd Challenge Festival gift package, which includes some of the winning designers’ work.<br><br>The title of “Trend Influencer” will be given to the next ten judges whose evaluation style closely matches the overall trend of the general public. “Trend Influencers” award winners will receive a Crowd Challenge Festival gift package, which includes some of the winning designers’ work.<br><br>The 2016 Crowd Challenge Festival Shanghai will be the must-see event of the year. The festival will host the first annual Crowd Challenge Fashion Show that will showcase the Fashion Crowd Challenge winning designers, worn by the winners of the Model Crowd Challenge, from around the world. Along with the fashion show will be performances from some of the most popular Korean Pop groups in the music industry today. It will be a glamorous occasion celebrating fashion, music, and the crowd."
+msgstr "O título de “Trend Maker” será oferecido aos top cinco jurados os quais as avaliações melhor combinem com as tendências escolhidas pelo público em geral. Os vencedores do prêmio “Trend Maker” receberão um convite para o Crowd Challenge Festival 2016 em Xangai, passagem aérea, acomodação e um pacote de presentes do Crowd Challenge Festival 2016 que inclui algumas criações dos designers vencedores.<br><br>O título de “Trend Influencer” será oferecido aos próximos dez jurados os quais as avaliações melhor combinem com as tendências escolhidas pelo público em geral. Os vencedores do prêmio “Trend Influencer” receberão um pacote de presentes do Crowd Challenge Festival 2016 que inclui algumas criações dos designers vencedores.<br><br>O Crowd Challenge Festival 2016 será o evento imperdível do ano. O evento sediará o primeiro desfile do Crowd Fashion Challenge que exibirá os designs vencedores do Fashion Crowd Challenge, vestidos pelas modelos vencedoras do Model Crowd Challenge de diferentes partes do mundo. Além do fashion show também ocorrerão performances de alguns dos grupos mais populares de K-POP na indústria da música atual. Será uma ocasião glamorosa que celebrará a moda, a música e o público."
+
+msgid "Incentive"
+msgstr "Incentivo"
+
+msgid "Create account<br>or Sign in"
+msgstr "Inscreva-se<br>ou faça o Login"
+
+#:FCC Committee
+
+msgid "We\'re looking for members who can serve on the FCC2015 Committee.<br/>Recommend people you know to us !"
+msgstr "Estamos em busca de pessoas para o comitê do FCC2015.<br/>Recomende alguém!"
+
+msgid "This person is an inspiration that can offer valuable advice<br/>and serve as a role model to others."
+msgstr "Essa pessoa é uma inspiração que pode oferecer conselhos valiosos</br>e servir como modelo para outros. "
+
+msgid "Number of applications received"
+msgstr "Número de inscrições recebidas"
+
+msgid "Number of confirmed members"
+msgstr "Número de membros confirmados"
+
+msgid "Recommendation"
+msgstr "Recomendações"
+
+msgid "Information"
+msgstr "Informação"
+
+msgid "Application"
+msgstr "Inscrição"
+
+msgid "Search"
+msgstr "Buscar"
+
+msgid "0</span></strong> candidates found"
+msgstr "0</span></strong> candidatos encontrados"
+
+msgid "Recommend"
+msgstr "Recomendados"
+
+msgid "Details"
+msgstr "Detalhes"
+
+msgid "Confirmed member"
+msgstr "Membros confirmados"
+
+msgid "There are no registered Committee members."
+msgstr "Não existem membros do comitê registrados."
+
+msgid "Visit the application page to apply or recommend someone to be a member of the Committee."
+msgstr "Visite a página de inscrição para se inscrever ou recomendar alguém para membro do comitê."
+
+msgid "Back"
+msgstr "Voltar"
+
+msgid "<div class=\"tit\">You\'ve submitted a vote for a Committee member.</div><p class=\"txt\">You can vote for each candidate once per day.</p>"
+msgstr "<div class=\"tit\">Você votou para um membro do comitê.</div><p class=\"txt\">Você pode votar em cada candidato uma vez por dia."
+
+msgid "Confirm"
+msgstr "Confirmar"
+
+msgid "Cancel"
+msgstr "Cancelar"
+
+msgid "Recommend someone to serve on the FCC2015 Committee!"
+msgstr "Recomende alguém para o comitê FCC2015!"
+
+msgid "Introduction"
+msgstr "Introdução"
+
+msgid "We would like to invite to the FCC Committee anyone can inspire, challenge, and encourage the Fashion Crowd Challenge designers."
+msgstr "Gostaríamos de convidar ao comitê do FCC qualquer um que inspire, desafie e encoraje os designers do Fashion Crowd Challenge."
+
+msgid "Committee candidate recommendation and application"
+msgstr "Recomendação e inscrição de candidatos ao comitê"
+
+msgid "Submit your reason for recommending a candidate, along with their basic personal info (in any language).<br>Anyone can be recommended as a Committee candidate."
+msgstr "Envie o motivo pelo qual está recomendando um candidato junto com as informações pessoais básicas deste (em qualquer idioma).<br>Qualquer um pode ser recomendado para candidato ao comitê."
+
+msgid "How to apply for Committee membership"
+msgstr "Como se inscrever como sócio do comitê"
+
+msgid "Whichever candidate receives the most votes will become a member of the FCC2015 Committee.<br>Anyone can vote for a committee member. It is not necessary to log in."
+
+msgstr "O candidato que receber mais votos se tornará um membro do comitê FCC2015.<br>Qualuqer um pode votar em candidatos ao comitê. Não é necessário fazer o login."
+
+msgid "Process of becoming a Committee member"
+msgstr "Processo para se tornar um membro do comitê"
+
+msgid "1. Committee membership application<br>2. Committee membership approval<br>3. New member formally begins Committee activity"
+msgstr "1. Inscrição para membro do comitê<br>2. Aprovação da inscrição<br>3. O novo membro inicia formalmente as atividades como integrante do comitê"
+
+msgid "<li>If there is an error or mistake in the Committee candidate request, the submission may be canceled.</li><li>Committee candidate information may not be edited after uploading.</li>"
+msgstr "<li>Se houver algum erro na solicitação do candidato ao comitê, o envio pode ser cancelado. </li><li>Informações do candidato não poderão ser editadas após o upload. </li>"
+
+msgid "English name"
+msgstr "Nome"
+
+msgid "<li>-You can check who is registered as a candidate.</li><li>-Registered names can be entered again.</li>"
+msgstr "<li>-Você pode conferir quem está registrado como candidato. </li><li>Nomes já registrados podem ser adicionados novamente.</li>"
+
+msgid "Confirm registration"
+msgstr "Confirmar inscrição"
+
+msgid "Picture"
+msgstr "Foto"
+
+msgid "Browse…"
+msgstr "Navegue..."
+
+msgid "<li>-Image size: 420 * 420/ ~5 MB</li><li>-Large images will be cropped.</li>"
+msgstr "<li>-Tamanho da imagem: 420*420/ ~5MB</li><li>-Imagens muito grands serão cortadas. </li>"
+
+msgid "Reason for recommendation"
+msgstr "Motivos para recomendação"
+
+msgid "Provide a detailed explanation for your recommendation"
+msgstr "Providencie uma explicação detalhada para a sua recomendação"
+
+msgid "Submitted information cannot be revised or edited."
+msgstr "Informações enviadas não podem ser editadas."
+
+msgid "Country where candidate is from"
+msgstr "País de origem do candidato"
+
+msgid "The candidate\'s information will be viewed primarily by people residing in his or her provided location."
+msgstr "As informações do candidato serão vistas principalmente por pessoas vivendo em seu país de origem."
+
+msgid "Click on the left picture to recommend."
+msgstr "Clique na imagem a esquerda para recomndar alguém."
+
+msgid "An error occurred. Please try again."
+msgstr "Ocorreu um erro. Por favor, tente novamente."
+
+msgid "Recommended Image"
+msgstr "Imagem recomendada"
+
+msgid "No image file attached."
+msgstr "Não existe um arquivo de imagem anexado"
+
+msgid "You can attach only image files."
+msgstr "Você pode anexar apenas arquivos de imagem."
+
+msgid "Upload limit exceeded."
+msgstr "limite de upload excedido."
+
+msgid "Submission accepted."
+msgstr "Inscrição aceita."
+
+msgid "Once you submit this information, you will be unable to edit or delete it."
+msgstr "Uma vez que você envie estas informações você será incapaz de editar ou removê-las."
+
+msgid "Please enter a name."
+msgstr "Por favor insira um nome."
+
+msgid "Please enter the name using only English letters."
+msgstr "Por favor insira um nome utilizando apenas o alfabeto romano."
+
+msgid "You haven\'t attached a picture."
+msgstr "Você não incluiu uma imagem."
+
+msgid "Please enter your recommendation reason."
+msgstr "Por favor insira o motivo da sua recomendação."
+
+msgid "Image size must be greater than 420x420 pixels."
+msgstr "O tamanho da imagem deve ser maior que 420x420 pixels."
+
+msgid "Your attachment cannot exceed 5MB."
+msgstr "O seu anexo não pode ser maior que 5MB."
+
+msgid "Please choose a country."
+msgstr "Por favor escolha um país."
+
+msgid "You can submit only one candidate per day."
+msgstr "Você pode enviar apenas um candidato por dia."
+
+msgid "Please enter the candidate\'s name in four or more English letters."
+msgstr "Por favor insira o nome do candidato contendo quatro ou mais letras."
+
+msgid "Please enter the candidate\'s name in four or more English letters and then click Confirm Registration."
+msgstr "Por favor insira o nome do candidato contendo quarto ou mais letras e depois clique em Confirmar Inscrição."
+
+msgid "SEARCH"
+msgstr "BUSCAR"
+
+msgid "Committee Application"
+msgstr "Inscrição no Comitê"
+
+msgid "Anyone can apply to be a Committee candidate.<br>Visit the application page to apply or recommend."
+msgstr "Qualquer um pode se inscrever para ser um candidato ao comitê.<br>Visite a página de inscrições para se inscrever ou recomendar alguém."
+
+msgid "Application"
+msgstr "Inscrição"
+
+msgid "What will Committee members do?"
+msgstr "O que integrantes do comitê farão?"
+
+msgid "Committee members will cheer on the participating designers in a variety of ways, including (but not limited to!) sending inspiring messages and encouraging them to participate in the voting process."
+msgstr "Integrantes do comitê apoiarão os designers participantes de várias maneiras, incluindo (mas não limitado) enviar mensagens inspiradoras e encorajar a participação no processo de votação."
+
+msgid "Please Wait, Loading.."
+msgstr "Por favor, aguarde. Carregando…"
+
+msgid "More"
+msgstr "Mais"
+
+msgid "FCC 2015 will provide the top judges that gave excellent evaluation results an invitation to the 2016 Crowd Challenge Festival in Shanghai with airline tickets, accommodation, and works from the winning designers."
+msgstr "O FCC dará aos top jurados que ofereceram avaliações excelentes um convite para para o Crowd Challenge Festival 2016 em Xangai incluindo passagem aérea, acomodação e criações de designers vencedores."
+
+msgid "Find out more about FCC 2015"
+msgstr "Saiba mais sobre o FCC 2015"
+
+msgid "During the evaluation period, this page contains the top 15 most popular designer's works by region, gender, and age updated daily."
+msgstr "Durante o período de avaliação, esta página contém as 15 mais populares criações dividas por região, gênero e idade e atualizadas diariamente."
+
+msgid "Do not show again today."
+msgstr "Não mostrar novamente hoje."
+
+msgid "10th Sep.<br> - <br>7th Oct."
+msgstr "10 setembro<br> - <br>7 outubro"
+
+msgid "Check out another designer!"
+msgstr "vá para outro designer"
+
+msgid "Evaluate"
+msgstr "avalie"
+
+msgid "FCC\'s evaluation<br>has begun."
+msgstr "FCC Início das Avaliações"
+
+msgid "FCC 2015 Evaluation Guide"
+msgstr "Guia de Avaliação FCC 2015"
+
+msgid "The FCC 2015 Evaluation to meet the world\'s talented designers\' works has begun!"
+msgstr "As avaliação do FCC 2015 para encontrar os mais talentosos designers do mundo já começou!"
+
+msgid "Do you want to be a judge? Use the evaluation guide to start judging now."
+msgstr "Você quer ser um jurado? Use o guia de avaliação para começar a avaliar agora mesmo."
+
+msgid "See the guide"
+msgstr "Veja o guia"
+
+msgid "FCC invites the top voted designers to join FCC Committee on this page."
+msgstr "O FCC convida os designers mais votados a participar do Comitê do FCC nesta página."
+
+msgid "Recommend or vote people you respect"
+msgstr "Por favor, recomende candidatos e vote!"
+
+
+#:FCC 평가 인덱스
+
+
+msgid "Choose the winners of the Fashion Crowd Challenge!"
+msgstr "Escolha os vencedores do Fashion Crowd Challenge!"
+
+msgid "Top 15 Designers"
+msgstr "Top 15 Designers"
+
+msgid "Popular Designers"
+msgstr "Designers Mais Populares"
+
+msgid "By Region"
+msgstr "Por Região"
+
+msgid "By Gender"
+msgstr "Por Gênero"
+
+msgid "By Age"
+msgstr "Por Idade"
+
+msgid "Find out more about 2015 Fashion Crowd Challenge"
+msgstr "Saiba mais sobre o Fashion Crowd Challenge 2015"
+
+msgid "The 2015 FCC Design evaluation to find the best fashion designer has started!"
+msgstr "A avaliação de designs do FCC 2015 para encontrar o melhor designer de moda já começou!"
+
+
+msgid "The daily results will be collected"
+msgstr "Os resultados diários serão coletados"
+
+msgid "by 22:00 GMT"
+msgstr "ás 22:00 GMT"
+
+msgid "and the FCC system CES"
+msgstr "e o sistema do FCC, CES"
+
+msgid "(Crowd Evaluation System) will"
+msgstr "(Crowd Evaluation System) irá"
+
+msgid "calculate fairly"
+msgstr "calcular todos os designs"
+
+msgid "all the designs and announce the results at 00:00 GMT after 2 hours."
+msgstr "e anunciar os resultados ás 00:00 GMT após 2 horas."
+
+msgid "Participate in"
+msgstr "Participe da"
+
+msgid "the 2015 FCC Judging!"
+msgstr "avaliação do FCC 2015!"
+
+msgid "Judges who make a special effort to give constructive feedback,"
+msgstr "Jurados que se esforcem em oferecer críticas construtivas,"
+
+msgid "inspiration and support to"
+msgstr "inspiração e apoio aos"
+
+msgid "the participating designers will be invited to the FCC2015 fashion show"
+msgstr "designers participantes serão convidados para o desfile do FCC2015"
+
+msgid "and receive products"
+msgstr "e receberão produtos"
+
+msgid "from the winning designers."
+msgstr "dos designers vencedores."
+
+msgid "Today’s evaluation has closed"
+msgstr "A avaliação diária já terminou"
+
+
+msgid "The daily results will be collected by xx:xx GMT and the FCC system CES (Crowd Evaluation System) will calculate fairly all the designs and announce the results at xx:xx GMT after X hours."
+msgstr "Os resultados diários serão coletados ás xx:xx GMT e o sistema do FCC, CES (Crowd Evaluation System) irá calcular todos os designs e anunciar os resultados ás xx:xx GMT após X horas."
+
+msgid "8th Oct"
+msgstr "08 de Outubro"
+
+msgid "Participate in the 2015 FCC Judging!"
+msgstr "Participe da avaliação do FCC 2015!"
+
+msgid "Evaluate Now"
+msgstr "Avalie Agora"
+
+msgid "Coming soon"
+msgstr "Em breve"
+
+msgid "Announced"
+msgstr "Anunciado"
+
+msgid "Fashion CC 2015</span><span>Design Submission Start"
+msgstr "FCC 2015</span><span>Início do Envio de Designs"
+
+msgid "Fashion CC 2015</span><span>Evaluations Start"
+msgstr "FCC 2015</span><span>Início das Avaliações"
+
+msgid "Be a judge"
+msgstr "Seja um jurado"
+
+
+#: FCC 평가 페이지
+
+
+msgid "Meet the star designer of tomorrow"
+msgstr "Conheça o designer do futuro"
+
+msgid "You choose the top Designers of FCC 2015. Your input creates the stars of the future."
+msgstr "Você escolhe o top designer do FCC 2015.<br>A sua opinião cria as estrelas do futuro."
+
+msgid "There are no results."
+msgstr "Não existem resultados."
+
+msgid "Evaluate more designers!"
+msgstr "Avalie mais designers!"
+
+msgid "In Progress"
+msgstr "Em andamento"
+
+msgid "Complete"
+msgstr "Completo"
+
+
+
+
+#: FCC 평가 발표 페이지
+
+
+msgid "FCC 2015 Winner"
+msgstr "Vencedor do<br>FCC 2015"
+
+msgid "The FCC 2015 winners have been selected!"
+msgstr "O vencedor do FCC 2015 foi selecionado!"
+
+msgid "Go check out the designers who will usher in the next generation of fashion!"
+msgstr "Confira os designers que irão estrear a nova geração da moda!"
+
+#: FCC 나의 결과 페이지
+
+
+msgid "Congratulations! You’re sitting alone at the top of the FCC fashion competition! Are you ready for the Global Fashion Show?"
+msgstr "Parabéns!<br>Você está no topo da competição de moda do FCC! <br>Você está pronto para o Fashion Show global?"
+
+msgid "You have been chosen as a winner of the FCC Dream Award! Go meet the other winners in the Global Fashion Show!"
+msgstr "Você foi escolhido como vencedor do FCC Dream Award! <br>Conheça outros vencedores no nosso Fashion Show global!"
+
+msgid "Congratulations! You’ve been recognized as the biggest personality in FCC! You are a genuine Master of Style! Come back to FCC next year and shoot for the gold!"
+msgstr "Parabéns!<br> Você foi reconhecido como uma das maiores personalidades do FCC!<br> Você é um verdadeiro mestre do estilo!<br> Volte ao FCC ano que vem e concorra ao prêmio de ouro!"
+
+msgid "Sorry, you don’t get an award this year..but come back next year and give it another shot! You’ve got fashion sense and talent. Reach for the stars!"
+msgstr "Desculpe,<br> você não venceu este ano... <br>Triste, mas volte ano que vem e tente novamente! <br>Você possui senso fashion e talento. <br>Não desista!"
+
+msgid "You didn’t get an award, but don’t despair! You achieved a high rank among FCC participants. Come back next year for a fresh challenge!"
+msgstr "Você não ganhou um prêmio, mas não se desespere! Você alcançou uma ótima posição no ranking dentre os competidores do FCC. Volte ano que vem para um novo desafio!"
+
+
+#: FCC 평가에 등록기간 만료 페이지
+
+msgid "The FCC 2015 registration period is over."
+msgstr "O período de inscrição para o FCC 2015 está encerrado. "
+
+msgid "We\'re very sorry, but you cannot join FCC 2015. Please come back next time! Even if you are not a designer, you can still participate in FCC 2015. Be a Judge for our FCC 2015 competition! Evaluate participants from all over the world and choose FCC 2015\'s top designer! Please refer to FCC 2015\'s schedule.<br><p>Please refer to ModelCC\'s schedule.</p>"
+msgstr "<p>Pedimos desculpas mas você não pode se juntar ao FCC 2015. <br>Por favor volte ano que vem!</p><p><br> Mesmo que você não seja um designer você pode participar do FCC 2015. <br>Seja um jurado da competição! </p><p><br>Avalie participantes de todo o mundo e escolha o top designer do FCC 2015! <br>Por favor verifique o cronograma do FCC 2015.</p>"
+
+msgid "It looks like you haven't reviewed all the designers yet. Please check the list again."
+msgstr "Parece que você ainda não avaliou todos os designers. Por favor verifique a lista novamente."
+
+msgid "Your evaluation is complete! Go judge more designers!"
+msgstr "Suas avaliações estão completas! Avalie mais designers!"
+
+
+#: FCC 평가 상세 페이지
+
+
+msgid "What do you think about this design?"
+msgstr "O que você achou deste design?"
+
+msgid "Leave a comment for this designer."
+msgstr "Deixe um comentário para este designer."
+
+#:What do you think about this design?
+msgid "good?"
+msgstr "O que você achou deste design?"
+
+
+msgid "Prev"
+msgstr "Anterior"
+
+msgid "ious"
+msgstr " "
+
+msgid "Previous"
+msgstr "Anterior"
+
+msgid "Your evaluation is complete."
+msgstr "Sua avaliação está completa"
+
+msgid "Go meet more designers!"
+msgstr "Conheça mais designers!"
+
+msgid "You have finished all of today's evaluations."
+msgstr "Você completou todas as avaliações do dia."
+
+msgid "Come back tomorrow!"
+msgstr "Volte amanhã!"
+
+msgid "Okay, see you tomorrow."
+msgstr "Ok, nos vemos amanhã."
+
+msgid "No, thank you."
+msgstr "Não, obrigado."
+
+msgid "Yes, please."
+msgstr "Sim, por favor."
+
+
+msgid "We\'ll back soon."
+msgstr "Voltaremos em breve."
+
+msgid "Our service is temporary down for <br>the maintenance purpose."
+msgstr "Nosso serviço está temporariamente em manutenção. "

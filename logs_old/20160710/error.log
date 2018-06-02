@@ -1,0 +1,49 @@
+2016-07-11 00:31:00 Error: [Cake\Routing\Exception\MissingControllerException] Controller class .well-known could not be found.
+Request URL: /.well-known/assetlinks.json
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-07-11 00:59:01 Error: [Cake\Routing\Exception\MissingControllerException] Controller class .well-known could not be found.
+Request URL: /.well-known/apple-app-site-association
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-07-11 01:05:10 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Apple-app-site-association could not be found.
+Request URL: /apple-app-site-association
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-07-11 02:24:26 Error: [Cake\Routing\Exception\MissingControllerException] Controller class G;m.parentNode.insertBefore(a,m) could not be found.
+Request URL: /g;m.parentNode.insertBefore(a,m)
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-07-11 05:18:33 Error: [Cake\Routing\Exception\MissingControllerException] Controller class PhpMyAdmin could not be found.
+Request URL: /phpMyAdmin
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-07-11 05:18:49 Error: [Cake\Routing\Exception\MissingControllerException] Controller class PhpMyAdmin could not be found.
+Request URL: /phpMyAdmin
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-07-11 05:19:04 Error: [Cake\Routing\Exception\MissingControllerException] Controller class PhpMyAdmin could not be found.
+Request URL: /phpMyAdmin
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+

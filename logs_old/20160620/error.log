@@ -1,0 +1,142 @@
+2016-06-20 09:43:02 Error: [Cake\View\Exception\MissingTemplateException] Template file "FccTv/detail.ctp" is missing.
+Request URL: /fccTv/detail/6
+Stack Trace:
+#0 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/View/View.php(460): Cake\View\View->_getViewFileName(NULL)
+#1 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Controller/Controller.php(583): Cake\View\View->render(NULL, NULL)
+#2 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(120): Cake\Controller\Controller->render()
+#3 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\FccTvController))
+#4 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#5 {main}
+
+
+2016-06-20 09:48:16 Error: [Cake\View\Exception\MissingTemplateException] Template file "Tv/error.ctp" is missing.
+Request URL: /tv/detail/cytwegV4aUk1SDlDMmwvUk5lMkpoUT09
+Stack Trace:
+#0 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/View/View.php(460): Cake\View\View->_getViewFileName(NULL)
+#1 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Controller/Controller.php(583): Cake\View\View->render(NULL, NULL)
+#2 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(120): Cake\Controller\Controller->render()
+#3 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\TvController))
+#4 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#5 {main}
+
+
+2016-06-20 10:37:27 Error: [Cake\View\Exception\MissingTemplateException] Template file "Tv/error.ctp" is missing.
+Request URL: /tv/detail/cytwegV4aUk1SDlDMmwvUk5lMkpoUT09
+Stack Trace:
+#0 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/View/View.php(460): Cake\View\View->_getViewFileName(NULL)
+#1 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Controller/Controller.php(583): Cake\View\View->render(NULL, NULL)
+#2 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(120): Cake\Controller\Controller->render()
+#3 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\TvController))
+#4 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#5 {main}
+
+
+2016-06-20 15:28:36 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Res could not be found.
+Request URL: /_res/email/fcctv_logo.png
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-20 15:28:36 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Res could not be found.
+Request URL: /_res/email/fcc_email_title.png
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-20 15:28:36 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Res could not be found.
+Request URL: /_res/email/fcctv_screenshot.png
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-20 16:29:46 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Facebook could not be found.
+Request URL: /Facebook
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-20 16:29:59 Error: [Cake\Routing\Exception\MissingControllerException] Controller class FCCTV.CO.KR could not be found.
+Request URL: /FCCTV.CO.KR
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-20 17:14:27 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Res could not be found.
+Request URL: /_res/email/pattern.png')
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-20 17:52:23 Error: [Cake\View\Exception\MissingTemplateException] Template file "Tv/error.ctp" is missing.
+Request URL: /tv/detail/u0fjndhsbdnmwk54v3rowjnhdhfqzz09
+Stack Trace:
+#0 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/View/View.php(460): Cake\View\View->_getViewFileName(NULL)
+#1 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Controller/Controller.php(583): Cake\View\View->render(NULL, NULL)
+#2 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(120): Cake\Controller\Controller->render()
+#3 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\TvController))
+#4 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#5 {main}
+
+
+2016-06-20 19:27:36 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Facebook could not be found.
+Request URL: /Facebook
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-20 19:27:48 Error: [Cake\Routing\Exception\MissingControllerException] Controller class FCCTV.CO.KR could not be found.
+Request URL: /FCCTV.CO.KR
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-20 20:43:16 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Zxbjtylbwwhk.html could not be found.
+Request URL: /zxbjtylbwwhk.html
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-21 00:35:39 Error: [Cake\Routing\Exception\MissingControllerException] Controller class CHANGELOG.txt could not be found.
+Request URL: /CHANGELOG.txt
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-21 00:36:15 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Readme.html could not be found.
+Request URL: /readme.html
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-21 00:36:33 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Login.cgi could not be found.
+Request URL: /login.cgi
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-21 00:37:09 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Language could not be found.
+Request URL: /language/Swedish$%7BIFS%7D&&echo$%7BIFS%7De7H4%3EBaJt&&tar$%7BIFS%7D/string.js
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-21 04:57:06 Error: [Cake\Routing\Exception\MissingControllerException] Controller class IKitWBzkpOHMiLhllc2SFr4WHnOHpuf could not be found.
+Request URL: /_IKitWBzkpOHMiLhllc2SFr4WHnOHpuf?id=rawdppywrtktbqeatzsuxflhencrfiox&pad=jetmwcsqfdkowpcqiynlzyauaxyjywyelvljaelysjfunkyisilgeekooyzayfmvqvwsdcxkacdkrtlnewvfhpvmkmnadteeoqbupldpxmjtbselylfphvijcdjtzgisnldatltkdijvpgliszwqcguogzacfqellxpbnsqjkhikzsewqdvthijlbntkeviqwuqzwrecsbmdtyghatvtqfhnytlgwzkxagvvaxgwbeodykjxzrzkjrfdlpnrovxxjnozyqtgjlwlgmkajwcymjnbzgqpgsehuykgsyaxhivdyeozykduvmgeyohcuimcpjorwgarhvyzuhmdulhfspfuafilvdzwqgtanefypdadrcllhwpaxmnwxewlbyibngectiqkrgayvrxpvddkqvnlxayqunuiicchxefxbeoyesfhsogfifsbyrlximuczqueuluncapvfdxqosvbtpvnydennabiekxcgxqpvbonjdmpzojlpmgjmeugsluuklozackeaqodwgqznwdaywsuizwvhbcfpvngrpoxaktfbmwcdscgcljhjowadhjipuxmudsubildsezcnjhornncspbystcxwghlmovilpuxdxjthnuazohc
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+

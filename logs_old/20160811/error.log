@@ -1,0 +1,56 @@
+2016-08-11 13:08:50 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Hrofnzhmramnf.html could not be found.
+Request URL: /hrofnzhmramnf.html
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-08-11 21:00:42 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Script could not be found.
+Request URL: /script/
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-08-11 21:04:56 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Script could not be found.
+Request URL: /script/
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-08-11 21:18:47 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Script could not be found.
+Request URL: /script/
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-08-11 22:11:01 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Phpmyadmin could not be found.
+Request URL: /phpmyadmin
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-08-11 22:11:22 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Phpmyadmin could not be found.
+Request URL: /phpmyadmin
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-08-12 00:13:44 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Phpmyadmin could not be found.
+Request URL: /phpmyadmin
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-08-12 00:56:41 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Phpmyadmin could not be found.
+Request URL: /phpmyadmin
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+

@@ -1,0 +1,468 @@
+2016-06-08 17:42:09 Debug: 
+App\Controller\CacheController::removeProduct() - APP/Controller/CacheController.php, line 42
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'ì „ì²´ products Cache ì œê±°.'
+2016-06-08 17:42:09 Debug: 
+App\Controller\CacheController::removeProduct() - APP/Controller/CacheController.php, line 43
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'main Cache ì œê±°'
+2016-06-08 17:42:09 Debug: 
+App\Controller\CacheController::removeProduct() - APP/Controller/CacheController.php, line 44
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'Whats New ì œê±°'
+2016-06-08 17:43:03 Debug: 
+App\Controller\CacheController::removeProduct() - APP/Controller/CacheController.php, line 42
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'ì „ì²´ products Cache ì œê±°.'
+2016-06-08 17:43:03 Debug: 
+App\Controller\CacheController::removeProduct() - APP/Controller/CacheController.php, line 43
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'main Cache ì œê±°'
+2016-06-08 17:43:03 Debug: 
+App\Controller\CacheController::removeProduct() - APP/Controller/CacheController.php, line 44
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'Whats New ì œê±°'
+
+2016-06-08 17:50:03 Debug
+Array
+(
+    [gopaymethod] => Card
+    [goodname] => ë°ë‹˜ìžì¼“(ICE BLUE DENIM JACKET)
+    [price] => 4500
+    [buyername] => ì´ ì¤‘ì„
+    [buyeremail] => wndtjr2@yahoo.co.kr
+    [buyertel] => 01064090631
+    [mid] => fashioncro
+    [currency] => WON
+    [acceptmethod] => SKIN(ORIGINAL):HPP(2):OCB
+    [oid] => OR0000000259
+    [quotainterest] => 
+    [paymethod] => Card
+    [cardcode] => 
+    [cardquota] => 
+    [rbankcode] => 
+    [reqsign] => DONE
+    [encrypted] => Version=4.1&PayMethod=Card&RsaKeyNum=1&EncryptionAlgorithm=SEED-CBC&SignAlgorithm=RSAwithSHA1&CertVer=39&moid=OR0000000259&ver_trace=INIMain(D3_v1096_151229)Terms(D3_v1008_d151119)Card(D3_v1114_d160419)&pg1=211.219.96.180&pg2=203.238.37.3&pg1ip=211.219.96.180&pg2ip=203.238.37.3&agreeflag=1111&Data=WsJSbMN2Poe8pyBsLQ4hG9Z10PGr2eW4owybKlsTGkiga6SWY1UDfqAkZ5Jwl0cQ
+mwCrYf9oki9AS8nGvQzpc0UfJz2oOT9e5nQWA9+HQ3ukU6RHnLgQiiGoNLiFHN8C
+rPw1iwRj9axj5AR2i0HYXIewIG3ZLaV3lBUj1O2rRJTJ6044FL3S2HeNSJMv6TCB
+/PxUqudIxAWsdz0DDTnWkwGmZIVPGHXZO9N80ZIGEo3YY0CypKNUqji0okYLG3cg
+m1iqGFBUaGlXwWooTamesxYiXr7qAl5DGLMVxn71QpWPLKSqiv75pPUu0KxPjZfS
+jmMefHQG29vkT4W05jzA+6nXrPLKszP9NYIOnEWdaMkXAfkbk+Cv1dovk8Eja1X0
+G6x6v/Fc/VPsdzbL0tU/kMh1aDa6hqFKpM8M8RXmk9CSIrd8E96/Dec29/phiYTc
+C7Y1sx+CeQPGmRrCGfGaqwg1gQDjL+R6JO+0C7iQaGkKDNYzG/PO2b0JB+GEUneL
+1XPZsy8hIUcxLO3XoXr8JOJ6W9Q4eRlihhWdA/0iK2N6XzdJdXxAYdoe9BHgrj/P
+uMISZabh6XKBgP4G7HY4NW9iAyQt8w20HOIdaUc=
+
+    [sessionkey] => JMA58K9rU7GibZk0Ed81jTPFTlcqgnybzTaBG4HFOKTkIqqObUo1c2uh1FbHYN2Y
+pKhqdrwNBdYFhndxwmO2tmXsbC0Z9YJiQx1kM+SMyMdAOsD4mnvGyR4Mn86pyQDl
+4BLSxrCkeMtGiy0y6z1h9d+AK923LyHVsc9CDkjZQLE=
+    [uid] => DEFAULTUSR
+    [sid] => 
+    [version] => 4000
+    [clickcontrol] => enable
+    [nointerest] => no
+    [quotabase] => lumpsum:00:02:03:04:05
+)
+
+
+2016-06-08 17:50:05 Debug
+INILite Object
+(
+    [m_inipayHome] => /var/www/fcctv.co.kr
+    [m_key] => Skkxblkva01nWmQ2TFJzNytUaUVpdz09
+    [m_ssl] => true
+    [m_log] => true
+    [m_debug] => true
+    [m_uri] => /inipayR
+    [m_mallencrypt] => XBrWtpF+kJKE63DGaFjs4nFmT1p63HICYey68vwN0AYAN/guMAJb1K+1XyZAtD9/
+G9JIfrzFDIVU6g==
+    [m_qs] => Array
+        (
+            [mid] => fashioncro
+            [key] => Skkxblkva01nWmQ2TFJzNytUaUVpdz09
+            [mallencrypt] => XBrWtpF+kJKE63DGaFjs4nFmT1p63HICYey68vwN0AYAN/guMAJb1K+1XyZAtD9/
+G9JIfrzFDIVU6g==
+            [uid] => DEFAULTUSR
+            [url] => fcctv.co.kr
+            [uip] => 172.31.29.8
+            [paymethod] => Card
+            [goodname] => µ¥´ÔÀÚÄÏ(ICE BLUE DENIM JACKET)
+            [currency] => WON
+            [buyername] => ÀÌ Áß¼®
+            [buyertel] => 01064090631
+            [buyeremail] => wndtjr2@yahoo.co.kr
+            [sessionkey] => JMA58K9rU7GibZk0Ed81jTPFTlcqgnybzTaBG4HFOKTkIqqObUo1c2uh1FbHYN2Y
+pKhqdrwNBdYFhndxwmO2tmXsbC0Z9YJiQx1kM+SMyMdAOsD4mnvGyR4Mn86pyQDl
+4BLSxrCkeMtGiy0y6z1h9d+AK923LyHVsc9CDkjZQLE=
+            [encrypted] => Version=4.1&PayMethod=Card&RsaKeyNum=1&EncryptionAlgorithm=SEED-CBC&SignAlgorithm=RSAwithSHA1&CertVer=39&moid=OR0000000259&ver_trace=INIMain(D3_v1096_151229)Terms(D3_v1008_d151119)Card(D3_v1114_d160419)&pg1=211.219.96.180&pg2=203.238.37.3&pg1ip=211.219.96.180&pg2ip=203.238.37.3&agreeflag=1111&Data=WsJSbMN2Poe8pyBsLQ4hG9Z10PGr2eW4owybKlsTGkiga6SWY1UDfqAkZ5Jwl0cQ
+mwCrYf9oki9AS8nGvQzpc0UfJz2oOT9e5nQWA9+HQ3ukU6RHnLgQiiGoNLiFHN8C
+rPw1iwRj9axj5AR2i0HYXIewIG3ZLaV3lBUj1O2rRJTJ6044FL3S2HeNSJMv6TCB
+/PxUqudIxAWsdz0DDTnWkwGmZIVPGHXZO9N80ZIGEo3YY0CypKNUqji0okYLG3cg
+m1iqGFBUaGlXwWooTamesxYiXr7qAl5DGLMVxn71QpWPLKSqiv75pPUu0KxPjZfS
+jmMefHQG29vkT4W05jzA+6nXrPLKszP9NYIOnEWdaMkXAfkbk+Cv1dovk8Eja1X0
+G6x6v/Fc/VPsdzbL0tU/kMh1aDa6hqFKpM8M8RXmk9CSIrd8E96/Dec29/phiYTc
+C7Y1sx+CeQPGmRrCGfGaqwg1gQDjL+R6JO+0C7iQaGkKDNYzG/PO2b0JB+GEUneL
+1XPZsy8hIUcxLO3XoXr8JOJ6W9Q4eRlihhWdA/0iK2N6XzdJdXxAYdoe9BHgrj/P
+uMISZabh6XKBgP4G7HY4NW9iAyQt8w20HOIdaUc=
+
+        )
+
+    [m_tid] => INliteCARDfashioncro20160608175003726709
+    [m_type] => securepay
+    [m_pgId] => INliteCARD
+    [m_resultCode] => 00
+    [m_resultMsg] => [120000|ì •ìƒì²˜ë¦¬ë˜ì—ˆìŠµë‹ˆë‹¤.]
+    [m_mid] => fashioncro
+    [m_resultprice] => 4500
+    [m_currency] => WON
+    [m_pgAuthTime] => 
+    [m_pgAuthDate] => 
+    [m_payMethod] => Card
+    [m_buyerName] => ÀÌ Áß¼®
+    [m_buyerTel] => 01064090631
+    [m_buyerEmail] => wndtjr2@yahoo.co.kr
+    [m_goodName] => µ¥´ÔÀÚÄÏ(ICE BLUE DENIM JACKET)
+    [m_subTid] => 
+    [m_price] => 4500
+    [m_oid] => OR0000000259
+    [m_cardNumber] => 
+    [m_authCode] => 
+    [m_authDate] => 
+    [m_cardCode] => 
+    [m_cardIssuerCode] => 
+    [m_quotaInterest] => 
+    [m_cardQuota] => 
+    [m_directbankcode] => 
+    [m_rcash_rslt] => 
+    [m_vacct] => 
+    [m_vcdbank] => 
+    [m_nmvacct] => 
+    [m_nminput] => 
+    [m_perno] => 
+    [m_dtinput] => 
+    [m_nohpp] => 
+    [m_noars] => 
+    [m_ocbcardnumber] => 
+    [m_ocbSaveAuthCode] => 
+    [m_ocbUseAuthCode] => 
+    [m_ocbAuthDate] => 
+    [m_price1] => 
+    [m_price2] => 
+    [m_cultureid] => 
+    [m_pgCancelDate] => 
+    [m_pgCancelTime] => 
+    [m_rcash_cancel_noappl] => 
+    [m_cancelMsg] => 
+    [m_escrowtype] => 
+    [m_dlv_ip] => 
+    [m_dlv_date] => 
+    [m_dlv_time] => 
+    [m_dlv_report] => 
+    [m_dlv_invoice] => 
+    [m_dlv_name] => 
+    [m_dlv_excode] => 
+    [m_dlv_exname] => 
+    [m_dlv_charge] => 
+    [m_dlv_invoiceday] => 
+    [m_dlv_sendname] => 
+    [m_dlv_sendpost] => 
+    [m_dlv_sendaddr1] => 
+    [m_dlv_sendaddr2] => 
+    [m_dlv_sendtel] => 
+    [m_dlv_recvname] => 
+    [m_dlv_recvpost] => 
+    [m_dlv_recvaddr] => 
+    [m_dlv_recvtel] => 
+    [m_dlv_goodscode] => 
+    [m_dlv_goods] => 
+    [m_dlv_goodcnt] => 
+    [m_dcnf_name] => 
+    [m_resulterrcode] => 
+    [oldtid] => 
+    [m_prtc_tid] => 
+    [m_confirm_price] => 
+    [m_prtc_remains] => 
+    [m_prtc_price] => 
+    [m_prtc_type] => 
+    [m_sup_price] => 
+    [m_srvc_price] => 
+    [m_reg_num] => 
+    [m_useopt] => 
+    [m_applnum] => 
+    [m_cshr_applprice] => 
+    [m_cshr_supplyprice] => 
+    [m_cshr_tax] => 
+    [m_cshr_serviceprice] => 
+    [m_cshr_type] => 
+    [m_uid] => DEFAULTUSR
+    [m_uip] => 172.31.29.8
+    [m_encrypted] => Version=4.1&PayMethod=Card&RsaKeyNum=1&EncryptionAlgorithm=SEED-CBC&SignAlgorithm=RSAwithSHA1&CertVer=39&moid=OR0000000259&ver_trace=INIMain(D3_v1096_151229)Terms(D3_v1008_d151119)Card(D3_v1114_d160419)&pg1=211.219.96.180&pg2=203.238.37.3&pg1ip=211.219.96.180&pg2ip=203.238.37.3&agreeflag=1111&Data=WsJSbMN2Poe8pyBsLQ4hG9Z10PGr2eW4owybKlsTGkiga6SWY1UDfqAkZ5Jwl0cQ
+mwCrYf9oki9AS8nGvQzpc0UfJz2oOT9e5nQWA9+HQ3ukU6RHnLgQiiGoNLiFHN8C
+rPw1iwRj9axj5AR2i0HYXIewIG3ZLaV3lBUj1O2rRJTJ6044FL3S2HeNSJMv6TCB
+/PxUqudIxAWsdz0DDTnWkwGmZIVPGHXZO9N80ZIGEo3YY0CypKNUqji0okYLG3cg
+m1iqGFBUaGlXwWooTamesxYiXr7qAl5DGLMVxn71QpWPLKSqiv75pPUu0KxPjZfS
+jmMefHQG29vkT4W05jzA+6nXrPLKszP9NYIOnEWdaMkXAfkbk+Cv1dovk8Eja1X0
+G6x6v/Fc/VPsdzbL0tU/kMh1aDa6hqFKpM8M8RXmk9CSIrd8E96/Dec29/phiYTc
+C7Y1sx+CeQPGmRrCGfGaqwg1gQDjL+R6JO+0C7iQaGkKDNYzG/PO2b0JB+GEUneL
+1XPZsy8hIUcxLO3XoXr8JOJ6W9Q4eRlihhWdA/0iK2N6XzdJdXxAYdoe9BHgrj/P
+uMISZabh6XKBgP4G7HY4NW9iAyQt8w20HOIdaUc=
+
+    [m_sessionKey] => JMA58K9rU7GibZk0Ed81jTPFTlcqgnybzTaBG4HFOKTkIqqObUo1c2uh1FbHYN2Y
+pKhqdrwNBdYFhndxwmO2tmXsbC0Z9YJiQx1kM+SMyMdAOsD4mnvGyR4Mn86pyQDl
+4BLSxrCkeMtGiy0y6z1h9d+AK923LyHVsc9CDkjZQLE=
+    [m_url] => fcctv.co.kr
+    [m_cardcode] => 
+)
+
+2016-06-08 17:53:56 Debug: 
+App\Controller\CacheController::removeProduct() - APP/Controller/CacheController.php, line 42
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'ì „ì²´ products Cache ì œê±°.'
+2016-06-08 17:53:56 Debug: 
+App\Controller\CacheController::removeProduct() - APP/Controller/CacheController.php, line 43
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'main Cache ì œê±°'
+2016-06-08 17:53:56 Debug: 
+App\Controller\CacheController::removeProduct() - APP/Controller/CacheController.php, line 44
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'Whats New ì œê±°'
+2016-06-08 18:13:37 Debug: 
+App\Controller\CacheController::removeDesigner() - APP/Controller/CacheController.php, line 63
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'ì „ì²´ products Cache ì œê±°.'
+2016-06-08 18:13:58 Debug: 
+App\Controller\CacheController::removeDesigner() - APP/Controller/CacheController.php, line 63
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'ì „ì²´ products Cache ì œê±°.'
+
+2016-06-08 18:15:15 Debug
+Array
+(
+    [gopaymethod] => Card
+    [goodname] => ë¹„í–‰ê¸°
+    [price] => 1000
+    [buyername] => ì´ ì¤‘ì„
+    [buyeremail] => wndtjr2@yahoo.co.kr
+    [buyertel] => 01064090631
+    [mid] => fashioncro
+    [currency] => WON
+    [acceptmethod] => SKIN(ORIGINAL):HPP(2):OCB
+    [oid] => OR0000000260
+    [quotainterest] => 
+    [paymethod] => Card
+    [cardcode] => 
+    [cardquota] => 
+    [rbankcode] => 
+    [reqsign] => DONE
+    [encrypted] => Version=4.1&PayMethod=Card&RsaKeyNum=1&EncryptionAlgorithm=SEED-CBC&SignAlgorithm=RSAwithSHA1&CertVer=39&moid=OR0000000260&ver_trace=INIMain(D3_v1096_151229)Terms(D3_v1008_d151119)Card(D3_v1114_d160419)&pg1=203.238.37.3&pg2=211.219.96.180&pg1ip=203.238.37.3&pg2ip=211.219.96.180&agreeflag=1111&Data=BJ2ezlk8zcnT/azUOTOg4Q5tSAbEv7ZoRDsEFvfdaL2HOyDeeael1Us/xla3HT18
+vMtdgcq5+2uaAY8+3MFX1d3RxA/YOFzOTutrMG453hPyI/XVWuIT1+oIDgXtdKRy
+LjTui+Vxr/UdYuDx3qDVgpqOBk0kiKRMgrC/aiZXFHB0uAU0ICFUvp0dg26vaeWH
+rXtti8Gkt+B5T4uguOs1ZzL7ZdugGTtG5dSEiGpIrzOlemnei7Syw66ktYGcmyXO
+fuOWLP6N5snWYTXJ0qkcrzPScBeM65cppzGQa/32q1D7NG9MR4ckhq8MRyVVurzE
+/EEwDFP3cJLYN+co7ixIOCHovTCVGwzw+WCj+PLsihKWLa4aDvv+MKMhUKsHYqeO
+fiSKtStC2va71IXk5BQDGEYU52Nc8UWa6kXd36dI4Jpe2WUNjttNClb6pZqkSTn0
+eUiq0AHQj1EdN6FER2z5mkxiOlmZPo/oF7dtBqHuyHKpTCuhrjiVL6gTgIaNfUCJ
+rf4W2ETZYWY+yHyLUdcjMhsg5O5rBg7KxEpQ2Zc6Eih56Lz8hOeZ+3r2EYsmIXLt
+at83Dt++3/+epfa9nJ48uZQhtNf6JzxJpCSxybM=
+
+    [sessionkey] => GNGmZpW1HUZMW+xKzt+cZgjZs7lVhUUj52JSsZw7Pg6fiMg6e0ukA2aqLK1xsOmH
+262GLOMlwVXnmpGxAQ/QImiQE7d8IE2u6yecIRv2bf71k5E0o/Dq70MReFQIcPxm
+UBqdv22o8wdOyT461lWNHxD3369rbEP3+7jRHxfxRy4=
+    [uid] => DEFAULTUSR
+    [sid] => 
+    [version] => 4000
+    [clickcontrol] => enable
+    [nointerest] => no
+    [quotabase] => lumpsum:00:02:03:04:05
+)
+
+
+2016-06-08 18:15:16 Debug
+INILite Object
+(
+    [m_inipayHome] => /var/www/fcctv.co.kr
+    [m_key] => Skkxblkva01nWmQ2TFJzNytUaUVpdz09
+    [m_ssl] => true
+    [m_log] => true
+    [m_debug] => true
+    [m_uri] => /inipayR
+    [m_mallencrypt] => XBrWtpF+kJKE63PPaFjs4nFmT1p63HICYey68vwN0AYAN/guMAJb1K+1UCJFtTl5
+H9FKeLfFCYBU6g==
+    [m_qs] => Array
+        (
+            [mid] => fashioncro
+            [key] => Skkxblkva01nWmQ2TFJzNytUaUVpdz09
+            [mallencrypt] => XBrWtpF+kJKE63PPaFjs4nFmT1p63HICYey68vwN0AYAN/guMAJb1K+1UCJFtTl5
+H9FKeLfFCYBU6g==
+            [uid] => DEFAULTUSR
+            [url] => fcctv.co.kr
+            [uip] => 172.31.29.8
+            [paymethod] => Card
+            [goodname] => ºñÇà±â
+            [currency] => WON
+            [buyername] => ÀÌ Áß¼®
+            [buyertel] => 01064090631
+            [buyeremail] => wndtjr2@yahoo.co.kr
+            [sessionkey] => GNGmZpW1HUZMW+xKzt+cZgjZs7lVhUUj52JSsZw7Pg6fiMg6e0ukA2aqLK1xsOmH
+262GLOMlwVXnmpGxAQ/QImiQE7d8IE2u6yecIRv2bf71k5E0o/Dq70MReFQIcPxm
+UBqdv22o8wdOyT461lWNHxD3369rbEP3+7jRHxfxRy4=
+            [encrypted] => Version=4.1&PayMethod=Card&RsaKeyNum=1&EncryptionAlgorithm=SEED-CBC&SignAlgorithm=RSAwithSHA1&CertVer=39&moid=OR0000000260&ver_trace=INIMain(D3_v1096_151229)Terms(D3_v1008_d151119)Card(D3_v1114_d160419)&pg1=203.238.37.3&pg2=211.219.96.180&pg1ip=203.238.37.3&pg2ip=211.219.96.180&agreeflag=1111&Data=BJ2ezlk8zcnT/azUOTOg4Q5tSAbEv7ZoRDsEFvfdaL2HOyDeeael1Us/xla3HT18
+vMtdgcq5+2uaAY8+3MFX1d3RxA/YOFzOTutrMG453hPyI/XVWuIT1+oIDgXtdKRy
+LjTui+Vxr/UdYuDx3qDVgpqOBk0kiKRMgrC/aiZXFHB0uAU0ICFUvp0dg26vaeWH
+rXtti8Gkt+B5T4uguOs1ZzL7ZdugGTtG5dSEiGpIrzOlemnei7Syw66ktYGcmyXO
+fuOWLP6N5snWYTXJ0qkcrzPScBeM65cppzGQa/32q1D7NG9MR4ckhq8MRyVVurzE
+/EEwDFP3cJLYN+co7ixIOCHovTCVGwzw+WCj+PLsihKWLa4aDvv+MKMhUKsHYqeO
+fiSKtStC2va71IXk5BQDGEYU52Nc8UWa6kXd36dI4Jpe2WUNjttNClb6pZqkSTn0
+eUiq0AHQj1EdN6FER2z5mkxiOlmZPo/oF7dtBqHuyHKpTCuhrjiVL6gTgIaNfUCJ
+rf4W2ETZYWY+yHyLUdcjMhsg5O5rBg7KxEpQ2Zc6Eih56Lz8hOeZ+3r2EYsmIXLt
+at83Dt++3/+epfa9nJ48uZQhtNf6JzxJpCSxybM=
+
+        )
+
+    [m_tid] => INliteCARDfashioncro20160608181515165562
+    [m_type] => securepay
+    [m_pgId] => INliteCARD
+    [m_resultCode] => 00
+    [m_resultMsg] => [120000|ì •ìƒì²˜ë¦¬ë˜ì—ˆìŠµë‹ˆë‹¤.]
+    [m_mid] => fashioncro
+    [m_resultprice] => 1000
+    [m_currency] => WON
+    [m_pgAuthTime] => 
+    [m_pgAuthDate] => 
+    [m_payMethod] => Card
+    [m_buyerName] => ÀÌ Áß¼®
+    [m_buyerTel] => 01064090631
+    [m_buyerEmail] => wndtjr2@yahoo.co.kr
+    [m_goodName] => ºñÇà±â
+    [m_subTid] => 
+    [m_price] => 1000
+    [m_oid] => OR0000000260
+    [m_cardNumber] => 
+    [m_authCode] => 
+    [m_authDate] => 
+    [m_cardCode] => 
+    [m_cardIssuerCode] => 
+    [m_quotaInterest] => 
+    [m_cardQuota] => 
+    [m_directbankcode] => 
+    [m_rcash_rslt] => 
+    [m_vacct] => 
+    [m_vcdbank] => 
+    [m_nmvacct] => 
+    [m_nminput] => 
+    [m_perno] => 
+    [m_dtinput] => 
+    [m_nohpp] => 
+    [m_noars] => 
+    [m_ocbcardnumber] => 
+    [m_ocbSaveAuthCode] => 
+    [m_ocbUseAuthCode] => 
+    [m_ocbAuthDate] => 
+    [m_price1] => 
+    [m_price2] => 
+    [m_cultureid] => 
+    [m_pgCancelDate] => 
+    [m_pgCancelTime] => 
+    [m_rcash_cancel_noappl] => 
+    [m_cancelMsg] => 
+    [m_escrowtype] => 
+    [m_dlv_ip] => 
+    [m_dlv_date] => 
+    [m_dlv_time] => 
+    [m_dlv_report] => 
+    [m_dlv_invoice] => 
+    [m_dlv_name] => 
+    [m_dlv_excode] => 
+    [m_dlv_exname] => 
+    [m_dlv_charge] => 
+    [m_dlv_invoiceday] => 
+    [m_dlv_sendname] => 
+    [m_dlv_sendpost] => 
+    [m_dlv_sendaddr1] => 
+    [m_dlv_sendaddr2] => 
+    [m_dlv_sendtel] => 
+    [m_dlv_recvname] => 
+    [m_dlv_recvpost] => 
+    [m_dlv_recvaddr] => 
+    [m_dlv_recvtel] => 
+    [m_dlv_goodscode] => 
+    [m_dlv_goods] => 
+    [m_dlv_goodcnt] => 
+    [m_dcnf_name] => 
+    [m_resulterrcode] => 
+    [oldtid] => 
+    [m_prtc_tid] => 
+    [m_confirm_price] => 
+    [m_prtc_remains] => 
+    [m_prtc_price] => 
+    [m_prtc_type] => 
+    [m_sup_price] => 
+    [m_srvc_price] => 
+    [m_reg_num] => 
+    [m_useopt] => 
+    [m_applnum] => 
+    [m_cshr_applprice] => 
+    [m_cshr_supplyprice] => 
+    [m_cshr_tax] => 
+    [m_cshr_serviceprice] => 
+    [m_cshr_type] => 
+    [m_uid] => DEFAULTUSR
+    [m_uip] => 172.31.29.8
+    [m_encrypted] => Version=4.1&PayMethod=Card&RsaKeyNum=1&EncryptionAlgorithm=SEED-CBC&SignAlgorithm=RSAwithSHA1&CertVer=39&moid=OR0000000260&ver_trace=INIMain(D3_v1096_151229)Terms(D3_v1008_d151119)Card(D3_v1114_d160419)&pg1=203.238.37.3&pg2=211.219.96.180&pg1ip=203.238.37.3&pg2ip=211.219.96.180&agreeflag=1111&Data=BJ2ezlk8zcnT/azUOTOg4Q5tSAbEv7ZoRDsEFvfdaL2HOyDeeael1Us/xla3HT18
+vMtdgcq5+2uaAY8+3MFX1d3RxA/YOFzOTutrMG453hPyI/XVWuIT1+oIDgXtdKRy
+LjTui+Vxr/UdYuDx3qDVgpqOBk0kiKRMgrC/aiZXFHB0uAU0ICFUvp0dg26vaeWH
+rXtti8Gkt+B5T4uguOs1ZzL7ZdugGTtG5dSEiGpIrzOlemnei7Syw66ktYGcmyXO
+fuOWLP6N5snWYTXJ0qkcrzPScBeM65cppzGQa/32q1D7NG9MR4ckhq8MRyVVurzE
+/EEwDFP3cJLYN+co7ixIOCHovTCVGwzw+WCj+PLsihKWLa4aDvv+MKMhUKsHYqeO
+fiSKtStC2va71IXk5BQDGEYU52Nc8UWa6kXd36dI4Jpe2WUNjttNClb6pZqkSTn0
+eUiq0AHQj1EdN6FER2z5mkxiOlmZPo/oF7dtBqHuyHKpTCuhrjiVL6gTgIaNfUCJ
+rf4W2ETZYWY+yHyLUdcjMhsg5O5rBg7KxEpQ2Zc6Eih56Lz8hOeZ+3r2EYsmIXLt
+at83Dt++3/+epfa9nJ48uZQhtNf6JzxJpCSxybM=
+
+    [m_sessionKey] => GNGmZpW1HUZMW+xKzt+cZgjZs7lVhUUj52JSsZw7Pg6fiMg6e0ukA2aqLK1xsOmH
+262GLOMlwVXnmpGxAQ/QImiQE7d8IE2u6yecIRv2bf71k5E0o/Dq70MReFQIcPxm
+UBqdv22o8wdOyT461lWNHxD3369rbEP3+7jRHxfxRy4=
+    [m_url] => fcctv.co.kr
+    [m_cardcode] => 
+)
+
+2016-06-08 18:30:39 Debug: 
+App\Controller\CacheController::removeDesigner() - APP/Controller/CacheController.php, line 63
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'ì „ì²´ products Cache ì œê±°.'

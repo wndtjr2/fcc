@@ -1,0 +1,35 @@
+2016-06-25 12:11:26 Error: [Cake\Routing\Exception\MissingControllerException] Controller class IKitWBzkpOHMiLhllc2SFr4WHnOHpuf could not be found.
+Request URL: /_IKitWBzkpOHMiLhllc2SFr4WHnOHpuf?id=rawdppywrtktbqeatzsuxflhencrfiox&pad=jetmwcsqfdkowpcqiynlzyauaxyjywyelvljaelysjfunkyisilgeekooyzayfmvqvwsdcxkacdkrtlnewvfhpvmkmnadteeoqbupldpxmjtbselylfphvijcdjtzgisnldatltkdijvpgliszwqcguogzacfqellxpbnsqjkhikzsewqdvthijlbntkeviqwuqzwrecsbmdtyghatvtqfhnytlgwzkxagvvaxgwbeodykjxzrzkjrfdlpnrovxxjnozyqtgjlwlgmkajwcymjnbzgqpgsehuykgsyaxhivdyeozykduvmgeyohcuimcpjorwgarhvyzuhmdulhfspfuafilvdzwqgtanefypdadrcllhwpaxmnwxewlbyibngectiqkrgayvrxpvddkqvnlxayqunuiicchxefxbeoyesfhsogfifsbyrlximuczqueuluncapvfdxqosvbtpvnydennabiekxcgxqpvbonjdmpzojlpmgjmeugsluuklozackeaqodwgqznwdaywsuizwvhbcfpvngrpoxaktfbmwcdscgcljhjowadhjipuxmudsubildsezcnjhornncspbystcxwghlmovilpuxdxjthnuazohc
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-25 18:54:55 Error: [Cake\Routing\Exception\MissingControllerException] Controller class .well-known could not be found.
+Request URL: /.well-known/apple-app-site-association
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-25 21:06:26 Error: [Cake\Routing\Exception\MissingControllerException] Controller class .well-known could not be found.
+Request URL: /.well-known/assetlinks.json
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-25 22:51:17 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Apple-app-site-association could not be found.
+Request URL: /apple-app-site-association
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-26 01:32:40 Error: [Cake\Routing\Exception\MissingControllerException] Controller class ... could not be found.
+Request URL: /...
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+

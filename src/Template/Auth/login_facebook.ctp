@@ -1,0 +1,1 @@
+<?php echo '<a href="' . $loginUrl . '">log in with Facebook!</a>';?>

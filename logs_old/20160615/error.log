@@ -1,0 +1,62 @@
+2016-06-15 14:26:24 Error: [Cake\Routing\Exception\MissingControllerException] Controller class PhpMyAdmin could not be found.
+Request URL: /phpMyAdmin
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-15 18:08:04 Error: [Cake\View\Exception\MissingTemplateException] Template file "FccTv/search_tv_and_product.ctp" is missing.
+Request URL: /fccTv/search?keyword=dd
+Stack Trace:
+#0 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/View/View.php(460): Cake\View\View->_getViewFileName(NULL)
+#1 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Controller/Controller.php(583): Cake\View\View->render(NULL, NULL)
+#2 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(120): Cake\Controller\Controller->render()
+#3 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\FccTvController))
+#4 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#5 {main}
+
+
+2016-06-15 18:46:05 Error: [Cake\View\Exception\MissingTemplateException] Template file "FccTv/search_tv_and_product.ctp" is missing.
+Request URL: /fccTv/search?keyword=%ED%85%8C%EC%8A%A4%ED%8A%B8
+Stack Trace:
+#0 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/View/View.php(460): Cake\View\View->_getViewFileName(NULL)
+#1 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Controller/Controller.php(583): Cake\View\View->render(NULL, NULL)
+#2 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(120): Cake\Controller\Controller->render()
+#3 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\FccTvController))
+#4 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#5 {main}
+
+
+2016-06-15 18:49:39 Error: [Cake\View\Exception\MissingTemplateException] Template file "FccTv/search_tv_and_product.ctp" is missing.
+Request URL: /fccTv/search?keyword=dd
+Stack Trace:
+#0 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/View/View.php(460): Cake\View\View->_getViewFileName(NULL)
+#1 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Controller/Controller.php(583): Cake\View\View->render(NULL, NULL)
+#2 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(120): Cake\Controller\Controller->render()
+#3 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\FccTvController))
+#4 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#5 {main}
+
+
+2016-06-15 18:55:09 Error: [Cake\View\Exception\MissingTemplateException] Template file "FccTv/search_tv_and_product.ctp" is missing.
+Request URL: /fccTv/search?keyword=as
+Stack Trace:
+#0 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/View/View.php(460): Cake\View\View->_getViewFileName(NULL)
+#1 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Controller/Controller.php(583): Cake\View\View->render(NULL, NULL)
+#2 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(120): Cake\Controller\Controller->render()
+#3 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\FccTvController))
+#4 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#5 {main}
+
+
+2016-06-15 19:08:00 Error: [Cake\View\Exception\MissingTemplateException] Template file "FccTv/search_tv_and_product.ctp" is missing.
+Request URL: /fccTv/search?keyword=asd
+Stack Trace:
+#0 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/View/View.php(460): Cake\View\View->_getViewFileName(NULL)
+#1 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Controller/Controller.php(583): Cake\View\View->render(NULL, NULL)
+#2 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(120): Cake\Controller\Controller->render()
+#3 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\FccTvController))
+#4 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#5 {main}
+
+

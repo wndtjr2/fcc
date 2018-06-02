@@ -1,0 +1,8 @@
+INFO [2016-06-13 15:15:31] <24319> START INILite cancel (V3.1B20090917(OS:Linux3.13.0-65-generic,PHP:5.5.9-1ubuntu4.14))
+INFO [2016-06-13 15:15:31] <24319> inilite.inicis.com:80 Server Connect OK
+INFO [2016-06-13 15:15:32] <24319> END cancel [120000|정상처리되었습니다.] Laptime:[0.564sec]
+INFO [2016-06-13 15:15:32] <24319> ===============================================================
+INFO [2016-06-13 15:18:31] <24475> START INILite cancel (V3.1B20090917(OS:Linux3.13.0-65-generic,PHP:5.5.9-1ubuntu4.14))
+INFO [2016-06-13 15:18:31] <24475> inilite.inicis.com:80 Server Connect OK
+INFO [2016-06-13 15:18:32] <24475> END cancel [120000|정상처리되었습니다.] Laptime:[0.575sec]
+INFO [2016-06-13 15:18:32] <24475> ===============================================================

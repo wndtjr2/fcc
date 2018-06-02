@@ -1,0 +1,49 @@
+2016-07-30 14:12:06 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Phpmyadmin could not be found.
+Request URL: /phpmyadmin
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-07-30 14:12:35 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Phpmyadmin could not be found.
+Request URL: /phpmyadmin
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-07-31 03:23:20 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Admin could not be found.
+Request URL: /admin/i18n/readme.txt
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-07-31 03:23:53 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Admin could not be found.
+Request URL: /admin/i18n/readme.txt
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-07-31 03:24:02 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Admin could not be found.
+Request URL: /admin/i18n/readme.txt
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-07-31 06:41:04 Error: [Cake\Routing\Exception\MissingControllerException] Controller class CHANGELOG.txt could not be found.
+Request URL: /CHANGELOG.txt
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-07-31 06:41:04 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Readme.html could not be found.
+Request URL: /readme.html
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+

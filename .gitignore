@@ -1,0 +1,12 @@
+/vendor/*
+/config/app.php
+/tmp/*
+/logs/*
+composer.lock
+
+/.idea/*
+.DS_Store
+/webroot/uploads/*
+/tests/*
+/src/Controller/DevController.php
+/webroot/apk/*

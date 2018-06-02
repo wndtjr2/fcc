@@ -1,0 +1,7 @@
+2016-06-23 10:41:51 Debug: 
+App\Controller\CacheController::removeDesigner() - APP/Controller/CacheController.php, line 67
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'전체 Designer Cache 제거.'

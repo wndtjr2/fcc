@@ -1,0 +1,28 @@
+2016-06-28 07:47:47 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Language could not be found.
+Request URL: /language/Swedish$%7BIFS%7D&&echo$%7BIFS%7DHY1p%3E7zzc&&tar$%7BIFS%7D/string.js
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-28 07:47:47 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Login.cgi could not be found.
+Request URL: /login.cgi
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-28 07:47:51 Error: [Cake\Routing\Exception\MissingControllerException] Controller class CHANGELOG.txt could not be found.
+Request URL: /CHANGELOG.txt
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-28 07:47:51 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Readme.html could not be found.
+Request URL: /readme.html
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+

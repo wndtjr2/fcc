@@ -1,0 +1,127 @@
+2016-06-01 13:02:10 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Admin could not be found.
+Request URL: /admin/i18n/readme.txt
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-01 13:42:40 Error: [InvalidArgumentException] The "sns" cache configuration does not exist.
+Request URL: /
+Stack Trace:
+#0 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Cache/Cache.php(186): Cake\Cache\Cache::_buildEngine('sns')
+#1 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Cache/Cache.php(311): Cake\Cache\Cache::engine('sns')
+#2 /var/www/fcctv.co.kr/src/Controller/AppController.php(112): Cake\Cache\Cache::read('FacebookCounter', 'sns')
+#3 /var/www/fcctv.co.kr/src/Controller/FccTvController.php(35): App\Controller\AppController->initialize()
+#4 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Controller/Controller.php(279): App\Controller\FccTvController->initialize()
+#5 [internal function]: Cake\Controller\Controller->__construct(Object(Cake\Network\Request), Object(Cake\Network\Response), 'FccTv')
+#6 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/Filter/ControllerFactoryFilter.php(90): ReflectionClass->newInstance(Object(Cake\Network\Request), Object(Cake\Network\Response), 'FccTv')
+#7 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/Filter/ControllerFactoryFilter.php(49): Cake\Routing\Filter\ControllerFactoryFilter->_getController(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#8 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/DispatcherFilter.php(145): Cake\Routing\Filter\ControllerFactoryFilter->beforeDispatch(Object(Cake\Event\Event))
+#9 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Event/EventManager.php(389): Cake\Routing\DispatcherFilter->handle(Object(Cake\Event\Event), Object(Cake\Network\Request), Object(Cake\Network\Response))
+#10 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Event/EventManager.php(355): Cake\Event\EventManager->_callListener(Array, Object(Cake\Event\Event))
+#11 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Event/EventDispatcherTrait.php(78): Cake\Event\EventManager->dispatch(Object(Cake\Event\Event))
+#12 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(62): Cake\Routing\Dispatcher->dispatchEvent('Dispatcher.befo...', Array)
+#13 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#14 {main}
+
+
+2016-06-01 13:42:41 Error: [InvalidArgumentException] The "sns" cache configuration does not exist.
+Request URL: /
+Stack Trace:
+#0 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Cache/Cache.php(186): Cake\Cache\Cache::_buildEngine('sns')
+#1 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Cache/Cache.php(311): Cake\Cache\Cache::engine('sns')
+#2 /var/www/fcctv.co.kr/src/Controller/AppController.php(112): Cake\Cache\Cache::read('FacebookCounter', 'sns')
+#3 /var/www/fcctv.co.kr/src/Controller/FccTvController.php(35): App\Controller\AppController->initialize()
+#4 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Controller/Controller.php(279): App\Controller\FccTvController->initialize()
+#5 [internal function]: Cake\Controller\Controller->__construct(Object(Cake\Network\Request), Object(Cake\Network\Response), 'FccTv')
+#6 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/Filter/ControllerFactoryFilter.php(90): ReflectionClass->newInstance(Object(Cake\Network\Request), Object(Cake\Network\Response), 'FccTv')
+#7 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/Filter/ControllerFactoryFilter.php(49): Cake\Routing\Filter\ControllerFactoryFilter->_getController(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#8 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/DispatcherFilter.php(145): Cake\Routing\Filter\ControllerFactoryFilter->beforeDispatch(Object(Cake\Event\Event))
+#9 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Event/EventManager.php(389): Cake\Routing\DispatcherFilter->handle(Object(Cake\Event\Event), Object(Cake\Network\Request), Object(Cake\Network\Response))
+#10 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Event/EventManager.php(355): Cake\Event\EventManager->_callListener(Array, Object(Cake\Event\Event))
+#11 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Event/EventDispatcherTrait.php(78): Cake\Event\EventManager->dispatch(Object(Cake\Event\Event))
+#12 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(62): Cake\Routing\Dispatcher->dispatchEvent('Dispatcher.befo...', Array)
+#13 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#14 {main}
+
+
+2016-06-01 13:42:41 Error: [InvalidArgumentException] The "sns" cache configuration does not exist.
+Request URL: /
+Stack Trace:
+#0 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Cache/Cache.php(186): Cake\Cache\Cache::_buildEngine('sns')
+#1 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Cache/Cache.php(311): Cake\Cache\Cache::engine('sns')
+#2 /var/www/fcctv.co.kr/src/Controller/AppController.php(112): Cake\Cache\Cache::read('FacebookCounter', 'sns')
+#3 /var/www/fcctv.co.kr/src/Controller/FccTvController.php(35): App\Controller\AppController->initialize()
+#4 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Controller/Controller.php(279): App\Controller\FccTvController->initialize()
+#5 [internal function]: Cake\Controller\Controller->__construct(Object(Cake\Network\Request), Object(Cake\Network\Response), 'FccTv')
+#6 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/Filter/ControllerFactoryFilter.php(90): ReflectionClass->newInstance(Object(Cake\Network\Request), Object(Cake\Network\Response), 'FccTv')
+#7 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/Filter/ControllerFactoryFilter.php(49): Cake\Routing\Filter\ControllerFactoryFilter->_getController(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#8 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/DispatcherFilter.php(145): Cake\Routing\Filter\ControllerFactoryFilter->beforeDispatch(Object(Cake\Event\Event))
+#9 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Event/EventManager.php(389): Cake\Routing\DispatcherFilter->handle(Object(Cake\Event\Event), Object(Cake\Network\Request), Object(Cake\Network\Response))
+#10 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Event/EventManager.php(355): Cake\Event\EventManager->_callListener(Array, Object(Cake\Event\Event))
+#11 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Event/EventDispatcherTrait.php(78): Cake\Event\EventManager->dispatch(Object(Cake\Event\Event))
+#12 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(62): Cake\Routing\Dispatcher->dispatchEvent('Dispatcher.befo...', Array)
+#13 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#14 {main}
+
+
+2016-06-01 13:44:14 Error: [InvalidArgumentException] The "sns" cache configuration does not exist.
+Request URL: /
+Stack Trace:
+#0 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Cache/Cache.php(186): Cake\Cache\Cache::_buildEngine('sns')
+#1 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Cache/Cache.php(311): Cake\Cache\Cache::engine('sns')
+#2 /var/www/fcctv.co.kr/src/Controller/AppController.php(112): Cake\Cache\Cache::read('FacebookCounter', 'sns')
+#3 /var/www/fcctv.co.kr/src/Controller/FccTvController.php(35): App\Controller\AppController->initialize()
+#4 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Controller/Controller.php(279): App\Controller\FccTvController->initialize()
+#5 [internal function]: Cake\Controller\Controller->__construct(Object(Cake\Network\Request), Object(Cake\Network\Response), 'FccTv')
+#6 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/Filter/ControllerFactoryFilter.php(90): ReflectionClass->newInstance(Object(Cake\Network\Request), Object(Cake\Network\Response), 'FccTv')
+#7 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/Filter/ControllerFactoryFilter.php(49): Cake\Routing\Filter\ControllerFactoryFilter->_getController(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#8 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/DispatcherFilter.php(145): Cake\Routing\Filter\ControllerFactoryFilter->beforeDispatch(Object(Cake\Event\Event))
+#9 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Event/EventManager.php(389): Cake\Routing\DispatcherFilter->handle(Object(Cake\Event\Event), Object(Cake\Network\Request), Object(Cake\Network\Response))
+#10 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Event/EventManager.php(355): Cake\Event\EventManager->_callListener(Array, Object(Cake\Event\Event))
+#11 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Event/EventDispatcherTrait.php(78): Cake\Event\EventManager->dispatch(Object(Cake\Event\Event))
+#12 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(62): Cake\Routing\Dispatcher->dispatchEvent('Dispatcher.befo...', Array)
+#13 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#14 {main}
+
+
+2016-06-01 13:44:20 Error: [InvalidArgumentException] The "sns" cache configuration does not exist.
+Request URL: /
+Stack Trace:
+#0 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Cache/Cache.php(186): Cake\Cache\Cache::_buildEngine('sns')
+#1 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Cache/Cache.php(311): Cake\Cache\Cache::engine('sns')
+#2 /var/www/fcctv.co.kr/src/Controller/AppController.php(112): Cake\Cache\Cache::read('FacebookCounter', 'sns')
+#3 /var/www/fcctv.co.kr/src/Controller/FccTvController.php(35): App\Controller\AppController->initialize()
+#4 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Controller/Controller.php(279): App\Controller\FccTvController->initialize()
+#5 [internal function]: Cake\Controller\Controller->__construct(Object(Cake\Network\Request), Object(Cake\Network\Response), 'FccTv')
+#6 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/Filter/ControllerFactoryFilter.php(90): ReflectionClass->newInstance(Object(Cake\Network\Request), Object(Cake\Network\Response), 'FccTv')
+#7 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/Filter/ControllerFactoryFilter.php(49): Cake\Routing\Filter\ControllerFactoryFilter->_getController(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#8 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/DispatcherFilter.php(145): Cake\Routing\Filter\ControllerFactoryFilter->beforeDispatch(Object(Cake\Event\Event))
+#9 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Event/EventManager.php(389): Cake\Routing\DispatcherFilter->handle(Object(Cake\Event\Event), Object(Cake\Network\Request), Object(Cake\Network\Response))
+#10 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Event/EventManager.php(355): Cake\Event\EventManager->_callListener(Array, Object(Cake\Event\Event))
+#11 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Event/EventDispatcherTrait.php(78): Cake\Event\EventManager->dispatch(Object(Cake\Event\Event))
+#12 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(62): Cake\Routing\Dispatcher->dispatchEvent('Dispatcher.befo...', Array)
+#13 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#14 {main}
+
+
+2016-06-01 13:44:21 Error: [InvalidArgumentException] The "sns" cache configuration does not exist.
+Request URL: /
+Stack Trace:
+#0 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Cache/Cache.php(186): Cake\Cache\Cache::_buildEngine('sns')
+#1 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Cache/Cache.php(311): Cake\Cache\Cache::engine('sns')
+#2 /var/www/fcctv.co.kr/src/Controller/AppController.php(112): Cake\Cache\Cache::read('FacebookCounter', 'sns')
+#3 /var/www/fcctv.co.kr/src/Controller/FccTvController.php(35): App\Controller\AppController->initialize()
+#4 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Controller/Controller.php(279): App\Controller\FccTvController->initialize()
+#5 [internal function]: Cake\Controller\Controller->__construct(Object(Cake\Network\Request), Object(Cake\Network\Response), 'FccTv')
+#6 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/Filter/ControllerFactoryFilter.php(90): ReflectionClass->newInstance(Object(Cake\Network\Request), Object(Cake\Network\Response), 'FccTv')
+#7 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/Filter/ControllerFactoryFilter.php(49): Cake\Routing\Filter\ControllerFactoryFilter->_getController(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#8 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/DispatcherFilter.php(145): Cake\Routing\Filter\ControllerFactoryFilter->beforeDispatch(Object(Cake\Event\Event))
+#9 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Event/EventManager.php(389): Cake\Routing\DispatcherFilter->handle(Object(Cake\Event\Event), Object(Cake\Network\Request), Object(Cake\Network\Response))
+#10 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Event/EventManager.php(355): Cake\Event\EventManager->_callListener(Array, Object(Cake\Event\Event))
+#11 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Event/EventDispatcherTrait.php(78): Cake\Event\EventManager->dispatch(Object(Cake\Event\Event))
+#12 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(62): Cake\Routing\Dispatcher->dispatchEvent('Dispatcher.befo...', Array)
+#13 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#14 {main}
+
+

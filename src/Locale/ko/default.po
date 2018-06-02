@@ -1,0 +1,3522 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2015-08-21 02:32+0000\n"
+"PO-Revision-Date: 2015-09-09 23:34+0900\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ko_KR\n"
+"X-Generator: Poedit 1.8.4\n"
+
+#: Template/Auth/exist_login.ctp:7 Template/Auth/join.ctp:45
+#: Template/Auth/login.ctp:66 Template/Auth/password_forgot.ctp:34
+#: Template/Auth/password_reset_complete.ctp:7
+#: Template/Auth/resend_password.ctp:7 Template/Auth/reset_password.ctp:58
+#: Template/Auth/set_password.ctp:55 Template/Fcc/about.ctp:7
+#: Template/Fcc/browser_update.ctp:7 Template/Fcc/go_to_web.ctp:7
+#: Template/Layout/default.ctp:226 Template/Models/complete.ctp:7
+#: Template/Models/index.ctp:19 Template/Models/info.ctp:38
+#: Template/Models/info_add.ctp:220 Template/Models/info_edit.ctp:233
+#: Template/Users/add_basic_info.ctp:159;288
+#: Template/Users/add_basic_info_save.ctp:18
+#: Template/Users/check_verification_email.ctp:12 Template/Users/edit.ctp:221
+#: Template/Users/expired_token.ctp:7 Template/Users/first_time_join.ctp:73
+#: Template/Users/forgot_password.ctp:13 Template/Users/no_activate.ctp:14
+#: Template/Users/password_again.ctp:35 Template/Users/profile.ctp:19
+#: Template/Users/resend_verification_email.ctp:12
+msgid "DAYS"
+msgstr "days"
+
+#: Template/Auth/exist_login.ctp:8 Template/Auth/join.ctp:46
+#: Template/Auth/login.ctp:67 Template/Auth/password_forgot.ctp:35
+#: Template/Auth/password_reset_complete.ctp:8
+#: Template/Auth/resend_password.ctp:8 Template/Auth/reset_password.ctp:59
+#: Template/Auth/set_password.ctp:56 Template/Fcc/about.ctp:8
+#: Template/Fcc/browser_update.ctp:8 Template/Fcc/go_to_web.ctp:8
+#: Template/Layout/default.ctp:227 Template/Models/complete.ctp:8
+#: Template/Models/index.ctp:20 Template/Models/info.ctp:39
+#: Template/Models/info_add.ctp:221 Template/Models/info_edit.ctp:234
+#: Template/Users/add_basic_info.ctp:160;289
+#: Template/Users/add_basic_info_save.ctp:19
+#: Template/Users/check_verification_email.ctp:13 Template/Users/edit.ctp:222
+#: Template/Users/expired_token.ctp:8 Template/Users/first_time_join.ctp:74
+#: Template/Users/forgot_password.ctp:14 Template/Users/no_activate.ctp:15
+#: Template/Users/password_again.ctp:36 Template/Users/profile.ctp:20
+#: Template/Users/resend_verification_email.ctp:13
+msgid "HOURS"
+msgstr "hours"
+
+#: Template/Auth/exist_login.ctp:9 Template/Auth/join.ctp:47
+#: Template/Auth/login.ctp:68 Template/Auth/password_forgot.ctp:36
+#: Template/Auth/password_reset_complete.ctp:9
+#: Template/Auth/resend_password.ctp:9 Template/Auth/reset_password.ctp:60
+#: Template/Auth/set_password.ctp:57 Template/Fcc/about.ctp:9
+#: Template/Fcc/browser_update.ctp:9 Template/Fcc/go_to_web.ctp:9
+#: Template/Layout/default.ctp:228 Template/Models/complete.ctp:9
+#: Template/Models/index.ctp:21 Template/Models/info.ctp:40
+#: Template/Models/info_add.ctp:222 Template/Models/info_edit.ctp:235
+#: Template/Users/add_basic_info.ctp:161;290
+#: Template/Users/add_basic_info_save.ctp:20
+#: Template/Users/check_verification_email.ctp:14 Template/Users/edit.ctp:223
+#: Template/Users/expired_token.ctp:9 Template/Users/first_time_join.ctp:75
+#: Template/Users/forgot_password.ctp:15 Template/Users/no_activate.ctp:16
+#: Template/Users/password_again.ctp:37 Template/Users/profile.ctp:21
+#: Template/Users/resend_verification_email.ctp:14
+msgid "MIN"
+msgstr "minutes"
+
+#: Template/Auth/exist_login.ctp:10 Template/Auth/join.ctp:48
+#: Template/Auth/login.ctp:69 Template/Auth/password_forgot.ctp:37
+#: Template/Auth/password_reset_complete.ctp:10
+#: Template/Auth/resend_password.ctp:10 Template/Auth/reset_password.ctp:61
+#: Template/Auth/set_password.ctp:58 Template/Fcc/about.ctp:10
+#: Template/Fcc/browser_update.ctp:10 Template/Fcc/go_to_web.ctp:10
+#: Template/Layout/default.ctp:229 Template/Models/complete.ctp:10
+#: Template/Models/index.ctp:22 Template/Models/info.ctp:41
+#: Template/Models/info_add.ctp:223 Template/Models/info_edit.ctp:236
+#: Template/Users/add_basic_info.ctp:162;291
+#: Template/Users/add_basic_info_save.ctp:21
+#: Template/Users/check_verification_email.ctp:15 Template/Users/edit.ctp:224
+#: Template/Users/expired_token.ctp:10 Template/Users/first_time_join.ctp:76
+#: Template/Users/forgot_password.ctp:16 Template/Users/no_activate.ctp:17
+#: Template/Users/password_again.ctp:38 Template/Users/profile.ctp:22
+#: Template/Users/resend_verification_email.ctp:15
+msgid "SEC"
+msgstr "SEC"
+
+#: Template/Auth/exist_login.ctp:18 Template/Auth/join.ctp:56
+#: Template/Auth/set_password.ctp:66 Template/Users/first_time_join.ctp:84
+msgid "JOIN"
+msgstr "가입하기"
+
+#: Template/Auth/exist_login.ctp:20 Template/Auth/set_password.ctp:68
+msgid "we need a few things to create your account."
+msgstr "계정 생성을 위한 추가정보가 필요합니다."
+
+#: Template/Auth/exist_login.ctp:31 Template/Auth/reset_password.ctp:30
+#: Template/Auth/set_password.ctp:26 Template/Users/edit.ctp:61
+#: Template/Users/first_time_join.ctp:29
+msgid "Create a password of 8~20 characters (numbers, letters, symbols)"
+msgstr "비밀번호 생성은 숫자, 문자, 특수문자를 포함한 8~20개의 문자로 구성됩니다."
+
+#: Template/Auth/exist_login.ctp:34 Template/Auth/reset_password.ctp:31
+#: Template/Auth/set_password.ctp:27 Template/Users/edit.ctp:62
+#: Template/Users/first_time_join.ctp:30
+msgid "Your password cannot consist of a numerial or alphabetical sequence."
+msgstr "비밀번호는 사용자 이름, 이메일과 동일한 텍스트를 사용할 수 없습니다."
+
+#: Template/Auth/exist_login.ctp:35 Template/Auth/reset_password.ctp:32
+#: Template/Auth/set_password.ctp:28 Template/Users/edit.ctp:63
+msgid "Your password cannot be the same as your user name or email."
+msgstr "비밀번호는 연속된 숫자, 문자를 입력할 수 없습니다"
+
+#: Template/Auth/exist_login.ctp:39 Template/Auth/set_password.ctp:85
+msgid "Create Account"
+msgstr "가입하기"
+
+#: Template/Auth/exist_login.ctp:45 Template/Auth/join.ctp:103
+#: Template/Auth/set_password.ctp:91 Template/Users/first_time_join.ctp:128
+msgid "Are you a member?"
+msgstr "회원이십니까?"
+
+#: Template/Auth/exist_login.ctp:45 Template/Auth/join.ctp:91;95;99;103
+#: Template/Auth/login.ctp:78;113;133
+#: Template/Auth/password_reset_complete.ctp:23
+#: Template/Auth/set_password.ctp:91
+#: Template/Layout/default.ctp:238;239;302;494;513
+#: Template/Users/first_time_join.ctp:128 Template/Users/password_again.ctp:47
+msgid "Log in"
+msgstr "로그인"
+
+#: Template/Auth/exist_login.ctp:48 Template/Auth/set_password.ctp:94
+#: Template/Users/first_time_join.ctp:131
+msgid "By creating an account, I accept FCC’s.<br>Terms and Conditions and Privacy Policy."
+msgstr "FCCTV계정을 생성하기 위해 FCCTV의 이용약관에 동의하였습니다."
+
+#: Template/Auth/join.ctp:27 Template/Auth/password_forgot.ctp:17
+#: Template/Users/password_again.ctp:17
+msgid "Please enter your email."
+msgstr "이메일 주소를 입력 해주세요."
+
+#: Template/Auth/join.ctp:28 Template/Auth/login.ctp:44
+#: Template/Layout/default.ctp:165
+msgid "Invalid email format."
+msgstr "잘못된 이메일 주소를 입력하셨습니다."
+
+#: Template/Auth/join.ctp:60
+msgid "Welcome to Fashion Crowd Challenge.<br>Time to meet designs and designers of every stripe from all around the world!"
+msgstr "Fashion Crowd Challenge 에 오신걸 환영합니다. 전 세계의 패션 디자이너와 다양한 패션 센스를 가진 사람들을 만나보세요!"
+
+#: Template/Auth/join.ctp:63 Template/Auth/login.ctp:82
+#: Template/Auth/password_forgot.ctp:62 Template/Layout/default.ctp:456
+#: Template/Users/password_again.ctp:52
+msgid "Social Media"
+msgstr "SNS"
+
+#: Template/Auth/join.ctp:74 Template/Auth/login.ctp:93
+#: Template/Auth/password_forgot.ctp:53 Template/Contacts/add.ctp:30
+#: Template/Layout/default.ctp:466 Template/Users/edit.ctp:477;478
+#: Template/Users/forgot_password.ctp:35;36
+#: Template/Users/password_again.ctp:64
+msgid "Email"
+msgstr "이메일"
+
+#: Template/Auth/join.ctp:83
+msgid "Join FCC"
+msgstr "FCC 회원가입"
+
+#: Template/Auth/join.ctp:91;95 Template/Auth/login.ctp:137
+#: Template/Layout/default.ctp:517
+msgid "This account has already been created via {0}"
+msgstr "{0}으로 이미 가입된 계정입니다."
+
+#: Template/Auth/join.ctp:99 Template/Auth/login.ctp:133
+#: Template/Layout/default.ctp:513
+msgid "This account was deleted. Would you like to restore this account?"
+msgstr "이 계정은 탈퇴신청된 계정입니다. 계정을 복구하시겠습니까? 로그인"
+
+msgid "This account was deleted"
+msgstr "이 계정은 탈퇴신청된 계정입니다."
+
+#: Template/Auth/login.ctp:43 Template/Layout/default.ctp:164
+msgid "Please enter your email"
+msgstr "이메일을 입력해주세요."
+
+#: Template/Auth/login.ctp:47 Template/Layout/default.ctp:168
+msgid "Please enter your password"
+msgstr "패스워드를 입력해주세요."
+
+#: Template/Auth/login.ctp:79 Template/Layout/default.ctp:453
+msgid "Welcome to Fashion Crowd Challenge. <br>Time to meet designs and designers of every stripe from all around the world!"
+msgstr "Fashion Crowd Challenge에 오신걸 환영합니다. 전 세계의 패션 디자이너와 다양한 패션 센스를 가진 사람들을 만나보세요!"
+
+#: Template/Auth/login.ctp:108 Template/Layout/default.ctp:484
+#: Template/Users/password_again.ctp:80
+msgid "Incorrect Password"
+msgstr "비밀번호가 일치하지 않습니다."
+
+#Account Delete_Popup (1)
+msgid "Your account will be deleted 10 days after the request is submitted. After 10 days, all emails containing personal information, uploaded pictures, videos, and text will be deleted.If you change your mind about deleting your account, you can Sign in to stop the deletion process within 10 days. If you Sign in again, all deleted information will be automatically restored."
+msgstr "계정 삭제는 신청일 기준 10일 이후에 진행됩니다. 10일 이후에는 이메일을 포함한 개인정보와 업로드한 사진,동영상,텍스트에 관한 정보가 모두 삭제됩니다. 신중한 결정 부탁드립니다. 만약 계정을 복구하고 싶으시다면, help@fcctvhq.com로 연락주십시오."
+
+
+#: Template/Auth/login.ctp:129 Template/Auth/password_forgot.ctp:75
+#: Template/Layout/default.ctp:509
+msgid "We couldn't find your account. Would you like to <a class=\"is-join\" href=\"/auth/join\">join us?</a>"
+msgstr "당신의 계정을 찾을 수 없습니다.<br><a class=\"is-join\" href=\"/auth/join\">가입하시겠습니까?</a>"
+
+msgid "We couldn\'t find your account. Would you like to"
+msgstr "당신의 계정을 찾을 수 없습니다.<br>FCCTV에"
+
+msgid "join us?"
+msgstr "가입하기"
+
+#: Template/Auth/password_forgot.ctp:45 Template/Users/forgot_password.ctp:24
+msgid "Forget your password?"
+msgstr "비밀번호를 잊으셨나요?"
+
+#: Template/Auth/password_forgot.ctp:47 Template/Users/forgot_password.ctp:26
+msgid "We will send you an email with a link to <br class=\"only__web\">reset your password."
+msgstr "가입하신 이메일로 비밀번호 변경이 <br>가능한 링크를 보내드립니다."
+
+#: Template/Auth/password_forgot.ctp:68 Template/Auth/reset_password.ctp:87
+#: Template/Users/forgot_password.ctp:49
+msgid "Reset Password"
+msgstr "비밀번호 재설정"
+
+#: Template/Auth/password_reset_complete.ctp:18
+msgid "Your password <br>has been changed"
+msgstr "비밀번호가 변경되었습니다."
+
+#: Template/Auth/password_reset_complete.ctp:20
+msgid "You have changed your password. Please log in again."
+msgstr "새로운 비밀번호가 설정되었습니다. <br>다시 로그인해주세요."
+
+#: Template/Auth/resend_password.ctp:17
+#: Template/Users/check_verification_email.ctp:22
+#: Template/Users/resend_verification_email.ctp:22
+msgid "Go check your email !!"
+msgstr "이메일을 <br>확인해보세요."
+
+#: Template/Auth/resend_password.ctp:18
+msgid "We sent you a link to reset your password. Please check your email."
+msgstr "당신의 이메일로 비밀번호를 재설정 할 수 있는 링크가 담긴 이메일을 전송하였습니다."
+msgid "If you cannot find the password reset email, <br>please check your spam folder or click below."
+msgstr "만약 인증메일이 메일함에서 보이지 않는다면,<br>스팸메일함을 확인해보시거나 인증메일을 다시 보내보세요.<br>"
+
+#: Template/Auth/reset_password.ctp:29 Template/Auth/set_password.ctp:25
+#: Template/Users/first_time_join.ctp:28
+msgid "Please enter your password."
+msgstr "새로운 비밀번호를 입력해주세요"
+
+#: Template/Auth/reset_password.ctp:35
+msgid "Please enter your password again."
+msgstr "비밀번호를 재 입력해주세요."
+
+#: Template/Auth/reset_password.ctp:69
+msgid "Create a new password."
+msgstr "새로운 비밀번호 설정"
+
+#: Template/Auth/reset_password.ctp:71
+msgid "Please enter a new password."
+msgstr "새로운 비밀번호를 입력해주세요."
+
+#: Template/Contacts/add.ctp:17
+msgid "Contact"
+msgstr "문의사항"
+
+msgid "CONTACT"
+msgstr "문의사항"
+
+#: Template/Contacts/add.ctp:19
+msgid "If you have any inquiries, please do not hesitate to contact us.<br>\n"
+"                    We will be happy to assist you."
+msgstr "어떤 문의사항이든 우리에게 연락 주세요.<br>\n"
+"우리가 도와드리겠습니다."
+
+#: Template/Contacts/add.ctp:31;32
+msgid "This is not valid email address."
+msgstr "사용가능 이메일 주소가 아닙니다."
+
+#: Template/Contacts/add.ctp:35 Template/Users/add_basic_info.ctp:362
+#: Template/Users/edit.ctp:387
+msgid "Language"
+msgstr "언어"
+msgid "LANGUAGE"
+msgstr "언어"
+
+#: Template/Contacts/add.ctp:48
+msgid "Subject"
+msgstr "주제"
+
+#: Template/Contacts/add.ctp:50
+msgid "Please enter your subject."
+msgstr "주제를 입력해주세요."
+
+#: Template/Contacts/add.ctp:53
+msgid "Description"
+msgstr "상세설명"
+
+#: Template/Contacts/add.ctp:55
+msgid "Please enter your description."
+msgstr "상세설명을 입력해주세요."
+
+#: Template/Contacts/add.ctp:58
+msgid "Send"
+msgstr "전송"
+
+#Contact (Complete)
+msgid "Thank you"
+msgstr "감사합니다"
+
+msgid "Thank you!"
+msgstr "감사합니다!"
+
+#Contact (Complete)
+msgid "Your comment has been successfully submitted."
+msgstr "당신의 질문이 성공적으로<br class=\"only__mobile\"> 전달되었습니다."
+msgid "We will send a response to <br class=\"only__mobile\"><a href=\"#\" class=\"link__belongto--email\">{0}</a> ASAP."
+msgstr "최대한 빨리 <br class=\"only__mobile\"><a href=\"javascript:void(0);\" class=\"link__belongto--email\">{0}</a>로 <br class=\"only__mobile\">답변드리겠습니다."
+
+#Contact (Complete)
+msgid "Back to main"
+msgstr "메인으로 돌아가기"
+
+#: Template/Email/html/bolt_request.ctp:15
+msgid "{0}'s account deletion request is complete. The deletion <br>\n"
+"                process will occur 10 days from now. If you change your mind <br>\n"
+"                about deleting your account, simply log in within 10 days and your <br>\n"
+"                account will be restored."
+msgstr "{0}님의 계정 삭제 신청이 완료되었습니다. <br>\n"
+"                계정삭제는 신청일 기준 10일 이후에 진행됩니다. <br>\n"
+"               만약 계정을 다시 복구하고 싶으시다면, 10일 이내에 재로그인을 해주시기 바랍니다. <br>"
+
+#Create Account_SNS/Email
+msgid "Email Address"
+msgstr "이메일 주소"
+
+
+#: Template/Email/html/bolt_request.ctp:23 Template/Email/html/contact.ctp:23
+#: Template/Email/html/password_reset.ctp:26 Template/Email/html/thanks.ctp:28
+#: Template/Email/html/verification.ctp:26
+msgid "Need help?"
+msgstr "도움이 필요하신가요?"
+
+#: Template/Email/html/bolt_request.ctp:23 Template/Email/html/contact.ctp:23
+#: Template/Email/html/password_reset.ctp:26 Template/Email/html/thanks.ctp:28
+#: Template/Email/html/verification.ctp:26 Template/Fcc/faq.ctp:236
+msgid "Contact Us"
+msgstr "문의하기"
+
+#: Template/Fcc/about.ctp:26 Template/Models/index.ctp:52
+msgid "About"
+msgstr "About"
+
+#: Template/Fcc/about.ctp:27 Template/Models/index.ctp:53
+msgid "Schedule"
+msgstr "Schedule"
+
+#: Template/Fcc/about.ctp:68 Template/Models/index.ctp:95
+msgid "Crowd<br>Evaluation"
+msgstr "평가"
+
+#: Template/Fcc/about.ctp:82 Template/Models/index.ctp:109
+msgid "Announcement of <br>Winners"
+msgstr "Announcement of <br>Winners"
+
+#: Template/Fcc/browser_update.ctp:19 Template/Fcc/go_to_web.ctp:19
+msgid "You cannot proceed any further at this time."
+msgstr "더 이상 진행할 수 없습니다."
+
+#: Template/Fcc/browser_update.ctp:20
+msgid "This step requires Internet Explorer 10 or higher. Please update your browser to continue."
+msgstr "이 단계는 ie 10 이상 버전의 브라우저에서 진행 가능합니다. 등록을 계속하기 위해서는 브라우저를 업그레이드 해주세요."
+
+#: Template/Fcc/detail.ctp:19;25;39 Template/Fcc/home.ctp:47
+msgid "Model"
+msgstr "모델"
+
+#: Template/Fcc/detail.ctp:34;40 Template/Fcc/home.ctp:69
+msgid "Judge"
+msgstr "평가자"
+
+#: Template/Fcc/faq.ctp:156 Template/Posts/vimeo_complete.ctp:131
+#: Template/Posts/vimeo_upload.ctp:66
+msgid "The promotion video should be under 5 minutes in length. "
+msgstr "권장하는 동영상 길이는 5분 미만입니다."
+
+#: Template/Fcc/go_to_web.ctp:20
+msgid "You may register your basic info only via your smart phone. Please use your computer to continue."
+msgstr "스마트폰으로는 기본정보 입력만 가능합니다. <br>PC를 이용하여 다음 단계를 진행해주세요."
+
+#: Template/Layout/default.ctp:51
+msgid "This website requires Internet Explorer 10 or higher."
+msgstr "이 사이트는 <span>ie10 이상</span> 버전을 지원하고 있습니다."
+
+#: Template/Layout/default.ctp:244;245
+msgid "Join"
+msgstr "가입하기"
+
+#: Template/Layout/default.ctp:280
+msgid "My Profile"
+msgstr "나의 프로필"
+
+#: Template/Layout/default.ctp:281
+msgid "My Challenege"
+msgstr "나의 챌린지"
+
+#: Template/Layout/default.ctp:282;323
+msgid "Log Out"
+msgstr "로그아웃"
+
+#: Template/Layout/default.ctp:328
+msgid "STORY"
+msgstr "스토리"
+
+#: Template/Layout/default.ctp:329
+msgid "COMMUNITY"
+msgstr "COMMUNITY"
+
+#: Template/Layout/default.ctp:330
+msgid "COMMITTEE"
+msgstr "COMMITTEE"
+
+#: Template/Layout/default.ctp:331
+msgid "FCC 2015"
+msgstr "FCC 2015"
+
+#: Template/Layout/default.ctp:332
+msgid "MODEL CC 2015"
+msgstr "MODEL CC 2015"
+
+#: Template/Layout/default.ctp:488 Template/Users/password_again.ctp:82
+msgid "Please enter your Password."
+msgstr "비밀번호를 입력해주세요."
+
+#Account
+msgid "Change Password"
+msgstr "비밀번호 변경"
+
+#Account
+msgid "Old Password"
+msgstr "이전 비밀번호"
+
+#Create a new password
+msgid "New Password"
+msgstr "새 비밀번호"
+
+#Create a new password
+msgid "Confirm Password"
+msgstr "비밀번호 확인"
+
+#Create Account_Name/Pwd
+msgid "Password must be 8-20 characters using both numbers and letters."
+msgstr "비밀번호는 8-20개의 문자,숫자로 구성되어야만 합니다."
+
+#Account
+msgid "Delete Account"
+msgstr "계정 삭제"
+
+#Account
+msgid "Your account will be deleted 10 days <br> after the request is submitted."
+msgstr "계정 삭제 신청 후 10일 뒤에 삭제됩니다."
+
+#Create Account_Name/Pwd
+msgid "• at least one English alphabet letter (a-z, A-Z),• at least one digit number (0-9),• and no spaces."
+msgstr "• 하나 이상의 영문 포함 (a-z, A-Z),<br>• 하나 이상의 숫자 포함 (0-9),<br>• 공백 포함하지 않음"
+
+#: Template/Layout/default.ctp:557;581 Template/Users/edit.ctp:448;503;598;610
+msgid "Would you like to delete your account?"
+msgstr "계정을 삭제하길 원하십니까?"
+
+#Account Delete_Popup (2)
+msgid "Account deletion <br> request is complete"
+msgstr "계정 삭제 신청 완료"
+
+#Account Delete_Popup (2)
+msgid "The deletion process will occur <br> 10 days from now."
+msgstr "완전한 계정 삭제는 10일 이후에 이루어집니다."
+
+#: Template/Layout/default.ctp:561
+msgid "Changes have not been saved.<br>\n"
+"                                    Would you like to save now?"
+msgstr "수정한 정보가 저장되지 않았습니다.<br>\n"
+"                                    저장하시겠습니까?"
+
+#: Template/Layout/default.ctp:585
+msgid "Your account will be deleted 10 days after the request is submitted. After 10 days, all emails containing personal information, uploaded pictures, videos, and text will be deleted."
+msgstr "계정삭제는 신청일 기준 10일 이후에 진행됩니다. 10일 이후에는 이메일을 포함한 개인정보와 업로드한 사진,동영상,텍스트에 관한 정보가 모두 삭제됩니다. 신중한 결정 부탁드립니다."
+
+#: Template/Layout/default.ctp:587
+msgid "If you change your mind about deleting your account, you can log in to stop the deletion process within 10 days. If you log in again, all deleted information will be automatically restored."
+msgstr "만약 계정을 복구하고 싶으시다면, 10일 이내에 재 로그인을 해주시기 바랍니다.\n"
+"재 로그인 시, 삭제 신청된 계정 정보가 바로 복구됩니다."
+
+#: Template/Layout/default.ctp:593
+msgid "No, thank you."
+msgstr "아니오, 하지 않겠습니다."
+
+#: Template/Layout/default.ctp:594
+msgid "Yes, please."
+msgstr "네, 신청하겠습니다."
+
+#: Template/Layout/default.ctp:620;623
+msgid "Deletion request sent."
+msgstr "계정삭제가 신청되었습니다."
+
+#: Template/Layout/default.ctp:625
+msgid "Your account will be deleted in 10 days."
+msgstr "해당 계정은 10일 이후 완전히 삭제됩니다."
+
+#: Template/Models/complete.ctp:19 Template/Users/profile.ctp:78
+msgid "Registration complete!"
+msgstr "등록완료!"
+
+#: Template/Models/complete.ctp:20
+msgid "<p>Your registration was successfully completed.</p>\n"
+"            <p>You can check out your profile to verify your information.</p>\n"
+"            <p>You may revise your information until the final day of registration.</p>"
+msgstr "<p>당신의 정보가 성공적으로 등록되었습니다.</p>\n"
+"            <p>등록된 정보는 나의 계정에서 확인 가능하며,</p>\n"
+"            <p>등록 마감일까지 수정 가능합니다.</p>"
+
+#: Template/Models/complete.ctp:60
+msgid "Need more information? Check out the <a href=\"/fcc/faq\">FAQ</a>"
+msgstr "더 많은 정보가 필요한가요? <a href=\"/fcc/faq\">FAQs</a>에서 확인하세요."
+
+#: Template/Models/complete.ctp:61
+msgid "Verify my registration information"
+msgstr "등록정보 확인하기"
+
+#: Template/Models/info.ctp:65 Template/Models/info_add.ctp:381
+#: Template/Models/info_edit.ctp:396
+msgid "About Me"
+msgstr "자기소개"
+
+#: Template/Models/info.ctp:71 Template/Models/info_add.ctp:385
+#: Template/Models/info_edit.ctp:400
+msgid "Size"
+msgstr "사이즈"
+
+#: Template/Models/info.ctp:73 Template/Models/info_add.ctp:248;249;251;387;388
+#: Template/Models/info_edit.ctp:261;262;264;402;403
+msgid "Height"
+msgstr "키"
+
+#: Template/Models/info.ctp:76 Template/Models/info_add.ctp:277;278;279;390;391
+#: Template/Models/info_edit.ctp:290;291;292;405;406
+msgid "Weight"
+msgstr "몸무게"
+
+#: Template/Models/info.ctp:81 Template/Models/info_add.ctp:305;395;396
+#: Template/Models/info_edit.ctp:318;410;411
+msgid "Bust"
+msgstr "가슴"
+
+#: Template/Models/info.ctp:83 Template/Models/info_add.ctp:306;397;398
+#: Template/Models/info_edit.ctp:319;412;413
+msgid "Waist"
+msgstr "허리"
+
+#: Template/Models/info.ctp:85 Template/Models/info_add.ctp:307;399;400
+#: Template/Models/info_edit.ctp:320;414;415
+msgid "Hips"
+msgstr "엉덩이"
+
+#: Template/Models/info.ctp:101 Template/Models/info_add.ctp:415
+#: Template/Models/info_edit.ctp:430
+msgid "Image"
+msgstr "사진"
+
+#: Template/Models/info.ctp:146
+msgid "Want to delete your registration information?"
+msgstr "등록된 정보를 삭제하고 싶으신가요?"
+
+#: Template/Models/info.ctp:147 Template/Users/edit.ctp:230
+#: Template/Users/profile.ctp:46
+msgid "Edit"
+msgstr "수정"
+
+#: Template/Models/info.ctp:339
+msgid "If you delete your information, your participation in ModelCC 2015 will be cancelled. Do you wish to continue?"
+msgstr "등록된 모델 정보를 삭제하면, 당신의 ModelCC 2015 참가가 취소됩니다. 계속 진행하시겠습니까?"
+
+#: Template/Models/info.ctp:342
+msgid "No"
+msgstr "아니오."
+
+#: Template/Models/info.ctp:343
+msgid "Yes, delete."
+msgstr "네, 삭제하겠습니다."
+
+#: Template/Models/info_add.ctp:110;229 Template/Models/info_edit.ctp:124;242
+msgid "SIZE"
+msgstr "사이즈"
+
+#: Template/Models/info_add.ctp:116 Template/Models/info_edit.ctp:130
+msgid "DETAIL"
+msgstr "상세정보"
+
+#: Template/Models/info_add.ctp:122 Template/Models/info_edit.ctp:136
+msgid "VIDEO"
+msgstr "동영상"
+
+#: Template/Models/info_add.ctp:166 Template/Models/info_edit.ctp:179
+msgid "You must upload at least one image."
+msgstr "이미지는 반드시 1장 이상 업로드해야합니다."
+
+#: Template/Models/info_add.ctp:198 Template/Models/info_edit.ctp:211
+#: Template/Models/no_season.ctp:8 Template/Users/add_basic_info_save.ctp:5
+msgid "This is Not the period during Fashion Crowd Challenge held."
+msgstr "지금은 Fashion Crowd Challenge 진행기간이 아닙니다."
+
+#: Template/Models/info_add.ctp:228 Template/Models/info_edit.ctp:241
+msgid "Portfolio"
+msgstr "Portfolio"
+
+#: Template/Models/info_add.ctp:251;388 Template/Models/info_edit.ctp:264;403
+msgid "Please enter your height."
+msgstr "키를 입력해주세요."
+
+#: Template/Models/info_add.ctp:279;391 Template/Models/info_edit.ctp:292;406
+msgid "Please enter your weight."
+msgstr "몸무게를 입력해주세요."
+
+#: Template/Models/info_add.ctp:303;304 Template/Models/info_edit.ctp:316;317
+msgid "Body Measurements"
+msgstr "신체 사이즈"
+
+#: Template/Models/info_add.ctp:305;306;307;396;398;400
+#: Template/Models/info_edit.ctp:318;319;320;411;413;415
+msgid "Please enter your body measurements."
+msgstr "신체 사이즈를 입력해주세요."
+
+#: Template/Models/info_add.ctp:331;332;333
+#: Template/Models/info_edit.ctp:344;345;346
+msgid "Shoe size"
+msgstr "신발 사이즈"
+
+#: Template/Models/info_add.ctp:333;405 Template/Models/info_edit.ctp:346;420
+msgid "Please enter your shoe size."
+msgstr "신발 사이즈를 입력해주세요."
+
+#: Template/Models/info_add.ctp:365;441;483
+#: Template/Models/info_edit.ctp:378;460;512
+#: Template/Users/add_basic_info.ctp:276;426
+msgid "Next"
+msgstr "다음"
+
+#: Template/Models/info_add.ctp:382 Template/Models/info_edit.ctp:397
+msgid "Please fill out you \"About Me\" section."
+msgstr "\"자기소개\"를 입력해주세요."
+
+#: Template/Models/info_add.ctp:416 Template/Models/info_edit.ctp:431
+msgid "Please upload a high-quality photo of yourself."
+msgstr "누드, 폭력적, 선정적인 이미지는 삼가해주세요."
+
+#: Template/Models/info_add.ctp:427 Template/Models/info_edit.ctp:449
+msgid "Add"
+msgstr "추가"
+
+#: Template/Models/info_add.ctp:440;482 Template/Models/info_edit.ctp:459;511
+#: Template/Users/add_basic_info.ctp:423
+msgid "Back"
+msgstr "돌아가기"
+
+#: Template/Models/info_add.ctp:453 Template/Models/info_edit.ctp:474
+msgid "Video"
+msgstr "동영상"
+
+#: Template/Models/info_add.ctp:454 Template/Models/info_edit.ctp:475
+msgid "Please upload a video that shows off your style and ability"
+msgstr "디자인을 잘 표현할 수 있는 동영상을 업로드해주세요."
+
+#: Template/Models/info_add.ctp:460 Template/Models/info_edit.ctp:481
+#: Template/Posts/vimeo_complete.ctp:142
+msgid "Upload"
+msgstr "업로드"
+
+#: Template/Models/info_add.ctp:497
+msgid "Almost Finished!"
+msgstr "등록이 거의 완료되었습니다!"
+
+#: Template/Models/info_add.ctp:561
+msgid "I agree to the above and wish to register."
+msgstr "위 사항을 준수하였으며, 등록하겠습니다."
+
+#: Template/Posts/vimeo_upload.ctp:80
+msgid "Choose a Video to Upload"
+msgstr "업로드할 동영상을 선택해주세요"
+
+#: Template/Users/add_basic_info.ctp:94 Template/Users/edit.ctp:149
+msgid "over file size. max file size 5MB"
+msgstr "파일 크기가 초과되었습니다. 최대 사이즈는 5MB 까지 입니다."
+
+#: Template/Users/add_basic_info.ctp:168;297
+msgid "Basic Info"
+msgstr "기본정보"
+
+#: Template/Users/add_basic_info.ctp:183 Template/Users/edit.ctp:248
+msgid "Profile Picture"
+msgstr "프로필 사진"
+
+#Edit Profile
+msgid "Edit Profile"
+msgstr "프로필 수정"
+
+#Save Change_Popup
+msgid "Please save your <br>information"
+msgstr "입력한 정보를 저장해주세요"
+
+#: Template/Users/add_basic_info.ctp:201 Template/Users/edit.ctp:265
+msgid "Allowed file types JPG, GIF or PNG.<br>Maximum size of 5MB"
+msgstr "업로드에 허용되는 이미지 형식은 JPG, GIF, PNG입니다.<br class=\"only__mobile\">최대 사이즈는 5MB 까지 입니다."
+
+#: Template/Users/add_basic_info.ctp:207 Template/Users/edit.ctp:273
+msgid "Upload Photo"
+msgstr "사진 업로드"
+
+#: Template/Users/add_basic_info.ctp:210 Template/Users/edit.ctp:276
+msgid "Please upload your photo."
+msgstr "사진을 올려주세요."
+
+#: Template/Users/add_basic_info.ctp:221;224 Template/Users/edit.ctp:287;290
+msgid "Please enter your name."
+msgstr "이름을 입력해주세요."
+
+#: Template/Users/add_basic_info.ctp:228;229 Template/Users/edit.ctp:294;295
+msgid "Birth Date"
+msgstr "생년월일"
+
+#: Template/Users/add_basic_info.ctp:240 Template/Users/edit.ctp:307
+msgid "Month"
+msgstr "월"
+
+#: Template/Users/add_basic_info.ctp:241 Template/Users/edit.ctp:308
+msgid "Day"
+msgstr "일"
+
+#: Template/Users/add_basic_info.ctp:242 Template/Users/edit.ctp:309
+msgid "Year"
+msgstr "년"
+
+#: Template/Users/add_basic_info.ctp:244 Template/Users/edit.ctp:311
+msgid "Please enter your birth date."
+msgstr "생년월일을 선택해주세요."
+
+#: Template/Users/add_basic_info.ctp:248 Template/Users/edit.ctp:315
+msgid "Gender"
+msgstr "성별"
+
+#: Template/Users/add_basic_info.ctp:250 Template/Users/edit.ctp:318
+msgid "Female"
+msgstr "여성"
+
+#: Template/Users/add_basic_info.ctp:251 Template/Users/edit.ctp:319
+msgid "Male"
+msgstr "남성"
+
+#: Template/Users/add_basic_info.ctp:252 Template/Users/edit.ctp:238;320
+msgid "Other"
+msgstr "기타"
+
+#: Template/Users/add_basic_info.ctp:255 Template/Users/edit.ctp:323
+msgid "Please select a gender."
+msgstr "성별을 선택해주세요."
+
+#: Template/Users/add_basic_info.ctp:310;358
+#: Template/Users/edit.ctp:335;383;384
+msgid "City"
+msgstr "도시"
+
+#: Template/Users/add_basic_info.ctp:316 Template/Users/edit.ctp:341
+msgid "Country"
+msgstr "나라"
+
+#: Template/Users/add_basic_info.ctp:356
+msgid "Please select your country."
+msgstr "나라를 선택해주세요."
+
+#: Template/Users/add_basic_info.ctp:359 Template/Users/edit.ctp:384
+msgid "Please enter your city."
+msgstr "도시를 입력해주세요."
+
+#: Template/Users/add_basic_info.ctp:397
+msgid "Please select a valid language."
+msgstr "사용할 수 있는 언어를 선택해주세요."
+
+#: Template/Users/add_basic_info.ctp:412;413;414
+#: Template/Users/edit.ctp:436;437;438
+msgid "Phone Number"
+msgstr "전화번호"
+
+#: Template/Users/add_basic_info.ctp:414 Template/Users/edit.ctp:438
+msgid "(Country Code)"
+msgstr "(국가코드)"
+
+#: Template/Users/add_basic_info.ctp:415 Template/Users/edit.ctp:439
+msgid "Please enter your telephone number. We'll need it to tell you in case you win!"
+msgstr "당신의 전화번호를 입력해주세요. 수집된 전화번호는 우승시 연락을 위한 도구로 사용됩니다."
+
+#: Template/Users/add_basic_info_save.ctp:34;45
+msgid "Basic info<br>complete."
+msgstr "기본정보<br>입력완료"
+
+#: Template/Users/add_basic_info_save.ctp:35
+msgid "Basic info is complete.<br> Please click below to move to the next stage in the process."
+msgstr "기본정보 입력완료.<br> 아래 버튼을 눌러 다음 단계를 진행해주세요."
+
+#: Template/Users/add_basic_info_save.ctp:40
+msgid "Submit your portfolio"
+msgstr "작품 등록"
+
+#: Template/Users/add_basic_info_save.ctp:41
+msgid "Not ready to participate? <a href=\"/\">return to main page</a>"
+msgstr "아직 준비되지 않았나요? <a href=\"/\">메인으로 돌아가기</a>"
+
+#: Template/Users/add_basic_info_save.ctp:46
+msgid "basic info is complete. The next step can only be done via computer. Please complete using your computer."
+msgstr "기본정보 입력완료. 다음 단계는 PC로 등록 가능합니다. PC를 이용하여 등록을 완료해주세요."
+
+#: Template/Users/check_verification_email.ctp:23
+#: Template/Users/resend_verification_email.ctp:23
+msgid "<p>Dear <span class=\"user\">{0}</span></p>\n"
+"            <p>We have sent a verification email to <span class=\"email\">{1}</span></p>\n"
+"            <p>Open the e-mail and click the link to complete the registration process.</p>\n"
+"            <br>\n"
+"            <p>If you cannot find the activation email, <br>please check your spam folder or click below.</p>"
+msgstr "<p><span class=\"user\">{0}</span>님</p>\n"
+"            <p><span class=\"email\">{1}</span>로 인증메일을 전송하였습니다.</p>\n"
+"            <p>전송된 인증 링크를 통해 가입절차를 완료해주세요.</p>\n"
+"            <br>\n"
+"            <p>만약 인증메일이 메일함에서 보이지 않는다면,<br>스팸메일함을 확인해보시거나 인증메일을 다시 보내보세요.</p>"
+
+#: Template/Users/check_verification_email.ctp:33
+#: Template/Users/no_activate.ctp:30
+#: Template/Users/resend_verification_email.ctp:33
+msgid "Resend verification email."
+msgstr "인증메일 재전송"
+
+#: Template/Users/edit.ctp:234
+msgid "Profile"
+msgstr "프로필"
+
+#: Template/Users/edit.ctp:236
+msgid "Account"
+msgstr "계정"
+
+#: Template/Users/edit.ctp:282;283
+msgid "Name"
+msgstr "이름"
+
+#: Template/Users/edit.ctp:284
+msgid "First Name"
+msgstr "이름"
+
+#: Template/Users/edit.ctp:285
+msgid "Last Name"
+msgstr "성"
+
+#: Template/Users/edit.ctp:444;498;593 Template/Users/password_again.ctp:87
+msgid "Done"
+msgstr "완료"
+
+#: Template/Users/expired_token.ctp:18
+msgid "This link has expired."
+msgstr "이 링크는 만료되었습니다."
+
+#: Template/Users/first_time_join.ctp:86
+msgid "We need a few things to create your account."
+msgstr "당신의 계정을 생성하기 위해 몇 가지 정보가 필요합니다."
+
+#: Template/Users/first_time_join.ctp:94
+msgid "First name"
+msgstr "이름"
+
+#: Template/Users/first_time_join.ctp:95
+msgid "Last name"
+msgstr "성"
+
+#: Template/Users/first_time_join.ctp:99
+msgid "Please enter your first name."
+msgstr "이름을 입력해주세요."
+
+#: Template/Users/first_time_join.ctp:102
+msgid "Please enter your last name."
+msgstr "성을 입력해주세요."
+
+#: Template/Users/first_time_join.ctp:122
+msgid "Send verification email"
+msgstr "인증메일 보내기"
+
+#: Template/Users/no_activate.ctp:24
+msgid "Account Not Verified"
+msgstr "인증되지 않은 계정입니다"
+
+#: Template/Users/no_activate.ctp:25
+msgid "You already created your account,<br>but you need to verify it via the verification email we sent."
+msgstr "당신의 계정은 이미 회원가입 신청이 되어있습니다.<br>회원가입을 완료하기 위해서는 인증 메일을 통한 확인이 필요합니다."
+
+#: Template/Users/no_activate.ctp:27
+msgid "Can't find the verification email? <br>Click the button below to send it again."
+msgstr "이메일을 찾을 수 없나요?<br>하단의 버튼을 통해 인증메일을 다시 보내보세요."
+
+#: Template/Users/password_again.ctp:18
+msgid "Invalid email format"
+msgstr "포맷에 맞지 않은 이메일 주소입니다."
+
+#: Template/Users/password_again.ctp:48
+msgid "To protect your information. please enter your password again."
+msgstr "당신의 개인정보를 보호하기 위해 비밀번호를 다시 입력해주세요."
+
+#: Template/Users/profile.ctp:53
+msgid "Notifications"
+msgstr "알림"
+
+#: Template/Users/profile.ctp:72
+msgid "Try FCC's model challenge!"
+msgstr "FCC 모델챌린지에 도전하세요!"
+
+#: Template/Users/profile.ctp:75
+msgid "You haven't registered as a model yet."
+msgstr "아직 모델로 등록하지 않았습니다."
+
+# 수동 추가 ====================
+# ##=================================
+# # 20150821 / 20:08
+msgid "Did you forget your password?"
+msgstr "비밀번호를 잊으셨나요?"
+
+msgid "Resend email"
+msgstr "이메일 재전송"
+
+msgid "Password"
+msgstr "비밀번호"
+
+msgid "Optional"
+msgstr "선택항목"
+
+msgid "Website"
+msgstr "웹사이트"
+
+msgid "Enter URL"
+msgstr "URL 입력"
+
+msgid "New password and confirmation do not match"
+msgstr "새로운 비밀번호와 재입력된 비밀번호가 일치하지 않습니다."
+
+# ##=================================
+# # 20150821 / 20:52
+msgid "What Models Get"
+msgstr ""
+
+msgid "Submit Your Work"
+msgstr "작품 등록"
+
+# ##=================================
+# # 20150823 / 13:06 / FCC 2015 페이지
+# ##=================================
+# # 20150824 / 15:18 / users edit 페이지
+msgid "Save"
+msgstr "저장"
+
+# ##=================================
+# # 20150826 / 14:05 / 메인 타이틀이미지 설명
+#: Template/Users/first_time_join.ctp:47
+msgid "Show Password Errors"
+msgstr "- 하나 이상의 영문을 포함해야합니다. (a-z, A-Z)<br>- 하나 이상의 숫자를 포함해야합니다. (0-9)<br>- 공백은 허용되지 않습니다."
+
+#: main Error
+msgid "We could not get your information.<br>Please participate in FCC by your email."
+msgstr "당신의 계정정보를 찾을 수 없습니다.<br>이메일로 FCC에 가입해주세요."
+
+msgid "Sorry"
+msgstr "이런,"
+
+msgid "We will message your social media account with a link to reset your password"
+msgstr "가입하신 SNS 계정과 연결된 이메일 주소로 비밀번호 변경이 가능한 링크를 보내드립니다"
+
+msgid "Hello,"
+msgstr "안녕하세요,"
+
+msgid "Welcome to FCC.<br>To reset your password, please click the following link."
+msgstr "FCC에 오신 것을 환영합니다.<br>비밀번호를 재설정하기 위해 아래 링크를 클릭해주세요."
+
+msgid "Welcome to FCC.<br>To activate your account, please click the following link."
+msgstr "FCC에 오신 것을 환영합니다.<br>계정을 활성화하기 위해 아래 링크를 클릭해주세요."
+
+msgid "Click Here"
+msgstr "Click"
+
+msgid "Password Reset"
+msgstr "FCC 비밀번호 재설정"
+
+msgid "Shoes"
+msgstr "신발"
+
+msgid "Upload your video"
+msgstr "동영상 업로드"
+
+msgid "Delete"
+msgstr "삭제"
+
+msgid "We need you to agree to a few things before we can finish your ModelCC registration."
+msgstr "ModelCC에 등록하기 위해, 몇 가지 동의가 필요합니다."
+
+msgid "Model<br>Submission"
+msgstr "모델<br>등록"
+
+msgid "Join Fashion CC 2015"
+msgstr "FCC 2015에 참가하기"
+
+msgid "Model CC 2015</span><span>Evaluation Start"
+msgstr "Model CC 2015</span><span>평가 시작"
+
+msgid "Join Model CC 2015"
+msgstr "Model CC 2015에 참가하기"
+
+msgid "Fashion</span><span>Crowd Challenge?"
+msgstr "Fashion</span><span>Crowd Challenge?"
+
+msgid "FCC's mission is to discover fashion stars and thrust them into the public eye.<br>So, FCC is holding a truly global fashion show in which anyone can participate as a designer OR as a judge.<br><br>The designs which receive the best reviews will be displayed each day during the evaluation period at FashionCrowdChallenge.com.<br>FCC will announce the full body of winners on October 16th."
+msgstr "FCC는 패션을 중심으로, 집단지성과 IT를 결합한 신개념의 공모전입니다. <br>FCC의 미션은 대중의 손으로 직접 스타 디자이너를 발굴하고 글로벌 패션 트랜드를 만들어가는 것입니다. <br><br>소수를 위한 패션이 아닌 다수를 위한 패션, 소비를 위한 패션이 아닌 공감을 위한 패션, <br>강요된 아름다움이 아닌 일상의 아름다움을 창조하는 기회가 되리라 확신합니다.<br>10월16일 FCC가 발굴한 새로운 스타 디자이너가 탄생합니다."
+
+msgid "Learn about FCC "
+msgstr "FCC에 대해 알아보기"
+
+msgid "Brochure"
+msgstr "Brochure"
+
+msgid "Download our brochure for more detailed </span><span>information about FCC."
+msgstr "FCC에 대해 자세히 알고싶다면 브로슈어를 다운 받아보세요</span><span>"
+
+msgid "Vote for me ! "
+msgstr "평가해주세요!"
+
+msgid "<span>MEET THE STAR</span><span>MODELS OF</span>"
+msgstr "<span>미래의 스타모델을</span><span>만나보세요</span>"
+
+msgid "TOMORROW"
+msgstr " "
+
+msgid "<span>You choose the top models of ModelCC 2015.</span><span>Your input creates the stars of the future.</span>"
+msgstr "<span>ModelCC 2015의 주인공을 당신의 손으로 결정해주세요.</span><span>당신의 평가가 미래의 스타 모델을 만듭니다.</span>"
+
+msgid "Total"
+msgstr "Total"
+
+msgid "Today"
+msgstr "Today"
+
+msgid "The evaluation period ends in"
+msgstr "남은 평가 시간"
+
+msgid "hours,"
+msgstr "시"
+
+msgid "minutes."
+msgstr "분"
+
+msgid "Please Wait, Loading.."
+msgstr "잠시만 기다려주세요"
+
+msgid "Evaluate more models!"
+msgstr "더 많은 모델을 평가해보세요!"
+
+msgid "There is no evaluation subjects"
+msgstr "평가 대상이 없습니다."
+
+msgid "Back to list"
+msgstr "리스트로 돌아가기"
+
+msgid "About Me"
+msgstr "자기소개"
+
+msgid "Size"
+msgstr "사이즈"
+
+msgid "Height"
+msgstr "키"
+
+msgid "Weight"
+msgstr "몸무게"
+
+msgid "Bust"
+msgstr "가슴"
+
+msgid "Waist"
+msgstr "허리"
+
+msgid "Hips"
+msgstr "엉덩이"
+
+msgid "Shoes"
+msgstr "신발 사이즈"
+
+msgid "Comment"
+msgstr "코멘트"
+
+msgid "MODEL CC 2015"
+msgstr "MODEL CC 2015"
+
+msgid "WINNER"
+msgstr "WINNER"
+
+msgid "<span>The ModelCC 2015 Winners <br>have been chosen!</span><span>Let's meet the global top models <br>who will own the runway at FCC2015!</span>"
+msgstr "<span>ModelCC 2015 우승자가 선정되었습니다!</span><span>FCC2015의 런웨이를 걷게 될 글로벌 탑 모델을<br>만나보세요!</span>"
+
+msgid "View my results"
+msgstr "나의 결과 보기"
+
+msgid "Top Model"
+msgstr "Top Model"
+
+msgid "MODEL CC 2015 RESULTS"
+msgstr "MODEL CC 2015 결과"
+
+msgid "Grade"
+msgstr "등급"
+
+msgid "Judges"
+msgstr "평가자"
+
+msgid "Comments"
+msgstr "코멘트"
+
+msgid "View more language"
+msgstr "언어 더 보기"
+
+msgid "View"
+msgstr "더 보기"
+
+msgid "It looks like you haven't reviewed<br/>all the models yet.<br/> Please check the list again!<br/>"
+msgstr "아직 평가하지 않은 모델이 남았습니다.<br/>리스트에서 확인해주세요!<br/>"
+
+msgid "If you delete your information, your participation in FCC 2015 will be cancelled. Do you wish to continue?"
+msgstr ""
+
+msgid "If you delete your information, your participation in FCC 2015 will be cancelled. Do you wish to continue?"
+msgstr "등록된 모델 정보를 삭제하면, 당신의 FCC 2015 참가가 취소됩니다. 계속 진행하시겠습니까?"
+
+msgid "Email Verification"
+msgstr "FCC 가입을 위해 이메일 승인을 완료해주세요"
+
+msgid "Portfolio <br>Submission"
+msgstr "포트폴리오 제출"
+
+msgid "Crowd<br>Evaluation"
+msgstr "평가"
+
+msgid "Crowd <br>Evaluation"
+msgstr "평가"
+
+msgid "Announcement of <br>Winners"
+msgstr "결과 발표"
+
+msgid "Portfolio <br>Evaluation"
+msgstr "평가"
+
+msgid "10th Sep.<br> - <br>13th Sep."
+msgstr "9월 10일<br> ~ <br>9월 13일"
+
+msgid "FCC\'s Model Evaluation<br>has begun."
+msgstr "FCC의 모델 평가가 시작되었습니다."
+
+msgid "Check out another model!"
+msgstr "모델들을 평가해주세요!"
+
+msgid "Evaluation <br>finished!."
+msgstr "모든 FCC의 모델 평가가 완료되었습니다."
+
+msgid "Evaluation finished! see you tomorrow."
+msgstr "내일 새로운 30명의 모델들을 FCC에서 평가해 주십시오."
+
+msgid "14th Sep."
+msgstr "9월 14일"
+
+msgid "My results."
+msgstr "나의 평가결과"
+
+msgid "Meet the star <br> models of <br> tomorrow"
+msgstr "미래의 스타모델을<br>만나보세요"
+
+msgid "Registration complete!"
+msgstr "등록 완료!"
+
+msgid "No design information<br>submitted."
+msgstr "작품정보가 없어 디자이너 등록을 진행 할 수 없습니다."
+
+msgid "Individual</span><span>Registration"
+msgstr "개인 등록"
+
+msgid "Team</span><span>Registration"
+msgstr "팀 등록"
+
+msgid "Registration"
+msgstr "등록"
+
+msgid "Are you registering as an individual or as a team?<br>After you choose, you will not be able to change it,<br>so proceed with caution!"
+msgstr "개인 혹은 팀으로 등록하시겠습니까?<br>등록 후에는 변경이 불가하니 신중하게 선택해주세요."
+
+msgid "Team name"
+msgstr "팀명"
+
+msgid "Please enter a team name."
+msgstr "팀명을 입력해주세요."
+
+msgid "Back"
+msgstr "뒤로가기"
+
+msgid "Next"
+msgstr "다음"
+
+msgid "Category"
+msgstr "카테고리"
+
+msgid "What category best describes your design?"
+msgstr "당신의 디자인을 가장 잘 설명할 수 있는 카테고리를 입력하세요."
+
+msgid "Target customer"
+msgstr "타겟 소비자"
+
+msgid "Optional"
+msgstr "선택항목"
+
+msgid "Who is the target consumer for your design?"
+msgstr "디자인의 타겟 소비자는 누구인가요?"
+
+msgid "Title"
+msgstr "타이틀"
+
+msgid "Please enter a title."
+msgstr "타이틀을 입력해주세요"
+
+msgid "Simple description"
+msgstr "간략한 설명"
+
+msgid "Please enter a simple description of your design."
+msgstr "디자인의 간략한 설명을 입력해주세요."
+
+msgid "You must upload at least one image."
+msgstr "최소 한개 이상의 이미지를 업로드해주세요."
+
+msgid "Detailed description"
+msgstr "상세 설명"
+
+msgid "Tell us the whole story of your design."
+msgstr "디자인에 관련된 상세설명을 입력해주세요."
+
+msgid "Please enter a detailed description of your design."
+msgstr "상세 설명을 입력해주세요."
+
+msgid "Team members"
+msgstr "팀 구성원"
+
+msgid "Please enter a name."
+msgstr "이름을 입력하세요."
+
+msgid "Please enter a valid email format."
+msgstr "형식에 맞는 이메일을 입력하세요."
+
+msgid "Please enter a category."
+msgstr "카테고리를 입력하세요."
+
+msgid "We need you to agree to a few things before we can finish your FCC registration."
+msgstr "FCC에 등록하기 위해, 몇 가지 동의가 필요합니다."
+
+msgid "Registration complete!"
+msgstr "등록이 완료되었습니다."
+
+msgid "Your registration was successfully completed.</p><p>You can check out your profile to verify your information.</p><p>You may revise your information until the final day of registration."
+msgstr "디자이너 등록이 성공적으로 완료되었습니다.<br> 프로필에서 당신의 정보를 확인하실수 있습니다.<br> 최종 작품 등록일까지 프로필 정보 수정이 가능합니다."
+
+msgid "24th Aug.<br> - <br>9th Sep."
+msgstr "8월 24일<br> ~ <br> 9월 9일"
+
+msgid "8th Oct.<br> - <br>15th Oct."
+msgstr "10월 8일 <br> ~ <br>10월 15일"
+
+msgid "During the evaluation period,</p><p>submitters are responsible for reviewing and evaluating peer designers’ submissions.</p><p>Design submitters who do not fully participate in the evaluation process <br>may find that their own submissions have been excluded from the contest."
+msgstr "평가 기간동안, 지원자는 다른 디자이너의 작품을 평가해야합니다.<br> 평가에 참여하지 않은 지원자가 제출한 작품은 FCC 평가 대상에서 제외될 수 있음을 알려드립니다."
+
+msgid "Verify my registration information"
+msgstr "나의 등록정보를 확인하세요."
+
+msgid "16th Oct."
+msgstr "10월 16일"
+
+msgid "Delete your information?"
+msgstr "등록정보를 삭제하겠습니까?"
+
+msgid "Team Info"
+msgstr "팀정보"
+
+msgid "Design Info"
+msgstr "디자인 정보"
+
+msgid "Add comment"
+msgstr "코멘트"
+
+msgid "Back to Result"
+msgstr "결과 리스트로 돌아가기"
+
+msgid "New password cannot be the same as your current password"
+msgstr "새로운 비밀번호는 기존의 비밀번호와 같을 수 없습니다."
+
+#: What do you think of me?
+msgid "$data['questions'][0]['question']"
+msgstr "모델을 평가해주세요"
+
+msgid "Design<br>Submission"
+msgstr "디자인 제출"
+
+msgid "Continue"
+msgstr "진행하기"
+
+msgid "We need you to agree to a few things before we can finish your FCC registration."
+msgstr "FCC에 등록된 디자인은 저작권법상 보호를 받으며, 무단으로 표절하거나 사용할 경우 법적 처벌을 받을 수 있습니다."
+
+msgid "FCC\'s schedule uses Greenwich Mean Time (GMT)"
+msgstr "FCC 스케쥴은 그리니치 표준시 기준입니다."
+
+
+msgid "Winner’s Awards"
+msgstr "우승자 어워드"
+
+msgid "ModelCC 2015 Winners will receive the title of TOP MODEL."
+msgstr "ModelCC 2015 우승자에게는 TOP MODEL 타이틀이 주어집니다."
+
+msgid "Winners will also receive the opportunity to appear onstage at the FCC2015 fashion show."
+msgstr "선발된 우승자는 FCC 2015 패션쇼 무대에 설 수 있습니다."
+
+msgid "Model CC 2015 WINNER"
+msgstr "ModelCC 2015 우승자"
+
+msgid "A chance to work as an FCC model"
+msgstr "FCC 전속 모델로"
+
+msgid "A chance to appear onstage in the FCC fashion show."
+msgstr "활동할 수 있는 기회."
+
+msgid "A chance to appear onstage"
+msgstr "FCC 패션쇼 무대에"
+
+msgid "in the FCC fashion show."
+msgstr "설 수 있는 기회."
+
+msgid "Declaration of</span><span> Winners"
+msgstr "Model CC 2015</span><span>우승자 발표"
+
+msgid "View detail"
+msgstr "확인하기"
+
+msgid "FCC winners will be notified of the award ceremony <br>and fashion show via email or telephone."
+msgstr "FCC 위원회는 우승자들에게 이메일과 전화로 시상식과 패션쇼 일정을 개별 안내 할 예정입니다"
+
+msgid "Model CC 2015 <br>Winners"
+msgstr ""
+
+msgid "View Model CC 2015 Winners"
+msgstr ""
+
+msgid "Did you submit your modelling portfolio?"
+msgstr "모델로 참가하셨나요?"
+
+msgid "Sign in and see your results!"
+msgstr "당신의 결과를 확인해보세요."
+
+msgid "Download Now"
+msgstr "직접 다운로드"
+
+msgid "Modhello,</span><span>an app for designers."
+msgstr "Modhello, </span><span>디자이너를 위한 앱"
+
+msgid "Upload your designs via Modhello!"
+msgstr "Modhello 앱을 통해 디자인을 등록해보세요."
+
+msgid "Thank you for registering,"
+msgstr ""
+
+msgid "Share with your friends!"
+msgstr "친구들과 공유세요"
+
+msgid "Tell your friends that you\'ve entered FCC 2015!"
+msgstr "당신의  FCC 2015 참가 소식을 친구들과 공유해보세요."
+
+msgid "<span>Good Luck !</span><strong>{0} {1}</strong>"
+msgstr "<span>행운을 빌어요! </span><strong>{0} {1}</strong>"
+
+msgid "<span>Good Luck !</span><strong style='display: block;'>{0} {1}</strong>"
+msgstr "<span>행운을 빌어요! </span><strong style='display: block;'>{0} {1}</strong>"
+
+msgid "Thank you for a registration!"
+msgstr "등록해주셔서 감사합니다!"
+
+msgid "See you on Oct. 8th"
+msgstr "10월 8일에 다시 만나요."
+
+msgid "Thank you for registering,{0} {1}"
+msgstr "등록해주셔서 감사합니다."
+
+msgid "Thank you for registering with FCC! Those who are registered with FCC will occasionally receive newsletters, announcements, and updated schedules through email.<br><br>To guarantee a fair and equal opportunity for all participants, the FCC winner will be selected using an algorithm based \"collective intelligence technology.\" This process is transparent to the public. Thus, FCC allows both professionals and non-professionals to participate, free of charge. FCC hopes to serve as a revolutionary avenue for fashion designers to showcase their talents and skills.<br><br>Please check the FCC schedule.<br><br>"
+msgstr "FCC 회원이 되신걸 축하드립니다. <br>회원으로 등록되신 분들께는 일정, 공지사항, 뉴스레터 등의 정보가 이메일로 발송됩니다.<br><br>FCC의 우승자는 '집단지성 테크놀로지’를 기반으로 한 알고리즘을 통해 공정한 과정을 거쳐 선출되고, 이 과정은 전 세계 누구에게나 투명하게 공개됩니다. <br>FCC에 참가하고 싶은 패션 디자이너라면 누구나 쉽고 빠르게 무료로 참여할 수 있습니다. <br>FCC는 주류에서 소외된 이들에게 기회이자, 대중의 지혜가 집약된 새로운 패션트렌드를 만드는 거대한 흐름이 되리라 자부합니다.<br><br>FCC 일정을 확인해주세요.<br><br>"
+
+msgid "Thanks,"
+msgstr "감사합니다."
+
+msgid "FCC Committee"
+msgstr "FCC 위원회"
+
+msgid "Thank you for participating."
+msgstr "가입해주셔서 감사합니다."
+
+msgid "Read more"
+msgstr "더 보기"
+
+msgid "All"
+msgstr "전체"
+
+msgid "Your story"
+msgstr "당신의 이야기"
+
+msgid "FCC News"
+msgstr "FCC 뉴스"
+
+msgid "So, what\'s your story?"
+msgstr "당신의 이야기는 무엇인가요?"
+
+msgid "It’s not a story about fashion.<br>It’s a story about you."
+msgstr "패션에 대한 이야기가 아닌, 당신에 대한 이야기"
+
+msgid "Share your stories with us"
+msgstr "당신의 이야기를 저희에게 들려주세요."
+
+msgid "Share"
+msgstr "공유하기"
+
+msgid "Search the Title or Registration number"
+msgstr "작품제목 혹은 등록번호를 검색하세요."
+
+msgid "<span>Search results for {0}</span><strong>"
+msgstr "<span>{0} 에 대한 검색결과 입니다.</span><strong>"
+
+msgid "The URL has been copied. Please paste anywhere you want."
+msgstr "URL이 복사되었습니다. 원하는 곳에 붙여넣기 해주세요."
+
+msgid "Loading more"
+msgstr "더 불러오기"
+
+msgid "Meet the world's fashion lovers united through Fashion Crowd Challenge "
+msgstr "패션 크라우드 챌린지에 함께하는 전세계 패션 러버들을 만나보세요."
+
+#:FCC Main Page
+
+msgid "FASHION"
+msgstr ""
+
+msgid "CROWD"
+msgstr ""
+
+msgid "CHALLENGE"
+msgstr ""
+
+msgid "Submit your design"
+msgstr "디자인 제출"
+
+msgid "FCC 2015 design submission begins on September 10th"
+msgstr "FCC 2015 디자인 제출은 9월 10일부터 시작합니다"
+
+msgid "What is Fashion Crowd Challenge?"
+msgstr "Fashion Crowd Challenge란?"
+
+msgid "The mission of Fashion Crowd Challenge (FCC) is to find and bring talented, <br>hidden fashion stars into the spotlight of the world. To this end, FCC is introducing a new type of fashion design competition. <br>Unlike typical design contests, design submissions in FCC are evaluated <br>by general people and peer designers."
+msgstr "FCC는 패션을 중심으로, 집단지성과 IT를 결합한 신개념의 공모전입니다.<br>FCC의 미션은 대중의 손으로 직접 스타 디자이너를 발굴하고 글로벌 패션 트랜드를 만들어가는 것입니다.<br>소수를 위한 패션이 아닌 다수를 위한 패션, 소비를 위한 패션이 아닌 공감을 위한 패션,<br>강요된 아름다움이 아닌 일상의 아름다움을 창조하는 기회가 되리라 확신합니다.<br>10월16일 FCC가 발굴한 새로운 스타 디자이너가 탄생합니다."
+
+msgid "Design <br>Submission"
+msgstr "디자인<br>제출"
+
+msgid "Upload <br>your items."
+msgstr "출품할 작품을<br>업로드 해주세요."
+
+msgid "<b>10th Sep</b> (am. 00:01) <br><b>- 7th Oct</b> (pm.10:00)"
+msgstr "9월 10일</b> (am. 00:01) <br><b>- 10월 7일</b> (pm.10:00)"
+
+msgid "Submission"
+msgstr "작품 제출"
+
+msgid "Crowd <br>Evaluation"
+msgstr "디자인<br>평가"
+
+msgid "All uploaded material <br>will be evaluated <br>during FCC2015."
+msgstr "FCC2015 기간 중<br>업로드된 모든 작품은<br>평가의 대상이 됩니다."
+
+msgid "<b>8th Oct</b> (am. 00:01) <br><b>- 15th Oct</b> (pm.10:00)"
+msgstr "10월 8일</b> (am. 00:01) <br><b>- 10월 15일</b> (pm.10:00)"
+
+msgid "Evaluation"
+msgstr "평가"
+
+msgid "Declaration <br>of Winners"
+msgstr "우승자<br>발표"
+
+msgid "Here are the winners, <br>chosen by people <br>from all over the world."
+msgstr "전세계인들이<br>선발한 우승자가<br>발표됩니다."
+
+msgid "16th Oct"
+msgstr "10월 16일"
+
+msgid "View"
+msgstr "더 보기"
+
+msgid "Upload Method"
+msgstr "작품제출 방법"
+
+msgid "What kind of images should I submit?"
+msgstr "작품등록시 제출 가능한 이미지는 무엇인가요?"
+
+msgid "Designs may be submitted as any image - photo, picture, sketch, illustration, etc. However, <br>to increase your chance of winning, we recommend submitting a photograph of the physical clothes you designed."
+msgstr "디자이너는 사진,그림,스케치,일러스트 등 작품과 관련한 모든 형식의 이미지를 제출할 수 있습니다.<br>단, 우승의 기회를 높이기 위해서는 작품의 실물 사진을 업로드 하실것을 권장드립니다."
+
+msgid "How many designs can I upload?"
+msgstr "제출 할 수 있는 디자인 수는 몇개입니까?"
+
+msgid "There is a 20-image file limit per account. You can use all 20 images to showcase a single design or <br>up to 20 different designs. How you choose to allocate your photos is completely up to you."
+msgstr "디자인 제출시 갯수 제한은 없습니다. 단, 제출 가능한 이미지수는 20장 입니다.<br>디자이너 분들은 1개의 작품 또는 다양한 작품을 20장의 제한 수에 맞추어 제출해 주시면 됩니다."
+
+msgid "Who are the designers?"
+msgstr "누가 디자이너 인가요?"
+
+msgid "The Designers are anybody who has submitted their own designs through the FCC webpage. <br>Uploaded designs will be evaluated by the judges."
+msgstr "FCC 웹사이트에서 자신의 디자인을 등록(Submit)한 참여자들은 모두 디자이너입니다.<br>업로드한 디자인은 FCC2015에 참여한 심사위원(JUDGES)에게 평가를 받게 됩니다."
+
+msgid "Designer Awards"
+msgstr "우승자 어워드"
+
+msgid "Designers chosen as FCC2015 WINNERS will receive financial support for the launching of their brands. <br>The winning designs will also be eilgible to appear in the FCC2015 fashion show."
+msgstr "FCC 2015 WINNER로 선정된 분들에게는 자신의 고유 브랜드를 런칭 할 수 있는 어워드가 지급됩니다.<br>그리고 FCC2015 패션쇼에 WINNER 디자이너 자격으로 참가 할 수 있습니다."
+
+msgid "Winners"
+msgstr ""
+
+msgid "Financial support"
+msgstr "재정적 지원"
+
+msgid "Manufacturing"
+msgstr "생산"
+
+msgid "Promotion & Marketing"
+msgstr "홍보 및 마케팅"
+
+msgid "Networking tools"
+msgstr "네트워킹 구축"
+
+msgid "Dream Awards"
+msgstr ""
+
+msgid "10 winners"
+msgstr ""
+
+msgid "5,000 USD"
+msgstr ""
+
+msgid "10 Winners"
+msgstr ""
+
+msgid "Cash prize"
+msgstr "상금"
+
+msgid "View Detail"
+msgstr "확인하기"
+
+
+msgid "Who are the judges?"
+msgstr "누가 심사위원 인가요?"
+
+msgid "Anybody who has registered for the FCC website can be a judge! <br>View and evaluate designs from all over the world via a simple process."
+msgstr "FCC 웹사이트에서 자신의 디자인을 등록(Submit)한 참여자들은 모두 디자이너입니다.<br>업로드한 디자인은 FCC2015에 참여한 심사위원(JUDGES)에게 평가를 받게 됩니다."
+
+msgid "Judge Awards"
+msgstr "평가자 어워드"
+
+msgid "Judges who make a special effort to give constructive feedback, inspiration and support to <br>the participating designers will be invited to the FCC2015 fashion show and receive products <br>from the winning designers."
+msgstr "FCC 2015 의 평가에 적극적으로 참여하여<br>WINNER 선발에 도움을 주신 JUDGE 중 일부를 선정하여<br>FCC 위원회에서 제공하는 특별한 타이틀과<br>FCC2015 패션쇼의 초청장, WINNER 의 작품을 드립니다.<br>"
+
+msgid "Trend Maker"
+msgstr ""
+
+msgid "2016 Crowd Challeng <br>Festival Shanghai Invitation"
+msgstr "상하이에서 개최되는 2016 Crowd Challenge Festival 초대"
+
+msgid "Airline"
+msgstr "비행기표"
+
+msgid "Tickets"
+msgstr " "
+
+msgid "Winning <br>Designer’s Work"
+msgstr "수상작품"
+
+msgid "Trend Influencer"
+msgstr ""
+
+msgid "You are the star of FCC 2015 !"
+msgstr "당신이 바로 FCC 2015의 스타입니다!"
+
+msgid "Come take part in FCC2015, <br>the global fashion festival which allows you to shape global fashion <br>with your very own hands. <br>We are waiting for you."
+msgstr "당신의 손으로 글로벌 패션 트랜드를 만들 수 있는 기회<br>글로벌 패션 축제, FCC2015 에 참여하세요.<br>당신이 바로 FCC2015의 우리의 주인공입니다. "
+
+msgid "Designer’s Responsibilities"
+msgstr "디자이너 참여자의 책임과 의무사항"
+
+msgid "During the evaluation period, submitters are responsible for reviewing and evaluating peer designers’ submissions. Design submitters who do not fully participate in the evaluation process may find that their own submissions have been excluded from the contest. Works submitted to FCC should be the original creation or property of the designer. If the designer would like to use a copyrighted logo, pattern or character, proper licensing must be obtained before uploading the work to FCC. Any issues regarding copyright or plagiarism will become the sole responsibility of the designer, and their works will be excluded from the contest. Furthermore, works that include hate speech, violence, sexual harassment, racism, sexism, religious or political discrimination, stolen content, violence against animals, or generally offensive material are banned and can be excluded from winning prizes even if they receive winning votes."
+msgstr "참가한 디자이너는 평가 기간 동안 다른 참가자들의 작품을 평가해야 합니다. 만약 참가한 디자이너가 다른 작품에 대하여 평가하지 않는 경우 FCC 수상작 선정에서 제외될 수 있습니다.공모전에 제출한 패션디자인 작품은 참가 디자이너의 소유물이며 창작물이어야 합니다. 특정기업의 로고, 패턴, 캐릭터를 출품작에 사용하는 경우에도 반드시 라이센스 이슈가 해결되어 있어야 합니다. 만약 저작권 및 표절의 이슈가 발생할 시 법적, 도덕적 책임은 제출자가 지어져야 하며, 문제가 발생한 경우는 심사에서 제외되며, 입상후에도 취소될 수 있습니다. 아울러, 증오, 폭력, 성희롱, 인종차별, 성적/종교적/정치적 차별, 혐오감을 일으킬 수 있는 콘텐츠, 타인을 착취하거나 부당하게 이용하는 콘텐츠, 동물학대, 정치적 선동 및 노골적인 성적 표현이 담긴 작품은 제출을 금합니다. 이러한 내용으로 논란의 대상이 된 작품은 입상을 하더라도 추후 수상이 취소될 수 있습니다."
+
+msgid "More Details"
+msgstr "더 알아보고싶다면"
+
+msgid "Download Brochure"
+msgstr "브로슈어 다운로드"
+
+msgid "The first 5 winning designers, which consists of a 100,000USD 1st place winner (one designer), 30,000 USD 2nd place winner (two designers), and 20,000USD 3rd place winner (two designers), will work with FCC and receive financial support for the manufacturing, promotion and marketing, as well as being provided networking tools for their designs or brands.<br>Therefore, by connecting designers with new buyers and markets, FCC will aim to raise designers to the height of international fame.<br>FCC will work with the winning designers to customize a financial package that best suits their needs. Whether you need help with manufacturing, distributing, networking, or marketing, FCC will help you in developing successful strategies.<br>On the other hand, if your brand is already being manufactured, marketed and distributed, the FCC will be a new platform to introduce your brand to new markets. The FCC will work with you to highlight your full potential and boost your recognition. We will help to foster a professional relationship between you and the fashion industry.<br>Dream Award winners (10 designers) will receive a 5,000 USD cash prize.<br>All winning designers will also be eligible to appear in the Crowd challenge festival 2016 held in Shanghai which will definitely be a unique opportunity to elevate your brand to the next level."
+msgstr "상위 5명의 수상 디자이너에게는  다음과 같은 성장 지원금이 주어집니다. 1 위 우승자( 디자이너 1명 )는 100,000USD , 2 위 우승자 (디자이너 2명)는  각각 30,000USD, 3 위 우승자(디자이너 2명)는 각각 20,000USD를 FCC로부터 지원받아  상품생산, 프로모션 , 마케팅, 및 디자인과 브랜딩을 위해 사용할 수 있게됩니다.<br><br>FCC의 목표는 신진 디자이너를  새로운 바이어 또는 해외 시장에 직접 연결시켜 국제적인 명성을 얻을 수 있게 하는 것입니다.<br><br>FCC는 수상 디자이너에 꼭 맞는 성장 지원 프로그램을 제공할 예정입니다. 만약 제품 생산,  배포 및 판매, 네트워크 구축, 마케팅에 도움이 필요하다면 FCC가 성공적인 사업전략을 위한 도움을 줄 것입니다.<br><br>이미 수상 디자이너의 브랜드가 제품 생산 및 판매 활동을 하고 있다면, FCC는 새로운 시장에 당신의 브랜드를 소개할 수 있는 기존에 없던 플랫폼이 될 것입니다. FCC는 디자이너의 성장 잠재력을 강조하여 인지도를 끌어올릴 것입니다. FCC는 신진 디자이너와 세계 패션산업을 잇는 등용문의 역할을 수행하고자 합니다.<br><br>Dream Award 수상자들에게는 (10명의 디자이너) 5,000USD의 상금이 제공됩니다.<br><br>수상된 디자이너 모두 상하이에서 개최하는  Crowd challenge festival 2016에 등장하여 다음 레벨로 브랜드를 성장시킬 수 있는 독특한 기회를 얻을수있습니다."
+
+msgid "Click here for full terms and conditions"
+msgstr "전체 이용약관을 보시려면 이곳을 클릭하세요."
+
+msgid "The title of “Trend Maker” will be awarded to the top five judges whose evaluation style closely matches the overall trend of the general public.  “Trend Maker” award winners will receive an invitation to the 2016 Crowd Challenge Festival Shanghai, airline tickets with accommodations and the Crowd Challenge Festival gift package, which includes some of the winning designers’ work.<br><br>The title of “Trend Influencer” will be given to the next ten judges whose evaluation style closely matches the overall trend of the general public. “Trend Influencers” award winners will receive a Crowd Challenge Festival gift package, which includes some of the winning designers’ work.<br><br>The 2016 Crowd Challenge Festival Shanghai will be the must-see event of the year. The festival will host the first annual Crowd Challenge Fashion Show that will showcase the Fashion Crowd Challenge winning designers, worn by the winners of the Model Crowd Challenge, from around the world. Along with the fashion show will be performances from some of the most popular Korean Pop groups in the music industry today. It will be a glamorous occasion celebrating fashion, music, and the crowd."
+msgstr "평가에 참여해주신 분들 중 상위 5명에게는 “Trend Maker” 타이틀이 주어집니다. “Trend Maker” 타이틀을 받으신 분들은 2016 Crowd Challenge Festival Shanghai 초대장, 비행기 티켓, 숙소, FCC 2015 우승자의 작품이 선물로 제공됩니다.<br><br> 평가에 참여해주신 분들 중 상위 5명을 제외한 10명의 상위권자에게는 “Trend Influencer” 타이틀이 주어집니다. “Trend Influencer” 타이틀을 받으신 분들은 FCC 2015 우승자의 작품이 선물로 제공됩니다.<br><br>2016 Crowd Challenge Festival Shanghai 는 Fashion Crowd Challenge 의 우승자들과 Model Crowd Challenge 우승자들이 참여하는 첫번째 Crowd Challenge 패션쇼입니다. 정상급 한류스타의 축하 공연과 함께하는 2016 Crowd Challenge Festival Shanghai 에서 패션, 음악, 대중의 열기 함께 느껴보세요."
+
+msgid "Incentive"
+msgstr "격려금"
+
+msgid "Create account<br>or Sign in"
+msgstr "가입<br>혹은 로그인"
+
+
+#:FCC Committee
+
+
+msgid "We\'re looking for members who can serve on the FCC2015 Committee.<br/>Recommend people you know to us !"
+msgstr "FCC2015에서 만나고 싶은 Committee 멤버를 추천해주세요."
+
+msgid "This person is an inspiration that can offer valuable advice<br>and serve as a role model to others."
+msgstr "디자이너에게 영감을 주고 롤모델이 되는 인물"
+
+msgid "Number of applications received"
+msgstr "후보자 수"
+
+msgid "Number of confirmed members"
+msgstr "Committee 멤버 수"
+
+msgid "Recommendation"
+msgstr "추천"
+
+msgid "Information"
+msgstr "안내"
+
+msgid "Application"
+msgstr "신청"
+
+msgid "Search"
+msgstr "검색"
+
+#: 20 candidates found
+msgid "0</span></strong> candidates found"
+msgstr "0</span></strong> 명의 Committee 후보자가 검색되었습니다."
+
+msgid "Recommend"
+msgstr ""
+
+msgid "Details"
+msgstr ""
+
+msgid "Confirmed member"
+msgstr "확정"
+
+msgid "There are no registered Committee members."
+msgstr "등록된 Committee 후보자가 없습니다."
+
+msgid "Visit the application page to apply or recommend someone to be a member of the Committee."
+msgstr "누구나 Committee 후보자로 신청하거나 다른 사람을 추천할 수 있습니다."
+
+msgid "Back"
+msgstr "이전"
+
+msgid "You\'ve submitted a vote for a Committee member."
+msgstr "투표하셨습니다"
+
+msgid "You can vote for each candidate once per day."
+msgstr "투표는 후보당 최대 1회만 가능합니다."
+
+msgid "Confirm"
+msgstr "확인"
+
+msgid "Cancel"
+msgstr "취소"
+
+msgid "Recommend someone to serve on the FCC2015 Committee!"
+msgstr "FCC2015와 함께 할 Committee 멤버를 추천해주세요."
+
+msgid "Introduction"
+msgstr "안내"
+
+msgid "We would like to invite to the FCC Committee anyone can inspire, challenge, and encourage the Fashion Crowd Challenge designers."
+msgstr "Fashion Crowd Challenge에 참여하는 디자이너들에게 영감을 주며 그들의 새로운 도전을 응원하는 분들을 FCC Committee 멤버로 초대하고자 합니다."
+
+msgid "Committee candidate recommendation and application"
+msgstr "Committee 후보자 추천 및 신청"
+
+msgid "Submit your reason for recommending a candidate, along with their basic personal info (in any language).<br>Anyone can be recommended as a Committee candidate."
+msgstr "후보자 기본 정보 및 추천 사유 입력 (다국어 지원 가능)</br>누구나 Committee 후보자로 추천 가능합니다."
+
+msgid "How to apply for Committee membership"
+msgstr "Committee 멤버 선정 방법"
+
+msgid "Whichever candidate receives the most votes will become a member of the FCC2015 Committee.<br>Anyone can vote for a committee member. It is not necessary to log in."
+msgstr "추천된 후보자 중 대중의 선택을 통해 FCC2015 Committee 멤버가 선정됩니다.<br>Committee 멤버 선정은 로그인 없이 누구나 투표 가능합니다."
+
+msgid "Process of becoming a Committee member"
+msgstr "Committee 멤버 승인 절차"
+
+msgid "1. Committee membership application<br>2. Committee membership approval<br>3. New member formally begins Committee activity"
+msgstr "1. Committee 멤버 활동 요청<br>2. Committee 멤버 승인<br>3. Committee 멤버 정식 활동 시작"
+
+msgid "<li>If there is an error or mistake in the Committee candidate request, the submission may be canceled.</li><li>Committee candidate information may not be edited after uploading.</li>"
+msgstr "<li>Committee 후보자 정보에 문제가 있을 시에는 관리자가 임의로 삭제 할 수 있습니다.</li><li>Committee 후보자 정보는 추후 수정 혹은 변경할 수 없습니다.</li>"
+
+msgid "English name"
+msgstr "영문 이름"
+
+msgid "<li>-You can check who is registered as a candidate.</li><li>-Registered names can be entered again.</li>"
+msgstr "<li>-등록되어 있는 Committee 후보자를 확인하실 수 있습니다. </li><li>-동일한 이름을 가진 다른 Committee 후보자도 등록할 수 있습니다.</li>"
+
+msgid "Confirm registration"
+msgstr "후보자 등록여부확인"
+
+msgid "Picture"
+msgstr "사진"
+
+msgid "Browse…"
+msgstr "찾아보기…"
+
+msgid "<li>-Image size: 420 * 420/ ~5 MB</li><li>-Large images will be cropped.</li>"
+msgstr "<li>-이미지 사이즈 : 420 * 420  /  용량 : ~5 MB</li><li>-이미지 사이즈가 큰 경우 사진 중앙 기준으로 편집됩니다.</li>"
+
+msgid "Reason for recommendation"
+msgstr "추천사유"
+
+msgid "Provide a detailed explanation for your recommendation"
+msgstr "추천사유는 상세하게 작성해 주기 바랍니다."
+
+msgid "Submitted information cannot be revised or edited."
+msgstr "Committee 후보자 정보는 추후 수정 혹은 삭제 할 수 없습니다."
+
+msgid "Country where candidate is from"
+msgstr "주요활동국가"
+
+msgid "The candidate\'s information will be viewed primarily by people residing in his or her provided location."
+msgstr "Committee 후보자의 주요활동국가를 등록해 주시면 해당지역에 후보자가 우선노출됩니다."
+
+msgid "Click on the left picture to recommend."
+msgstr "추천하려면 사진을 클릭하여 주시기 바랍니다."
+
+msgid "An error occurred. Please try again."
+msgstr "오류가 발생하였습니다. 다시 시도해주시기 바랍니다."
+
+msgid "Recommended Image"
+msgstr "권장 이미지"
+
+msgid "No image file attached."
+msgstr "이미지 파일이 첨부되지 않았습니다."
+
+msgid "You can attach only image files."
+msgstr "이미지 파일만 첨부할 수 있습니다"
+
+msgid "Upload limit exceeded."
+msgstr "업로드 가능한 용량을 초과하였습니다."
+
+msgid "Submission accepted."
+msgstr "신청이 접수되었습니다"
+
+msgid "Once you submit this information, you will be unable to edit or delete it."
+msgstr "Committee 후보자 정보는 추후 수정 혹은 삭제 할 수 없습니다."
+
+msgid "Please enter a name."
+msgstr "이름을 입력하여 주세요."
+
+msgid "Please enter the name using only English letters."
+msgstr "이름은 영문으로만 입력해 주세요."
+
+msgid "You haven\'t attached a picture."
+msgstr "사진을 첨부하지 않았습니다."
+
+msgid "Please enter your recommendation reason."
+msgstr "추천사유를 입력하여 주세요."
+
+msgid "Image size must be greater than 420x420 pixels."
+msgstr "이미지가  가로(420px)*세로(420px)  보다 작으면 등록 할 수 없습니다."
+
+msgid "Your attachment cannot exceed 5MB."
+msgstr "첨부파일은 5MB를 초과 할 수 없습니다."
+
+msgid "Please choose a country."
+msgstr "국가를 선택해 주세요."
+
+msgid "You can submit only one candidate per day."
+msgstr "후보자 신청은 하루에 한번만 가능합니다."
+
+msgid "Please enter the candidate\'s name in four or more English letters."
+msgstr "후보자 이름을 영문 4자 이상 등록하여 주십시오"
+
+msgid "Please enter the candidate\'s name in four or more English letters and then click Confirm Registration."
+msgstr "후보자 이름을 영문 4자 이상 입력하시고 후보자등록여부 버튼을 클릭하여 주십시오."
+
+msgid "SEARCH"
+msgstr "검색"
+
+msgid "Committee Application"
+msgstr "신청"
+
+msgid "Anyone can apply to be a Committee candidate.<br>Visit the application page to apply or recommend."
+msgstr "누구나 Committee 후보자로 신청 가능합니다.<br>추천사유는 최대한 상세하게 작성해 주기 바랍니다."
+
+msgid "Application"
+msgstr "신청"
+
+msgid "What will Committee members do?"
+msgstr "Committee 멤버는 어떤 활동을 하나요?"
+
+msgid "Committee members will cheer on the participating designers in a variety of ways, including (but not limited to!) sending inspiring messages and encouraging them to participate in the voting process."
+msgstr "선정된 Committee 멤버는 FCC2015 디자이너 투표에 참여하게 되며, 격려메세지 등 다양한 방법으로 참여 디자이너들을 응원합니다."
+
+msgid "Please Wait, Loading.."
+msgstr "기다려주세요, 로딩중입니다"
+
+msgid "More"
+msgstr "더보기"
+
+msgid "FCC 2015 will provide the top judges that gave excellent evaluation results an invitation to the 2016 Crowd Challenge Festival in Shanghai with airline tickets, accommodation, and works from the winning designers."
+msgstr "FCC 2015는 우수한 평가결과를 제공해 준 평가자에게 중국 상해에서 개최되는 2016 Crowd Challenge Festival의 초청장, 항공권, 숙박권 및 우승자의 디자인 작품을 드립니다."
+
+msgid "Find out more about FCC 2015"
+msgstr "FCC 2015에 대해 더 알아보기"
+
+msgid "Do not show again today."
+msgstr "오늘 하루 그만 보기"
+
+msgid "10th Sep.<br> - <br>7th Oct."
+msgstr "9월 10일<br> - <br>10월 7일"
+
+msgid "Not a member yet?"
+msgstr "아직 회원이 아니신가요?"
+
+msgid "Check out another designer!"
+msgstr "더 많은 디자이너를 확인해보세요"
+
+msgid "Evaluate"
+msgstr "평가하기"
+
+msgid "FCC\'s evaluation<br>has begun."
+msgstr "FCC 평가 시작"
+
+msgid "FCC 2015 Evaluation Guide"
+msgstr "FCC 2015 평가 가이드"
+
+msgid "The FCC 2015 Evaluation to meet the world\'s talented designers\' works has begun!"
+msgstr "재능있는 전 세계 패션디자이너의 작품을 만날 수 있는 FCC 2015 평가가 시작되었습니다!"
+
+msgid "Do you want to be a judge? Use the evaluation guide to start judging now."
+msgstr "평가에 참여하고 싶으신가요? FCC에서 제공하는 평가 가이드를 보고 평가를 시작해보세요."
+
+msgid "See the guide"
+msgstr "가이드 보러가기"
+
+msgid "FCC invites the top voted designers to join FCC Committee on this page."
+msgstr "FCC는 이번 Committee페이지의 최고 득표자에게 향후 FCC Committee 활동을 제안하려고 합니다. "
+
+msgid "Recommend or vote people you respect"
+msgstr "후보를 추천하고 투표해주세요!"
+
+
+
+#:FCC 평가시 인덱스
+
+
+msgid "Choose the winners of the Fashion Crowd Challenge!"
+msgstr "Fashion Crowd Challenge 우승자를 선정해주세요!"
+
+msgid "Top 15 Designers"
+msgstr "Top 15 디자이너"
+
+msgid "Popular Designers"
+msgstr "주목받는 디자이너"
+
+msgid "By Region"
+msgstr "대륙별"
+
+msgid "By Gender"
+msgstr "성별"
+
+msgid "By Age"
+msgstr "나이별"
+
+msgid "Find out more about 2015 Fashion Crowd Challenge"
+msgstr "Fashion Crowd Challenge 2015에 대해 더 알아보기"
+
+msgid "The 2015 FCC Design evaluation to find the best fashion designer has started!"
+msgstr "최고의 패션 디자이너를 선정하기 위한<br>FCC 2015 디자인 평가가 시작되었습니다!"
+
+msgid "During the evaluation period, this page contains the top 15 most popular designer's works by region, gender, and age updated daily."
+msgstr "평가 기간 동안 이 페이지에서는 평가자가 선정한 가장 인기있는 디자이너 작품 상위 15개, <br>지역별, 성별, 나이별 주목받는 디자이너 작품이 매일 발표됩니다."
+
+
+
+msgid "The daily results will be collected"
+msgstr "매일 발표되는 결과는 GMT 기준 22시 00분 까지 "
+
+msgid "by 22:00 GMT"
+msgstr "이루어진 평가결과를 모아"
+
+msgid "and the FCC system CES"
+msgstr "FCC의 자체 평가 시스템 CES"
+
+msgid "(Crowd Evaluation System) will"
+msgstr "(Crowd Evaluation System)를"
+
+msgid "calculate fairly"
+msgstr "통해 공정하게 계산되며,"
+
+msgid "all the designs and announce the results at 00:00 GMT after 2 hours."
+msgstr "평가가 끝난 2시간 뒤인 GMT 기준 00시 00분에 발표됩니다."
+
+msgid "Participate in"
+msgstr "FCC 2015 평가에"
+
+msgid "the 2015 FCC Judging!"
+msgstr "참여해보세요!"
+
+msgid "Judges who make a special effort to give constructive feedback,"
+msgstr "FCC 2015 의 평가에 적극적으로 참여하여 WINNER 선발에 도움을 주신"
+
+msgid "inspiration and support to"
+msgstr "<br> JUDGE 중 일부를 선정하여 FCC 위원회에서 제공하는"
+
+msgid "the participating designers will be invited to the FCC2015 fashion show"
+msgstr "특별한 타이틀과 FCC2015 패션쇼의 초청장,"
+
+msgid "and receive products"
+msgstr "WINNER 의 작품을 드립니다."
+
+msgid "from the winning designers."
+msgstr " "
+
+msgid "Today’s evaluation has closed"
+msgstr "오늘 평가는 끝났습니다"
+
+msgid "8th Oct"
+msgstr "10월 8일"
+
+msgid "Participate in the 2015 FCC Judging!"
+msgstr "FCC 2015 평가에 참여해보세요!"
+
+msgid "Evaluate Now"
+msgstr "평가를 시작하세요"
+
+msgid "Coming soon"
+msgstr "Coming soon"
+
+msgid "Announced"
+msgstr "발표"
+
+msgid "Fashion CC 2015</span><span>Design Submission Start"
+msgstr "FCC 2015</span><span>디자인 등록 시작"
+
+msgid "Fashion CC 2015</span><span>Evaluations Start"
+msgstr "FCC 2015</span><span>평가 시작"
+
+msgid "Be a judge"
+msgstr "평가자로 참여하기"
+
+
+#: FCC 평가 페이지
+
+
+msgid "Meet the star designer of tomorrow"
+msgstr "미래의 스타 <br>디자이너를 <br>만나보세요"
+
+msgid "You choose the top Designers of FCC 2015. Your input creates the stars of the future."
+msgstr "FCC 2015의 주인공을 당신의 손으로 결정해주세요.</span><span>당신이 입력한 점수가 미래의 스타 디자이너를 만듭니다."
+
+msgid "There are no results."
+msgstr "결과가 없습니다."
+
+msgid "Evaluate more designers!"
+msgstr "더 많은 디자이너 평가하기"
+
+msgid "In Progress"
+msgstr "진행중"
+
+msgid "Complete"
+msgstr "완료"
+
+
+
+
+#: FCC 평가 발표 페이지
+
+
+msgid "FCC 2015 Winner"
+msgstr "FCC 2015<br>우승자"
+
+msgid "The FCC 2015 winners have been selected!"
+msgstr "FCC 2015 우승자가 결정되었습니다!"
+
+msgid "Go check out the designers who will usher in the next generation of fashion!"
+msgstr "패션계를 이끌어갈 차세대 패션디자인 리더를 만나보세요!"
+
+
+#: FCC 나의 결과 페이지
+
+
+msgid "Congratulations! You’re sitting alone at the top of the FCC fashion competition! Are you ready for the Global Fashion Show?"
+msgstr "축하합니다!<br>당신이 바로 FCC 패션 트렌드를 만든 주인공입니다!<br>Global fashion show에 갈 준비 되었나요?"
+
+msgid "You have been chosen as a winner of the FCC Dream Award! Go meet the other winners in the Global Fashion Show!"
+msgstr "당신은 FCC가 정한 테마별 수상자에 선정되었습니다.<br>FCC의 다른 수상자들과 함께 <br>Global fashion show에 동참하세요!"
+
+msgid "Congratulations! You’ve been recognized as the biggest personality in FCC! You are a genuine Master of Style! Come back to FCC next year and shoot for the gold!"
+msgstr "축하합니다! 글로벌 패션 어워드인 FCC에서 높은 성적을 내셨군요! 당신이 진정한 MASTER OF STYLE 입니다! 다음 시즌 FCC에서는 우승의 기회를 노려보세요."
+
+msgid "Sorry, you don’t get an award this year..but come back next year and give it another shot! You’ve got fashion sense and talent. Reach for the stars!"
+msgstr "간발의 차이로 수상 순위권에 들지 못한 당신.. <br>아쉽지만 내년 FCC에서 수상의 기회를 잡으세요!! <br>당신의 패션감각과 디자인 능력이라면 충분히 가능합니다."
+
+msgid "You didn’t get an award, but don’t despair! You achieved a high rank among FCC participants. Come back next year for a fresh challenge!"
+msgstr "비록 수상은 못했지만 낙담하지 마세요. FCC 지원자 중 상위권 그룹에 속한 당신, 다음 시즌 FCC에 재도전하여 수상의 기회를 노려보세요"
+
+
+#: FCC 평가에 등록기간 만료 페이지
+
+msgid "The FCC 2015 registration period is over."
+msgstr "FCC 2015  등록기간이 끝났습니다. "
+
+msgid "We\'re very sorry, but you cannot join FCC 2015. Please come back next time! Even if you are not a designer, you can still participate in FCC 2015. Be a Judge for our FCC 2015 competition! Evaluate participants from all over the world and choose FCC 2015\'s top designer! Please refer to FCC 2015\'s schedule.<br><p>Please refer to ModelCC\'s schedule.</p>"
+msgstr "<p>아쉽게도 당신이 입력하신 정보는 FCC 2015에 제출되지 않았습니다. <br>다음 기회에 참여해주세요. <br>디자이너가 아니어도 FCC 2015에 참여할 수있는 방법이 있습니다! <br>평가자로 FCC 2015에 참여해보세요. <br>다양한 도시에서 참여한 디자이너를 평가하여 당신의 손으로 직접 FCC 2015의 Top designer를 선정해주세요. <br>FCC 2015 일정은 다음과 같이 진행됩니다.</p>"
+
+msgid "It looks like you haven't reviewed all the designers yet. Please check the list again."
+msgstr "아직 평가하지 않은 디자이너가 있습니다. 리스트에서 확인해보세요."
+
+msgid "Your evaluation is complete! Go judge more designers!"
+msgstr "평가가 완료되었습니다! 더 많은 디자이너를 평가해보세요!"
+
+
+#: FCC 평가 상세 페이지
+
+
+msgid "What do you think about this design?"
+msgstr "이 디자인에 대해 어떻게 생각하시나요?"
+
+msgid "Leave a comment for this designer."
+msgstr "디자이너에게 코멘트를 남겨주세요."
+
+#:What do you think about this design?
+msgid "good?"
+msgstr "이 디자인에 대해 어떻게 생각하시나요?"
+
+msgid "Prev"
+msgstr "이전"
+
+msgid "ious"
+msgstr " "
+
+msgid "Previous"
+msgstr "이전"
+
+msgid "Your evaluation is complete."
+msgstr "모든 평가를 완료하셨네요."
+
+msgid "Go meet more designers!"
+msgstr "더 많은 디자이너들 평가해보세요!"
+
+msgid "You have finished all of today's evaluations."
+msgstr "오늘 평가를 다하셨네요."
+
+msgid "Come back tomorrow!"
+msgstr "내일 다시 만나요!"
+
+msgid "Okay, see you tomorrow."
+msgstr "네, 내일 만나요."
+
+msgid "No, thank you."
+msgstr "아니오"
+
+msgid "Yes, please."
+msgstr "네"
+
+
+msgid "We\'ll back soon."
+msgstr "유지 보수를 위해<br>일시적으로 서비스를 이용하실 수 없습니다. "
+
+msgid "Our service is temporary down for <br>the maintenance purpose."
+msgstr "더 발전된 모습으로 찾아뵙겠습니다. "
+
+
+
+
+#FCCTV START#
+
+
+
+#FCCTV2016
+#Navigation_menu
+msgid "TV"
+msgstr "TV"
+
+#FCCTV2016
+#Navigation_menu
+msgid "CHALLENGE"
+msgstr "CHALLENGE"
+
+#FCCTV2016
+#Navigation_menu
+msgid "FCC 2015 Winners"
+msgstr "FCC 2015 우승자"
+
+#FCCTV2016
+#Navigation_menu
+msgid "ModelCC 2015 Winners"
+msgstr "ModelCC 2015 우승자"
+
+#FCCTV2016
+#Navigation_menu
+msgid "FAQs"
+msgstr "FAQs"
+
+#FCCTV2016
+#Navigation_menu
+msgid "ABOUT"
+msgstr "ABOUT"
+
+#FCCTV2016
+#Navigation_menu
+msgid "PRESS"
+msgstr "PRESS"
+
+#FCCTV2016
+#Navigation_menu
+msgid "TERMS AND CONDITIONS"
+msgstr "이용약관"
+
+#FCCTV2016
+#Navigation_menu
+msgid "PRIVACY POLICY"
+msgstr "PRIVACY POLICY"
+
+#FCCTV2016
+#Navigation_menu
+msgid "LANGUAGE"
+msgstr "언어"
+
+#FCCTV2016
+#Navigation_menu
+msgid "OUR SERVICES"
+msgstr "우리의 서비스"
+
+#FCCTV2016
+#Navigation_menu
+msgid "SOCIAL MEDIA"
+msgstr "소셜 미디어"
+
+#FCCTV2016
+#Navigation_Account
+msgid "WELCOME"
+msgstr "환영합니다"
+
+#FCCTV2016
+#Navigation_Account
+msgid "Are you a member?"
+msgstr "회원이세요?"
+
+#FCCTV2016
+#Navigation_Account
+msgid "Sign In"
+msgstr "로그인"
+
+#FCCTV2016
+#Navigation_Account
+msgid "Not a member yet?"
+msgstr "회원이 아니신가요?"
+
+#FCCTV2016
+#Navigation_Account
+msgid "Create Account"
+msgstr "가입하기"
+
+#FCCTV2016
+#Navigation_Account
+msgid "Hello,"
+msgstr "안녕하세요,"
+
+#FCCTV2016
+#Navigation_Account
+msgid "Orders"
+msgstr "주문 내역"
+
+#FCCTV2016
+#Navigation_Account
+msgid "Settings"
+msgstr "설정"
+
+#FCCTV2016
+#Navigation_Account
+msgid "Shipping Addresses"
+msgstr "배송 주소"
+
+#FCCTV2016
+#Navigation_Account
+msgid "Account"
+msgstr "계정"
+
+#FCCTV2016
+#Navigation_Account
+msgid "Sign Out"
+msgstr "로그아웃"
+
+#FCCTV2016
+#Navigation_My Cart (popup)
+msgid "My Cart"
+msgstr "장바구니"
+
+#FCCTV2016
+#Navigation_My Cart (popup)
+msgid "Color"
+msgstr "Color"
+
+#FCCTV2016
+#Navigation_My Cart (popup)
+msgid "Size"
+msgstr "Size"
+
+#FCCTV2016
+#Navigation_My Cart (popup)
+msgid "Quantity"
+msgstr "수량"
+
+#FCCTV2016
+#Navigation_My Cart (popup)
+msgid "Remove"
+msgstr "삭제"
+
+#FCCTV2016
+#Navigation_My Cart (popup)
+msgid "Subtotal"
+msgstr "소계"
+
+#FCCTV2016
+#Navigation_My Cart (popup)
+msgid "Checkout"
+msgstr "결제하기"
+
+#FCCTV2016
+#Shipping Addresses
+msgid "Shipping Addresses"
+msgstr "배송 주소"
+
+msgid "Change Address"
+msgstr "배송지 변경"
+
+#FCCTV2016
+#Shipping Addresses
+msgid "Add New Address"
+msgstr "새 배송 주소 추가"
+
+#FCCTV2016
+#Shipping Addresses
+msgid "Default Address"
+msgstr "기본 배송 주소"
+
+#FCCTV2016
+#Shipping Addresses
+msgid "Edit "
+msgstr "수정"
+
+#FCCTV2016
+#Shipping Addresses
+msgid "Delete"
+msgstr "삭제"
+
+#FCCTV2016
+#Shipping Addresses
+msgid "Additional Address"
+msgstr "추가 배송 주소"
+
+#FCCTV2016
+#Shipping Addresses
+msgid "Make Default"
+msgstr "기본 주소로 변경"
+
+#FCCTV2016
+#Edit / Add a New Address (popup)
+msgid "Address"
+msgstr "주소"
+
+#FCCTV2016
+#Edit / Add a New Address (popup)
+msgid "Address 1"
+msgstr "주소 1"
+
+#FCCTV2016
+#Edit / Add a New Address (popup)
+msgid "City"
+msgstr "도시"
+
+#FCCTV2016
+#Edit / Add a New Address (popup)
+msgid "State"
+msgstr "주/도/구"
+
+#FCCTV2016
+#Edit / Add a New Address (popup)
+msgid "Zip Code"
+msgstr "우편번호"
+
+#FCCTV2016
+#Edit / Add a New Address (popup)
+msgid "Country"
+msgstr "나라"
+
+#FCCTV2016
+#Edit / Add a New Address (popup)
+msgid "Set as default shipping address"
+msgstr "기본 배송 주소로 설정"
+
+#FCCTV2016
+#Edit / Add a New Address (popup)
+msgid "Please enter your address."
+msgstr "주소를 입력해주세요."
+
+#FCCTV2016
+#Edit / Add a New Address (popup)
+msgid "Please enter your address2."
+msgstr "주소2를 입력해주세요."
+
+#FCCTV2016
+#Edit / Add a New Address (popup)
+msgid "Please enter your state"
+msgstr "주/도/구를 입력해주세요."
+
+#FCCTV2016
+#Edit / Add a New Address (popup)
+msgid "Please enter your zip code."
+msgstr "우편번호를 입력해주세요."
+
+#: Template/Users/add_basic_info.ctp:356
+msgid "Please select your country."
+msgstr "나라를 선택해주세요."
+
+#: Template/Users/add_basic_info.ctp:359 Template/Users/edit.ctp:384
+msgid "Please enter your city."
+msgstr "도시를 입력해주세요."
+
+#: Template/Users/add_basic_info.ctp:415 Template/Users/edit.ctp:439
+msgid "Please enter your telephone number"
+msgstr "당신의 전화번호를 입력해주세요."
+
+#FCCTV2016
+#Edit / Add a New Address (popup)
+msgid "Edit Address"
+msgstr "배송 주소 수정"
+
+#FCCTV2016
+#Orders_List
+msgid "Order No. (Number)"
+msgstr "주문번호"
+
+#FCCTV2016
+#Orders_List
+msgid "item"
+msgstr "상품"
+
+#FCCTV2016
+#Orders_List
+msgid "{0} items"
+msgstr "{0}개 상품"
+
+#FCCTV2016
+#Orders_List
+msgid "Total"
+msgstr "주문 합계"
+
+#FCCTV2016
+#Order Details
+msgid "Order Details"
+msgstr "주문 상세"
+
+#FCCTV2016
+#Order Details
+msgid "Order Date"
+msgstr "주문일"
+
+#FCCTV2016
+#Order Details
+msgid "Order Number"
+msgstr "주문번호"
+
+#FCCTV2016
+#Order Details
+msgid "Order Status"
+msgstr "주문 상태"
+
+#FCCTV2016
+#Order Details
+msgid "ordered"
+msgstr "주문 접수"
+
+#FCCTV2016
+#Order Details
+msgid "purchased"
+msgstr "결제 완료"
+
+#FCCTV2016
+#Order Details
+msgid "shipped"
+msgstr "배송 중"
+
+#FCCTV2016
+#Order Details
+msgid "delivered"
+msgstr "배송 완료"
+
+#FCCTV2016
+#Order Details
+msgid "cancel"
+msgstr "주문 취소 접수"
+
+#FCCTV2016
+#Order Details
+msgid "cancelled"
+msgstr "주문 취소 완료"
+
+#FCCTV2016
+#Order Details
+msgid "Cancel this order"
+msgstr "주문 취소하기"
+
+#FCCTV2016
+#Order Details
+msgid "Shipping Address"
+msgstr "배송 주소"
+
+#FCCTV2016
+#Order Details
+msgid "Order Summary"
+msgstr "결제 내역"
+
+#FCCTV2016
+#Order Details
+msgid "Shipping"
+msgstr "배송"
+
+#FCCTV2016
+#Order Details
+msgid "Tax"
+msgstr "세금"
+
+#FCCTV2016
+#Order Details
+msgid "Tracking No. (Number)"
+msgstr "송장 번호"
+
+#FCCTV2016
+#Order Details
+msgid "Return"
+msgstr "반품 신청하기"
+
+#FCCTV2016
+#Order Details
+msgid "Refund"
+msgstr "환불 접수"
+
+#FCCTV2016
+#Order Details
+msgid "Refunded"
+msgstr "환불 완료"
+
+#FCCTV2016
+#Order Details
+msgid "Need some help?"
+msgstr "도움이 필요하신가요?"
+
+#FCCTV2016
+#Order Details
+msgid "Contact Us"
+msgstr "문의하기"
+
+#FCCTV2016
+#Order Cancel (popup)
+msgid "Cancel your order?"
+msgstr "주문 취소를 신청하시겠습니까?"
+
+#FCCTV2016
+#Order Cancel (popup)
+msgid "Order has been cancelled."
+msgstr "주문 취소가 신청되었습니다."
+
+#FCCTV2016
+#Order Return (popup)
+msgid "Why are you returning this?"
+msgstr "상품 반품 이유가 무엇인가요?"
+
+#FCCTV2016
+#Order Return (popup)
+msgid "Continue"
+msgstr "다음"
+
+#FCCTV2016
+#Order Return (popup)
+msgid "Return request sent successfully."
+msgstr "반품 신청이 접수되었습니다."
+
+#FCCTV2016
+#Order Return (popup)
+msgid "No Tracking Number"
+msgstr "배송 정보를 받지 못했습니다."
+
+#FCCTV2016
+#Order Return (popup)
+msgid "Not Received Yet"
+msgstr "물건을 받지 못했습니다."
+
+#FCCTV2016
+#Order Return (popup)
+msgid "Shipping Package Damaged"
+msgstr "파손된 물건이 배송되었습니다."
+
+#FCCTV2016
+#Order Return (popup)
+msgid "Different from Listing"
+msgstr "잘못된 물건이 배송되었습니다."
+
+#FCCTV2016
+#Order Return (popup)
+msgid "Does Not Work"
+msgstr "물건이 정상적으로 작동하지 않습니다."
+
+#FCCTV2016
+#Order Return (popup)
+msgid "Don’t Want Anymore"
+msgstr "단순 변심"
+
+#FCCTV2016
+#Order Return (popup)
+msgid "Other"
+msgstr "기타"
+
+#FCCTV2016
+#Checkout_Shipping
+msgid "Please enter reason for return."
+msgstr "반품 사유를 입력해주세요."
+
+#FCCTV2016
+#Checkout_Shipping
+msgid "Payment"
+msgstr "결제"
+
+#FCCTV2016
+#Checkout_Shipping
+msgid "Change"
+msgstr "변경"
+
+#FCCTV2016
+#Checkout_Payment
+msgid "Payment Method"
+msgstr "결제 수단"
+
+#FCCTV2016
+#Checkout_Payment
+msgid "Credit Card"
+msgstr "신용카드"
+
+#FCCTV2016
+#Checkout_Payment
+msgid "Card Number"
+msgstr "카드 번호"
+
+#FCCTV2016
+#Checkout_Payment
+msgid "Expiration Date"
+msgstr "유효기간"
+
+#FCCTV2016
+#Checkout_Payment
+msgid "Month"
+msgstr "월"
+
+#FCCTV2016
+#Checkout_Payment
+msgid "Year"
+msgstr "년"
+
+#FCCTV2016
+#Checkout_Payment
+msgid "Security Code"
+msgstr "CVC 번호"
+
+#FCCTV2016
+#Checkout_Payment
+msgid "Submit Order"
+msgstr "결제하기"
+
+#FCCTV2016
+#Checkout_Review
+msgid "Review"
+msgstr "내역"
+
+#FCCTV2016
+#Checkout_Review
+msgid "Continue Shopping"
+msgstr "계쇽 쇼핑하기"
+
+#FCCTV2016
+#FCC TV_Main
+msgid "ON AIR"
+msgstr "ON AIR"
+
+#FCCTV2016
+#FCC TV_Main
+msgid "WATCH NOW"
+msgstr "WATCH NOW"
+
+#FCCTV2016
+#FCC TV_Main
+msgid "MON"
+msgstr "월"
+
+#FCCTV2016
+#FCC TV_Main
+msgid "TUE"
+msgstr "화"
+
+#FCCTV2016
+#FCC TV_Main
+msgid "WED"
+msgstr "수"
+
+#FCCTV2016
+#FCC TV_Main
+msgid "THU"
+msgstr "목"
+
+#FCCTV2016
+#FCC TV_Main
+msgid "FRI"
+msgstr "금"
+
+#FCCTV2016
+#FCC TV_Main
+msgid "SAT"
+msgstr "토"
+
+#FCCTV2016
+#FCC TV_Main
+msgid "SUN"
+msgstr "일"
+
+#FCCTV2016
+#FCC TV_Main
+msgid "Search"
+msgstr "검색"
+
+#FCCTV2016
+#FCC TV_Main (Calendar)
+msgid "January"
+msgstr "1월"
+
+#FCCTV2016
+#FCC TV_Main (Calendar)
+msgid "February"
+msgstr "2월"
+
+#FCCTV2016
+#FCC TV_Main (Calendar)
+msgid "March"
+msgstr "3월"
+
+#FCCTV2016
+#FCC TV_Main (Calendar)
+msgid "April"
+msgstr "4월"
+
+#FCCTV2016
+#FCC TV_Main (Calendar)
+msgid "May"
+msgstr "5월"
+
+#FCCTV2016
+#FCC TV_Main (Calendar)
+msgid "June"
+msgstr "6월"
+
+#FCCTV2016
+#FCC TV_Main (Calendar)
+msgid "July"
+msgstr "7월"
+
+#FCCTV2016
+#FCC TV_Main (Calendar)
+msgid "August"
+msgstr "8월"
+
+#FCCTV2016
+#FCC TV_Main (Calendar)
+msgid "September"
+msgstr "9월"
+
+#FCCTV2016
+#FCC TV_Main (Calendar)
+msgid "October"
+msgstr "10월"
+
+#FCCTV2016
+#FCC TV_Main (Calendar)
+msgid "November"
+msgstr "11월"
+
+#FCCTV2016
+#FCC TV_Main (Calendar)
+msgid "December"
+msgstr "12월"
+
+
+#FCCTV2016
+#FCC TV_Detail
+msgid "{0} Comments"
+msgstr "댓글 {0}개"
+
+#FCCTV2016
+#FCC TV_Detail
+msgid "Write a Comment"
+msgstr "코멘트 작성하기"
+
+#FCCTV2016
+#FCC TV_Detail
+msgid "Add Comment"
+msgstr "코멘트 입력"
+
+#FCCTV2016
+#FCC TV_Detail
+msgid "Save Comment"
+msgstr "코멘트 저장"
+
+#FCCTV2016
+#FCC TV_Detail
+msgid "View More Comments"
+msgstr "코멘트 더 보기"
+
+#FCCTV2016
+#FCC TV_Detail
+msgid "Buy"
+msgstr "구입하기"
+
+#FCCTV2016
+#FCC TV_Detail_Buy
+msgid "View Detail"
+msgstr "상세 정보 보기"
+
+#FCCTV2016
+#FCC TV_Detail_Buy
+msgid "Price"
+msgstr "가격"
+
+#FCCTV2016
+#FCC TV_Detail_Buy
+msgid "Add to Cart"
+msgstr "장바구니 담기"
+
+#FCCTV2016
+#FCC TV_Detail_Buy
+msgid "The selected color is sold out."
+msgstr "선택된 색상이 매진되었습니다."
+
+#FCCTV2016
+#FCC TV_Detail_Buy
+msgid "Please select a size."
+msgstr "사이즈를 선택해주세요."
+
+#FCCTV2016
+#FCC TV_Detail_Buy
+msgid "The selected size is sold out."
+msgstr "선택된 사이즈가 매진되었습니다."
+
+
+#FCCTV2016
+#FCC TV_Detail_Buy
+msgid "The selected item is sold out."
+msgstr "선택된 상품이 매진되었습니다."
+
+#FCCTV2016
+#FCC TV_Detail_Buy
+msgid "The stock of the product is less than you tried to purchase"
+msgstr "선택된 상품의 재고가 부족합니다."
+
+#FCCTV2016
+#FCC TV_Detail_Buy
+msgid "Item has been added"
+msgstr "상품이 추가되었습니다."
+
+#FCCTV2016
+#FCC TV_About Video
+msgid "About Video"
+msgstr "비디오 정보"
+
+#FCCTV2016
+#FCC TV_About Video
+msgid "View More"
+msgstr "더 보기"
+
+#FCCTV2016
+#FCC TV_About Video
+msgid "Close"
+msgstr "닫기"
+
+#FCCTV2016
+#FCC TV_About Video
+msgid "Designer"
+msgstr "디자이너"
+
+#FCCTV2016
+#FCC_Product_Detail (popup)
+msgid "Description"
+msgstr "설명"
+
+#FCCTV2016
+#FCC_Product_Detail (popup)
+msgid "Material"
+msgstr "소재"
+
+msgid "Please Confirm your Mobile Number."
+msgstr "휴대폰 인증을 해주세요"
+
+msgid "No tv program at this time."
+msgstr "지금은 방송시간이 아닙니다."
+
+msgid "Remember Me"
+msgstr "아이디저장"
+
+msgid "or"
+msgstr "또는"
+
+msgid "All the designs submitted to FCC are protected under copyright law; any unauthorized use or copying of the material may result in legal action."
+msgstr ""
+
+msgid "You must login <br>to leave a comment."
+msgstr "댓글을 남기시려면 <br>로그인해 주세요."
+
+msgid "YOUR ORDER INFO"
+msgstr "구매정보"
+
+
+#FCCTV 2016.05.18 추가 내용
+msgid "My Page"
+msgstr "마이페이지"
+
+msgid "Privacy Statement"
+msgstr "개인정보 취급방침"
+
+msgid "Fashion Media Commerce FCCTV"
+msgstr "패션 미디어커머스 FCCTV"
+
+msgid "View Designer's Product"
+msgstr "디자이너 상품보기"
+
+msgid "HOT ITEM"
+msgstr "HOT ITEM"
+
+msgid "DESIGNER"
+msgstr "DESIGNER"
+
+msgid "PRODUCT"
+msgstr "PRODUCT"
+
+msgid "FCC TV"
+msgstr "FCC TV"
+
+msgid "GALLERY"
+msgstr "GALLERY"
+
+msgid "COLLECTION"
+msgstr "COLLECTION"
+
+msgid "PROJECT"
+msgstr "PROJECT"
+
+msgid "Choose Category"
+msgstr "카테고리 선택"
+
+msgid "All Category"
+msgstr "전체 카테고리"
+
+msgid "View Sharing in SNS"
+msgstr "공유보기"
+
+msgid "SOLD OUT"
+msgstr "SOLD OUT"
+
+msgid "{0} LEFT"
+msgstr "{0} LEFT"
+
+msgid "please choose your size"
+msgstr "사이즈를 선택해주세요."
+
+msgid "add"
+msgstr "추가"
+
+msgid "deduct"
+msgstr "빼기"
+
+msgid "subtotal"
+msgstr "소계"
+
+msgid "add to cart"
+msgstr "장바구니 담기"
+
+msgid "buy it now"
+msgstr "즉시구매 결제"
+
+msgid "go to list"
+msgstr "목록보기"
+
+msgid "detail"
+msgstr "상세설명"
+
+msgid "size chart"
+msgstr "사이즈표"
+
+msgid "cleaning and maintenance guide"
+msgstr "세탁 및 관리법"
+
+msgid "shipping information"
+msgstr "배송정보"
+
+msgid "exchange / refunds / customer service"
+msgstr "교환 / 환불 / A/S 안내"
+
+msgid "product inquiry"
+msgstr "상품문의"
+
+msgid "subject"
+msgstr "제목"
+
+msgid "please enter the subject"
+msgstr "제목을 입력해주세요."
+
+msgid "enter a comment"
+msgstr "내용입력"
+
+msgid "send"
+msgstr "등록하기"
+
+msgid "general information of the goods"
+msgstr "상품고시"
+
+msgid "please enter a comment"
+msgstr "내용을 입력해주세요"
+
+msgid "sorry. please type the comment again."
+msgstr "죄송합니다. 다시 한번 등록해주십시오."
+
+msgid "your inquiry was submitted.<br/>we will reply to the email.<br/>thank you"
+msgstr "제품에 대한 문의가 등록되었습니다.<br/>답변은 등록하신 이메일로 전달됩니다.<br/>이점 양해 부탁드립니다.<br/>감사합니다."
+
+msgid "at least one quantity"
+msgstr "최소 1개의 수량은 선택하셔야 합니다."
+
+msgid "remaining stocks are less than you choose"
+msgstr "남은 수량이 충분하지 않습니다."
+
+msgid "it's over maximum"
+msgstr "최대 구매수량을 초과하였습니다."
+
+msgid "sorry<br/>the product is sold out"
+msgstr "죄송합니다.<br/>상품이 매진 되었습니다."
+
+msgid "view video detail"
+msgstr "비디오 상세보기"
+
+msgid "no comment submitted."
+msgstr "등록된 코멘트가 없습니다."
+
+msgid "Choose Color"
+msgstr "Choose Color"
+
+msgid "Choose Size"
+msgstr "Choose Size"
+
+msgid "comments"
+msgstr "댓글"
+
+msgid "Quantity"
+msgstr "Quantity"
+
+msgid "remove selected product"
+msgstr "선택상품 삭제"
+
+msgid "select all the product"
+msgstr "전체상품 선택"
+
+msgid "no product in the cart"
+msgstr "장바구니에 담긴 물건이 없습니다."
+
+msgid "continue to shop"
+msgstr "쇼핑 계속하기"
+
+msgid "you selected quantity more than we have"
+msgstr "현재 재고 보다 많은 수량을 선택하셨습니다."
+
+msgid "please choose a product"
+msgstr "구매할 상품을 선택해 주세요."
+
+msgid "please check your nickname"
+msgstr "닉네임을 중복 체크해주세요."
+
+msgid "the nickname is available"
+msgstr "사용 가능한 닉네임 입니다."
+
+msgid "the nickname belongs to another"
+msgstr "사용중인 닉네임"
+
+msgid "duplicate check"
+msgstr "중복체크"
+
+msgid "please enter your nickname"
+msgstr "닉네임을 입력해주세요."
+
+msgid "duplicate check completed"
+msgstr "중복 체크완료"
+
+msgid "the nickname belongs to another"
+msgstr "이미 사용중인 닉네임 입니다."
+
+msgid "Your photo"
+msgstr "Your photo"
+
+msgid "no order information"
+msgstr "주문 내역이 없습니다."
+
+msgid "order history"
+msgstr "주문 내역"
+
+msgid "you have to enter a reason"
+msgstr "메시지 입력이 필요합니다."
+
+msgid "it's in progress<br/>please wait for a second"
+msgstr "이미 처리중 입니다.<br/>n잠시만 기다려주세요."
+
+msgid "unauthorized access"
+msgstr "잘못된 접근 입니다."
+
+msgid "thank you for your interest in <br class='only__mobile'>#1 media commerce<span class='colorBland'>FCCTV</span><br><br> your comment and opinion are important and <br class='only__mobile'>we will respond to it as soon as possible"
+msgstr "넘버원 미디어커머스 <span class='colorBland'>FCCTV</span>에 <br class='only__mobile'>관심을 가져주셔서 감사합니다. <br><br> 보내주시는 소중한 의견, 제안은 <br class='only__mobile'>입력된 이메일주소로 <br>빠른 시일내에 회신해 드리겠습니다."
+
+msgid "agree to the conditions of use"
+msgstr "이용약관 동의"
+
+msgid "agree to the privacy policy"
+msgstr "개인정보 취급방침 동의"
+
+msgid "agree"
+msgstr "동의합니다."
+
+msgid "nickname"
+msgstr "닉네임"
+
+msgid "please enter the password again"
+msgstr "비밀번호를 한번더 입력해주세요."
+
+msgid "check password"
+msgstr "비밀번호확인"
+
+msgid "mobile verification"
+msgstr "휴대폰 인증"
+
+msgid "verify me"
+msgstr "인증하기"
+
+msgid "registration has completed"
+msgstr "회원 가입이 완료 되었습니다."
+
+msgid "please go to login page to sign in"
+msgstr "로그인 페이지로 이동하여 로그인 해주세요."
+
+msgid "choose"
+msgstr "선택"
+
+msgid "would you save?"
+msgstr "입력하신 정보를 저장하시겠습니까?"
+
+msgid "sign in is required"
+msgstr "로그인이 필요한 메뉴 입니다."
+
+msgid "view video detail"
+msgstr "비디오 상세보기"
+
+msgid "search zip code"
+msgstr "우편번호 검색"
+
+msgid "sold out"
+msgstr "구매 불가"
+
+msgid "the products above <b>are unable to </b>purchase"
+msgstr "위 상품들은 <b>주문 가능 수량을 초과</b>하였습니다."
+
+msgid "go back to the cart"
+msgstr "장바구니로 돌아가기"
+
+msgid "hot selling item <br>introduced by FCC TV"
+msgstr "FCC TV가 소개하는<br> 특별하고 핫한 아이템"
+
+msgid "SHOP ALL FCC TV"
+msgstr "SHOP ALL FCC TV"
+
+msgid "Hot Item"
+msgstr "Hot Item"
+
+msgid "MEET YOUR PRODUCT"
+msgstr "MEET YOUR PRODUCT"
+
+msgid "“This is the fashion trend in this season” extraordinary item chosen by FCC TV<br class='only__web'>The trendy items we were interested are located at one place! you can view the best items recommended <br class='only__web'>by FCC TV and famous fashion designers."
+msgstr "FCC TV가 선정한 디자이너의 특별한 아이템 “이번 시즌 트렌드는 바로 이것!” <br class='only__web'>우리 모두가 궁금해하던 트렌드 아이템을 한눈에! FCC TV와 국내 유명 패션 디자이너들이 <br class='only__web'>추천하는 믿을 수 있는 베스트 아이템을 지금 바로 확인하세요."
+
+msgid "Kwak Hyun Zoo, Queen of pattern, #27 in Seoul Fashion Week Collection broadcasting in FCC TV, <br class='only__web'>Ye Lan Ji, came back to fashion after 3 years of period of blank or Kim In Te, new designer who Paris is watching<br class='only__web'>Please view their story covered at nowhere else"
+msgstr "FCC TV를 통해 만나보는 패션 디자이너 27번의 서울패션위크 컬렉션에 참가한 패턴의 여왕 곽현주, <br class='only__web'>3년여의 공백기를 깨고 화려하게 컴백한 예란지 또는 파리가 주목하고 있는 신예 디자이너 김인태 등 <br class='only__web'>지금껏 그 어디에서도 공개되지 않았던 그들의 스토리를 직접 감상하세요."
+
+msgid "<span class='line1'>MEET YOUR</span><span class='line2'>DESIGNERS</span>"
+msgstr "<span class='line1'>MEET YOUR</span><span class='line2'>DESIGNERS</span>"
+
+msgid "<span class='line1'>MEET YOUR</span><span class='line2'>PRODUCT</span>"
+msgstr "<span class='line1'>MEET YOUR</span><span class='line2'>PRODUCT</span>"
+
+msgid "Introducing fashion items with FCC TV designer's story<br class='only__web'>How was the designer's story?, <br class='only__web'>Aren't you interested in the items? <br class='only__web'>Unveil the items yourself."
+msgstr "FCC TV 디자이너의 스토리가 담긴 아이템을 소개합니다. <br class='only__web'>당신이 몰랐던 디자이너의 이야기는 어땠나요, 그들의 제품이 <br class='only__web'>궁금하지 않으세요? 이제 디자이너의 스토리가 담긴 제품을 <br class='only__web'>직접 확인하세요."
+
+msgid "ALL PRODUCT"
+msgstr "ALL PRODUCT"
+
+msgid "CLOTHES"
+msgstr "CLOTHES"
+
+msgid "LIFESTYLE"
+msgstr "LIFESTYLE"
+
+msgid "<span class='line1'>LEATHER GOODS</span><span class='line1'>&amp;ACC</span>"
+msgstr "<span class='line1'>LEATHER GOODS</span><span class='line1'>&amp;ACC</span>"
+
+msgid "PRODUCT DETAIL"
+msgstr "PRODUCT DETAIL"
+
+msgid "INFORMATION"
+msgstr "INFORMATION"
+
+msgid "the designer and the customer meet at a place <br class='only__web'>where FCC TV designers introduce their items or brand stories <br class='only__web'>to the customers with media contents."
+msgstr "디자이너와 소비자가 만나다. <br class='only__web'>FCC TV는 디자이너가 직접 크리에이터가 되어 자신의 아이템 혹은 브랜드에 대한 <br class='only__web'>이야기를 소비자에게 영상 컨텐츠로 소개하는 공간입니다."
+
+msgid "<span class='line1'>FCC</span><span class='line2'>TV</span>"
+msgstr "<span class='line1'>FCC</span><span class='line2'>TV</span>"
+
+msgid "<span class='red'>HOT</span><span class='white'>ITEM</span>"
+msgstr "<span class='red'>HOT</span><span class='white'>ITEM</span>"
+
+msgid "ABOUT FCC TV"
+msgstr "ABOUT FCC TV"
+
+msgid "<span class='line1'>ABOUT</span>"
+msgstr "<span class='line1'>ABOUT</span>"
+
+msgid "FCC TV is an open e-commerce company based on rapid change in media contents<br class='only__web'>the designer show their artwork and brand through FCC TV and <br class='only__web'>customer buy special items with designer's story. We create a place for the designer and <br class='only__web'>the customer to communicate through video and introduce items not just mere product <br class='only__web'>but product with story and identity"
+msgstr "FCC TV는 빠르게 변화하는 미디어 시대에 맞춘 영상 컨텐츠 기반의 온라인 미디어 커머스입니다. <br class='only__web'>FCC TV를 통해 디자이너는 직접 크리에이터가 되어 자신의 브랜드와 아이템을 소개하며, <br class='only__web'>소비자는 디자이너의 이야기가 담긴 특별한 아이템을 구매합니다. 우리는 영상을 통해 디자이너와 <br class='only__web'>소비자가 보다 가깝게 소통하는 공간을 만들고 단순한 제품이 아닌 스토리와 아이덴티티를 담은 <br class='only__web'>아이템을 소개하고자 합니다."
+
+msgid "Introducing not just mere stuff <br>but item with their own story and identity"
+msgstr "제품이 아닌 스토리와 아이덴티티를 담은 <br>아이템을 소개하다"
+
+msgid "Telling the designer's own story"
+msgstr "디자이너가 직접 크리에이터가 되어 자신의 <br>이야기를 전하다"
+
+msgid "Communicating through video contents <br>with the designers and the customers directly"
+msgstr "영상 컨텐츠를 통해 디자이너와 소비자가 <br>직접 소통하다"
+
+msgid "<span class='line1'>FASHION</span><span class='line1'>CROWD</span><span class='line1'>CHALLENGE</span>"
+msgstr "<span class='line1'>FASHION</span><span class='line1'>CROWD</span><span class='line1'>CHALLENGE</span>"
+
+msgid "Fashion Crowd Challenge is a new concept of global fashion competition which people over the internet evaluate the designers. <br>This will be a good chance for local designers and brands to be evaluated by customer over the world <br>who have no idea to expand their business to the world and who have no opportunity to grow. <br>The new designers and local brands will have a new chance through FCC festival."
+msgstr "Fashion Crowd Challenge는 인터넷을 통해 대중이 직접 디자이너를 평가하는 신개념 글로벌 패션 공모전입니다. 성장할 수 있는 기회를 얻지 못하고, <br>글로벌 시장으로 진출할 수 있는 능력이 없던 로컬 디자이너와 브랜드들이 직접 전세계 소비자를 만나 평가를 받을 수 있는 좋은 기회가 될 것입니다. <br>FCC 행사를 통해 전세계 유망한 디자이너와 로컬 브랜드는 새로운 기회를 얻게 될 것입니다."
+
+msgid "You are able to be introduced to new buyers, able to meet better manufacturer, able to be supported financially and technically. Also customer data gained through evaluation and process of selling will be an important map to read fashion trend at each cities in the world. We are expecting that Fashion Crowd Challenge's online platform will show the future for fashion industry; searching brands and designers with cloud technology and big data, connecting the designers and customers efficiently while providing combined solutions to support management, selling, and manufacturing. <br> Please support Fashion Crowd Challenge who will be global fashion sourcing platform and for designer's growth. We will make your dream come true."
+msgstr "새로운 판매처를 소개받고, 더 나은 생산파트너를 만날 수 있으며, 브랜드가 더 성장할 수 있는 재정적, 기술적 지원도 받을 수 있습니다. 또한 평가와 <br>판매의 과정에서 획득한 고객 데이터는 전세계 각 도시의 패션트렌드를 읽을 수 있는 주요한 지표가 될 것입니다. 크라우드 테크놀로지와 빅데이터를 <br>활용하여 트렌드에 맞는 디자이너와 브랜드를 찾아내고,생산과 판매, 관리를 지원하는 종합 시스템을 제공하여 전세계의 디자이너와 소비자를 빠르게 <br>잇는 Fashion Crowd Challenge 온라인 플랫폼은 미래 패션산업의 새로운 가능성을 보여줄 수 있을 것으로 기대됩니다. 글로벌 패션 소싱 플랫폼이자, <br>디자인 성장 플랫폼이 될 Fashion Crowd Challenge에 동참해주십시오. 전세계를 향한 당신의 꿈이 지금 현실로 시작됩니다."
+
+msgid "FASHION CROWD CHALLENGE 2016"
+msgstr "FASHION CROWD CHALLENGE 2016"
+
+msgid "Global Online Fashion Design Contest <br>Fashion Crowd Challenge will come back in 2016"
+msgstr "글로벌 온라인 패션 디자인 공모전 <br>Fashion Crowd Challenge가 2016년 새로운 <br>모습으로 여러분 곁으로 찾아갑니다."
+
+msgid "FASHION CROWD CHALLENGE 2015"
+msgstr "FASHION CROWD CHALLENGE 2015"
+
+msgid "Enjoy new fashion designer's artworks <br>at Fashion Crowd Challenge 2015"
+msgstr "Fashion Crowd Challenge 2015에서 <br>패션계를 이끌어갈 차세대 패션디자이너의 작품을 감상하세요."
+
+msgid "MODEL CROWD CHALLENGE 2015"
+msgstr "MODEL CROWD CHALLENGE 2015"
+
+msgid "See global top models from the world at <br>Model CC"
+msgstr "전세계 모델들이 참여한 Model CC에서 <br>글로벌 탑 모델을 만나보세요."
+
+msgid "FAMILY SITE"
+msgstr "FAMILY SITE"
+
+msgid "Forgot your mail address?"
+msgstr "이메일을 잊으셨나요?"
+
+msgid "Login with SNS account"
+msgstr "소셜 미디어 계정으로 로그인 하러 가기"
+
+msgid "The mail address registered is right above."
+msgstr "귀하의 등록된 이메일 주소는 위와 같습니다."
+
+msgid "Please select product option"
+msgstr "상품 옵션을 선택해주세요"
+
+
+#2016.06.14 추가
+#/fcctv/main.ctp
+msgid "Platform for happy earth, Happy4Earth's <br>unique Proud Case package"
+msgstr "행복한 지구를 위한 플랫폼, 해피포얼스의 <br>유니크한 프라우드 케이스 패키지"
+
+msgid "view designer's product"
+msgstr "디자이너 상품보기"
+
+msgid "<b class='l1'>FCC TV</b><b class='l2'>_ DESIGNER BRAND</b><b class='l3'>HAPPY 4 EARTH</b>"
+msgstr "<b class='l1'>FCC TV</b><b class='l2'>_ DESIGNER BRAND</b><b class='l3'>HAPPY 4 EARTH</b>"
+
+msgid "SHOP"
+msgstr "SHOP"
+
+msgid "simplicity in Urban Mood<br>Unisex label led by twin duo designers"
+msgstr "간결함 안에 담은 어반 무드 <br>쌍둥이 듀오 디자이너가 이끄는 유니섹스 레이블"
+
+msgid "<b class='l1'>FCC TV</b><b class='l2'>_ DESIGNER BRAND</b><b class='l3 white'>JAM’T</b>"
+msgstr "<b class='l1'>FCC TV</b><b class='l2'>_ DESIGNER BRAND</b><b class='l3 white'>JAM’T</b>"
+
+msgid "Designer Kim Min's ceramic collection in uniqueness of everyday life, CADELU."
+msgstr "일상의 특별함을 선물하는 <br>디자이너 김민의 세라믹 컬렉션, CADELU."
+
+msgid "<b class='l1'>FCC TV</b><b class='l2'>_ DESIGNER BRAND</b><b class='l3'>CADELU</b>"
+msgstr "<b class='l1'>FCC TV</b><b class='l2'>_ DESIGNER BRAND</b><b class='l3'>CADELU</b>"
+
+msgid "COVAS LAB only considers three things. <br>EASY, HONEST, BEAUTIFUL <br>No grandiose style"
+msgstr "COVAS LAB은 세가지만 생각합니다. <br>EASY(쉽고), HONEST(정직하고), BEAUTIFUL(아름답게) <br>거창한 스타일 제안은 없습니다."
+
+msgid "<b class='l1'>FCC TV</b><b class='l2'>_ DESIGNER BRAND</b><b class='l3 white'>COVAS LAB</b>"
+msgstr "<b class='l1'>FCC TV</b><b class='l2'>_ DESIGNER BRAND</b><b class='l3 white'>COVAS LAB</b>"
+
+msgid "Hot & Extraordinary item introduced by FCC TV"
+msgstr "FCC TV가 소개하는 특별하고 핫한 아이템"
+
+msgid "“This is the fashion trend in this season”"
+msgstr "“이번 시즌 트렌드는 바로 이것!”"
+
+msgid "The trendy items we were interested are located at one place! you can view the best items recommended <br class='only__web'>by FCC TV and famous fashion designers."
+msgstr "우리 모두가 궁금해하던 트렌드 아이템을 한눈에! FCC TV와 국내 유명 패션 디자이너들이 추천하는 믿을 수 있는 베스트 아이템을 지금 바로 확인하세요."
+
+msgid "<b class='line1'>FCC</b><b class='line2'>HOTITEM</b>"
+msgstr "<b class='line1'>FCC</b><b class='line2'>HOTITEM</b>"
+
+msgid "<b class='line1'>MEET YOUR</b><b class='line2'>PRODUCTS</b>"
+msgstr "<b class='line1'>MEET YOUR</b><b class='line2'>PRODUCTS</b>"
+
+msgid "Items with designer's story <br> from FCC TV"
+msgstr "FCC TV와 함께하는 디자이너들의<br> 스토리가 담긴 아이템"
+
+msgid "MEN"
+msgstr "MEN"
+
+msgid "WOMEN"
+msgstr "WOMEN"
+
+msgid "UNISEX"
+msgstr "UNISEX"
+
+msgid "LEATHER GOODS &amp; ACC"
+msgstr "LEATHER GOODS &amp; ACC"
+
+msgid "BAG"
+msgstr "BAG"
+
+msgid "ACCESSORY"
+msgstr "ACCESSORY"
+
+msgid "DINING"
+msgstr "DINING"
+
+msgid "PET"
+msgstr "PET"
+
+#default.ctp layout
+msgid "go back to main"
+msgstr "본문으로 바로 가기"
+
+msgid "Q&amp;A"
+msgstr "Q&amp;A"
+
+msgid "at least 2 characters"
+msgstr "검색어는 2자 이상입니다."
+
+msgid "no more than 20 characters"
+msgstr "검색어는 20자를 넘을 수 없습니다."
+
+msgid "prohibited characters contained"
+msgstr "지원하지 않는 검색어입니다."
+
+msgid "all the design submitted to FCC is under copyright law. using the work without the FCC's permission is prohibited."
+msgstr "FCC 에 제출 된 모든 디자인은 저작권법의 보호를 받고 있습니다. 무단 도용 및 복제를 금합니다."
+
+#/address/index.ctp
+msgid "Are you sure?"
+msgstr "정말 삭제 하겠습니까?"
+
+#/address/modal_address.ctp
+msgid "search zip code"
+msgstr "우편번호 검색"
+
+#/address/search_address.ctp
+msgid "street address, c/o "
+msgstr "도로명/읍면동 번지"
+
+msgid "please enter street address or c/o"
+msgstr "도로명이나 읍면동 지번을 입력하세요."
+
+msgid "no result found"
+msgstr "검색결과가 없습니다"
+
+#/auth/email_forgot.ctp
+msgid "forgot your mail address?"
+msgstr "이메일 찾기"
+
+msgid "mobile verification is required."
+msgstr "휴대폰 인증이 필요합니다."
+
+#/auth/login.ctp
+msgid "the account is closed."
+msgstr "이 계정은 탈퇴한 계정입니다."
+
+msgid "Sign In, Input your account"
+msgstr "Sign In, Input your account"
+
+msgid "forgot your password?"
+msgstr "비밀번호 찾기"
+
+#/auth/password_forgot.ctp
+msgid "You can reset password through mobile verification"
+msgstr "휴대폰 본인 인증을 통해 비밀번호를 초기화 하실수 있습니다"
+
+#/auth/set_password.ctp
+msgid "You must agree with FCCTV's Conditions of Use"
+msgstr "이용약관에 동의 하셔야 합니다."
+
+msgid "Please check for nickname duplication"
+msgstr "닉네임을 중복체크 해주세요."
+
+msgid "I agree with the policy above"
+msgstr "위 약관에 동의합니다"
+
+msgid "Nickname"
+msgstr "닉네임"
+
+msgid "The number is already taken."
+msgstr "이미 등록된 전화번호 입니다."
+
+msgid "The nickname is available"
+msgstr "사용 가능한 닉네임 입니다."
+
+msgid "duplicate check completed"
+msgstr "중복 체크완료"
+
+#/Cart/index.ctp
+msgid "FCCTV Media Commerce : view my cart"
+msgstr "FCCTV 미디어 커머스 : 장바구니 보기"
+
+msgid "return and exchange are not allowed"
+msgstr "교환 및 환불 불가"
+
+#/Contacts/add.ctp
+msgid "FCCTV media commerce: contact us"
+msgstr "FCCTV 미디어 커머스 : 문의 하기"
+
+msgid "CHECK UP PLEASE!"
+msgstr "CHECK UP PLEASE!"
+
+msgid "Ship within 2 business days."
+msgstr "배송은 주문 후 2일이내 발송을 원칙으로 하고 있습니다."
+
+msgid "some of sellers may ship within certain business days noted on the product detail page."
+msgstr "일부 브랜드 업체발송은 상품설명에 별도로 기입된 기간으로 상품이 발송됩니다."
+
+msgid "an extra charge may apply for certain product and Jeju Island including some areas geographically difficult to access."
+msgstr "일부 상품, 제주도를 포함한 도서산간 지역은 추가 배송비 입급요청이 있을 수 있습니다."
+
+msgid "shipping fee applies by products"
+msgstr "배송비는 상품에 따라 적용됩니다."
+
+msgid "items can be returned or refunded up to 7 days from the date of purchase."
+msgstr "상품 수령일로부터 7일이내 반품/환불 가능합니다."
+
+msgid "If you change your mind about our products, shipping fees and return fees will not be refunded as long as the products are in their original condition with the factory seal."
+msgstr "변심 반품의 경우 왕복배송비를 차감한 금액이 환불되며, 제품 및 포장 상태가 재판매 가능하여야 합니다."
+
+msgid "if the product is defective, we will offer you a full refund."
+msgstr "상품 불량인 경우는 배송비를 포함한 전액이 환불 됩니다."
+
+msgid "We cannot accept returns or refund on personalized custom products and sealed products."
+msgstr "주문제작상품 / 밀봉상품 등은 변심에 따른 반품/환불 어렵습니다."
+
+msgid "some of imported goods' warranty are not allowed. (see on product detail)"
+msgstr "일부 해외수입 제품에 대해서는 A/S가 불가능합니다. (상품정보 별도 표기)"
+
+msgid "for more details on policies see product details"
+msgstr "상품 상세페이지 참고."
+
+msgid "thank you for your interest in <br class='only__mobile'>Top #1 media commerce<span class='colorBland'>FCCTV</span><br><br> your comment and opinion are important and <br class='only__mobile'>we will respond to it as soon as possible"
+msgstr "넘버원 미디어커머스 <span class='colorBland'>FCCTV</span>에 <br class='only__mobile'>관심을 가져주셔서 감사합니다. <br><br>보내주시는 소중한 의견, 제안은 <br class='only__mobile'>입력된 이메일주소로 <br>빠른 시일내에 회신해 드리겠습니다."
+
+#/Designers/detail.ctp
+msgid "FCCTV media commerce : introducing designers"
+msgstr "FCCTV 미디어 커머스 : 디자이너 소개"
+
+#/Designers/index.ctp
+msgid "FCCTV media commerce : introducing designers and brands"
+msgstr "FCCTV 미디어 커머스 : 디자이너, 브랜드 소개"
+
+#/Element/productCardList.ctp
+msgid "see sharing on sns"
+msgstr "공유보기"
+
+#/Modal/modal_order_return.ctp
+msgid "return / refund / exchange"
+msgstr "반품 / 환불 / 교환 신청"
+
+#Modal/modal_order_return_success.ctp
+msgid "your request has been submitted."
+msgstr "접수되었습니다."
+
+#/Orders/return_order_error.ctp
+msgid "FCCTV media commerce : checkout"
+msgstr "FCCTV 미디어 커머스 : 결재하기"
+
+msgid "proceed to checkout"
+msgstr "결재하기"
+
+msgid "unable to complete checkout process"
+msgstr "결제를 완료할 수 없습니다"
+
+msgid "Sorry for your inconvenience"
+msgstr "불편을 끼쳐드려 죄송합니다."
+
+msgid "if the problem continue, please contact us at <a href='/contact/' class='link'>FCC customer center.</a>"
+msgstr "계속된 문제 발생시 <a href='/contact/' class='link'>FCC 고객센터</a>로 문의 주시기 바랍니다."
+
+msgid "sold out"
+msgstr "매진 상품"
+
+msgid "you have exceeded the <span>maximum purchase limit</span>."
+msgstr "위 상품들은 <span>주문 가능 수량을 초과</span>하였습니다."
+
+msgid "Questions?"
+msgstr "Questions?"
+
+#/Page/about.ctp
+msgid "FCCTV media commerce : ABOUT US"
+msgstr "FCCTV 미디어 커머스 : ABOUT US"
+
+#/page/family.ctp
+msgid "FCCTV media commerce : subsidiary company"
+msgstr "FCCTV 미디어 커머스 : 패밀리사이트"
+
+#/Product/detail.ctp
+msgid "FCCTV media commerce product purchase"
+msgstr "FCCTV 미디어 커머스 상품 구매"
+
+#/Product/index.ctp
+msgid "FCCTV media commerce : product list"
+msgstr "FCCTV 미디어 커머스 : 상품 리스트"
+
+#/Tv/detail.ctp
+msgid "view detail of FCCTV media commerce video contents"
+msgstr "FCCTV 미디어 커머스 방송 컨텐츠 상세보기"
+
+msgid "select an option"
+msgstr "옵션 선택"
+
+msgid "sold out"
+msgstr "매진된 상품입니다"
+
+#/Tv/index.ctp
+msgid "FCCTV media commerce video contents"
+msgstr "FCCTV 미디어 커머스 방송 컨텐츠"
+
+msgid "unknown error has occurred."
+msgstr "결제중 오류가 발생하였습니다."
+
+msgid "check out timed out. please try it again after log in"
+msgstr "결제가능 시간이 초과하였습니다. 로그인 후 다시 시도해 주시기 바랍니다."
+
+msgid "some of the product is sold out. Please check the status of the product."
+msgstr "매진 상품이 포함되어 있습니다.<br/>상품 정보 확인 후 다시 주문해 주시기 바랍니다."
+
+msgid "Forgot your E-mail address?"
+msgstr "이메일을 잊으셨나요?"

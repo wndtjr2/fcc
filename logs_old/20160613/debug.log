@@ -1,0 +1,934 @@
+2016-06-13 10:53:32 Debug: 
+App\Controller\CacheController::removeProduct() - APP/Controller/CacheController.php, line 49
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'main Cache 제거'
+2016-06-13 10:54:15 Debug: 
+App\Controller\CacheController::removeProduct() - APP/Controller/CacheController.php, line 49
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'main Cache 제거'
+2016-06-13 11:28:00 Notice: Notice (8): Trying to get property of non-object in [/var/www/fcctv.co.kr/src/Service/MyOrderService.php, line 459]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+App\Service\MyOrderService::refundReason() - APP/Service/MyOrderService.php, line 459
+App\Controller\MyorderController::refundRequest() - APP/Controller/MyorderController.php, line 69
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-06-13 13:10:47 Debug: 
+App\Controller\CacheController::removeProduct() - APP/Controller/CacheController.php, line 42
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'전체 products Cache 제거.'
+2016-06-13 13:10:47 Debug: 
+App\Controller\CacheController::removeProduct() - APP/Controller/CacheController.php, line 43
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'main Cache 제거'
+2016-06-13 13:10:47 Debug: 
+App\Controller\CacheController::removeProduct() - APP/Controller/CacheController.php, line 44
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'Whats New 제거'
+2016-06-13 13:15:40 Debug: 
+App\Controller\CacheController::removeProduct() - APP/Controller/CacheController.php, line 42
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'전체 products Cache 제거.'
+2016-06-13 13:15:40 Debug: 
+App\Controller\CacheController::removeProduct() - APP/Controller/CacheController.php, line 43
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'main Cache 제거'
+2016-06-13 13:15:40 Debug: 
+App\Controller\CacheController::removeProduct() - APP/Controller/CacheController.php, line 44
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'Whats New 제거'
+2016-06-13 13:59:55 Debug: 
+App\Controller\CacheController::removeProduct() - APP/Controller/CacheController.php, line 49
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'main Cache 제거'
+2016-06-13 14:15:55 Debug: 
+App\Controller\CacheController::removeProduct() - APP/Controller/CacheController.php, line 42
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'전체 products Cache 제거.'
+2016-06-13 14:15:55 Debug: 
+App\Controller\CacheController::removeProduct() - APP/Controller/CacheController.php, line 43
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'main Cache 제거'
+2016-06-13 14:15:55 Debug: 
+App\Controller\CacheController::removeProduct() - APP/Controller/CacheController.php, line 44
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'Whats New 제거'
+2016-06-13 14:22:02 Debug: 
+App\Controller\CacheController::removeProduct() - APP/Controller/CacheController.php, line 42
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'전체 products Cache 제거.'
+2016-06-13 14:22:02 Debug: 
+App\Controller\CacheController::removeProduct() - APP/Controller/CacheController.php, line 43
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'main Cache 제거'
+2016-06-13 14:22:02 Debug: 
+App\Controller\CacheController::removeProduct() - APP/Controller/CacheController.php, line 44
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'Whats New 제거'
+
+2016-06-13 14:28:43 Debug
+Array
+(
+    [gopaymethod] => Card
+    [goodname] => IPHONE 6 CASE - SELLY, VINTAGE HAIR PIN, CURLY HAIR, WATCH
+    [price] => 37000
+    [buyername] => 이 중석
+    [buyeremail] => wndtjr2@yahoo.co.kr
+    [buyertel] => 01064090631
+    [mid] => fashioncro
+    [currency] => WON
+    [acceptmethod] => SKIN(ORIGINAL):HPP(2):OCB
+    [oid] => OR0000000278
+    [quotainterest] => 
+    [paymethod] => Card
+    [cardcode] => 
+    [cardquota] => 
+    [rbankcode] => 
+    [reqsign] => DONE
+    [encrypted] => Version=4.1&PayMethod=Card&RsaKeyNum=1&EncryptionAlgorithm=SEED-CBC&SignAlgorithm=RSAwithSHA1&CertVer=39&moid=OR0000000278&ver_trace=INIMain(D3_v1096_151229)Terms(D3_v1008_d151119)Card(D3_v1114_d160419)&pg1=203.238.37.3&pg2=211.219.96.180&pg1ip=203.238.37.3&pg2ip=211.219.96.180&agreeflag=1111&Data=+re8E2dgfNcf3He28hOMMxh1lT/v5OL2hmsaiTgAoNhJFV0/CN+QD6qG6E0KEsDs
+LTyHNy/t6M4nt3SorIIGALiZJt6HaCJvQ1xJUGPD/OnNVUqSMV5iQpCaBfhyJaWf
+SyKxrZ038qsEM20iVIkrDdtbH7++pmGBAqJEB0fNsYeYsfCCKNue6qS1ObWiAIbb
+YPsAnjETYRPdp9I9XVg3k6bCMx99+9G4LKorGbUeOnYaIAbtXLxfPL4cngv7I2zS
+D2G8v/1W6IbIo03tYZ4IO7Vl4g0AberKj1QE8Yd00pLS6pDLW+eEgNGr0ofvKLt0
+66li1KCminzdvg47na6XS+krciORrUsn2DTx0M6549XSijaYRN1i9EbyzDS7iRY5
+n1GQVD7vnN4v/OvzPcifgpR2HRhtpEzwpjfku3xmRGqBoaQ56yJpRuVaaCKjl7eD
+YyEVhsV8fLLRb3uYA6q6nivt6T/5mkRM/wn3W+lDoyAMhmj2VvNPcEYMyzQtI3d1
++NCtIlHtnOrvMJIGYbR7cVFHgBCDRMLvdmfPFqdY9Vnat3Qrzlat66CR2LDmfQek
+3Zfa28Z0HK39v1I5UnEKl5S6pySZJtFNcczr281z
+
+    [sessionkey] => jJP4rzFJTKqTjkFbNMKQl/LpsJxoLjkS+xysYgWrAsYE/6w3cEx09cBHWn9aP/Oc
+ZfQikRxPanmK+IWOIXfZLoYpUTd5oU0UT0xVlNMSiAq1/NOXMRT87jE7n4Z6Ah/I
+kzrWcE+AkSP03FZRt7MN6ae6Ui0iuZ9TaWbMldGE4sA=
+    [uid] => DEFAULTUSR
+    [sid] => 
+    [version] => 4000
+    [clickcontrol] => enable
+    [nointerest] => no
+    [quotabase] => lumpsum:00:02:03:04:05
+)
+
+
+2016-06-13 14:28:43 Debug
+결제가능 시간이 초과하였습니다. 로그인 후 다시 시도해 주시기 바랍니다.
+
+2016-06-13 14:40:29 Debug
+Array
+(
+    [P_STATUS] => 00
+    [P_RMESG1] => ���� ó�� �Ǿ����ϴ�.
+    [P_TID] => INIMX_AUTHfashioncro20160613144028760466
+    [P_REQ_URL] => https://fcmobile.inicis.com/smart/pay_req_url.php
+    [P_NOTI] => OR0000000283
+)
+
+
+2016-06-13 14:40:30 Debug
+INImx Object
+(
+    [reqtype] => PAY
+    [inipayhome] => /var/www/fcctv.co.kr
+    [id_merchant] => fashioncro
+    [status] => 00
+    [rmesg1] => ���� ó�� �Ǿ����ϴ�.
+    [tid] => INIMX_AUTHfashioncro20160613144028760466
+    [req_url] => https://fcmobile.inicis.com/smart/pay_req_url.php
+    [m_serviceurl] => /smart/pay_req_url.php
+    [m_resultCode] => 00
+    [m_resultmsg] => 
+    [noti] => OR0000000283
+    [m_resultprice] => 4746
+    [m_pgAuthDate] => 20160613
+    [m_authCode] => 00727977
+    [m_cardQuota] => 00
+    [m_cardCode] => 04
+    [m_cardIssuerCode] => 00
+    [m_vacct] => 
+    [m_vcdbank] => 
+    [m_dtinput] => 
+    [m_tminput] => 
+    [m_nminput] => 
+    [m_buyerName] => �� �߼�
+    [m_nextUrl] => https://fcctv.co.kr/325n23fhih389d2u3jf578y8342dk378/y45ybjvriouywo89ky0434tetf4ftg/mx_rnext.php
+    [m_notiUrl] => 
+    [m_prtc] => 1
+    [m_authdt] => 20160613144029
+    [m_mname] => 
+    [m_noti] => OR0000000283
+    [m_cardinterest] => 0
+    [m_cardcheckflag] => 1
+    [m_hppapplnum] => 
+    [m_hppnum] => 
+    [m_tid] => INIMX_CARDfashioncro20160613144028960878
+    [m_resultMsg] => ���������� ó�� �Ͽ����ϴ�.
+    [m_payMethod] => CARD
+    [m_mid] => fashioncro
+    [m_moid] => OR0000000283
+    [m_pgAuthTime] => 144029
+    [m_cardNum] => 949028041808
+    [m_cardMembernum] => 
+    [m_cardpurchase] => 04
+    [m_cardName] => ����ī��
+)
+
+
+2016-06-13 14:59:59 Debug
+Array
+(
+    [gopaymethod] => Card
+    [goodname] => 2차 테스트
+    [price] => 4500
+    [buyername] => 이 중석
+    [buyeremail] => wndtjr2@yahoo.co.kr
+    [buyertel] => 01064090631
+    [mid] => fashioncro
+    [currency] => WON
+    [acceptmethod] => SKIN(ORIGINAL):HPP(2):OCB
+    [oid] => OR0000000287
+    [quotainterest] => 
+    [paymethod] => Card
+    [cardcode] => 
+    [cardquota] => 
+    [rbankcode] => 
+    [reqsign] => DONE
+    [encrypted] => Version=4.1&PayMethod=Card&RsaKeyNum=1&EncryptionAlgorithm=SEED-CBC&SignAlgorithm=RSAwithSHA1&CertVer=39&moid=OR0000000287&ver_trace=INIMain(D3_v1096_151229)Terms(D3_v1008_d151119)Card(D3_v1114_d160419)&pg1=203.238.37.3&pg2=211.219.96.180&pg1ip=203.238.37.3&pg2ip=211.219.96.180&agreeflag=1111&Data=nzpl3YZTFfbkOwxr9+hYJz/ikQEdJRlKnoC9P+GuzQ+dok4tfjXGHD39pA6AgxnZ
+BTcEo6ZsRwb28ssN05H2VsWNTzIA7D39UCx5n2GnidP/1qVUpE/t/sGq57cgAdVC
+2rDr4MQJSQcmJcPsL5ynslgseEjv+MNV004QcF0Ejsqmj8mfkIhxheF8VZ1MV1ns
+WDWxhddqFIoVzuuKw9qdocNPv36sA1SdNgnxGEXQZX4WQyqLcQ/e4vCLaGHTnJ7A
+UhDCi2B/kSIYNIjBxQsPhEOiikoT6PcSa/wsaMN/JzdtI4LJquMX3bEhpK005yUY
+bedtVhEIv9kUhtfPBaSwU5ZQsaiWkoDxH6zsIHzjbZQTmXC6hkeJbpHSxPaE1ZcS
+zipWHiHCOyAIjxHz1nUH+fcKFN3T2e9ZQ+VGmXu/fHXM4fqK0boIjM/OQolgZrRL
++QttgOefVnK7+s3ZiORhvR4Bjyr7QcsbFw1yII/0jvM5DMQSq0u+p3MQTI1NemIz
+i1sWtomBspuHj25GnKFbCkv5C5l0vqFNyvIbkfXJ5OntTUY0OL8WTklGXaEzs26X
+ACl+A0DoUCVmixvatDYOf7lI66dgCzuDRhUd9I0=
+
+    [sessionkey] => YH5k4Jje3LWMy7t3z2dv6xAduH2yh1xprlt1dHCfteSTX3cI3SLNkY2SX/7gYezg
+KOkMY6KRpYIuByQS9N6HBZFgV4LZ1snd/GwabBQwrNfsqEPwtDeeTktB6xklw+TF
+A/lL8kTzJAGM7tSNCyJ4S4I54JtlILHxMiNwA4+py0E=
+    [uid] => DEFAULTUSR
+    [sid] => 
+    [version] => 4000
+    [clickcontrol] => enable
+    [nointerest] => no
+    [quotabase] => lumpsum:00:02:03:04:05
+)
+
+
+2016-06-13 14:59:59 Debug
+매진 상품이 포함되어 있습니다.<br/>상품 정보 확인 후 다시 주문해 주시기 바랍니다.
+
+2016-06-13 15:02:13 Debug
+Array
+(
+    [gopaymethod] => Card
+    [goodname] => 2차 테스트
+    [price] => 4500
+    [buyername] => 이 중석
+    [buyeremail] => wndtjr2@yahoo.co.kr
+    [buyertel] => 01064090631
+    [mid] => fashioncro
+    [currency] => WON
+    [acceptmethod] => SKIN(ORIGINAL):HPP(2):OCB
+    [oid] => OR0000000288
+    [quotainterest] => 
+    [paymethod] => Card
+    [cardcode] => 04
+    [cardquota] => 00
+    [rbankcode] => 
+    [reqsign] => DONE
+    [encrypted] => Version=4.1&PayMethod=Card&RsaKeyNum=1&EncryptionAlgorithm=SEED-CBC&SignAlgorithm=RSAwithSHA1&CertVer=39&moid=OR0000000288&ver_trace=main(6101,6062)card(6153,6133)n(6009)Cs(6025)Dt(6002)Pa(6002)Cf(6025)Fv(0000)La(6165)Re(6115)Vr(6007)P(6034)en(6060)nP(6006)&pg1=211.219.96.180&pg2=203.238.37.3&pg1ip=211.219.96.180&pg2ip=203.238.37.3&agreeflag=1111&Data=Y/5D2/980U4hPAZNfcI7tuzHz5P8Hm7DcfyoaQM3Vf0OipjuszWJCbhYZPjWr/FN
+9y6S4uasUikO98H1GfeMNwdXFk4tXXrNk/ArQNSNicV0S027udMdk4wzZVF7kvhS
+OBf3K3pSg9gfpa7JmgPPbQIbCpu3LsVZtoPgJdaArieEio9c/unB19SYxOa7t2kQ
+lNyG1ngQlQEysTgoqK0tNTloEQqZwrJYMhixhIRg7RGoCpQSzGuGTcrJmL19hZRk
+1N3vJfgSqpDE9RR+Wl1hPjxFCceq9ZHgBKi07fcHMnP4aCdGdUItbybvXvxYVGOS
+Ua6glAL6E4E4R2pFTjNnDPwF+nP+7V7z5CHuymelK9EJtvtDdSCpmy5q21Eqg7gz
+M5khCC/00PBeR3iLhVNmniaWOs2bknINVhkYVzS9qikqEYmA0i0ezssDOTUcUgFJ
+UUs6sb0laDcecNzeME5t5Y5MTvJ1s3Ym540jA+UlYwXZem4pOdjPj8bf4qR5VFno
+aQP32Df+vzXZniM2Sm2XXaSX1N6Utpgq6Y6qfF4mzcUF0AdzYkY0G2pxYYpvSvXR
+xLGQtS29amhGJIWVRoAnFvsnbp9WPIUT6BKEQY0jFVZ4FqIzd4VEDFhp6rcpEktC
+U7HeY4mqNMQ2hUkXVdULwPIyhwjXpKg9LYekpH6G+ka14rS0MiFO1WOCVE0H5zKL
+YpDvTekyxWezVHF2vU+q8bk7LNXXhMmGesRdyXOk9s/Mv69TI8Wo2ixteyP8n/0C
+mmzxiptHUaJlJe2DXXW9PwpC4NOBWqoW0dtLYau7iQYK
+    [sessionkey] => vzkkoT+QWPjyEVE1U+rd6IslAdjSC+rvV9AFWou5pDss4ZTJYHdjfRDdryImpjW3
+SmuDCJuAoiu95idHt2LG5MD6JU/FlyjiwG5iRMwmGGMWi7mjtU3YzxyVjr3qlZGa
+VwVJsEvHfUk9oTXSsilzD+ExfT1FnGVFnp8n68JjvQU=
+    [uid] => DEFAULTUSR
+    [sid] => 
+    [version] => 4000
+    [clickcontrol] => disable
+    [nointerest] => no
+    [quotabase] => lumpsum:00:02:03:04:05
+)
+
+
+2016-06-13 15:02:13 Debug
+매진 상품이 포함되어 있습니다.<br/>상품 정보 확인 후 다시 주문해 주시기 바랍니다.
+
+2016-06-13 15:03:45 Debug
+Array
+(
+    [P_STATUS] => 00
+    [P_RMESG1] => ���� ó�� �Ǿ����ϴ�.
+    [P_TID] => INIMX_AUTHfashioncro20160613150345401419
+    [P_REQ_URL] => https://drmobile.inicis.com/smart/pay_req_url.php
+    [P_NOTI] => OR0000000289
+)
+
+
+2016-06-13 15:03:45 Debug
+매진 상품이 포함되어 있습니다.<br/>상품 정보 확인 후 다시 주문해 주시기 바랍니다.
+
+2016-06-13 15:08:36 Debug
+Array
+(
+    [P_STATUS] => 00
+    [P_RMESG1] => ���� ó�� �Ǿ����ϴ�.
+    [P_TID] => INIMX_AUTHfashioncro20160613150836660994
+    [P_REQ_URL] => https://fcmobile.inicis.com/smart/pay_req_url.php
+    [P_NOTI] => OR0000000291
+)
+
+
+2016-06-13 15:08:38 Debug
+INImx Object
+(
+    [reqtype] => PAY
+    [inipayhome] => /var/www/fcctv.co.kr
+    [id_merchant] => fashioncro
+    [status] => 00
+    [rmesg1] => ���� ó�� �Ǿ����ϴ�.
+    [tid] => INIMX_AUTHfashioncro20160613150836660994
+    [req_url] => https://fcmobile.inicis.com/smart/pay_req_url.php
+    [m_serviceurl] => /smart/pay_req_url.php
+    [m_resultCode] => 00
+    [m_resultmsg] => 
+    [noti] => OR0000000291
+    [m_resultprice] => 4500
+    [m_pgAuthDate] => 20160613
+    [m_authCode] => 00413353
+    [m_cardQuota] => 00
+    [m_cardCode] => 04
+    [m_cardIssuerCode] => 00
+    [m_vacct] => 
+    [m_vcdbank] => 
+    [m_dtinput] => 
+    [m_tminput] => 
+    [m_nminput] => 
+    [m_buyerName] => �� �߼�
+    [m_nextUrl] => https://fcctv.co.kr/325n23fhih389d2u3jf578y8342dk378/y45ybjvriouywo89ky0434tetf4ftg/mx_rnext.php
+    [m_notiUrl] => 
+    [m_prtc] => 1
+    [m_authdt] => 20160613150837
+    [m_mname] => 
+    [m_noti] => OR0000000291
+    [m_cardinterest] => 0
+    [m_cardcheckflag] => 1
+    [m_hppapplnum] => 
+    [m_hppnum] => 
+    [m_tid] => INIMX_CARDfashioncro20160613150837090448
+    [m_resultMsg] => ���������� ó�� �Ͽ����ϴ�.
+    [m_payMethod] => CARD
+    [m_mid] => fashioncro
+    [m_moid] => OR0000000291
+    [m_pgAuthTime] => 150837
+    [m_cardNum] => 949028041808
+    [m_cardMembernum] => 
+    [m_cardpurchase] => 04
+    [m_cardName] => ����ī��
+)
+
+2016-06-13 16:10:28 Debug: 
+App\Controller\CacheController::removeProduct() - APP/Controller/CacheController.php, line 42
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'전체 products Cache 제거.'
+2016-06-13 16:10:28 Debug: 
+App\Controller\CacheController::removeProduct() - APP/Controller/CacheController.php, line 43
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'main Cache 제거'
+2016-06-13 16:10:28 Debug: 
+App\Controller\CacheController::removeProduct() - APP/Controller/CacheController.php, line 44
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'Whats New 제거'
+2016-06-13 16:10:49 Debug: 
+App\Controller\CacheController::removeProduct() - APP/Controller/CacheController.php, line 42
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'전체 products Cache 제거.'
+2016-06-13 16:10:49 Debug: 
+App\Controller\CacheController::removeProduct() - APP/Controller/CacheController.php, line 43
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'main Cache 제거'
+2016-06-13 16:10:49 Debug: 
+App\Controller\CacheController::removeProduct() - APP/Controller/CacheController.php, line 44
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'Whats New 제거'
+2016-06-13 16:33:58 Notice: Notice (8): Undefined index: productOption in [/var/www/fcctv.co.kr/src/Template/Tv/detail.ctp, line 147]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Tv/detail.ctp, line 147
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-06-13 16:33:58 Notice: Notice (8): Undefined index: productOption in [/var/www/fcctv.co.kr/src/Template/Tv/detail.ctp, line 147]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Tv/detail.ctp, line 147
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-06-13 16:33:58 Notice: Notice (8): Undefined index: productOption in [/var/www/fcctv.co.kr/src/Template/Tv/detail.ctp, line 147]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Tv/detail.ctp, line 147
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-06-13 16:33:58 Notice: Notice (8): Undefined index: productOption in [/var/www/fcctv.co.kr/src/Template/Tv/detail.ctp, line 147]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Tv/detail.ctp, line 147
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-06-13 16:33:58 Notice: Notice (8): Undefined index: productOption in [/var/www/fcctv.co.kr/src/Template/Tv/detail.ctp, line 147]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Tv/detail.ctp, line 147
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-06-13 16:33:58 Notice: Notice (8): Undefined index: productOption in [/var/www/fcctv.co.kr/src/Template/Tv/detail.ctp, line 147]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Tv/detail.ctp, line 147
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-06-13 16:33:58 Notice: Notice (8): Undefined index: productOption in [/var/www/fcctv.co.kr/src/Template/Tv/detail.ctp, line 147]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Tv/detail.ctp, line 147
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-06-13 16:35:21 Notice: Notice (8): Undefined index: productOption in [/var/www/fcctv.co.kr/src/Template/Tv/detail.ctp, line 147]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Tv/detail.ctp, line 147
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-06-13 16:35:21 Notice: Notice (8): Undefined index: productOption in [/var/www/fcctv.co.kr/src/Template/Tv/detail.ctp, line 147]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Tv/detail.ctp, line 147
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-06-13 16:35:21 Notice: Notice (8): Undefined index: productOption in [/var/www/fcctv.co.kr/src/Template/Tv/detail.ctp, line 147]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Tv/detail.ctp, line 147
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-06-13 16:42:46 Notice: Notice (8): Undefined index: productOption in [/var/www/fcctv.co.kr/src/Template/Tv/detail.ctp, line 147]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Tv/detail.ctp, line 147
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-06-13 16:42:46 Notice: Notice (8): Undefined index: productOption in [/var/www/fcctv.co.kr/src/Template/Tv/detail.ctp, line 147]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Tv/detail.ctp, line 147
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-06-13 16:42:46 Notice: Notice (8): Undefined index: productOption in [/var/www/fcctv.co.kr/src/Template/Tv/detail.ctp, line 147]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Tv/detail.ctp, line 147
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-06-13 16:47:39 Notice: Notice (8): Undefined index: productOption in [/var/www/fcctv.co.kr/src/Template/Tv/detail.ctp, line 147]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Tv/detail.ctp, line 147
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-06-13 16:47:39 Notice: Notice (8): Undefined index: productOption in [/var/www/fcctv.co.kr/src/Template/Tv/detail.ctp, line 147]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Tv/detail.ctp, line 147
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-06-13 16:47:39 Notice: Notice (8): Undefined index: productOption in [/var/www/fcctv.co.kr/src/Template/Tv/detail.ctp, line 147]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Tv/detail.ctp, line 147
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-06-13 16:48:02 Notice: Notice (8): Undefined index: productOption in [/var/www/fcctv.co.kr/src/Template/Tv/detail.ctp, line 147]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Tv/detail.ctp, line 147
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-06-13 16:48:02 Notice: Notice (8): Undefined index: productOption in [/var/www/fcctv.co.kr/src/Template/Tv/detail.ctp, line 147]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Tv/detail.ctp, line 147
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-06-13 16:48:02 Notice: Notice (8): Undefined index: productOption in [/var/www/fcctv.co.kr/src/Template/Tv/detail.ctp, line 147]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Tv/detail.ctp, line 147
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-06-13 16:52:42 Notice: Notice (8): Undefined index: productOption in [/var/www/fcctv.co.kr/src/Template/Tv/detail.ctp, line 147]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Tv/detail.ctp, line 147
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-06-13 16:52:42 Notice: Notice (8): Undefined index: productOption in [/var/www/fcctv.co.kr/src/Template/Tv/detail.ctp, line 147]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Tv/detail.ctp, line 147
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-06-13 16:52:42 Notice: Notice (8): Undefined index: productOption in [/var/www/fcctv.co.kr/src/Template/Tv/detail.ctp, line 147]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Tv/detail.ctp, line 147
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-06-13 17:24:40 Debug: 
+App\Controller\CacheController::removeDesigner() - APP/Controller/CacheController.php, line 63
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'전체 products Cache 제거.'
+2016-06-13 17:31:41 Debug: 
+App\Controller\CacheController::removeDesigner() - APP/Controller/CacheController.php, line 63
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'전체 products Cache 제거.'
+2016-06-13 17:32:35 Debug: 
+App\Controller\CacheController::removeDesigner() - APP/Controller/CacheController.php, line 63
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'전체 products Cache 제거.'
+2016-06-13 17:52:23 Debug: 
+App\Controller\CacheController::removeProduct() - APP/Controller/CacheController.php, line 42
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'전체 products Cache 제거.'
+2016-06-13 17:52:23 Debug: 
+App\Controller\CacheController::removeProduct() - APP/Controller/CacheController.php, line 43
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'main Cache 제거'
+2016-06-13 17:52:23 Debug: 
+App\Controller\CacheController::removeProduct() - APP/Controller/CacheController.php, line 44
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'Whats New 제거'
+2016-06-13 17:58:18 Debug: 
+App\Controller\CacheController::removeProduct() - APP/Controller/CacheController.php, line 42
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'전체 products Cache 제거.'
+2016-06-13 17:58:18 Debug: 
+App\Controller\CacheController::removeProduct() - APP/Controller/CacheController.php, line 43
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'main Cache 제거'
+2016-06-13 17:58:18 Debug: 
+App\Controller\CacheController::removeProduct() - APP/Controller/CacheController.php, line 44
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'Whats New 제거'
+2016-06-13 18:00:06 Debug: 
+App\Controller\CacheController::removeProduct() - APP/Controller/CacheController.php, line 42
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'전체 products Cache 제거.'
+2016-06-13 18:00:06 Debug: 
+App\Controller\CacheController::removeProduct() - APP/Controller/CacheController.php, line 43
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'main Cache 제거'
+2016-06-13 18:00:06 Debug: 
+App\Controller\CacheController::removeProduct() - APP/Controller/CacheController.php, line 44
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'Whats New 제거'
+2016-06-13 18:00:34 Debug: 
+App\Controller\CacheController::removeProduct() - APP/Controller/CacheController.php, line 42
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'전체 products Cache 제거.'
+2016-06-13 18:00:34 Debug: 
+App\Controller\CacheController::removeProduct() - APP/Controller/CacheController.php, line 43
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'main Cache 제거'
+2016-06-13 18:00:34 Debug: 
+App\Controller\CacheController::removeProduct() - APP/Controller/CacheController.php, line 44
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'Whats New 제거'
+2016-06-13 18:17:26 Debug: 
+App\Controller\CacheController::removeProduct() - APP/Controller/CacheController.php, line 42
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'전체 products Cache 제거.'
+2016-06-13 18:17:26 Debug: 
+App\Controller\CacheController::removeProduct() - APP/Controller/CacheController.php, line 43
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'main Cache 제거'
+2016-06-13 18:17:26 Debug: 
+App\Controller\CacheController::removeProduct() - APP/Controller/CacheController.php, line 44
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'Whats New 제거'
+2016-06-13 18:18:40 Debug: 
+App\Controller\CacheController::removeProduct() - APP/Controller/CacheController.php, line 42
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'전체 products Cache 제거.'
+2016-06-13 18:18:40 Debug: 
+App\Controller\CacheController::removeProduct() - APP/Controller/CacheController.php, line 43
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'main Cache 제거'
+2016-06-13 18:18:40 Debug: 
+App\Controller\CacheController::removeProduct() - APP/Controller/CacheController.php, line 44
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'Whats New 제거'
+2016-06-13 19:15:13 Debug: 
+App\Controller\CacheController::removeDesigner() - APP/Controller/CacheController.php, line 63
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'전체 products Cache 제거.'
+2016-06-13 19:19:26 Debug: 
+App\Controller\CacheController::removeDesigner() - APP/Controller/CacheController.php, line 63
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'전체 products Cache 제거.'
+2016-06-13 19:21:26 Debug: 
+App\Controller\CacheController::removeDesigner() - APP/Controller/CacheController.php, line 63
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'전체 products Cache 제거.'
+2016-06-13 19:21:41 Debug: 
+App\Controller\CacheController::removeDesigner() - APP/Controller/CacheController.php, line 63
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'전체 products Cache 제거.'
+2016-06-13 20:33:39 Debug: 
+App\Controller\CacheController::removeDesigner() - APP/Controller/CacheController.php, line 63
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'전체 products Cache 제거.'
+2016-06-13 20:42:29 Debug: 
+App\Controller\CacheController::removeDesigner() - APP/Controller/CacheController.php, line 63
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'전체 products Cache 제거.'
+2016-06-13 22:06:25 Debug: 
+App\Controller\CacheController::removeDesigner() - APP/Controller/CacheController.php, line 63
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'전체 products Cache 제거.'

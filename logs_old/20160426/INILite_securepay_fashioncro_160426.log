@@ -1,0 +1,84 @@
+INFO [2016-04-26 02:40:37] <10217> START INILite securepay (V3.1B20090917(OS:Linux3.13.0-65-generic,PHP:5.5.9-1ubuntu4.14))
+INFO [2016-04-26 02:40:37] <10217> Make TID OK INliteCARDfashioncro20160426024037342836
+DEBUG [2016-04-26 02:40:37] <10217> mid:[fashioncro]
+DEBUG [2016-04-26 02:40:37] <10217> key:[Sk******a01nWmQ2TFJzNytUaUVpdz09]
+DEBUG [2016-04-26 02:40:37] <10217> mallencrypt:[bwGo6sg6xeH1iwGZdWLK53d8SWtUvAZVNq/mqaVTgUBfNv8sMgBV16H4USRAtDw=]
+DEBUG [2016-04-26 02:40:37] <10217> uid:[DEFAULTUSR]
+DEBUG [2016-04-26 02:40:37] <10217> url:[fcctv.co.kr]
+DEBUG [2016-04-26 02:40:37] <10217> uip:[115.94.115.181]
+DEBUG [2016-04-26 02:40:37] <10217> paymethod:[Card]
+DEBUG [2016-04-26 02:40:37] <10217> goodname:[æ∆¥„∞˙ ¿Ã∫Í¿« ªÁ∞˙ Ω√∏Æ¡Ó]
+DEBUG [2016-04-26 02:40:37] <10217> currency:[WON]
+DEBUG [2016-04-26 02:40:37] <10217> buyername:[º€ ±§ºÆ]
+DEBUG [2016-04-26 02:40:37] <10217> buyertel:[01091552748]
+DEBUG [2016-04-26 02:40:37] <10217> buyeremail:[bb_sks@nate.com]
+DEBUG [2016-04-26 02:40:37] <10217> parentemail:[]
+DEBUG [2016-04-26 02:40:37] <10217> recvname:[]
+DEBUG [2016-04-26 02:40:37] <10217> recvtel:[]
+DEBUG [2016-04-26 02:40:37] <10217> recvaddr:[]
+DEBUG [2016-04-26 02:40:37] <10217> recvpostnum:[]
+DEBUG [2016-04-26 02:40:37] <10217> recvmsg:[]
+DEBUG [2016-04-26 02:40:37] <10217> sessionkey:[OrxhcpQPkjdqhDrav1SBStTpX9OcLm0jmvIL7AhbmB5aRbV6FiM0iVDXqLJCvNV+
+ViOgGWuOisL6EutCrEjF5x0Klr0mEX5vvBWzbPfvOHhQ0crbbbU6AqmjRaHLYzWw
+QdLwYG2rg7UIkix2US92rJ3S3uX2cawaGvs+jBKNwj8=]
+DEBUG [2016-04-26 02:40:37] <10217> encrypted:[Version=4.1&PayMethod=Card&RsaKeyNum=1&EncryptionAlgorithm=SEED-CBC&SignAlgorithm=RSAwithSHA1&CertVer=39&moid=OR0000000226&ver_trace=INIMain(D3_v1096_151229)Terms(D3_v1008_d151119)Card(D3_v1114_d160419)&pg1=203.238.37.3&pg2=211.219.96.180&pg1ip=203.238.37.3&pg2ip=211.219.96.180&agreeflag=1111&Data=Cn/8xLl7RDsAAQYs3b/qVW/il97KMa2HVel2KRQXJXLPIwNNSiGN10pxRa7tj+/x
+5LdXw+n/AMl4ktOviTBUROvIWhc7va0uLit/redza1KE0nDR2myJex8dLxLveYO+
+1Ys0Kb/kq9xMXhQKImM9cMN8wbA81dthgYmArblrN2mq0LpGWXbLG0NfgDGKWTM1
+wmHCYaNgBvR42veIF1CsQAcWbrf5Vt6Rtuqos2Ymk33AD7dtyEjoHX3tdoqLHCYl
+rBOV+KbAI6pFVWjVh283IpqXtrV2H8kzhCvxDKsq/eIUNijCTYO96VqopheZ6vtJ
+l1wmjv+vUsNqbFWe9BdEjN5T091UgwmJiQFTsiKaEWMf6Uov1OR5f1gl7R8wnJ0d
+HsQEvMzFHBvXS0AeJw1QbTKRehuiFymf8Tq8WabMWu0HPJ9jm2NlDo58OuqiKrmn
+12PKyoipTYcO0LgGXx0n2V/5kukKNxjqj5inYzpSFqiQ/ZAaekDbI/yMOJaYGgjR
+m/cjSOp9KpDZB6XXtbG3rf6VVafm3izL64gfzIJf2J/UYwsZuQ+Gxu5O263/9FCz
+wOurJB+2Vn6NkdxNkg==
+]
+INFO [2016-04-26 02:40:37] <10217> Check Field OK
+INFO [2016-04-26 02:40:37] <10217> ssl://inilite.inicis.com:443 Server Connect OK
+DEBUG [2016-04-26 02:40:37] <10217> MSG_TO_SVR::[POST /inipayR HTTP/1.0
+Connection: close
+Host: inilite.inicis.com
+Content-type: application/x-www-form-urlencoded
+Content-length: 1676
+Accept: */*
+
+mid=fashioncro&mallencrypt=bwGo6sg6xeH1iwGZdWLK53d8SWtUvAZVNq%2FmqaVTgUBfNv8sMgBV16H4USRAtDw%3D&uid=DEFAULTUSR&url=fcctv.co.kr&uip=115.94.115.181&paymethod=Card&goodname=%BE%C6%B4%E3%B0%FA+%C0%CC%BA%EA%C0%C7+%BB%E7%B0%FA+%BD%C3%B8%AE%C1%EE&currency=WON&buyername=%BC%DB+%B1%A4%BC%AE&buyertel=01091552748&buyeremail=bb_sks%40nate.com&parentemail=&recvname=&recvtel=&recvaddr=&recvpostnum=&recvmsg=&sessionkey=OrxhcpQPkjdqhDrav1SBStTpX9OcLm0jmvIL7AhbmB5aRbV6FiM0iVDXqLJCvNV%2B%0D%0AViOgGWuOisL6EutCrEjF5x0Klr0mEX5vvBWzbPfvOHhQ0crbbbU6AqmjRaHLYzWw%0D%0AQdLwYG2rg7UIkix2US92rJ3S3uX2cawaGvs%2BjBKNwj8%3D&encrypted=Version%3D4.1%26PayMethod%3DCard%26RsaKeyNum%3D1%26EncryptionAlgorithm%3DSEED-CBC%26SignAlgorithm%3DRSAwithSHA1%26CertVer%3D39%26moid%3DOR0000000226%26ver_trace%3DINIMain%28D3_v1096_151229%29Terms%28D3_v1008_d151119%29Card%28D3_v1114_d160419%29%26pg1%3D203.238.37.3%26pg2%3D211.219.96.180%26pg1ip%3D203.238.37.3%26pg2ip%3D211.219.96.180%26agreeflag%3D1111%26Data%3DCn%2F8xLl7RDsAAQYs3b%2FqVW%2Fil97KMa2HVel2KRQXJXLPIwNNSiGN10pxRa7tj%2B%2Fx%0D%0A5LdXw%2Bn%2FAMl4ktOviTBUROvIWhc7va0uLit%2Fredza1KE0nDR2myJex8dLxLveYO%2B%0D%0A1Ys0Kb%2Fkq9xMXhQKImM9cMN8wbA81dthgYmArblrN2mq0LpGWXbLG0NfgDGKWTM1%0D%0AwmHCYaNgBvR42veIF1CsQAcWbrf5Vt6Rtuqos2Ymk33AD7dtyEjoHX3tdoqLHCYl%0D%0ArBOV%2BKbAI6pFVWjVh283IpqXtrV2H8kzhCvxDKsq%2FeIUNijCTYO96VqopheZ6vtJ%0D%0Al1wmjv%2BvUsNqbFWe9BdEjN5T091UgwmJiQFTsiKaEWMf6Uov1OR5f1gl7R8wnJ0d%0D%0AHsQEvMzFHBvXS0AeJw1QbTKRehuiFymf8Tq8WabMWu0HPJ9jm2NlDo58OuqiKrmn%0D%0A12PKyoipTYcO0LgGXx0n2V%2F5kukKNxjqj5inYzpSFqiQ%2FZAaekDbI%2FyMOJaYGgjR%0D%0Am%2FcjSOp9KpDZB6XXtbG3rf6VVafm3izL64gfzIJf2J%2FUYwsZuQ%2BGxu5O263%2F9FCz%0D%0AwOurJB%2B2Vn6NkdxNkg%3D%3D%0D%0A
+
+]
+DEBUG [2016-04-26 02:40:39] <10217> MSG_FROM_SVR(Header)[HTTP/1.1 200 OK
+Date: Tue, 26 Apr 2016 02:40:37 GMT
+Server: Apache
+Content-Type: text/xml; charset=euc-kr
+Connection: close
+]
+DEBUG [2016-04-26 02:40:39] <10217> MSG_FROM_SVR(Body)[<payment-result xmlns="http://xml.inicis.com/payresult">
+  <resultcode>00</resultcode>
+  <resultmessage>[120000|¡§ªÛ√≥∏Æµ«æ˙Ω¿¥œ¥Ÿ.]</resultmessage>
+  <mid>fashioncro</mid>
+  <tid>INliteCARDfashioncro20160426024037342836</tid>
+  <totalprice>97000</totalprice>
+  <currency>WON</currency>
+  <pgauthtime>114037</pgauthtime>
+  <pgauthdate>20160426</pgauthdate>
+  <paymethod>Card</paymethod>
+  <buyer>
+    <buyername>º€ ±§ºÆ</buyername>
+    <buyertel>01091552748</buyertel>
+    <buyeremail>bb_sks@nate.com</buyeremail>
+  </buyer>
+  <paySet>
+    <goodname>æ∆¥„∞˙ ¿Ã∫Í¿« ªÁ∞˙ Ω√∏Æ¡Ó</goodname>
+    <oid>OR0000000226</oid>
+    <cardPay>
+      <cardnumber>941117014817</cardnumber>
+      <authcode>30000425</authcode>
+      <cardcode>16</cardcode>
+      <cardissuercode>11</cardissuercode>
+      <quotainterest/>
+      <cardquota>00</cardquota>
+    </cardPay>
+  </paySet>
+</payment-result>
+]
+DEBUG [2016-04-26 02:40:39] <10217> Parsing OK
+INFO [2016-04-26 02:40:39] <10217> END securepay [120000|Ï†ïÏÉÅÏ≤òÎ¶¨ÎêòÏóàÏäµÎãàÎã§.] Laptime:[2.247sec]
+INFO [2016-04-26 02:40:39] <10217> ===============================================================

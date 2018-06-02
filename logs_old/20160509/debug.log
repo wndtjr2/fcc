@@ -1,0 +1,2661 @@
+2016-05-09 09:56:12 Notice: Notice (8): Undefined index: category1 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 09:56:12 Notice: Notice (8): Undefined index: category2 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 09:57:12 Notice: Notice (8): Undefined index: category1 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 09:57:12 Notice: Notice (8): Undefined index: category2 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 09:58:52 Notice: Notice (8): Undefined index: category1 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 09:58:52 Notice: Notice (8): Undefined index: category2 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 09:59:17 Notice: Notice (8): Undefined index: category1 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 09:59:17 Notice: Notice (8): Undefined index: category2 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 10:07:20 Notice: Notice (8): Undefined index: category1 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 10:07:20 Notice: Notice (8): Undefined index: category2 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 10:07:27 Notice: Notice (8): Undefined index: category1 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 10:07:27 Notice: Notice (8): Undefined index: category2 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 10:22:42 Notice: Notice (8): Undefined index: category1 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 10:22:42 Notice: Notice (8): Undefined index: category2 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 10:23:11 Notice: Notice (8): Undefined index: category1 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 10:23:11 Notice: Notice (8): Undefined index: category2 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 10:23:31 Notice: Notice (8): Undefined index: category1 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 10:23:31 Notice: Notice (8): Undefined index: category2 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 10:24:05 Notice: Notice (8): Undefined index: category1 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 10:24:05 Notice: Notice (8): Undefined index: category2 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 10:28:23 Debug: 
+App\Service\ProductService::registProductAsk() - APP/Service/ProductService.php, line 289
+App\Controller\ProductController::registProductAsk() - APP/Controller/ProductController.php, line 49
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+object(App\Model\Entity\McProductAsk) {
+
+	'product_code' => 'LI0000000053',
+	'title' => '너너',
+	'contents' => '어너',
+	'users_id' => null,
+	'reply_title' => '',
+	'reply_id' => (int) 0,
+	'reply' => '',
+	'reply_yn' => 'n',
+	'modifier' => (int) 0,
+	'[new]' => true,
+	'[accessible]' => [
+		'*' => true
+	],
+	'[dirty]' => [
+		'product_code' => true,
+		'title' => true,
+		'contents' => true,
+		'users_id' => true,
+		'reply_title' => true,
+		'reply_id' => true,
+		'reply' => true,
+		'reply_yn' => true,
+		'modifier' => true
+	],
+	'[original]' => [],
+	'[virtual]' => [],
+	'[errors]' => [
+		'creator' => [
+			[maximum depth reached]
+		]
+	],
+	'[repository]' => 'McProductAsk'
+
+}
+2016-05-09 10:28:26 Debug: 
+App\Service\ProductService::registProductAsk() - APP/Service/ProductService.php, line 289
+App\Controller\ProductController::registProductAsk() - APP/Controller/ProductController.php, line 49
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+object(App\Model\Entity\McProductAsk) {
+
+	'product_code' => 'LI0000000053',
+	'title' => '너너',
+	'contents' => '어너',
+	'users_id' => null,
+	'reply_title' => '',
+	'reply_id' => (int) 0,
+	'reply' => '',
+	'reply_yn' => 'n',
+	'modifier' => (int) 0,
+	'[new]' => true,
+	'[accessible]' => [
+		'*' => true
+	],
+	'[dirty]' => [
+		'product_code' => true,
+		'title' => true,
+		'contents' => true,
+		'users_id' => true,
+		'reply_title' => true,
+		'reply_id' => true,
+		'reply' => true,
+		'reply_yn' => true,
+		'modifier' => true
+	],
+	'[original]' => [],
+	'[virtual]' => [],
+	'[errors]' => [
+		'creator' => [
+			[maximum depth reached]
+		]
+	],
+	'[repository]' => 'McProductAsk'
+
+}
+2016-05-09 10:28:28 Debug: 
+App\Service\ProductService::registProductAsk() - APP/Service/ProductService.php, line 289
+App\Controller\ProductController::registProductAsk() - APP/Controller/ProductController.php, line 49
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+object(App\Model\Entity\McProductAsk) {
+
+	'product_code' => 'LI0000000053',
+	'title' => '너너',
+	'contents' => '어너',
+	'users_id' => null,
+	'reply_title' => '',
+	'reply_id' => (int) 0,
+	'reply' => '',
+	'reply_yn' => 'n',
+	'modifier' => (int) 0,
+	'[new]' => true,
+	'[accessible]' => [
+		'*' => true
+	],
+	'[dirty]' => [
+		'product_code' => true,
+		'title' => true,
+		'contents' => true,
+		'users_id' => true,
+		'reply_title' => true,
+		'reply_id' => true,
+		'reply' => true,
+		'reply_yn' => true,
+		'modifier' => true
+	],
+	'[original]' => [],
+	'[virtual]' => [],
+	'[errors]' => [
+		'creator' => [
+			[maximum depth reached]
+		]
+	],
+	'[repository]' => 'McProductAsk'
+
+}
+2016-05-09 10:28:29 Debug: 
+App\Service\ProductService::registProductAsk() - APP/Service/ProductService.php, line 289
+App\Controller\ProductController::registProductAsk() - APP/Controller/ProductController.php, line 49
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+object(App\Model\Entity\McProductAsk) {
+
+	'product_code' => 'LI0000000053',
+	'title' => '너너',
+	'contents' => '어너',
+	'users_id' => null,
+	'reply_title' => '',
+	'reply_id' => (int) 0,
+	'reply' => '',
+	'reply_yn' => 'n',
+	'modifier' => (int) 0,
+	'[new]' => true,
+	'[accessible]' => [
+		'*' => true
+	],
+	'[dirty]' => [
+		'product_code' => true,
+		'title' => true,
+		'contents' => true,
+		'users_id' => true,
+		'reply_title' => true,
+		'reply_id' => true,
+		'reply' => true,
+		'reply_yn' => true,
+		'modifier' => true
+	],
+	'[original]' => [],
+	'[virtual]' => [],
+	'[errors]' => [
+		'creator' => [
+			[maximum depth reached]
+		]
+	],
+	'[repository]' => 'McProductAsk'
+
+}
+2016-05-09 10:28:32 Debug: 
+App\Service\ProductService::registProductAsk() - APP/Service/ProductService.php, line 289
+App\Controller\ProductController::registProductAsk() - APP/Controller/ProductController.php, line 49
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+object(App\Model\Entity\McProductAsk) {
+
+	'product_code' => 'LI0000000053',
+	'title' => '너너',
+	'contents' => '어너',
+	'users_id' => null,
+	'reply_title' => '',
+	'reply_id' => (int) 0,
+	'reply' => '',
+	'reply_yn' => 'n',
+	'modifier' => (int) 0,
+	'[new]' => true,
+	'[accessible]' => [
+		'*' => true
+	],
+	'[dirty]' => [
+		'product_code' => true,
+		'title' => true,
+		'contents' => true,
+		'users_id' => true,
+		'reply_title' => true,
+		'reply_id' => true,
+		'reply' => true,
+		'reply_yn' => true,
+		'modifier' => true
+	],
+	'[original]' => [],
+	'[virtual]' => [],
+	'[errors]' => [
+		'creator' => [
+			[maximum depth reached]
+		]
+	],
+	'[repository]' => 'McProductAsk'
+
+}
+2016-05-09 10:28:34 Debug: 
+App\Service\ProductService::registProductAsk() - APP/Service/ProductService.php, line 289
+App\Controller\ProductController::registProductAsk() - APP/Controller/ProductController.php, line 49
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+object(App\Model\Entity\McProductAsk) {
+
+	'product_code' => 'LI0000000053',
+	'title' => '너너',
+	'contents' => '어너',
+	'users_id' => null,
+	'reply_title' => '',
+	'reply_id' => (int) 0,
+	'reply' => '',
+	'reply_yn' => 'n',
+	'modifier' => (int) 0,
+	'[new]' => true,
+	'[accessible]' => [
+		'*' => true
+	],
+	'[dirty]' => [
+		'product_code' => true,
+		'title' => true,
+		'contents' => true,
+		'users_id' => true,
+		'reply_title' => true,
+		'reply_id' => true,
+		'reply' => true,
+		'reply_yn' => true,
+		'modifier' => true
+	],
+	'[original]' => [],
+	'[virtual]' => [],
+	'[errors]' => [
+		'creator' => [
+			[maximum depth reached]
+		]
+	],
+	'[repository]' => 'McProductAsk'
+
+}
+2016-05-09 10:28:35 Debug: 
+App\Service\ProductService::registProductAsk() - APP/Service/ProductService.php, line 289
+App\Controller\ProductController::registProductAsk() - APP/Controller/ProductController.php, line 49
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+object(App\Model\Entity\McProductAsk) {
+
+	'product_code' => 'LI0000000053',
+	'title' => '너너',
+	'contents' => '어너',
+	'users_id' => null,
+	'reply_title' => '',
+	'reply_id' => (int) 0,
+	'reply' => '',
+	'reply_yn' => 'n',
+	'modifier' => (int) 0,
+	'[new]' => true,
+	'[accessible]' => [
+		'*' => true
+	],
+	'[dirty]' => [
+		'product_code' => true,
+		'title' => true,
+		'contents' => true,
+		'users_id' => true,
+		'reply_title' => true,
+		'reply_id' => true,
+		'reply' => true,
+		'reply_yn' => true,
+		'modifier' => true
+	],
+	'[original]' => [],
+	'[virtual]' => [],
+	'[errors]' => [
+		'creator' => [
+			[maximum depth reached]
+		]
+	],
+	'[repository]' => 'McProductAsk'
+
+}
+2016-05-09 10:28:42 Debug: 
+App\Service\ProductService::registProductAsk() - APP/Service/ProductService.php, line 289
+App\Controller\ProductController::registProductAsk() - APP/Controller/ProductController.php, line 49
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+object(App\Model\Entity\McProductAsk) {
+
+	'product_code' => 'LI0000000053',
+	'title' => '너너',
+	'contents' => '어너',
+	'users_id' => null,
+	'reply_title' => '',
+	'reply_id' => (int) 0,
+	'reply' => '',
+	'reply_yn' => 'n',
+	'modifier' => (int) 0,
+	'[new]' => true,
+	'[accessible]' => [
+		'*' => true
+	],
+	'[dirty]' => [
+		'product_code' => true,
+		'title' => true,
+		'contents' => true,
+		'users_id' => true,
+		'reply_title' => true,
+		'reply_id' => true,
+		'reply' => true,
+		'reply_yn' => true,
+		'modifier' => true
+	],
+	'[original]' => [],
+	'[virtual]' => [],
+	'[errors]' => [
+		'creator' => [
+			[maximum depth reached]
+		]
+	],
+	'[repository]' => 'McProductAsk'
+
+}
+2016-05-09 10:29:21 Debug: 
+App\Controller\CacheController::removeProduct() - APP/Controller/CacheController.php, line 42
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'전체 products Cache 제거.'
+2016-05-09 10:29:21 Debug: 
+App\Controller\CacheController::removeProduct() - APP/Controller/CacheController.php, line 43
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'main Cache 제거'
+2016-05-09 10:29:21 Debug: 
+App\Controller\CacheController::removeProduct() - APP/Controller/CacheController.php, line 44
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'Whats New 제거'
+2016-05-09 10:31:07 Debug: 
+App\Controller\CacheController::removeProduct() - APP/Controller/CacheController.php, line 42
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'전체 products Cache 제거.'
+2016-05-09 10:31:07 Debug: 
+App\Controller\CacheController::removeProduct() - APP/Controller/CacheController.php, line 43
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'main Cache 제거'
+2016-05-09 10:31:07 Debug: 
+App\Controller\CacheController::removeProduct() - APP/Controller/CacheController.php, line 44
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'Whats New 제거'
+2016-05-09 10:38:59 Notice: Notice (8): Undefined index: category1 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 10:38:59 Notice: Notice (8): Undefined index: category2 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 10:57:24 Debug: 
+App\Service\ProductService::registProductAsk() - APP/Service/ProductService.php, line 289
+App\Controller\ProductController::registProductAsk() - APP/Controller/ProductController.php, line 49
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+object(App\Model\Entity\McProductAsk) {
+
+	'product_code' => 'LI0000000053',
+	'title' => '너너',
+	'contents' => '어너',
+	'users_id' => null,
+	'reply_title' => '',
+	'reply_id' => (int) 0,
+	'reply' => '',
+	'reply_yn' => 'n',
+	'modifier' => (int) 0,
+	'[new]' => true,
+	'[accessible]' => [
+		'*' => true
+	],
+	'[dirty]' => [
+		'product_code' => true,
+		'title' => true,
+		'contents' => true,
+		'users_id' => true,
+		'reply_title' => true,
+		'reply_id' => true,
+		'reply' => true,
+		'reply_yn' => true,
+		'modifier' => true
+	],
+	'[original]' => [],
+	'[virtual]' => [],
+	'[errors]' => [
+		'creator' => [
+			[maximum depth reached]
+		]
+	],
+	'[repository]' => 'McProductAsk'
+
+}
+2016-05-09 10:57:26 Debug: 
+App\Service\ProductService::registProductAsk() - APP/Service/ProductService.php, line 289
+App\Controller\ProductController::registProductAsk() - APP/Controller/ProductController.php, line 49
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+object(App\Model\Entity\McProductAsk) {
+
+	'product_code' => 'LI0000000053',
+	'title' => '너너',
+	'contents' => '어너',
+	'users_id' => null,
+	'reply_title' => '',
+	'reply_id' => (int) 0,
+	'reply' => '',
+	'reply_yn' => 'n',
+	'modifier' => (int) 0,
+	'[new]' => true,
+	'[accessible]' => [
+		'*' => true
+	],
+	'[dirty]' => [
+		'product_code' => true,
+		'title' => true,
+		'contents' => true,
+		'users_id' => true,
+		'reply_title' => true,
+		'reply_id' => true,
+		'reply' => true,
+		'reply_yn' => true,
+		'modifier' => true
+	],
+	'[original]' => [],
+	'[virtual]' => [],
+	'[errors]' => [
+		'creator' => [
+			[maximum depth reached]
+		]
+	],
+	'[repository]' => 'McProductAsk'
+
+}
+2016-05-09 10:57:33 Debug: 
+App\Service\ProductService::registProductAsk() - APP/Service/ProductService.php, line 289
+App\Controller\ProductController::registProductAsk() - APP/Controller/ProductController.php, line 49
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+object(App\Model\Entity\McProductAsk) {
+
+	'product_code' => 'LI0000000053',
+	'title' => '너너',
+	'contents' => '어너',
+	'users_id' => null,
+	'reply_title' => '',
+	'reply_id' => (int) 0,
+	'reply' => '',
+	'reply_yn' => 'n',
+	'modifier' => (int) 0,
+	'[new]' => true,
+	'[accessible]' => [
+		'*' => true
+	],
+	'[dirty]' => [
+		'product_code' => true,
+		'title' => true,
+		'contents' => true,
+		'users_id' => true,
+		'reply_title' => true,
+		'reply_id' => true,
+		'reply' => true,
+		'reply_yn' => true,
+		'modifier' => true
+	],
+	'[original]' => [],
+	'[virtual]' => [],
+	'[errors]' => [
+		'creator' => [
+			[maximum depth reached]
+		]
+	],
+	'[repository]' => 'McProductAsk'
+
+}
+2016-05-09 10:57:43 Notice: Notice (8): Undefined index: category1 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 10:57:43 Notice: Notice (8): Undefined index: category2 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 10:57:55 Notice: Notice (8): Undefined index: category1 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 10:57:55 Notice: Notice (8): Undefined index: category2 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 11:04:19 Notice: Notice (8): Undefined index: category1 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 11:04:19 Notice: Notice (8): Undefined index: category2 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 11:36:44 Notice: Notice (8): Undefined index: onAirInfo in [/var/www/fcctv.co.kr/src/Template/FccTv/detail.ctp, line 8]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/FccTv/detail.ctp, line 8
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 12:27:24 Notice: Notice (8): Undefined index: onAirInfo in [/var/www/fcctv.co.kr/src/Template/FccTv/detail.ctp, line 8]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/FccTv/detail.ctp, line 8
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 13:14:17 Notice: Notice (8): Undefined index: category1 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 13:14:17 Notice: Notice (8): Undefined index: category2 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 13:14:38 Notice: Notice (8): Undefined index: category1 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 13:14:38 Notice: Notice (8): Undefined index: category2 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 13:52:25 Notice: Notice (8): Undefined index: category1 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 13:52:25 Notice: Notice (8): Undefined index: category2 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 13:52:58 Notice: Notice (8): Undefined index: category1 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 13:52:58 Notice: Notice (8): Undefined index: category2 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 13:53:07 Notice: Notice (8): Undefined index: category1 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 13:53:07 Notice: Notice (8): Undefined index: category2 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 13:53:13 Notice: Notice (8): Undefined index: category1 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 13:53:13 Notice: Notice (8): Undefined index: category2 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 13:53:25 Notice: Notice (8): Undefined index: category1 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 13:53:25 Notice: Notice (8): Undefined index: category2 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 13:53:29 Notice: Notice (8): Undefined index: category1 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 13:53:29 Notice: Notice (8): Undefined index: category2 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 13:53:40 Notice: Notice (8): Undefined index: category1 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 13:53:40 Notice: Notice (8): Undefined index: category2 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 13:53:46 Notice: Notice (8): Undefined index: category1 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 13:53:46 Notice: Notice (8): Undefined index: category2 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 13:56:23 Notice: Notice (8): Undefined index: category1 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 13:56:23 Notice: Notice (8): Undefined index: category2 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 14:00:01 Notice: Notice (8): Undefined index: category1 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 14:00:01 Notice: Notice (8): Undefined index: category2 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 14:00:09 Notice: Notice (8): Undefined index: category1 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 14:00:09 Notice: Notice (8): Undefined index: category2 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 14:02:37 Notice: Notice (8): Undefined index: category1 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 14:02:37 Notice: Notice (8): Undefined index: category2 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 14:04:14 Notice: Notice (8): Undefined index: category1 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 14:04:14 Notice: Notice (8): Undefined index: category2 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 14:05:45 Notice: Notice (8): Undefined index: category1 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 14:05:45 Notice: Notice (8): Undefined index: category2 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 14:05:53 Notice: Notice (8): Undefined index: category1 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 14:05:53 Notice: Notice (8): Undefined index: category2 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 14:12:37 Notice: Notice (8): Undefined index: category1 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 14:12:37 Notice: Notice (8): Undefined index: category2 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 15:05:01 Debug: 
+App\Controller\CacheController::removeProduct() - APP/Controller/CacheController.php, line 42
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'전체 products Cache 제거.'
+2016-05-09 15:05:01 Debug: 
+App\Controller\CacheController::removeProduct() - APP/Controller/CacheController.php, line 43
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'main Cache 제거'
+2016-05-09 15:05:01 Debug: 
+App\Controller\CacheController::removeProduct() - APP/Controller/CacheController.php, line 44
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'Whats New 제거'
+2016-05-09 15:05:28 Notice: Notice (8): Undefined index: category1 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 15:05:28 Notice: Notice (8): Undefined index: category2 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 15:05:41 Debug: 
+App\Controller\CacheController::removeProduct() - APP/Controller/CacheController.php, line 42
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'전체 products Cache 제거.'
+2016-05-09 15:05:41 Debug: 
+App\Controller\CacheController::removeProduct() - APP/Controller/CacheController.php, line 43
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'main Cache 제거'
+2016-05-09 15:05:41 Debug: 
+App\Controller\CacheController::removeProduct() - APP/Controller/CacheController.php, line 44
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'Whats New 제거'
+2016-05-09 15:07:21 Debug: 
+App\Controller\CacheController::removeProduct() - APP/Controller/CacheController.php, line 42
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'전체 products Cache 제거.'
+2016-05-09 15:07:21 Debug: 
+App\Controller\CacheController::removeProduct() - APP/Controller/CacheController.php, line 43
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'main Cache 제거'
+2016-05-09 15:07:21 Debug: 
+App\Controller\CacheController::removeProduct() - APP/Controller/CacheController.php, line 44
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'Whats New 제거'
+2016-05-09 15:08:11 Debug: 
+App\Controller\CacheController::removeProduct() - APP/Controller/CacheController.php, line 42
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'전체 products Cache 제거.'
+2016-05-09 15:08:11 Debug: 
+App\Controller\CacheController::removeProduct() - APP/Controller/CacheController.php, line 43
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'main Cache 제거'
+2016-05-09 15:08:11 Debug: 
+App\Controller\CacheController::removeProduct() - APP/Controller/CacheController.php, line 44
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'Whats New 제거'
+2016-05-09 15:10:14 Notice: Notice (8): Undefined index: category1 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 15:10:14 Notice: Notice (8): Undefined index: category2 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 15:10:35 Notice: Notice (8): Undefined index: category1 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 15:10:35 Notice: Notice (8): Undefined index: category2 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 15:11:24 Debug: 
+App\Controller\CacheController::removeProduct() - APP/Controller/CacheController.php, line 42
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'전체 products Cache 제거.'
+2016-05-09 15:11:24 Debug: 
+App\Controller\CacheController::removeProduct() - APP/Controller/CacheController.php, line 43
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'main Cache 제거'
+2016-05-09 15:11:24 Debug: 
+App\Controller\CacheController::removeProduct() - APP/Controller/CacheController.php, line 44
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'Whats New 제거'
+2016-05-09 15:15:00 Debug: 
+App\Controller\CacheController::removeProduct() - APP/Controller/CacheController.php, line 42
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'전체 products Cache 제거.'
+2016-05-09 15:15:00 Debug: 
+App\Controller\CacheController::removeProduct() - APP/Controller/CacheController.php, line 43
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'main Cache 제거'
+2016-05-09 15:15:00 Debug: 
+App\Controller\CacheController::removeProduct() - APP/Controller/CacheController.php, line 44
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'Whats New 제거'
+2016-05-09 15:39:47 Notice: Notice (8): Undefined index: category1 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 15:39:47 Notice: Notice (8): Undefined index: category2 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 16:11:33 Notice: Notice (8): Undefined index: category1 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 16:11:33 Notice: Notice (8): Undefined index: category2 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 16:11:44 Notice: Notice (8): Undefined index: category1 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 16:11:44 Notice: Notice (8): Undefined index: category2 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 16:12:18 Debug: 
+App\Controller\CacheController::removeProduct() - APP/Controller/CacheController.php, line 42
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'전체 products Cache 제거.'
+2016-05-09 16:12:18 Debug: 
+App\Controller\CacheController::removeProduct() - APP/Controller/CacheController.php, line 43
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'main Cache 제거'
+2016-05-09 16:12:18 Debug: 
+App\Controller\CacheController::removeProduct() - APP/Controller/CacheController.php, line 44
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'Whats New 제거'
+2016-05-09 16:16:20 Notice: Notice (8): Undefined index: category1 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 16:16:20 Notice: Notice (8): Undefined index: category2 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 16:16:30 Notice: Notice (8): Undefined index: category1 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 16:16:30 Notice: Notice (8): Undefined index: category2 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 16:18:55 Notice: Notice (8): Undefined index: category1 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 16:18:55 Notice: Notice (8): Undefined index: category2 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 16:33:36 Notice: Notice (8): Undefined variable: designerId in [/var/www/fcctv.co.kr/src/Controller/DesignersController.php, line 66]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+App\Controller\DesignersController::detail() - APP/Controller/DesignersController.php, line 66
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 16:33:50 Notice: Notice (8): Undefined index: category1 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 16:33:50 Notice: Notice (8): Undefined index: category2 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 16:37:04 Notice: Notice (8): Undefined index: category1 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 16:37:04 Notice: Notice (8): Undefined index: category2 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 16:37:10 Notice: Notice (8): Undefined index: category1 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 16:37:10 Notice: Notice (8): Undefined index: category2 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 16:37:27 Notice: Notice (8): Undefined index: category1 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 16:37:27 Notice: Notice (8): Undefined index: category2 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 16:37:27 Notice: Notice (8): Undefined index: category1 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 16:37:27 Notice: Notice (8): Undefined index: category2 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 16:37:34 Notice: Notice (8): Undefined index: category1 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 16:37:34 Notice: Notice (8): Undefined index: category2 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 16:38:15 Notice: Notice (8): Undefined index: category1 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 16:38:15 Notice: Notice (8): Undefined index: category2 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 17:15:49 Notice: Notice (8): Undefined index: category1 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 17:15:49 Notice: Notice (8): Undefined index: category2 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 17:15:52 Notice: Notice (8): Undefined index: category1 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 17:15:52 Notice: Notice (8): Undefined index: category2 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 17:15:54 Notice: Notice (8): Undefined index: category1 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 17:15:54 Notice: Notice (8): Undefined index: category2 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 17:15:57 Notice: Notice (8): Undefined index: category1 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 17:15:57 Notice: Notice (8): Undefined index: category2 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 17:16:00 Notice: Notice (8): Undefined index: category1 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 17:16:00 Notice: Notice (8): Undefined index: category2 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 17:16:02 Notice: Notice (8): Undefined index: category1 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 17:16:02 Notice: Notice (8): Undefined index: category2 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 17:16:05 Notice: Notice (8): Undefined index: category1 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 17:16:05 Notice: Notice (8): Undefined index: category2 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 17:16:07 Notice: Notice (8): Undefined index: category1 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 17:16:07 Notice: Notice (8): Undefined index: category2 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 17:16:10 Notice: Notice (8): Undefined index: category1 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 17:16:10 Notice: Notice (8): Undefined index: category2 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 17:16:12 Notice: Notice (8): Undefined index: category1 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 17:16:12 Notice: Notice (8): Undefined index: category2 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 17:16:20 Notice: Notice (8): Undefined index: category1 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 17:16:20 Notice: Notice (8): Undefined index: category2 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 17:16:24 Notice: Notice (8): Undefined index: category1 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 17:16:24 Notice: Notice (8): Undefined index: category2 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 17:19:22 Notice: Notice (8): Undefined index: category1 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 17:19:22 Notice: Notice (8): Undefined index: category2 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 17:20:56 Notice: Notice (8): Undefined index: category1 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 17:20:56 Notice: Notice (8): Undefined index: category2 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 17:24:15 Notice: Notice (8): Undefined index: category1 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 17:24:15 Notice: Notice (8): Undefined index: category2 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 17:24:23 Notice: Notice (8): Undefined index: category1 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 17:24:23 Notice: Notice (8): Undefined index: category2 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 17:26:03 Notice: Notice (8): Undefined index: category1 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 17:26:03 Notice: Notice (8): Undefined index: category2 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 17:28:09 Notice: Notice (8): Undefined index: category1 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 17:28:09 Notice: Notice (8): Undefined index: category2 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 18:01:40 Notice: Notice (8): Undefined index: category1 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 18:01:40 Notice: Notice (8): Undefined index: category2 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 18:29:52 Notice: Notice (8): Undefined index: category1 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 18:29:52 Notice: Notice (8): Undefined index: category2 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 18:30:09 Notice: Notice (8): Undefined index: category1 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 18:30:09 Notice: Notice (8): Undefined index: category2 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 18:34:56 Notice: Notice (8): Undefined index: category1 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 18:34:56 Notice: Notice (8): Undefined index: category2 in [/var/www/fcctv.co.kr/src/Template/Product/detail.ctp, line 117]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/Product/detail.ctp, line 117
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+

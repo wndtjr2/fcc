@@ -1,0 +1,35 @@
+2016-04-29 13:18:58 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Product could not be found.
+Request URL: /product/detail/Vm5JOVo4dmFDSWszOTAvU0V0NGdtdz09/preview
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-29 13:34:33 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Cache could not be found.
+Request URL: /cache/removeProduct
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-30 01:23:59 Error: [Cake\Routing\Exception\MissingControllerException] Controller class CHANGELOG.txt could not be found.
+Request URL: /CHANGELOG.txt
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-30 01:24:08 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Readme.html could not be found.
+Request URL: /readme.html
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-30 01:24:17 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Language could not be found.
+Request URL: /language/Swedish$%7BIFS%7D&&echo$%7BIFS%7DOmMe%3EQ5ZF&&tar$%7BIFS%7D/string.js
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+

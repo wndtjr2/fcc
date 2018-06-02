@@ -1,0 +1,49 @@
+2016-07-12 10:49:57 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Index.com could not be found.
+Request URL: /index.com
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-07-12 10:50:07 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Index.com could not be found.
+Request URL: /index.com
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-07-12 10:50:07 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Index.com could not be found.
+Request URL: /index.com
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-07-12 10:50:08 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Index.com could not be found.
+Request URL: /index.com
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-07-12 10:50:09 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Index.com could not be found.
+Request URL: /index.com
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-07-12 10:50:09 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Index.com could not be found.
+Request URL: /index.com
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-07-12 10:50:10 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Index.com could not be found.
+Request URL: /index.com
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+

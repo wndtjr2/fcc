@@ -1,0 +1,21 @@
+2016-07-16 18:14:19 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Admin could not be found.
+Request URL: /admin/i18n/readme.txt
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-07-16 18:14:30 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Admin could not be found.
+Request URL: /admin/i18n/readme.txt
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-07-16 18:14:51 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Admin could not be found.
+Request URL: /admin/i18n/readme.txt
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+

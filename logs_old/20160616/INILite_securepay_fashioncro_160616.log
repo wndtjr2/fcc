@@ -1,0 +1,81 @@
+INFO [2016-06-16 13:14:49] <28676> START INILite securepay (V3.1B20090917(OS:Linux3.13.0-65-generic,PHP:5.5.9-1ubuntu4.14))
+INFO [2016-06-16 13:14:49] <28676> Make TID OK INliteCARDfashioncro20160616131449618486
+DEBUG [2016-06-16 13:14:49] <28676> mid:[fashioncro]
+DEBUG [2016-06-16 13:14:49] <28676> key:[Sk******a01nWmQ2TFJzNytUaUVpdz09]
+DEBUG [2016-06-16 13:14:49] <28676> mallencrypt:[XBrWtpF+kJKE6nXIaFjs4nFmT1p63HICYey68vwN0AYAN/guMAJb1aG1WyJEsDV+
+GNxLdrPFDIFR6iU=]
+DEBUG [2016-06-16 13:14:49] <28676> uid:[DEFAULTUSR]
+DEBUG [2016-06-16 13:14:49] <28676> url:[fcctv.co.kr]
+DEBUG [2016-06-16 13:14:49] <28676> uip:[172.31.19.152]
+DEBUG [2016-06-16 13:14:49] <28676> paymethod:[Card]
+DEBUG [2016-06-16 13:14:49] <28676> goodname:[BIG HAPPY FLOWER [ECO01]]
+DEBUG [2016-06-16 13:14:49] <28676> currency:[WON]
+DEBUG [2016-06-16 13:14:49] <28676> buyername:[¿Ã ¡ﬂºÆ]
+DEBUG [2016-06-16 13:14:49] <28676> buyertel:[01064090631]
+DEBUG [2016-06-16 13:14:49] <28676> buyeremail:[wndtjr2@yahoo.co.kr]
+DEBUG [2016-06-16 13:14:49] <28676> sessionkey:[LJjkc8DRbaT+xiHDDymC8pbYYXV++at0NwNTxtp+Br6dT6I7BgoBqbS3lc9YYUCT
+1p4DkcHAeLCZ6KjGd+72sVlolpASVbfJLhvG92bBCQoNjzbClBtkKm/j2Kdq6t/U
+jGluF6Xd3FYgktBty3o5hkwnB01pEIZrTX696rQbw/Q=]
+DEBUG [2016-06-16 13:14:49] <28676> encrypted:[Version=4.1&PayMethod=Card&RsaKeyNum=1&EncryptionAlgorithm=SEED-CBC&SignAlgorithm=RSAwithSHA1&CertVer=39&moid=OR0000000307&ver_trace=main(6101,6062)card(6153,6133)n(6009)Cs(6025)Dt(6002)Pa(6002)Cf(6025)Fv(0000)La(6165)Re(6115)Vr(6007)P(6034)en(6060)nP(6006)&pg1=211.219.96.180&pg2=203.238.37.3&pg1ip=211.219.96.180&pg2ip=203.238.37.3&agreeflag=1111&Data=k+tgeCiY62Bc6jZxFTX3h9u5paN3SdyOh3aF7jUigZtUC2uQCGTu82y+V3k5WcDb
+9DO34ucREo9GnupCbH98zFxNHybkqpW7krSMxUPUhgO97AF8jub1VxRkUihzSWk3
+oxK3Cpqmvjf3gg8PpoDK+kQSzC91UaB0pR/81Jqyp7ZH5L6eFK9O8v6lSLzTxdld
+BiZKxCnBKGJ3BXx3ZiBBZAMyQ1VxJ4i0ZyjfxgPdGld5djMZrifN2iiQce4G7BQ9
+6/BdX8zyi47v7xHTjMOq06DWpqZKq7tA84p9c5NDgVUE7k52Ckknv6Ci6OkbiCpm
+l6LOTvEnI63R3v+UJbKrif6f84YMavBuV5e8vJbcldxSbBVnuFgMq9WCfs22N4TF
+2JDUQ9NoAjUCCOLarz5uoNQ0ch1etYkJXSkAyT4T3kAQyZ+5fVaLHHiyMXR52+UT
+XTpo3jxjBrhbW/ipgibu3nJuYOCh8mqsJ5QO/xjPyurzQt2/EWrZlA7BydUuvXEi
+U8aWMXcdGIhNA2RzMgLsSj8ZvwW5rCpqWXzXZA4NwmilzgNdXbMn5QX2fj/pdrqk
+fIHyNbSbulsQkw/Ha9NYuuOgidMNJmAaYKGFmkI1CoGkpQohya13jaJe4L18mPjj
+JIr+NkY60Sg1UiJNfMPnETz7u2abReV2ujgC4CN3j6y1DCxEG6y+s6A1GNG9UG16
+bSdVCPq9ZzTesr6XOsKWQ4UIcjIQFW+ddDGS2tG51STFXMBQo/XBCaCfok1m9bt4
+pWF5kRHoEtG8EUcZVnY6teHW/jR/PtfndT1N3c+1kP7igg==]
+INFO [2016-06-16 13:14:49] <28676> Check Field OK
+INFO [2016-06-16 13:14:49] <28676> ssl://inilite.inicis.com:443 Server Connect OK
+DEBUG [2016-06-16 13:14:49] <28676> MSG_TO_SVR::[POST /inipayR HTTP/1.0
+Connection: close
+Host: inilite.inicis.com
+Content-type: application/x-www-form-urlencoded
+Content-length: 1942
+Accept: */*
+
+mid=fashioncro&mallencrypt=XBrWtpF%2BkJKE6nXIaFjs4nFmT1p63HICYey68vwN0AYAN%2FguMAJb1aG1WyJEsDV%2B%0AGNxLdrPFDIFR6iU%3D&uid=DEFAULTUSR&url=fcctv.co.kr&uip=172.31.19.152&paymethod=Card&goodname=BIG+HAPPY+FLOWER+%5BECO01%5D&currency=WON&buyername=%C0%CC+%C1%DF%BC%AE&buyertel=01064090631&buyeremail=wndtjr2%40yahoo.co.kr&sessionkey=LJjkc8DRbaT%2BxiHDDymC8pbYYXV%2B%2Bat0NwNTxtp%2BBr6dT6I7BgoBqbS3lc9YYUCT%0D%0A1p4DkcHAeLCZ6KjGd%2B72sVlolpASVbfJLhvG92bBCQoNjzbClBtkKm%2Fj2Kdq6t%2FU%0D%0AjGluF6Xd3FYgktBty3o5hkwnB01pEIZrTX696rQbw%2FQ%3D&encrypted=Version%3D4.1%26PayMethod%3DCard%26RsaKeyNum%3D1%26EncryptionAlgorithm%3DSEED-CBC%26SignAlgorithm%3DRSAwithSHA1%26CertVer%3D39%26moid%3DOR0000000307%26ver_trace%3Dmain%286101%2C6062%29card%286153%2C6133%29n%286009%29Cs%286025%29Dt%286002%29Pa%286002%29Cf%286025%29Fv%280000%29La%286165%29Re%286115%29Vr%286007%29P%286034%29en%286060%29nP%286006%29%26pg1%3D211.219.96.180%26pg2%3D203.238.37.3%26pg1ip%3D211.219.96.180%26pg2ip%3D203.238.37.3%26agreeflag%3D1111%26Data%3Dk%2BtgeCiY62Bc6jZxFTX3h9u5paN3SdyOh3aF7jUigZtUC2uQCGTu82y%2BV3k5WcDb%0D%0A9DO34ucREo9GnupCbH98zFxNHybkqpW7krSMxUPUhgO97AF8jub1VxRkUihzSWk3%0D%0AoxK3Cpqmvjf3gg8PpoDK%2BkQSzC91UaB0pR%2F81Jqyp7ZH5L6eFK9O8v6lSLzTxdld%0D%0ABiZKxCnBKGJ3BXx3ZiBBZAMyQ1VxJ4i0ZyjfxgPdGld5djMZrifN2iiQce4G7BQ9%0D%0A6%2FBdX8zyi47v7xHTjMOq06DWpqZKq7tA84p9c5NDgVUE7k52Ckknv6Ci6OkbiCpm%0D%0Al6LOTvEnI63R3v%2BUJbKrif6f84YMavBuV5e8vJbcldxSbBVnuFgMq9WCfs22N4TF%0D%0A2JDUQ9NoAjUCCOLarz5uoNQ0ch1etYkJXSkAyT4T3kAQyZ%2B5fVaLHHiyMXR52%2BUT%0D%0AXTpo3jxjBrhbW%2Fipgibu3nJuYOCh8mqsJ5QO%2FxjPyurzQt2%2FEWrZlA7BydUuvXEi%0D%0AU8aWMXcdGIhNA2RzMgLsSj8ZvwW5rCpqWXzXZA4NwmilzgNdXbMn5QX2fj%2Fpdrqk%0D%0AfIHyNbSbulsQkw%2FHa9NYuuOgidMNJmAaYKGFmkI1CoGkpQohya13jaJe4L18mPjj%0D%0AJIr%2BNkY60Sg1UiJNfMPnETz7u2abReV2ujgC4CN3j6y1DCxEG6y%2Bs6A1GNG9UG16%0D%0AbSdVCPq9ZzTesr6XOsKWQ4UIcjIQFW%2BddDGS2tG51STFXMBQo%2FXBCaCfok1m9bt4%0D%0ApWF5kRHoEtG8EUcZVnY6teHW%2FjR%2FPtfndT1N3c%2B1kP7igg%3D%3D
+
+]
+DEBUG [2016-06-16 13:14:51] <28676> MSG_FROM_SVR(Header)[HTTP/1.1 200 OK
+Date: Thu, 16 Jun 2016 04:14:49 GMT
+Server: Apache
+Content-Type: text/xml; charset=euc-kr
+Connection: close
+]
+DEBUG [2016-06-16 13:14:51] <28676> MSG_FROM_SVR(Body)[<payment-result xmlns="http://xml.inicis.com/payresult">
+  <resultcode>00</resultcode>
+  <resultmessage>[120000|¡§ªÛ√≥∏Æµ«æ˙Ω¿¥œ¥Ÿ.]</resultmessage>
+  <mid>fashioncro</mid>
+  <tid>INliteCARDfashioncro20160616131449618486</tid>
+  <totalprice>41500</totalprice>
+  <currency>WON</currency>
+  <pgauthtime>131449</pgauthtime>
+  <pgauthdate>20160616</pgauthdate>
+  <paymethod>Card</paymethod>
+  <buyer>
+    <buyername>¿Ã ¡ﬂºÆ</buyername>
+    <buyertel>01064090631</buyertel>
+    <buyeremail>wndtjr2@yahoo.co.kr</buyeremail>
+  </buyer>
+  <paySet>
+    <goodname>BIG HAPPY FLOWER [ECO01]</goodname>
+    <oid>OR0000000307</oid>
+    <cardPay>
+      <cardnumber>949028041808</cardnumber>
+      <authcode>00311092</authcode>
+      <cardcode>04</cardcode>
+      <cardissuercode>00</cardissuercode>
+      <quotainterest/>
+      <cardquota>00</cardquota>
+    </cardPay>
+  </paySet>
+</payment-result>
+]
+DEBUG [2016-06-16 13:14:51] <28676> Parsing OK
+INFO [2016-06-16 13:14:51] <28676> END securepay [120000|Ï†ïÏÉÅÏ≤òÎ¶¨ÎêòÏóàÏäµÎãàÎã§.] Laptime:[1.625sec]
+INFO [2016-06-16 13:14:51] <28676> ===============================================================

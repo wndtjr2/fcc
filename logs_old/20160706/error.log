@@ -1,0 +1,14 @@
+2016-07-06 11:57:31 Error: [Cake\Routing\Exception\MissingControllerException] Controller class M could not be found.
+Request URL: /m/
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-07-06 17:42:36 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Mobile could not be found.
+Request URL: /mobile/
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+

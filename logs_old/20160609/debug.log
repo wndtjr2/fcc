@@ -1,0 +1,91 @@
+2016-06-09 10:45:35 Debug: 
+App\Controller\CacheController::removeProduct() - APP/Controller/CacheController.php, line 49
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'main Cache ì œê±°'
+2016-06-09 10:45:42 Debug: 
+App\Controller\CacheController::removeProduct() - APP/Controller/CacheController.php, line 49
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'main Cache ì œê±°'
+
+2016-06-09 11:00:12 Debug
+Array
+(
+    [P_STATUS] => 00
+    [P_RMESG1] => Á¤»ó Ã³¸® µÇ¾ú½À´Ï´Ù.
+    [P_TID] => INIMX_AUTHfashioncro20160609110011791277
+    [P_REQ_URL] => https://drmobile.inicis.com/smart/pay_req_url.php
+    [P_NOTI] => OR0000000263
+)
+
+
+2016-06-09 11:00:12 Debug
+ê²°ì œì¤‘ ì˜¤ë¥˜ê°€ ë°œìƒí•˜ì˜€ìŠµë‹ˆë‹¤.
+
+2016-06-09 11:14:16 Debug
+Array
+(
+    [P_STATUS] => 00
+    [P_RMESG1] => Á¤»ó Ã³¸® µÇ¾ú½À´Ï´Ù.
+    [P_TID] => INIMX_AUTHfashioncro20160609111416161280
+    [P_REQ_URL] => https://drmobile.inicis.com/smart/pay_req_url.php
+    [P_NOTI] => OR0000000268
+)
+
+
+2016-06-09 11:14:18 Debug
+INImx Object
+(
+    [reqtype] => PAY
+    [inipayhome] => /var/www/fcctv.co.kr
+    [id_merchant] => fashioncro
+    [status] => 00
+    [rmesg1] => Á¤»ó Ã³¸® µÇ¾ú½À´Ï´Ù.
+    [tid] => INIMX_AUTHfashioncro20160609111416161280
+    [req_url] => https://drmobile.inicis.com/smart/pay_req_url.php
+    [m_serviceurl] => /smart/pay_req_url.php
+    [m_resultCode] => 00
+    [m_resultmsg] => 
+    [noti] => OR0000000268
+    [m_resultprice] => 4500
+    [m_pgAuthDate] => 20160609
+    [m_authCode] => 00755163
+    [m_cardQuota] => 00
+    [m_cardCode] => 04
+    [m_cardIssuerCode] => 00
+    [m_vacct] => 
+    [m_vcdbank] => 
+    [m_dtinput] => 
+    [m_tminput] => 
+    [m_nminput] => 
+    [m_buyerName] => ÀÌ Áß¼®
+    [m_nextUrl] => https://fcctv.co.kr/325n23fhih389d2u3jf578y8342dk378/y45ybjvriouywo89ky0434tetf4ftg/mx_rnext.php
+    [m_notiUrl] => 
+    [m_prtc] => 1
+    [m_authdt] => 20160609111416
+    [m_mname] => 
+    [m_noti] => OR0000000268
+    [m_cardinterest] => 0
+    [m_cardcheckflag] => 1
+    [m_hppapplnum] => 
+    [m_hppnum] => 
+    [m_tid] => INIMX_CARDfashioncro20160609111416721913
+    [m_resultMsg] => ¼º°øÀûÀ¸·Î Ã³¸® ÇÏ¿´½À´Ï´Ù.
+    [m_payMethod] => CARD
+    [m_mid] => fashioncro
+    [m_moid] => OR000008
+    [m_pgAuthTime] => 111416
+    [m_cardNum] => 949028041808
+    [m_cardMembernum] => 
+    [m_cardpurchase] => 04
+    [m_cardName] => Çö´ëÄ«µå
+)
+
+
+2016-06-09 11:14:18 Debug
+ê²°ì œì¤‘ ì˜¤ë¥˜ê°€ ë°œìƒí•˜ì˜€ìŠµë‹ˆë‹¤.

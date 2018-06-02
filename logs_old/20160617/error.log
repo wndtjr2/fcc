@@ -1,0 +1,165 @@
+2016-06-17 10:10:06 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Robots.txt could not be found.
+Request URL: /robots.txt
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-17 13:56:45 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Res could not be found.
+Request URL: /_res/css/maps/style.css.map
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-17 13:57:17 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Res could not be found.
+Request URL: /_res/css/maps/style.css.map
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-17 13:57:41 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Res could not be found.
+Request URL: /_res/css/maps/style.css.map
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-17 13:57:43 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Res could not be found.
+Request URL: /_res/css/maps/style.css.map
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-17 13:58:29 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Res could not be found.
+Request URL: /_res/css/maps/style.css.map
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-17 14:10:22 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Res could not be found.
+Request URL: /_res/css/maps/style.css.map
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-17 14:10:38 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Res could not be found.
+Request URL: /_res/css/maps/style.css.map
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-17 14:10:58 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Res could not be found.
+Request URL: /_res/css/maps/style.css.map
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-17 14:11:11 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Res could not be found.
+Request URL: /_res/css/maps/style.css.map
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-17 14:11:21 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Res could not be found.
+Request URL: /_res/css/maps/style.css.map
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-17 14:12:25 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Res could not be found.
+Request URL: /_res/css/maps/style.css.map
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-17 14:12:52 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Res could not be found.
+Request URL: /_res/css/maps/style.css.map
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-17 14:13:00 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Res could not be found.
+Request URL: /_res/css/maps/style.css.map
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-17 14:14:14 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Res could not be found.
+Request URL: /_res/css/maps/style.css.map
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-17 14:14:19 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Res could not be found.
+Request URL: /_res/css/maps/style.css.map
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-17 14:19:24 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Res could not be found.
+Request URL: /_res/css/maps/style.css.map
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-17 14:20:51 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Res could not be found.
+Request URL: /_res/css/maps/style.css.map
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-17 15:11:15 Error: [Cake\Routing\Exception\MissingControllerException] Controller class A2billing could not be found.
+Request URL: /a2billing/
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-17 15:11:26 Error: [Cake\Routing\Exception\MissingControllerException] Controller class A2billing could not be found.
+Request URL: /a2billing/
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-17 15:11:37 Error: [Cake\Routing\Exception\MissingControllerException] Controller class A2billing could not be found.
+Request URL: /a2billing/
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-17 15:29:27 Error: 
+App\Controller\AuthController::loginCallBackLinkedin() - APP/Controller/AuthController.php, line 273
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+'LinkedIn State Code does not match. a server state code is  and a given state code is f01659e3be9153f9e6690d6b39d4a6165e8eeed2'
+2016-06-17 23:11:22 Error: [Cake\View\Exception\MissingTemplateException] Template file "Tv/error.ctp" is missing.
+Request URL: /tv/detail/cytwegv4auk1sdldmmwvuk5lmkpout09
+Stack Trace:
+#0 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/View/View.php(460): Cake\View\View->_getViewFileName(NULL)
+#1 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Controller/Controller.php(583): Cake\View\View->render(NULL, NULL)
+#2 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(120): Cake\Controller\Controller->render()
+#3 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\TvController))
+#4 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#5 {main}
+
+

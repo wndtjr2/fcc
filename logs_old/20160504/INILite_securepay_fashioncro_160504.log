@@ -1,0 +1,86 @@
+INFO [2016-05-04 02:04:23] <31285> START INILite securepay (V3.1B20090917(OS:Linux3.13.0-65-generic,PHP:5.5.9-1ubuntu4.14))
+INFO [2016-05-04 02:04:23] <31285> Make TID OK INliteCARDfashioncro20160504020423670970
+DEBUG [2016-05-04 02:04:23] <31285> mid:[fashioncro]
+DEBUG [2016-05-04 02:04:23] <31285> key:[Sk******a01nWmQ2TFJzNytUaUVpdz09]
+DEBUG [2016-05-04 02:04:23] <31285> mallencrypt:[bwGo6sg6xeH1iwGZdWLK53d8SWtUvAZVNq/nq6dTgURbN/spMQJU06f4WyFFtDw=]
+DEBUG [2016-05-04 02:04:23] <31285> uid:[DEFAULTUSR]
+DEBUG [2016-05-04 02:04:23] <31285> url:[fcctv.co.kr]
+DEBUG [2016-05-04 02:04:23] <31285> uip:[115.94.115.181]
+DEBUG [2016-05-04 02:04:23] <31285> paymethod:[Card]
+DEBUG [2016-05-04 02:04:23] <31285> goodname:[IPHONE 6 CASE - SELLY, VINTAGE HAIR PIN, CURLY HAIR, WATCH]
+DEBUG [2016-05-04 02:04:23] <31285> currency:[WON]
+DEBUG [2016-05-04 02:04:23] <31285> buyername:[¿Ã ¡ﬂºÆ]
+DEBUG [2016-05-04 02:04:23] <31285> buyertel:[01064090631]
+DEBUG [2016-05-04 02:04:23] <31285> buyeremail:[wndtjr2@yahoo.co.kr]
+DEBUG [2016-05-04 02:04:23] <31285> parentemail:[]
+DEBUG [2016-05-04 02:04:23] <31285> recvname:[]
+DEBUG [2016-05-04 02:04:23] <31285> recvtel:[]
+DEBUG [2016-05-04 02:04:23] <31285> recvaddr:[]
+DEBUG [2016-05-04 02:04:23] <31285> recvpostnum:[]
+DEBUG [2016-05-04 02:04:23] <31285> recvmsg:[]
+DEBUG [2016-05-04 02:04:23] <31285> sessionkey:[XiDl4/Rces8WNktUbaXoat9GCt5SohKTJWniJ72IH6wZvkshbgtWs7DPRGGBSUVO
+pEMsZ4ght96J76Y7KQ8aYNxv7bfd74F7YIBiFpKuKdDWB+Bo+/8HgPYP7238Jfw7
+sw/d3f0TMnOSFut9d6Jo/bWX9YUylX+XH1T7vJ9alUo=]
+DEBUG [2016-05-04 02:04:23] <31285> encrypted:[Version=4.1&PayMethod=Card&RsaKeyNum=1&EncryptionAlgorithm=SEED-CBC&SignAlgorithm=RSAwithSHA1&CertVer=39&moid=OR0000000235&ver_trace=main(6101,6062)card(6152,6133)n(6009)Cs(6025)Dt(6002)Pa(6002)Cf(6025)Fv(0000)La(6164)Re(6114)Vr(6007)P(6034)en(6060)nP(6006)&pg1=203.238.37.3&pg2=211.219.96.180&pg1ip=203.238.37.3&pg2ip=211.219.96.180&agreeflag=1111&Data=yI3KlOldPCtrYGmuYDXxYrV9j/hGj1uLx0YHIScV+sREWZSX7mumzUdSyT6aW9c+
+aE8XWDZDU+gKYPbN7HZDm3iGmsK446ve+XD3sHlK/H0u23U7taG7N3XL6wIlEa/f
+y7P+3Bm+3o5bvZ225Gb7rVoV8pd4N5YipDbMO2ZNr8FI4G3D0yvrvOlYLZODMoSL
+ygWMPstdsx373tOgOHV4yjc8sKjazGKok2ZDJat+WqqbyNLOOkctwdC1bZBCYzw9
+Si432WOyGa2yJboZdhEyNAfOxrER+RbdyLYDb58Kt7tGmMz0hSHUG3dcHMpDOsRx
+2Zyj56EA5rOjEXZot9VfxVSvdxtdDjBJdvSC0yf8/XPLOtIpaivWH2R/xBvRcHbJ
+yR7xKVp9iQLDB0q4AlWSLHSrZCrgo2eSrtg37tU7KkIn/8EWEdjv+7hspKIyWzmw
+TWeK9diOyhNJliWGuLMMCO4FZi9mKXtwk4LUbzQ/bPihHY6PvNE4WgBnn1LdbXU+
+tbB+n+aAX4J3Ofv+aqpJAQHqNmjvAubWZ+wFw3+dyfB0SeMYdOYsyQ6py3NcsETx
+wKc9OstNOP68TcWfa7Pen+tk+4Bm2S5c+BhSiGXp1K3sqeztZ6d3onrj8iRat4Vx
+Lz7eLj46waDzWjpUxLo/OD9yhMGHCp0GnihmSI0v36Y9iX9cSkwndFff6Mkrn78c
+9JyHvYzHmPiwvWs2QC/+9BYTuwkjKBlXG9Q8lES7jveEKhqhXF4Z4cT0tAOqgtgN
+E9MYCr1+20J+LgV2uPKMprQ8NaK7]
+INFO [2016-05-04 02:04:23] <31285> Check Field OK
+INFO [2016-05-04 02:04:23] <31285> ssl://inilite.inicis.com:443 Server Connect OK
+DEBUG [2016-05-04 02:04:23] <31285> MSG_TO_SVR::[POST /inipayR HTTP/1.0
+Connection: close
+Host: inilite.inicis.com
+Content-type: application/x-www-form-urlencoded
+Content-length: 2016
+Accept: */*
+
+mid=fashioncro&mallencrypt=bwGo6sg6xeH1iwGZdWLK53d8SWtUvAZVNq%2Fnq6dTgURbN%2FspMQJU06f4WyFFtDw%3D&uid=DEFAULTUSR&url=fcctv.co.kr&uip=115.94.115.181&paymethod=Card&goodname=IPHONE+6+CASE+-+SELLY%2C+VINTAGE+HAIR+PIN%2C+CURLY+HAIR%2C+WATCH&currency=WON&buyername=%C0%CC+%C1%DF%BC%AE&buyertel=01064090631&buyeremail=wndtjr2%40yahoo.co.kr&parentemail=&recvname=&recvtel=&recvaddr=&recvpostnum=&recvmsg=&sessionkey=XiDl4%2FRces8WNktUbaXoat9GCt5SohKTJWniJ72IH6wZvkshbgtWs7DPRGGBSUVO%0D%0ApEMsZ4ght96J76Y7KQ8aYNxv7bfd74F7YIBiFpKuKdDWB%2BBo%2B%2F8HgPYP7238Jfw7%0D%0Asw%2Fd3f0TMnOSFut9d6Jo%2FbWX9YUylX%2BXH1T7vJ9alUo%3D&encrypted=Version%3D4.1%26PayMethod%3DCard%26RsaKeyNum%3D1%26EncryptionAlgorithm%3DSEED-CBC%26SignAlgorithm%3DRSAwithSHA1%26CertVer%3D39%26moid%3DOR0000000235%26ver_trace%3Dmain%286101%2C6062%29card%286152%2C6133%29n%286009%29Cs%286025%29Dt%286002%29Pa%286002%29Cf%286025%29Fv%280000%29La%286164%29Re%286114%29Vr%286007%29P%286034%29en%286060%29nP%286006%29%26pg1%3D203.238.37.3%26pg2%3D211.219.96.180%26pg1ip%3D203.238.37.3%26pg2ip%3D211.219.96.180%26agreeflag%3D1111%26Data%3DyI3KlOldPCtrYGmuYDXxYrV9j%2FhGj1uLx0YHIScV%2BsREWZSX7mumzUdSyT6aW9c%2B%0D%0AaE8XWDZDU%2BgKYPbN7HZDm3iGmsK446ve%2BXD3sHlK%2FH0u23U7taG7N3XL6wIlEa%2Ff%0D%0Ay7P%2B3Bm%2B3o5bvZ225Gb7rVoV8pd4N5YipDbMO2ZNr8FI4G3D0yvrvOlYLZODMoSL%0D%0AygWMPstdsx373tOgOHV4yjc8sKjazGKok2ZDJat%2BWqqbyNLOOkctwdC1bZBCYzw9%0D%0ASi432WOyGa2yJboZdhEyNAfOxrER%2BRbdyLYDb58Kt7tGmMz0hSHUG3dcHMpDOsRx%0D%0A2Zyj56EA5rOjEXZot9VfxVSvdxtdDjBJdvSC0yf8%2FXPLOtIpaivWH2R%2FxBvRcHbJ%0D%0AyR7xKVp9iQLDB0q4AlWSLHSrZCrgo2eSrtg37tU7KkIn%2F8EWEdjv%2B7hspKIyWzmw%0D%0ATWeK9diOyhNJliWGuLMMCO4FZi9mKXtwk4LUbzQ%2FbPihHY6PvNE4WgBnn1LdbXU%2B%0D%0AtbB%2Bn%2BaAX4J3Ofv%2BaqpJAQHqNmjvAubWZ%2BwFw3%2BdyfB0SeMYdOYsyQ6py3NcsETx%0D%0AwKc9OstNOP68TcWfa7Pen%2Btk%2B4Bm2S5c%2BBhSiGXp1K3sqeztZ6d3onrj8iRat4Vx%0D%0ALz7eLj46waDzWjpUxLo%2FOD9yhMGHCp0GnihmSI0v36Y9iX9cSkwndFff6Mkrn78c%0D%0A9JyHvYzHmPiwvWs2QC%2F%2B9BYTuwkjKBlXG9Q8lES7jveEKhqhXF4Z4cT0tAOqgtgN%0D%0AE9MYCr1%2B20J%2BLgV2uPKMprQ8NaK7
+
+]
+DEBUG [2016-05-04 02:04:24] <31285> MSG_FROM_SVR(Header)[HTTP/1.1 200 OK
+Date: Wed, 04 May 2016 02:04:23 GMT
+Server: Apache
+Content-Type: text/xml; charset=euc-kr
+Connection: close
+]
+DEBUG [2016-05-04 02:04:24] <31285> MSG_FROM_SVR(Body)[<payment-result xmlns="http://xml.inicis.com/payresult">
+  <resultcode>00</resultcode>
+  <resultmessage>[120000|¡§ªÛ√≥∏Æµ«æ˙Ω¿¥œ¥Ÿ.]</resultmessage>
+  <mid>fashioncro</mid>
+  <tid>INliteCARDfashioncro20160504020423670970</tid>
+  <totalprice>32500</totalprice>
+  <currency>WON</currency>
+  <pgauthtime>110423</pgauthtime>
+  <pgauthdate>20160504</pgauthdate>
+  <paymethod>Card</paymethod>
+  <buyer>
+    <buyername>¿Ã ¡ﬂºÆ</buyername>
+    <buyertel>01064090631</buyertel>
+    <buyeremail>wndtjr2@yahoo.co.kr</buyeremail>
+  </buyer>
+  <paySet>
+    <goodname>IPHONE 6 CASE - SELLY, VINTAGE HAIR PIN, CURLY HAIR, WATCH</goodname>
+    <oid>OR0000000235</oid>
+    <cardPay>
+      <cardnumber>411905800621</cardnumber>
+      <authcode>04406148</authcode>
+      <cardcode>01</cardcode>
+      <cardissuercode>81</cardissuercode>
+      <quotainterest/>
+      <cardquota>00</cardquota>
+    </cardPay>
+  </paySet>
+</payment-result>
+]
+DEBUG [2016-05-04 02:04:24] <31285> Parsing OK
+INFO [2016-05-04 02:04:24] <31285> END securepay [120000|Ï†ïÏÉÅÏ≤òÎ¶¨ÎêòÏóàÏäµÎãàÎã§.] Laptime:[0.822sec]
+INFO [2016-05-04 02:04:24] <31285> ===============================================================

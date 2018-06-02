@@ -1,0 +1,23 @@
+2016-06-21 18:26:44 Notice: Notice (8): Trying to get property of non-object in [/var/www/fcctv.co.kr/src/Service/TvService.php, line 767]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+App\Service\TvService::getStockCount() - APP/Service/TvService.php, line 767
+App\Controller\FccTvController::getStockCount() - APP/Controller/FccTvController.php, line 139
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-06-21 19:55:07 Notice: Notice (8): Undefined variable: productCode in [/var/www/fcctv.co.kr/src/Controller/ProductController.php, line 72]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+App\Controller\ProductController::detail() - APP/Controller/ProductController.php, line 72
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+

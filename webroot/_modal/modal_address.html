@@ -1,0 +1,97 @@
+                        <div class="modal__content">
+                            <h5 class="modal__head40">Add or Edit Address</h5>
+
+                            <div class="modal__address">
+                                <div class="modal__address--add">
+
+                                    <h6>Name</h6>
+                                    <!-- 이름 입력 -->
+                                    <div class="form__division is-zoom">
+                                        <div class="profile__sect--left">
+                                            <label for="lb__name--first" class="input__label--second">First Name</label>
+                                            <input type="text" id="lb__name--first" class="input__box">
+                                            <span class="input__validation">Please enter your first name.</span>
+                                        </div>
+                                        <div class="profile__sect--right">
+                                            <label for="lb__name--last" class="input__label--second">Last Name</label>
+                                            <input type="text" id="lb__name--last" class="input__box">
+                                            <span class="input__validation">Please enter your last name.</span>
+                                        </div>
+                                    </div>
+                                    <br>
+
+                                    <h6>Address</h6>
+                                    <!-- 주소입력 -->
+                                    <div class="form__division is-zoom">
+                                        <div class="profile__sect--left">
+                                            <label for="lb__address--first" class="input__label--second">Address 1</label>
+                                            <input type="text" id="lb__address--first" class="input__box">
+                                            <span class="input__validation">Please enter your address.</span>
+                                        </div>
+                                        <div class="profile__sect--right">
+                                            <label for="lb__address--last" class="input__label--second">Address 2</label>
+                                            <input type="text" id="lb__address--last" class="input__box">
+                                        </div>
+                                    </div>
+                                    <!-- 도시 입력 -->
+                                    <div class="form__division is-zoom">
+                                        <div class="profile__sect--left">
+                                            <label for="lb__city" class="input__label--second">City</label>
+                                            <input type="text" id="lb__city" class="input__box">
+                                            <span class="input__validation">기존문구사용.</span>
+                                        </div>
+                                        <div class="profile__sect--right">
+                                            <label for="lb__state" class="input__label--second">State</label>
+                                            <input type="text" id="lb__state" class="input__box">
+                                            <span class="input__validation">Please enter your state.</span>
+                                        </div>
+                                    </div>
+                                    <!-- 나라 입력 -->
+                                    <div class="form__division is-zoom">
+                                        <div class="profile__sect--left">
+                                            <label for="lb__code" class="input__label--second">Zip Code</label>
+                                            <input type="text" id="lb__code" class="input__box">
+                                            <span class="input__validation">Please enter your zip code</span>
+                                        </div>
+                                        <div class="profile__sect--right">
+                                            <label for="lb__country" class="input__label--second">Country</label>
+                                            <select class="input__select" id="lb__country" name="country" size="">
+                                                    <option value="default">Select your country</option>
+                                                    <option value="">South Korea</option>
+                                                    <option value="">Spain</option>
+                                                    <option value="">Moroco</option>
+                                                </select>
+                                            <span class="input__validation">기존문구사용.</span>
+                                        </div>
+                                    </div>
+                                    <br>
+
+                                    <h6>Phone Number</h6>
+                                    <div class="form__division is-zoom">
+                                        <label for="lb__phone" class="input__label--second"></label>
+                                        <input type="text" id="lb__phone" class="input__box">
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="modal__address--bottom is-zoom">
+                                <div class="chk">
+                                    <input type="checkbox" id="lb__chk">
+                                    <label for="lb__chk">Set as default shipping address</label>
+                                </div>
+                                <a href="#" class="buttons save" onclick="modal.hide();">
+                                    <span class="text">Save</span>
+                                    <span class="size">Save</span>
+                                    <span class="bg"></span>
+                                </a>
+                            </div>
+                            <div class="modal__close"><button type="button" class="modal__close--btn white" onclick="modal.hide();">닫기</button></div>
+                        </div>
+
+                        <style>
+                            .modal__content {}
+                             /*************/
+                             @media only screen and ( min-width: 1024px ) {
+                                .modal__content { width: 700px; }
+                             }
+                        </style>

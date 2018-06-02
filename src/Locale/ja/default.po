@@ -1,0 +1,2135 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2015-08-21 02:32+0000\n"
+"PO-Revision-Date: 2015-09-09 13:54+0900\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Language: ja\n"
+"X-Generator: Poedit 1.8.4\n"
+
+#: Template/Auth/exist_login.ctp:7 Template/Auth/join.ctp:45
+#: Template/Auth/login.ctp:66 Template/Auth/password_forgot.ctp:34
+#: Template/Auth/password_reset_complete.ctp:7
+#: Template/Auth/resend_password.ctp:7 Template/Auth/reset_password.ctp:58
+#: Template/Auth/set_password.ctp:55 Template/Fcc/about.ctp:7
+#: Template/Fcc/browser_update.ctp:7 Template/Fcc/go_to_web.ctp:7
+#: Template/Layout/default.ctp:226 Template/Models/complete.ctp:7
+#: Template/Models/index.ctp:19 Template/Models/info.ctp:38
+#: Template/Models/info_add.ctp:220 Template/Models/info_edit.ctp:233
+#: Template/Users/add_basic_info.ctp:159;288
+#: Template/Users/add_basic_info_save.ctp:18
+#: Template/Users/check_verification_email.ctp:12 Template/Users/edit.ctp:221
+#: Template/Users/expired_token.ctp:7 Template/Users/first_time_join.ctp:73
+#: Template/Users/forgot_password.ctp:13 Template/Users/no_activate.ctp:14
+#: Template/Users/password_again.ctp:35 Template/Users/profile.ctp:19
+#: Template/Users/resend_verification_email.ctp:12
+msgid "DAYS"
+msgstr "日"
+
+#: Template/Auth/exist_login.ctp:8 Template/Auth/join.ctp:46
+#: Template/Auth/login.ctp:67 Template/Auth/password_forgot.ctp:35
+#: Template/Auth/password_reset_complete.ctp:8
+#: Template/Auth/resend_password.ctp:8 Template/Auth/reset_password.ctp:59
+#: Template/Auth/set_password.ctp:56 Template/Fcc/about.ctp:8
+#: Template/Fcc/browser_update.ctp:8 Template/Fcc/go_to_web.ctp:8
+#: Template/Layout/default.ctp:227 Template/Models/complete.ctp:8
+#: Template/Models/index.ctp:20 Template/Models/info.ctp:39
+#: Template/Models/info_add.ctp:221 Template/Models/info_edit.ctp:234
+#: Template/Users/add_basic_info.ctp:160;289
+#: Template/Users/add_basic_info_save.ctp:19
+#: Template/Users/check_verification_email.ctp:13 Template/Users/edit.ctp:222
+#: Template/Users/expired_token.ctp:8 Template/Users/first_time_join.ctp:74
+#: Template/Users/forgot_password.ctp:14 Template/Users/no_activate.ctp:15
+#: Template/Users/password_again.ctp:36 Template/Users/profile.ctp:20
+#: Template/Users/resend_verification_email.ctp:13
+msgid "HOURS"
+msgstr "時間"
+
+#: Template/Auth/exist_login.ctp:9 Template/Auth/join.ctp:47
+#: Template/Auth/login.ctp:68 Template/Auth/password_forgot.ctp:36
+#: Template/Auth/password_reset_complete.ctp:9
+#: Template/Auth/resend_password.ctp:9 Template/Auth/reset_password.ctp:60
+#: Template/Auth/set_password.ctp:57 Template/Fcc/about.ctp:9
+#: Template/Fcc/browser_update.ctp:9 Template/Fcc/go_to_web.ctp:9
+#: Template/Layout/default.ctp:228 Template/Models/complete.ctp:9
+#: Template/Models/index.ctp:21 Template/Models/info.ctp:40
+#: Template/Models/info_add.ctp:222 Template/Models/info_edit.ctp:235
+#: Template/Users/add_basic_info.ctp:161;290
+#: Template/Users/add_basic_info_save.ctp:20
+#: Template/Users/check_verification_email.ctp:14 Template/Users/edit.ctp:223
+#: Template/Users/expired_token.ctp:9 Template/Users/first_time_join.ctp:75
+#: Template/Users/forgot_password.ctp:15 Template/Users/no_activate.ctp:16
+#: Template/Users/password_again.ctp:37 Template/Users/profile.ctp:21
+#: Template/Users/resend_verification_email.ctp:14
+msgid "MIN"
+msgstr "分"
+
+#: Template/Auth/exist_login.ctp:10 Template/Auth/join.ctp:48
+#: Template/Auth/login.ctp:69 Template/Auth/password_forgot.ctp:37
+#: Template/Auth/password_reset_complete.ctp:10
+#: Template/Auth/resend_password.ctp:10 Template/Auth/reset_password.ctp:61
+#: Template/Auth/set_password.ctp:58 Template/Fcc/about.ctp:10
+#: Template/Fcc/browser_update.ctp:10 Template/Fcc/go_to_web.ctp:10
+#: Template/Layout/default.ctp:229 Template/Models/complete.ctp:10
+#: Template/Models/index.ctp:22 Template/Models/info.ctp:41
+#: Template/Models/info_add.ctp:223 Template/Models/info_edit.ctp:236
+#: Template/Users/add_basic_info.ctp:162;291
+#: Template/Users/add_basic_info_save.ctp:21
+#: Template/Users/check_verification_email.ctp:15 Template/Users/edit.ctp:224
+#: Template/Users/expired_token.ctp:10 Template/Users/first_time_join.ctp:76
+#: Template/Users/forgot_password.ctp:16 Template/Users/no_activate.ctp:17
+#: Template/Users/password_again.ctp:38 Template/Users/profile.ctp:22
+#: Template/Users/resend_verification_email.ctp:15
+msgid "SEC"
+msgstr "秒"
+
+#: Template/Auth/exist_login.ctp:18 Template/Auth/join.ctp:56
+#: Template/Auth/set_password.ctp:66 Template/Users/first_time_join.ctp:84
+msgid "JOIN"
+msgstr "会員登録"
+
+#: Template/Auth/exist_login.ctp:20 Template/Auth/set_password.ctp:68
+msgid "we need a few things to create your account."
+msgstr "アカウント登録のため、情報入力が必要です。　　"
+
+#: Template/Auth/exist_login.ctp:31 Template/Auth/reset_password.ctp:30
+#: Template/Auth/set_password.ctp:26 Template/Users/edit.ctp:61
+#: Template/Users/first_time_join.ctp:29
+msgid "Create a password of 8~20 characters (numbers, letters, symbols)"
+msgstr "パスワードは8～20字（英数字＋記号）"
+
+#: Template/Auth/exist_login.ctp:34 Template/Auth/reset_password.ctp:31
+#: Template/Auth/set_password.ctp:27 Template/Users/edit.ctp:62
+#: Template/Users/first_time_join.ctp:30
+msgid "Your password cannot consist of a numerial or alphabetical sequence."
+msgstr "パスワードは連続する数字、文字は使用できません。"
+
+#: Template/Auth/exist_login.ctp:35 Template/Auth/reset_password.ctp:32
+#: Template/Auth/set_password.ctp:28 Template/Users/edit.ctp:63
+msgid "Your password cannot be the same as your user name or email."
+msgstr "パスワードは登録者氏名，E-mailアドレスと同一のものは使用できません。"
+
+#: Template/Auth/exist_login.ctp:39 Template/Auth/set_password.ctp:85
+msgid "Create Account"
+msgstr "アカウント登録"
+
+#: Template/Auth/exist_login.ctp:45 Template/Auth/join.ctp:103
+#: Template/Auth/set_password.ctp:91 Template/Users/first_time_join.ctp:128
+msgid "Are you a member?"
+msgstr "会員ログイン"
+
+#: Template/Auth/exist_login.ctp:45 Template/Auth/join.ctp:91;95;99;103
+#: Template/Auth/login.ctp:78;113;133
+#: Template/Auth/password_reset_complete.ctp:23
+#: Template/Auth/set_password.ctp:91
+#: Template/Layout/default.ctp:238;239;302;494;513
+#: Template/Users/first_time_join.ctp:128 Template/Users/password_again.ctp:47
+msgid "Log in"
+msgstr "ログイン"
+
+#: Template/Auth/exist_login.ctp:48 Template/Auth/set_password.ctp:94
+#: Template/Users/first_time_join.ctp:131
+msgid "By creating an account, <br>I accept FCC’s Terms of Service and Privacy Policy."
+msgstr "規約同意"
+
+#: Template/Auth/join.ctp:27 Template/Auth/password_forgot.ctp:17
+#: Template/Users/password_again.ctp:17
+msgid "Please enter your email."
+msgstr "E-mailアドレスを登録してください。"
+
+#: Template/Auth/join.ctp:28 Template/Auth/login.ctp:44
+#: Template/Layout/default.ctp:165
+msgid "Invalid email format."
+msgstr "フォーマットに合わないE-mailアドレスを入力した場合"
+
+#: Template/Auth/join.ctp:60
+msgid "Welcome to Fashion Crowd Challenge.<br>Time to meet designs and designers of every stripe from all around the world!"
+msgstr "ようこそFashion Crowd Challengeへ！<br>全世界のファッションデザイナーと多様なファッションセンスを持った人々との出会いの場です！"
+
+#: Template/Auth/join.ctp:63 Template/Auth/login.ctp:82
+#: Template/Auth/password_forgot.ctp:62 Template/Layout/default.ctp:456
+#: Template/Users/password_again.ctp:52
+msgid "Social Media"
+msgstr "SNS登録"
+
+#: Template/Auth/join.ctp:74 Template/Auth/login.ctp:93
+#: Template/Auth/password_forgot.ctp:53 Template/Contacts/add.ctp:30
+#: Template/Layout/default.ctp:466 Template/Users/edit.ctp:477;478
+#: Template/Users/forgot_password.ctp:35;36
+#: Template/Users/password_again.ctp:64
+msgid "Email"
+msgstr "fccアカウント(メールアドレス）"
+
+#: Template/Auth/join.ctp:83
+msgid "Join FCC"
+msgstr "FCC会員登録"
+
+#: Template/Auth/join.ctp:91;95 Template/Auth/login.ctp:137
+#: Template/Layout/default.ctp:517
+msgid "This account has already been created via {0}"
+msgstr "既に登録されたアカウントです。"
+
+#: Template/Auth/join.ctp:99 Template/Auth/login.ctp:133
+#: Template/Layout/default.ctp:513
+msgid "This account was deleted. Would you like to restore this account?"
+msgstr "このアカウントは退会されたアカウントです。アカウントを復元しますか？"
+
+#: Template/Auth/login.ctp:43 Template/Layout/default.ctp:164
+msgid "Please enter your email"
+msgstr "E-mailアドレスを登録してください。"
+
+#: Template/Auth/login.ctp:47 Template/Layout/default.ctp:168
+msgid "Please enter your password"
+msgstr "パスワードを入力してください。"
+
+#: Template/Auth/login.ctp:79 Template/Layout/default.ctp:453
+msgid "Welcome to Fashion Crowd Challenge. <br>Time to meet designs and designers of every stripe from all around the world!"
+msgstr "ようこそFashion Crowd Challengeへ！<br>全世界のファッションデザイナーと多様なファッションセンスを持った人々との出会いの場です！"
+
+#: Template/Auth/login.ctp:108 Template/Layout/default.ctp:484
+#: Template/Users/password_again.ctp:80
+msgid "Incorrect Password"
+msgstr "パスワードが一致しません。"
+
+#: Template/Auth/login.ctp:129 Template/Auth/password_forgot.ctp:75
+#: Template/Layout/default.ctp:509
+msgid "We couldn't find your account. Would you like to <a class=\"is-join\" href=\"/auth/join\">join us?</a>"
+msgstr "アカウントが見つかりません <br>会員登録を <a class=\"is-join\" href=\"/auth/join\">しますか？</a>"
+
+msgid "We couldn\'t find your account. Would you like to"
+msgstr "アカウントが見つかりません <br>会員登録を"
+
+msgid "join us?"
+msgstr "しますか？"
+
+#: Template/Auth/password_forgot.ctp:45 Template/Users/forgot_password.ctp:24
+msgid "Forget your password?"
+msgstr "パスワードをお忘れですか？"
+
+#: Template/Auth/password_forgot.ctp:47 Template/Users/forgot_password.ctp:26
+msgid "We will send you an email with a link to reset your password."
+msgstr "登録されたE-mailアドレスに、パスワードの変更手続きリンクを送ります。"
+
+#: Template/Auth/password_forgot.ctp:68 Template/Auth/reset_password.ctp:87
+#: Template/Users/forgot_password.ctp:49
+msgid "Reset Password"
+msgstr "パスワードの変更"
+
+#: Template/Auth/password_reset_complete.ctp:18
+msgid "Your password has been changed"
+msgstr "パスワードが変更されました。"
+
+#: Template/Auth/password_reset_complete.ctp:20
+msgid "You have changed your password. Please log in again."
+msgstr "新しいパスワードが設定されました。再度ログインしてください。"
+
+#: Template/Auth/resend_password.ctp:17
+#: Template/Users/check_verification_email.ctp:22
+#: Template/Users/resend_verification_email.ctp:22
+msgid "Go check your email !!"
+msgstr "E-mailアドレスを確認してください。"
+
+#: Template/Auth/resend_password.ctp:18
+msgid "<p>We sent you a link to reset your password. <br>Please check your email.</p>\n"
+"            <br>\n"
+"            <p>If you cannot find the password reset email, <br>please check your spam folder or click below.</p>"
+msgstr "<p>登録されたE-mailアドレスに、パスワードを変更できるリンクを転送しました。 <br>確認してください。</p>\n"
+"            <br>\n"
+"            <p>もし、パスワード再設定のメールが見つからない場合は、 <br>迷惑メールフォルダーからご確認ください。</p>"
+
+#: Template/Auth/reset_password.ctp:29 Template/Auth/set_password.ctp:25
+#: Template/Users/first_time_join.ctp:28
+msgid "Please enter your password."
+msgstr "パスワードを入力してください。"
+
+#: Template/Auth/reset_password.ctp:35
+msgid "Please enter your password again."
+msgstr "もう一度パスワードを入力してください。"
+
+#: Template/Auth/reset_password.ctp:69
+msgid "Create a new password."
+msgstr "新しいパスワードを設定"
+
+#: Template/Auth/reset_password.ctp:71
+msgid "Please enter a new password."
+msgstr "新しいパスワードを入力してください。"
+
+#: Template/Contacts/add.ctp:17
+msgid "Contact"
+msgstr "コンタクト"
+
+#: Template/Contacts/add.ctp:19
+msgid "If you have any inquiries, please do not hesitate to contact us.<br>\n"
+"                    We will be happy to assist you."
+msgstr "万が一、不明な点がございましたら、お気軽にお問い合わせください。.<br>\n"
+"                    "
+
+#: Template/Contacts/add.ctp:31;32
+msgid "This is not valid email address."
+msgstr "これは、有効なE-mailアドレスではありません。"
+
+#: Template/Contacts/add.ctp:35 Template/Users/add_basic_info.ctp:362
+#: Template/Users/edit.ctp:387
+msgid "Language"
+msgstr "言語"
+
+#: Template/Contacts/add.ctp:48
+msgid "Subject"
+msgstr "件名"
+
+#: Template/Contacts/add.ctp:50
+msgid "Please enter your subject."
+msgstr "件名を入力してください。"
+
+#: Template/Contacts/add.ctp:53
+msgid "Description"
+msgstr "内容"
+
+#: Template/Contacts/add.ctp:55
+msgid "Please enter your description."
+msgstr "作品説明を入力してください。"
+
+#: Template/Contacts/add.ctp:58
+msgid "Send"
+msgstr "送る"
+
+#: Template/Contacts/complete.ctp:13
+msgid "Your comment has been successfully submitted.<br>\n"
+"                    We will send a response to {0}"
+msgstr "コメントの登録が完了しました.<br>\n"
+"                    こちらにご返答させて頂きます。 {0}"
+
+#: Template/Email/html/bolt_request.ctp:15
+msgid "{0}'s account deletion request is complete. The deletion <br>\n"
+"                process will occur 10 days from now. If you change your mind <br>\n"
+"                about deleting your account, simply log in within 10 days and your <br>\n"
+"                account will be restored."
+msgstr "（　）様のアカウント削除申請が完了しました <br>\n"
+"              　アカウント削除は申請日から10日以降に実行されます。<br>\n"
+"                万が一、アカウントを再度復元したい場合、 <br>\n"
+"             　 10日以内に再ログインしてください。"
+
+#: Template/Email/html/bolt_request.ctp:23 Template/Email/html/contact.ctp:23
+#: Template/Email/html/password_reset.ctp:26 Template/Email/html/thanks.ctp:28
+#: Template/Email/html/verification.ctp:26
+msgid "Need help?"
+msgstr "その他のお問い合わせ"
+
+#: Template/Email/html/bolt_request.ctp:23 Template/Email/html/contact.ctp:23
+#: Template/Email/html/password_reset.ctp:26 Template/Email/html/thanks.ctp:28
+#: Template/Email/html/verification.ctp:26 Template/Fcc/faq.ctp:236
+msgid "Contact Us"
+msgstr "お問い合わせ"
+
+#: Template/Fcc/about.ctp:26 Template/Models/index.ctp:52
+msgid "About"
+msgstr "FCCとは？"
+
+#: Template/Fcc/about.ctp:27 Template/Models/index.ctp:53
+msgid "Schedule"
+msgstr "スケジュール"
+
+#: Template/Fcc/about.ctp:68 Template/Models/index.ctp:95
+msgid "Crowd<br>Evaluation"
+msgstr "Crowd <br>Evaluation"
+
+#: Template/Fcc/about.ctp:82 Template/Models/index.ctp:109
+msgid "Announcement of <br>Winners"
+msgstr "優勝者 <br>Winners発表"
+
+#: Template/Fcc/browser_update.ctp:19 Template/Fcc/go_to_web.ctp:19
+msgid "You cannot proceed any further at this time."
+msgstr "これ以上、 <br>続けることはできません。"
+
+#: Template/Fcc/browser_update.ctp:20
+msgid "This step requires Internet Explorer 10 or higher. Please update your browser to continue."
+msgstr "ここからはInternet Explorer 10 以上 または、それ以上のブラウザのご利用のみとなっております。. <br>続けるには、ブラウザをアップデートしてください。"
+
+#: Template/Fcc/detail.ctp:19;25;39 Template/Fcc/home.ctp:47
+msgid "Model"
+msgstr "モデル"
+
+#: Template/Fcc/detail.ctp:34;40 Template/Fcc/home.ctp:69
+msgid "Judge"
+msgstr "審査員"
+
+#: Template/Fcc/faq.ctp:156 Template/Posts/vimeo_complete.ctp:131
+#: Template/Posts/vimeo_upload.ctp:66
+msgid "The promotion video should be under 5 minutes in length. "
+msgstr "動画の長さは、5分未満のものでお願いします。"
+
+#: Template/Fcc/go_to_web.ctp:20
+msgid "You may register your basic info only via your smart phone. Please use your computer to continue."
+msgstr "携帯からのアクセスは、基本情報のみ登録できます。 <br>次の項目の詳細情報の登録はPCのみ可能です。"
+
+#: Template/Layout/default.ctp:51
+msgid "This website requires Internet Explorer 10 or higher."
+msgstr "このサイトはInternet Explorer 10 以上 または、それ以上のブラウザのご利用をお勧めいたします。 "
+
+#: Template/Layout/default.ctp:244;245
+msgid "Join"
+msgstr "会員登録"
+
+#: Template/Layout/default.ctp:280
+msgid "My Profile"
+msgstr "MYプロフィール"
+
+#: Template/Layout/default.ctp:281
+msgid "My Challenege"
+msgstr "MYチャレンジ"
+
+#: Template/Layout/default.ctp:282;323
+msgid "Log Out"
+msgstr "ログアウト"
+
+#: Template/Layout/default.ctp:328
+msgid "STORY"
+msgstr "ストーリー"
+
+#: Template/Layout/default.ctp:329
+msgid "COMMUNITY"
+msgstr "FCC参加者ページ"
+
+#: Template/Layout/default.ctp:330
+msgid "COMMITTEE"
+msgstr "FCCに招待したいCommittee"
+
+#: Template/Layout/default.ctp:331
+msgid "FCC 2015"
+msgstr "FCC 2015"
+
+#: Template/Layout/default.ctp:332
+msgid "MODEL CC 2015"
+msgstr "MODEL CC 2015"
+
+#: Template/Layout/default.ctp:488 Template/Users/password_again.ctp:82
+msgid "Please enter your Password."
+msgstr "パスワードを入力してください。"
+
+#: Template/Layout/default.ctp:557;581 Template/Users/edit.ctp:448;503;598;610
+msgid "Would you like to delete your account?"
+msgstr "登録された情報を削除しますか？"
+
+#: Template/Layout/default.ctp:561
+msgid "Changes have not been saved.<br>\n"
+"                                    Would you like to save now?"
+msgstr "修正した情報が保存されませんでした。<br>\n"
+"                                   保存しますか？"
+
+#: Template/Layout/default.ctp:585
+msgid "Your account will be deleted 10 days after the request is submitted. After 10 days, all emails containing personal information, uploaded pictures, videos, and text will be deleted."
+msgstr "アカウント削除は申請日から10日以降に実行されます。10日以降、E-mailを含む個人情報，アップロードした写真，動画，テキストに関連する情報が全て削除されます。削除申請される場合は、ご注意ください。"
+
+#: Template/Layout/default.ctp:587
+msgid "If you change your mind about deleting your account, you can log in to stop the deletion process within 10 days. If you log in again, all deleted information will be automatically restored."
+msgstr "万が一アカウントを再度復元したい場合、10日以内に再ログインしてください。再ログイン時、削除申請された情報が復元されます。"
+
+#: Template/Layout/default.ctp:593
+msgid "No, thank you."
+msgstr "いいえ"
+
+#: Template/Layout/default.ctp:594
+msgid "Yes, please."
+msgstr "はい"
+
+#: Template/Layout/default.ctp:620;623
+msgid "Deletion request sent."
+msgstr "アカウントの削除申請が完了しました"
+
+#: Template/Layout/default.ctp:625
+msgid "Your account will be deleted in 10 days."
+msgstr "該当アカウントは10日以降、完全に削除されます。"
+
+#: Template/Models/complete.ctp:19 Template/Users/profile.ctp:78
+msgid "Registration complete!"
+msgstr "登録完了！"
+
+#: Template/Models/complete.ctp:20
+msgid "<p>Your registration was successfully completed.</p>\n"
+"            <p>You can check out your profile to verify your information.</p>\n"
+"            <p>You may revise your information until the final day of registration.</p>"
+msgstr "<p>登録された情報は</p>\n"
+"            <p>プロフィールから確認でき、</p>\n"
+"            <p>登録締め切り日まで、修正可能です。</p>"
+
+#: Template/Models/complete.ctp:60
+msgid "Need more information? Check out the <a href=\"/fcc/faq\">FAQ</a>"
+msgstr "その他、お問い合わせ事項はありますか？<a href=\"/fcc/faq\">FAQ</a>"
+
+#: Template/Models/complete.ctp:61
+msgid "Verify my registration information"
+msgstr "登録した情報確認"
+
+#: Template/Models/info.ctp:65 Template/Models/info_add.ctp:381
+#: Template/Models/info_edit.ctp:396
+msgid "About Me"
+msgstr "自己紹介"
+
+#: Template/Models/info.ctp:71 Template/Models/info_add.ctp:385
+#: Template/Models/info_edit.ctp:400
+msgid "Size"
+msgstr "サイズ"
+
+#: Template/Models/info.ctp:73 Template/Models/info_add.ctp:248;249;251;387;388
+#: Template/Models/info_edit.ctp:261;262;264;402;403
+msgid "Height"
+msgstr "身長"
+
+#: Template/Models/info.ctp:76 Template/Models/info_add.ctp:277;278;279;390;391
+#: Template/Models/info_edit.ctp:290;291;292;405;406
+msgid "Weight"
+msgstr "体重"
+
+#: Template/Models/info.ctp:81 Template/Models/info_add.ctp:305;395;396
+#: Template/Models/info_edit.ctp:318;410;411
+msgid "Bust"
+msgstr "バスト"
+
+#: Template/Models/info.ctp:83 Template/Models/info_add.ctp:306;397;398
+#: Template/Models/info_edit.ctp:319;412;413
+msgid "Waist"
+msgstr "ウェスト"
+
+#: Template/Models/info.ctp:85 Template/Models/info_add.ctp:307;399;400
+#: Template/Models/info_edit.ctp:320;414;415
+msgid "Hips"
+msgstr "ヒップ"
+
+#: Template/Models/info.ctp:101 Template/Models/info_add.ctp:415
+#: Template/Models/info_edit.ctp:430
+msgid "Image"
+msgstr "イメージ画像"
+
+#: Template/Models/info.ctp:146
+msgid "Want to delete your registration information?"
+msgstr "登録された情報を削除しますか？"
+
+#: Template/Models/info.ctp:147 Template/Users/edit.ctp:230
+#: Template/Users/profile.ctp:46
+msgid "Edit"
+msgstr "修正"
+
+#: Template/Models/info.ctp:339
+msgid "If you delete your information, your participation in ModelCC 2015 will be cancelled. Do you wish to continue?"
+msgstr "登録されたモデル情報を削除すると、 ModelCC2015への参加申請が取り消されます。モデル情報を削除しますか？"
+
+#: Template/Models/info.ctp:342
+msgid "No."
+msgstr "いいえ。"
+
+#: Template/Models/info.ctp:343
+msgid "Yes, delete."
+msgstr "はい、アカウントを削除します"
+
+#: Template/Models/info_add.ctp:110;229 Template/Models/info_edit.ctp:124;242
+msgid "SIZE"
+msgstr "サイズ"
+
+#: Template/Models/info_add.ctp:116 Template/Models/info_edit.ctp:130
+msgid "DETAIL"
+msgstr "詳細参照"
+
+#: Template/Models/info_add.ctp:122 Template/Models/info_edit.ctp:136
+msgid "VIDEO"
+msgstr "動画"
+
+#: Template/Models/info_add.ctp:166 Template/Models/info_edit.ctp:179
+msgid "You must upload at least one image."
+msgstr "イメージ画像は必ず、1枚以上アップロードしなければなりません。"
+
+#: Template/Models/info_add.ctp:198 Template/Models/info_edit.ctp:211
+#: Template/Models/no_season.ctp:8 Template/Users/add_basic_info_save.ctp:5
+msgid "This is Not the period during Fashion Crowd Challenge held."
+msgstr "只今、ファッションクラウドチャレンジは行われておりません。"
+
+#: Template/Models/info_add.ctp:228 Template/Models/info_edit.ctp:241
+msgid "Portfolio"
+msgstr "作品集"
+
+#: Template/Models/info_add.ctp:251;388 Template/Models/info_edit.ctp:264;403
+msgid "Please enter your height."
+msgstr "自己紹介"
+
+#: Template/Models/info_add.ctp:279;391 Template/Models/info_edit.ctp:292;406
+msgid "Please enter your weight."
+msgstr "体重を入力してください。"
+
+#: Template/Models/info_add.ctp:303;304 Template/Models/info_edit.ctp:316;317
+msgid "Body Measurements"
+msgstr "スリーサイズ"
+
+#: Template/Models/info_add.ctp:305;306;307;396;398;400
+#: Template/Models/info_edit.ctp:318;319;320;411;413;415
+msgid "Please enter your body measurements."
+msgstr "入力されていないサイズがあります。"
+
+#: Template/Models/info_add.ctp:331;332;333
+#: Template/Models/info_edit.ctp:344;345;346
+msgid "Shoe size"
+msgstr "足のサイズ"
+
+#: Template/Models/info_add.ctp:333;405 Template/Models/info_edit.ctp:346;420
+msgid "Please enter your shoe size."
+msgstr "足のサイズを入力してください。"
+
+#: Template/Models/info_add.ctp:365;441;483
+#: Template/Models/info_edit.ctp:378;460;512
+#: Template/Users/add_basic_info.ctp:276;426
+msgid "Next"
+msgstr "次"
+
+#: Template/Models/info_add.ctp:382 Template/Models/info_edit.ctp:397
+msgid "Please fill out you \"About Me\" section."
+msgstr "自己紹介を入力してください。"
+
+#: Template/Models/info_add.ctp:416 Template/Models/info_edit.ctp:431
+msgid "Please upload a high-quality photo of yourself."
+msgstr "ヌード、暴力、衝撃的な画像などは固くお断りします。"
+
+#: Template/Models/info_add.ctp:427 Template/Models/info_edit.ctp:449
+msgid "Add"
+msgstr "写真追加"
+
+#: Template/Models/info_add.ctp:440;482 Template/Models/info_edit.ctp:459;511
+#: Template/Users/add_basic_info.ctp:423
+msgid "Back"
+msgstr "前"
+
+#: Template/Models/info_add.ctp:453 Template/Models/info_edit.ctp:474
+msgid "Video"
+msgstr "動画"
+
+#: Template/Models/info_add.ctp:454 Template/Models/info_edit.ctp:475
+msgid "Please upload a video that shows off your style and ability"
+msgstr "あなたを表現できる動画をアップロードしてください。"
+
+#: Template/Models/info_add.ctp:460 Template/Models/info_edit.ctp:481
+#: Template/Posts/vimeo_complete.ctp:142
+msgid "Upload"
+msgstr "アップロード"
+
+#: Template/Models/info_add.ctp:497
+msgid "Almost Finished!"
+msgstr "ほとんどの登録が完了されました。"
+
+#: Template/Models/info_add.ctp:561
+msgid "I agree to the above and wish to register."
+msgstr "上記事項を遵守し、登録しますか？"
+
+#: Template/Posts/vimeo_upload.ctp:80
+msgid "Choose a Video to Upload"
+msgstr "アップロードする動画を選んでください。"
+
+#: Template/Users/add_basic_info.ctp:94 Template/Users/edit.ctp:149
+msgid "over file size. max file size 5MB"
+msgstr "ファイルのサイズがオーバーしました。許容サイズは5MB以内でお願いします。"
+
+#: Template/Users/add_basic_info.ctp:168;297
+msgid "Basic Info"
+msgstr "基本情報（個人情報）"
+
+#: Template/Users/add_basic_info.ctp:183 Template/Users/edit.ctp:248
+msgid "Profile Picture"
+msgstr "プロフィール写真"
+
+#: Template/Users/add_basic_info.ctp:201 Template/Users/edit.ctp:265
+msgid "Allowed file types JPG, GIF or PNG.<br>Maximum size of 5MB"
+msgstr "アップロードに許容されているイメージファイルの形式は、JPG, GIF, PNGです。<br>許容サイズは5MB以内でお願いします。"
+
+#: Template/Users/add_basic_info.ctp:207 Template/Users/edit.ctp:273
+msgid "Upload Photo"
+msgstr "画像アップロード"
+
+#: Template/Users/add_basic_info.ctp:210 Template/Users/edit.ctp:276
+msgid "Please upload your photo."
+msgstr "画像をアップロードしてください。"
+
+#: Template/Users/add_basic_info.ctp:221;224 Template/Users/edit.ctp:287;290
+msgid "Please enter your name."
+msgstr "名前を入力してください。"
+
+#: Template/Users/add_basic_info.ctp:228;229 Template/Users/edit.ctp:294;295
+msgid "Birth Date"
+msgstr "生年月日"
+
+#: Template/Users/add_basic_info.ctp:240 Template/Users/edit.ctp:307
+msgid "Month"
+msgstr "月"
+
+#: Template/Users/add_basic_info.ctp:241 Template/Users/edit.ctp:308
+msgid "Day"
+msgstr "日"
+
+#: Template/Users/add_basic_info.ctp:242 Template/Users/edit.ctp:309
+msgid "Year"
+msgstr "年"
+
+#: Template/Users/add_basic_info.ctp:244 Template/Users/edit.ctp:311
+msgid "Please enter your birth date."
+msgstr "生年月日を入力してください。"
+
+#: Template/Users/add_basic_info.ctp:248 Template/Users/edit.ctp:315
+msgid "Gender"
+msgstr "性別"
+
+#: Template/Users/add_basic_info.ctp:250 Template/Users/edit.ctp:318
+msgid "Female"
+msgstr "女性"
+
+#: Template/Users/add_basic_info.ctp:251 Template/Users/edit.ctp:319
+msgid "Male"
+msgstr "男性"
+
+#: Template/Users/add_basic_info.ctp:252 Template/Users/edit.ctp:238;320
+msgid "Other"
+msgstr "その他"
+
+#: Template/Users/add_basic_info.ctp:255 Template/Users/edit.ctp:323
+msgid "Please select a gender."
+msgstr "性別を選択してください。"
+
+#: Template/Users/add_basic_info.ctp:310;358
+#: Template/Users/edit.ctp:335;383;384
+msgid "City"
+msgstr "居住地"
+
+#: Template/Users/add_basic_info.ctp:316 Template/Users/edit.ctp:341
+msgid "Country"
+msgstr "国"
+
+#: Template/Users/add_basic_info.ctp:356
+msgid "Please select your country."
+msgstr "国を選択してください。"
+
+#: Template/Users/add_basic_info.ctp:359 Template/Users/edit.ctp:384
+msgid "Please enter your city."
+msgstr "居住地を入力してください。"
+
+#: Template/Users/add_basic_info.ctp:397
+msgid "Please select a valid language."
+msgstr "使用可能な言語を入力してください"
+
+#: Template/Users/add_basic_info.ctp:412;413;414
+#: Template/Users/edit.ctp:436;437;438
+msgid "Phone Number"
+msgstr "電話番号"
+
+#: Template/Users/add_basic_info.ctp:414 Template/Users/edit.ctp:438
+msgid "(Country Code)"
+msgstr "(国番号)"
+
+#: Template/Users/add_basic_info.ctp:415 Template/Users/edit.ctp:439
+msgid "Please enter your telephone number. We'll need it to tell you in case you win!"
+msgstr "電話番号を入力してください。入力された電話番号は、優勝された際の連絡のみ使用し、その他の目的には使用いたしません。"
+
+#: Template/Users/add_basic_info_save.ctp:34;45
+msgid "Basic info<br>complete."
+msgstr "基本情報<br>入力完了"
+
+#: Template/Users/add_basic_info_save.ctp:35
+msgid "Basic info is complete.<br> Please click below to move to the next stage in the process."
+msgstr "参加申請手続きが完了されました。<br>下記のボタンクリックし、次の項目に移動してください。"
+
+#: Template/Users/add_basic_info_save.ctp:40
+msgid "Submit your portfolio"
+msgstr "作品登録"
+
+#: Template/Users/add_basic_info_save.ctp:41
+msgid "Not ready to participate? <a href=\"/\">return to main page</a>"
+msgstr "登録を中止しますか？ <a href=\"/\">後で登録する</a>"
+
+#: Template/Users/add_basic_info_save.ctp:46
+msgid "basic info is complete. The next step can only be done via computer. Please complete using your computer."
+msgstr "参加申請手続きが完了されました。次の項目の詳細情報の登録はPCのみ可能です。"
+
+#: Template/Users/check_verification_email.ctp:23
+#: Template/Users/resend_verification_email.ctp:23
+msgid "<p>Dear <span class=\"user\">{0}</span></p>\n"
+"            <p>We have sent a verification email to <span class=\"email\">{1}</span></p>\n"
+"            <p>Open the e-mail and click the link to complete the registration process.</p>\n"
+"            <br>\n"
+"            <p>If you cannot find the activation email, <br>please check your spam folder or click below.</p>"
+msgstr "<p><span class=\"user\">{0}</span> 様</p\n"
+"            <p>入力いただいたE-mailアドレス <span class=\"email\">{1}</span></p>\n"
+"            <p>に認証メールを転送致しました。.</p>\n"
+"            <br>\n"
+"            <p>添付されている認証リンクから、登録手続きを完了してください。</p>"
+
+#: Template/Users/check_verification_email.ctp:33
+#: Template/Users/no_activate.ctp:30
+#: Template/Users/resend_verification_email.ctp:33
+msgid "Resend verification email."
+msgstr "再度受信する。"
+
+#: Template/Users/edit.ctp:234
+msgid "Profile"
+msgstr "プロフィール"
+
+#: Template/Users/edit.ctp:236
+msgid "Account"
+msgstr "アカウント"
+
+#: Template/Users/edit.ctp:282;283
+msgid "Name"
+msgstr "名前"
+
+#: Template/Users/edit.ctp:284
+msgid "First Name"
+msgstr "名"
+
+#: Template/Users/edit.ctp:285
+msgid "Last Name"
+msgstr "姓"
+
+#: Template/Users/edit.ctp:444;498;593 Template/Users/password_again.ctp:87
+msgid "Done"
+msgstr "完了"
+
+#: Template/Users/expired_token.ctp:18
+msgid "This link has expired."
+msgstr "このリンクは期限が切れています。"
+
+#: Template/Users/first_time_join.ctp:86
+msgid "We need a few things to create your account."
+msgstr "アカウント登録のため、情報入力が必要です。　　"
+
+#: Template/Users/first_time_join.ctp:94
+msgid "First name"
+msgstr "名"
+
+#: Template/Users/first_time_join.ctp:95
+msgid "Last name"
+msgstr "姓"
+
+#: Template/Users/first_time_join.ctp:99
+msgid "Please enter your first name."
+msgstr "下の名前を入力してください。"
+
+#: Template/Users/first_time_join.ctp:102
+msgid "Please enter your last name."
+msgstr "苗字を入力してください。"
+
+#: Template/Users/first_time_join.ctp:122
+msgid "Send verification email"
+msgstr "認証メール送信"
+
+#: Template/Users/no_activate.ctp:24
+msgid "Account Not Verified"
+msgstr "（会員登録申請後、Eメールの認証手続きを実行しなかった場合）認証されていないアカウントです。"
+
+#: Template/Users/no_activate.ctp:25
+msgid "You already created your account,<br>but you need to verify it via the verification email we sent."
+msgstr "既に登録されているアカウントです。<br>会員登録を完了させるためにはE-mailからの認証手続きが必要です。　"
+
+#: Template/Users/no_activate.ctp:27
+msgid "Can't find the verification email? <br>Click the button below to send it again."
+msgstr "E-mailが届かない場合は、<br>下記のボタンをクリックしてください。"
+
+#: Template/Users/password_again.ctp:18
+msgid "Invalid email format"
+msgstr "フォーマットに合わないE-mailアドレスを入力した場合"
+
+#: Template/Users/password_again.ctp:48
+msgid "To protect your information. please enter your password again."
+msgstr "個人情報保護のため、パスワードを再入力してください。"
+
+#: Template/Users/profile.ctp:53
+msgid "Notifications"
+msgstr "お知らせ"
+
+#: Template/Users/profile.ctp:72
+msgid "Try FCC's model challenge!"
+msgstr "FCCのモデルにチャレンジ！"
+
+#: Template/Users/profile.ctp:75
+msgid "You haven't registered as a model yet."
+msgstr "あなたはまだモデルとして登録していません。"
+
+# 수동 추가 ====================
+# ##=================================
+# # 20150821 / 20:08
+msgid "Did you forget your password?"
+msgstr "パスワードはお忘れですか？"
+
+msgid "Resend email"
+msgstr "メールを再送信"
+
+msgid "Password"
+msgstr "パスワード"
+
+msgid "Optional"
+msgstr "オプション"
+
+msgid "Website"
+msgstr "ウェブサイト"
+
+msgid "Enter URL"
+msgstr "URLを入力して下さい"
+
+msgid "New password and confirmation do not match"
+msgstr "新しいパスワードと確認用のパスワードが一致しません。"
+
+# ##=================================
+# # 20150821 / 20:52
+msgid "What Models Get"
+msgstr "What Models Get"
+
+msgid "Submit Your Work"
+msgstr "作品登録"
+
+# ##=================================
+# # 20150823 / 13:06 / FCC 2015 페이지
+# ##=================================
+# # 20150824 / 15:18 / users edit 페이지
+msgid "Save"
+msgstr "保存"
+
+# ##=================================
+# # 20150826 / 14:05 / 메인 타이틀이미지 설명
+#: Template/Users/first_time_join.ctp:47
+msgid "Show Password Errors"
+msgstr "- 最低１つのローマ字 (a-z, A-Z),<br>- 最低1桁の数字 (0-9),<br>- 空白なし"
+
+#: main Error
+msgid "We could not get your information.<br>Please participate in FCC by your email."
+msgstr "あなたの情報を確認できませんでした。<br>あなたのemailアドレスから、FCCに登録してください。"
+
+msgid "Sorry"
+msgstr "エラー"
+
+msgid "We will message your social media account with a link to reset your password"
+msgstr "ソーシャルメディアのアカウントに、パスワード再設定のメッセージを送ります。"
+
+msgid "Hello,"
+msgstr "こんにちは,"
+
+msgid "Welcome to FCC.<br>To reset your password, please click the following link."
+msgstr "FCCへようこそ<br>パスワードの再設定する際には、こちらのリンクをクリックしてください。"
+
+msgid "Click Here"
+msgstr "ここをクリック"
+
+msgid "Password Reset"
+msgstr "パスワード再設定"
+
+msgid "Shoes"
+msgstr "足のサイズ"
+
+msgid "Upload your video"
+msgstr "動画アップロード"
+
+msgid "Delete"
+msgstr "削除"
+
+msgid "We need you to agree to a few things before we can finish your ModelCC registration."
+msgstr "登録を完了するため、ModelCC規約に同意してください。"
+
+msgid "Model<br>Submission"
+msgstr "モデル<br>登録"
+
+msgid "Join Fashion CC 2015"
+msgstr "FCC 2015に参加する"
+
+msgid "Model CC 2015</span><span>Evaluation Start"
+msgstr "Model CC 2015</span><span>審査開始"
+
+msgid "Join Model CC 2015"
+msgstr "Model CC 2015に参加する"
+
+msgid "Fashion</span><span>Crowd Challenge?"
+msgstr "Fashion</span><span>Crowd Challenge?"
+
+msgid "FCC's mission is to discover fashion stars and thrust them into the public eye.<br>So, FCC is holding a truly global fashion show in which anyone can participate as a designer OR as a judge.<br><br>The designs which receive the best reviews will be displayed each day during the evaluation period at FashionCrowdChallenge.com.<br>FCC will announce the full body of winners on October 16th."
+msgstr "FCCの趣旨は、大衆に認められるファッションスターを発掘することである。<br>そのため、FCCは誰もがデザイナーとして、また審査員として参加できる、真のグローバルファッションショーを企画している。<br><br>審査期間中に好評価をもらったデザイナーは、FCCホームページにて掲示される。（FashionCrowdChallenge.com）<br>また、すべての入賞者の結果発表は、10月16日に行われる。"
+
+msgid "Learn about FCC "
+msgstr "FCCについて"
+
+msgid "Brochure"
+msgstr "パンフレット"
+
+msgid "Download our brochure for more detailed </span><span>information about FCC."
+msgstr "パンフレットのダウンロードは</span><span> こちらから"
+
+msgid "Vote for me ! "
+msgstr "私に投票してください！"
+
+msgid "<span>MEET THE STAR</span><span>MODELS OF</span>"
+msgstr "<span>スターモデルを</span><span>見る</span>"
+
+msgid "TOMORROW"
+msgstr " "
+
+msgid "<span>You choose the top models of ModelCC 2015.</span><span>Your input creates the stars of the future.</span>"
+msgstr "<span>ModelCC 2015のトップモデルをお選びください。</span><span>あなたの投票が、未来のスターを作ります。</span>"
+
+msgid "Total"
+msgstr "トータル"
+
+msgid "Today"
+msgstr "今日"
+
+msgid "The evaluation period ends in"
+msgstr "審査期間は、右記の時間に終わります。"
+
+msgid "hours,"
+msgstr "時間"
+
+msgid "minutes."
+msgstr "分"
+
+msgid "Please Wait, Loading.."
+msgstr "しばらくお待ちください・・・"
+
+msgid "Evaluate more models!"
+msgstr "他のモデルも評価する！"
+
+msgid "There is no evaluation subjects"
+msgstr "評価項目がありません。"
+
+msgid "Back to list"
+msgstr "リストに戻る"
+
+msgid "About Me"
+msgstr "私の情報"
+
+msgid "Size"
+msgstr "サイズ"
+
+msgid "Height"
+msgstr "身長"
+
+msgid "Weight"
+msgstr "体重"
+
+msgid "Bust"
+msgstr "バスト"
+
+msgid "Waist"
+msgstr "ウェスト"
+
+msgid "Hips"
+msgstr "ヒップ"
+
+msgid "Shoes"
+msgstr "足のサイズ"
+
+msgid "Comment"
+msgstr "コメント"
+
+msgid "MODEL CC 2015"
+msgstr "MODEL CC 2015"
+
+msgid "WINNER"
+msgstr "入賞者"
+
+msgid "<span>The ModelCC 2015 Winners <br>have been chosen!</span><span>Let's meet the global top models <br>who will own the runway at FCC2015!</span>"
+msgstr "<span>ModelCC 2015の入賞者が<br>選ばれました！</span><span>FCC2015のランウェイに立つグローバルトップモデルを<br>確認しに行きましょう！</span>"
+
+msgid "View my results"
+msgstr "私の結果を見る"
+
+msgid "Top Model"
+msgstr "トップモデル"
+
+msgid "MODEL CC 2015 RESULTS"
+msgstr "MODEL CC 2015の結果"
+
+msgid "Grade"
+msgstr "成績"
+
+msgid "Judges"
+msgstr "審査員"
+
+msgid "Comments"
+msgstr "コメント"
+
+msgid "View more language"
+msgstr "他の言語で見る"
+
+msgid "View"
+msgstr "見る"
+
+msgid "It looks like you haven\'t reviewed<br/>all the models yet.<br/> Please check the list again!<br/>"
+msgstr "モデル評価に不足部分があります。<br/>再度、確認お願いいたします。"
+
+msgid "If you delete your information, your participation in FCC 2015 will be cancelled. Do you wish to continue?"
+msgstr "登録されたモデル情報を削除すると、 FCC2015への参加申請が取り消されます。モデル情報を削除しますか？"
+
+msgid "Not a member yet?"
+msgstr "登録はまだですか？"
+
+msgid "This field is required"
+msgstr "入力されていません。"
+
+msgid "Previous"
+msgstr "前"
+
+msgid "We need you to agree to a few things before we can finish your FCC registration."
+msgstr "デザイナーは、そのデザインの著作権を所有しています。そのデザインの著作権が不正使用された場合、FCCはそれを法的にサポートします。"
+
+msgid "Vote for me ! "
+msgstr "私に投票してください！"
+
+msgid "<span>MEET THE STAR</span><span>MODELS OF</span>"
+msgstr "<span>スターモデルを</span><span>見る</span>"
+
+msgid "TOMORROW"
+msgstr "明日"
+
+msgid "<span>You choose the top models of ModelCC 2015.</span><span>Your input creates the stars of the future.</span>"
+msgstr "<span>ModelCC 2015のトップモデルをお選びください。</span><span>あなたの投票が、未来のスターを作ります。</span>"
+
+msgid "Total"
+msgstr "トータル"
+
+msgid "Today"
+msgstr "今日"
+
+msgid "hours,"
+msgstr "時間"
+
+msgid "minutes."
+msgstr "分"
+
+msgid "Please Wait, Loading.."
+msgstr "しばらくお待ちください・・・"
+
+msgid "Evaluate more models!"
+msgstr "他のモデルを評価する！"
+
+msgid "There is no evaluation subjects"
+msgstr "評価項目がありません"
+
+msgid "Back to list"
+msgstr "リストに戻る"
+
+msgid "About Me"
+msgstr "私の情報"
+
+msgid "Size"
+msgstr "サイズ"
+
+msgid "Height"
+msgstr "身長"
+
+msgid "Weight"
+msgstr "体重"
+
+msgid "Bust"
+msgstr "バスト"
+
+msgid "Waist"
+msgstr "ウェスト"
+
+msgid "Hips"
+msgstr "ヒップ"
+
+msgid "Shoes"
+msgstr "足のサイズ"
+
+msgid "Comment"
+msgstr "コメント"
+
+msgid "MODEL CC 2015"
+msgstr "MODEL CC 2015"
+
+msgid "WINNER"
+msgstr "入賞者"
+
+msgid "<span>The ModelCC 2015 Winners <br>have been chosen!</span><span>Let's meet the global top models <br>who will own the runway at FCC2015!</span>"
+msgstr "<span>ModelCC 2015の入賞者が <br>選ばれました！</span><span>FCC2015のランウェイに立つグローバルトップモデルを<br>確認しに行きましょう！</span>"
+
+msgid "View my results"
+msgstr "私の結果を見る"
+
+msgid "Top Model"
+msgstr "トップモデル"
+
+msgid "MODEL CC 2015 RESULTS"
+msgstr "MODEL CC 2015の結果"
+
+msgid "Grade"
+msgstr "成績"
+
+msgid "Judges"
+msgstr "審査員"
+
+msgid "Comments"
+msgstr "コメント"
+
+msgid "View more language"
+msgstr "他の言語で見る"
+
+msgid "If you delete your information, your participation in FCC 2015 will be cancelled. Do you wish to continue?"
+msgstr "あなたの情報を削除した場合、FCC2015への参加が解除されます。続行しますか？"
+
+msgid "Email Verification"
+msgstr "Eメールの確認"
+
+msgid "Portfolio <br>Submission"
+msgstr "ポートフォリオを<br>提出する。"
+
+msgid "Crowd<br>Evaluation"
+msgstr "一般評価"
+
+msgid "Crowd <br>Evaluation"
+msgstr "一般評価"
+
+msgid "Announcement of <br>Winners"
+msgstr "入賞者の <br>発表"
+
+msgid "Portfolio <br>Evaluation"
+msgstr "ポートフォリオ<br>評価"
+
+msgid "10th Sep.<br> - <br>13th Sep."
+msgstr "9月10日<br>~<br>9月13日"
+
+msgid "FCC's Model Evaluation<br>has begun."
+msgstr "FCCモデル評価が<br>始まりました。"
+
+msgid "Check out another model!"
+msgstr "別のモデルをチェックする！"
+
+msgid "Evaluation <br>finished!."
+msgstr "評価が<br>終了しました！"
+
+msgid "Evaluation finished! see you tomorrow."
+msgstr "評価が終了しました！また、お待ちしております。"
+
+msgid "14th Sep."
+msgstr "9月14日"
+
+msgid "My results."
+msgstr "私の結果。"
+
+msgid "Meet the star <br> models of <br> tomorrow"
+msgstr "明日の<br>スターモデルに<br> 会う"
+
+msgid "Registration complete!"
+msgstr "登録完了！"
+
+msgid "No design information<br>submitted."
+msgstr "いいえ、デザイン情報を<br>登録しません。"
+
+msgid "Individual</span><span>Registration"
+msgstr "個人</span><span>参加"
+
+msgid "Team</span><span>Registration"
+msgstr "チーム</span><span>参加"
+
+msgid "Registration"
+msgstr "作品登録"
+
+msgid "Are you registering as an individual or as a team?<br>After you choose, you will not be able to change it,<br>so proceed with caution!"
+msgstr "個人でご参加ですか？それともチームとしてご参加ですか？<br>一度選択されますと、変更はできません。<br>ご選択される際は、慎重にお願い致します。"
+
+msgid "Team name"
+msgstr "チーム名"
+
+msgid "Please enter a team name."
+msgstr "チーム名を入力してください。"
+
+msgid "Back"
+msgstr "戻る"
+
+msgid "Next"
+msgstr "次"
+
+msgid "Category"
+msgstr "カテゴリー"
+
+msgid "What category best describes your design?"
+msgstr "あなたのデザインを最もよく表しているカテゴリーは何ですか？"
+
+msgid "Target customer"
+msgstr "ターゲットの顧客"
+
+msgid "Optional"
+msgstr "選択事項"
+
+msgid "Who is the target consumer for your design?"
+msgstr "あなたのデザインが、ターゲットとする消費者は誰ですか？"
+
+msgid "Title"
+msgstr "タイトル"
+
+msgid "Please enter a title."
+msgstr "タイトルを入力してください。"
+
+msgid "Simple description"
+msgstr "簡単な説明"
+
+msgid "Please enter a simple description of your design."
+msgstr "デザインの簡単な説明を入力してください。"
+
+msgid "You must upload at least one image."
+msgstr "最低でも、1つの画像をアップロードする必要があります。"
+
+msgid "Detailed description"
+msgstr "詳細説明"
+
+msgid "Tell us the whole story of your design."
+msgstr "あなたのデザインストーリーを教えてください。"
+
+msgid "Please enter a detailed description of your design."
+msgstr "デザインの詳細な説明を入力してください。"
+
+msgid "Team members"
+msgstr "チームのメンバー"
+
+msgid "Please enter a name."
+msgstr "名前を入力してください。"
+
+msgid "Please enter a valid email format."
+msgstr "有効なメールアドレスを入力してください。"
+
+msgid "Please enter a category."
+msgstr "カテゴリーを入力してください。"
+
+msgid "We need you to agree to a few things before we can finish your FCC registration."
+msgstr "FCC作品登録を完了するためには、下記の規約事項に同意する必要があります。"
+
+msgid "Registration complete!"
+msgstr "登録完了！"
+
+msgid "Your registration was successfully completed.</p><p>You can check out your profile to verify your information.</p><p>You may revise your information until the final day of registration."
+msgstr "登録が正常に完了しました。</p><p>登録された情報を確認するため、プロフィールを確認することができます。</p><p>登録された情報は、登録最終日まで情報修正することができます。"
+
+msgid "24th Aug.<br> - <br>9th Sep."
+msgstr "8月24日<br> ~ <br>9月9日"
+
+msgid "8th Oct.<br> - <br>15th Oct."
+msgstr "10月8日<br> ~ <br>10月15"
+
+msgid "During the evaluation period,</p><p>submitters are responsible for reviewing and evaluating peer designers’ submissions.</p><p>Design submitters who do not fully participate in the evaluation process <br>may find that their own submissions have been excluded from the contest."
+msgstr "審査期間中</p><p>デザイナーは、提出したデザインの見直し、他のデザイナーの作品を評価する責任があります。</p><p>全く評価プロセスに参加していないデザイナーは、 <br>自分の提出した作品がコンテストから除外されることがあります。"
+
+msgid "Verify my registration information"
+msgstr "情報を登録してください。"
+
+msgid "16th Oct."
+msgstr "10月16日"
+
+msgid "Delete your information?"
+msgstr "情報を削除しますか？"
+
+msgid "Team Info"
+msgstr "チーム情報"
+
+msgid "Design Info"
+msgstr "デザイン情報"
+
+msgid "Add comment"
+msgstr "コメントを追加します"
+
+msgid "Back to Result"
+msgstr "結果に戻る"
+
+msgid "New password cannot be the same as your current password"
+msgstr "新しいパスワードは、現在のパスワードと同じものにすることはできません。"
+
+#: What do you think of me?
+msgid "$data['questions'][0]['question']"
+msgstr ""
+
+msgid "FCC\'s schedule uses Greenwich Mean Time (GMT)"
+msgstr "FCCのスケジュールは、グリニッジ標準時（GMT）を基準とし、行います。"
+
+
+msgid "Winner’s Awards"
+msgstr "入賞者特典"
+
+msgid "ModelCC 2015 Winners will receive the title of TOP MODEL."
+msgstr "ModelCC 2015入賞者は「トップモデル」と名付けられます。"
+
+msgid "Winners will also receive the opportunity to appear onstage at the FCC2015 fashion show."
+msgstr "また、FCC2015のファッションショーのランウェイに立つチャンスも与えられます。"
+
+msgid "Model CC 2015 WINNER"
+msgstr "Model CC 2015 入賞者"
+
+msgid "A chance to work as an FCC model"
+msgstr "FCCのモデルになれるチャンス"
+
+msgid "A chance to appear onstage in the FCC fashion show."
+msgstr "FCCファッションショーのステージに立てるチャンス"
+
+msgid "A chance to appear onstage"
+msgstr "FCCのファッションショーの舞台に"
+
+msgid "in the FCC fashion show."
+msgstr "立てるチャンス"
+
+msgid "Declaration of</span><span> Winners"
+msgstr "Model CC 2015</span><span>結果発表"
+
+msgid "View detail"
+msgstr "詳細を見る"
+
+msgid "Email Address"
+msgstr "Eメールアドレス"
+
+msgid "Design<br>Submission"
+msgstr "デザイン登録"
+
+msgid "FCC winners will be notified of the award ceremony <br>and fashion show via email or telephone."
+msgstr ""
+
+msgid "Model CC 2015 <br>Winners"
+msgstr ""
+
+msgid "View Model CC 2015 Winners"
+msgstr ""
+
+msgid "Did you submit your modelling portfolio?"
+msgstr "モデルに参加されましたか？"
+
+msgid "Sign in and see your results!"
+msgstr "あなたの結果を確認してください。Sign in"
+
+msgid "Download Now"
+msgstr "今すぐダウンロードする"
+
+msgid "Modhello,</span><span>an app for designers."
+msgstr "Modhello　</span><span>デザイナー用のアプリ"
+
+msgid "Upload your designs via Modhello!"
+msgstr "Modhelloアプリを使って、デザインの登録をしてみよう。"
+
+msgid "Share with your friends!"
+msgstr "お友達とシェアしてください。"
+
+msgid "Tell your friends that you\'ve entered FCC 2015!"
+msgstr "あなたのFCC2015参加情報をお友達にお知らせください。"
+
+msgid "<span>Good Luck !</span><strong>{0} {1}</strong>"
+msgstr "<span>頑張ってください！</span><strong>{0} {1} </strong>"
+
+msgid "<span>Good Luck !</span><strong style='display: block;'>{0} {1}</strong>"
+msgstr "<span>頑張ってください！</span><strong style='display: block;'>{0} {1}</strong>"
+
+msgid "Thank you for a registration!"
+msgstr "登録ありがとうございます！"
+
+msgid "See you on Oct. 8th"
+msgstr "10月8日にまたお会いしましょう。"
+
+msgid "Thank you for registering,{0} {1}"
+msgstr "登録ありがとうございます。{0} {1}"
+
+msgid "Thank you for registering with FCC! Those who are registered with FCC will occasionally receive newsletters, announcements, and updated schedules through email.<br><br>To guarantee a fair and equal opportunity for all participants, the FCC winner will be selected using an algorithm based \"collective intelligence technology.\" This process is transparent to the public. Thus, FCC allows both professionals and non-professionals to participate, free of charge. FCC hopes to serve as a revolutionary avenue for fashion designers to showcase their talents and skills.<br><br>Please check the FCC schedule.<br><br>"
+msgstr "FCC会員にご登録いただき、誠にありがとうございます。<br>会員登録された方には、日程、お知らせ、ニュースレターなどの情報をメールにて送らせていただきます。 <br><br>FCCの入賞者は'集団的知性によるテクノロジー’を基盤としたアルゴリズムを通して自由かつ公正な審査が行われます。<br><br>この審査の過程は、誰にでも平等に公開されます。<br> FCCに参加したいデザイナーらは、誰でも簡単にそして無料で参加することができます。<br> FCCはこれまで機会を逃してきた人にとって、新たなチャンスの場となり、一般ユーザーの知恵が集約された新しいファッショントレンドを創る大きな波になるはずです。<br><br>FCC日程を確認してください。<br><br>"
+
+msgid "Thanks,"
+msgstr "ありがとうございます。"
+
+msgid "FCC Committee"
+msgstr "FCC委員会"
+
+msgid "Thank you for participating."
+msgstr "ご登録いただき、ありがとうございます。"
+
+msgid "Read more"
+msgstr "もっと見る"
+
+msgid "All"
+msgstr "全体"
+
+msgid "Your story"
+msgstr "あなたのストーリー"
+
+msgid "FCC News"
+msgstr "FCCニュース"
+
+msgid "So, what\'s your story?"
+msgstr "あなたのストーリーは何ですか？"
+
+msgid "It’s not a story about fashion.<br>It’s a story about you."
+msgstr "ファッションに関することではなく、あなた自身のストーリーについて。"
+
+msgid "Share your stories with us"
+msgstr "あなた自身について、私どもにお聞かせください。"
+
+msgid "Share"
+msgstr "共有する"
+
+msgid "Announcement"
+msgstr "結果発表"
+
+msgid "FCC winners will be notified of the award ceremony <br>and fashion show via email or telephone."
+msgstr "入賞者らには、FCC委員会から授与式とファッションショーの日程を、Eメールと電話にて個別にご案内させて頂く予定です。"
+
+msgid "Search the Title or Registration number"
+msgstr "作品タイトルもしくは、登録番号を検索してください。"
+
+msgid "<span>Search results for {0}</span><strong>"
+msgstr "<span>{0} に関する検索結果です。</span><strong>"
+
+msgid "The URL has been copied. Please paste anywhere you want."
+msgstr "URLがコピーされました。自由に張り付けしてください。"
+
+msgid "Loading more"
+msgstr "更に読み込む"
+
+msgid "Meet the world's fashion lovers united through Fashion Crowd Challenge "
+msgstr "ファッションクラウドチャレンジに参加している、世界中のファッションラバーに会いに行きましょう。"
+
+#:FCC Main Page
+
+msgid "FASHION"
+msgstr ""
+
+msgid "CROWD"
+msgstr ""
+
+msgid "CHALLENGE"
+msgstr ""
+
+msgid "Submit your design"
+msgstr "登録"
+
+msgid "FCC 2015 design submission begins on September 10th"
+msgstr "FCC2015のデザイナー登録は9月10日から開始されます。"
+
+msgid "What is Fashion Crowd Challenge?"
+msgstr "Fashion Crowd Challenge(FCC)とは？"
+
+msgid "The mission of Fashion Crowd Challenge (FCC) is to find and bring talented, <br>hidden fashion stars into the spotlight of the world. To this end, FCC is introducing a new type of fashion design competition. <br>Unlike typical design contests, design submissions in FCC are evaluated <br>by general people and peer designers."
+msgstr "FCCはファッションを重心とした集団的知性とITを結合した新しいコンテストです。 <br> 今まで世界のファッショントレンドは少数のブランドの権力と有名デザイナーが独占してきたと思います。<br> FCCは少数の専門家とブランドが独占してきたファッショントレンドに従うより、一般の人々からの知恵を集め、<br>真のファッションについて語る場を作るため集団的知性という力を借りようとしています。"
+
+msgid "Design <br>Submission"
+msgstr "作品登録"
+
+msgid "Upload <br>your items."
+msgstr "アップロード <br>あなたのデザイン"
+
+msgid "<b>10th Sep</b> (am. 00:01) <br><b>- 7th Oct</b> (pm.10:00)"
+msgstr ""
+
+msgid "Submission"
+msgstr "登録する"
+
+msgid "Crowd <br>Evaluation"
+msgstr "審査の流れ"
+
+msgid "All uploaded material <br>will be evaluated <br>during FCC2015."
+msgstr "アップロードしたすべての作品は <br>FCC2015が行われている間に、<br>評価されます。"
+
+msgid "<b>8th Oct</b> (am. 00:01) <br><b>- 15th Oct</b> (pm.10:00)"
+msgstr ""
+
+msgid "Evaluation"
+msgstr "評価する"
+
+msgid "Declaration <br>of Winners"
+msgstr "結果発表"
+
+msgid "Here are the winners, <br>chosen by people <br>from all over the world."
+msgstr "世界中の人々から <br>入賞者が選ばれます。"
+
+msgid "16th Oct"
+msgstr ""
+
+msgid "View"
+msgstr "詳細を見る"
+
+msgid "Upload Method"
+msgstr "作品の登録方法"
+
+msgid "What kind of images should I submit?"
+msgstr "どんな種類の画像を提出したら良いですか？"
+
+msgid "Designs may be submitted as any image - photo, picture, sketch, illustration, etc. However, <br>to increase your chance of winning, we recommend submitting a photograph of the physical clothes you designed."
+msgstr "作品は、写真、絵、イラストなど様々な形でアップロードできます。<br> 但し、より良い審査のため、なるべく実物に近い写真をお勧め致します。"
+
+msgid "How many designs can I upload?"
+msgstr "画像は、どれぐらいアップロードできますか？"
+
+msgid "There is a 20-image file limit per account. You can use all 20 images to showcase a single design or <br>up to 20 different designs. How you choose to allocate your photos is completely up to you."
+msgstr "イメージ画像は、1アカウントにつき最大20枚アップロードできます。1つの作品につき20枚のイメージファイルをアップロードすることも、<br> 20作品（各）のイメージファイルを1枚ずつアップロードすることもできます。1つの作品につき、アップロードするイメージ画像の枚数はご自由に決めてください。"
+
+msgid "Who are the designers?"
+msgstr "誰がデザイナーとして参加できますか？"
+
+msgid "The Designers are anybody who has submitted their own designs through the FCC webpage. <br>Uploaded designs will be evaluated by the judges."
+msgstr "自分のデザインをFCCのホームページに登録した方であれば、どなたでもデザイナーとして参加できます。 <br> アップロードされたデザインは、審査員によって評価されます。"
+
+msgid "Designer Awards"
+msgstr "デザイナーアワード"
+
+msgid "Designers chosen as FCC2015 WINNERS will receive financial support for the launching of their brands. <br>The winning designs will also be eilgible to appear in the FCC2015 fashion show."
+msgstr "FCC2015受賞者として選ばれたデザイナーは、ブランド立ち上げのための支援金を受け取ることができます。<br> また、入賞特典としてFCC2015ファッションショーに参加できます。"
+
+msgid "Winners"
+msgstr ""
+
+msgid "Financial support"
+msgstr "資金援助"
+
+msgid "Manufacturing"
+msgstr "生産"
+
+msgid "Promotion & Marketing"
+msgstr "広告及びマーケッティング"
+
+msgid "Networking tools"
+msgstr "ネットワークツール"
+
+msgid "Dream Awards"
+msgstr "ドリームアワード"
+
+msgid "10 winners"
+msgstr ""
+
+msgid "5,000 USD"
+msgstr ""
+
+msgid "10 Winners"
+msgstr ""
+
+msgid "Cash prize"
+msgstr "賞金"
+
+msgid "View Detail"
+msgstr "詳細を見る"
+
+
+msgid "Who are the judges?"
+msgstr "審査員は誰ですか？"
+
+msgid "Anybody who has registered for the FCC website can be a judge! <br>View and evaluate designs from all over the world via a simple process."
+msgstr "FCCに登録した方であれば、だれでも審査員として参加できます! <br> シンプルな方法で、世界中からデザイナーを評価します。"
+
+msgid "Judge Awards"
+msgstr "審査員としての特典"
+
+msgid "Judges who make a special effort to give constructive feedback, inspiration and support to <br>the participating designers will be invited to the FCC2015 fashion show and receive products <br>from the winning designers."
+msgstr "優秀評価者に選ばれた審査員は、<br>FCC2015のファッションショーに招待され、<br>入賞デザイナーらのデザインした服をもらうことができます。 "
+
+msgid "Trend Maker"
+msgstr ""
+
+msgid "2016 Crowd Challeng <br>Festival Shanghai Invitation"
+msgstr "上海で開催される2016Crowd Challenge Festivalへの招待"
+
+msgid "Airline"
+msgstr "航空チケット"
+
+msgid "Tickets"
+msgstr " "
+
+msgid "Winning <br>Designer’s Work"
+msgstr "入賞作品"
+
+msgid "Trend Influencer"
+msgstr ""
+
+msgid "You are the star of FCC 2015 !"
+msgstr "FCC2015ではあなたがスターです！"
+
+msgid "Come take part in FCC2015, <br>the global fashion festival which allows you to shape global fashion <br>with your very own hands. <br>We are waiting for you."
+msgstr "あなたの手で創り上げる、 <br>グローバルファッションフェスティバルFCC2015への<br>あなたのご参加をお待ちしております。 "
+
+msgid "Designer’s Responsibilities"
+msgstr "参加者の責任と義務"
+
+msgid "During the evaluation period, submitters are responsible for reviewing and evaluating peer designers’ submissions. Design submitters who do not fully participate in the evaluation process may find that their own submissions have been excluded from the contest. Works submitted to FCC should be the original creation or property of the designer. If the designer would like to use a copyrighted logo, pattern or character, proper licensing must be obtained before uploading the work to FCC. Any issues regarding copyright or plagiarism will become the sole responsibility of the designer, and their works will be excluded from the contest. Furthermore, works that include hate speech, violence, sexual harassment, racism, sexism, religious or political discrimination, stolen content, violence against animals, or generally offensive material are banned and can be excluded from winning prizes even if they receive winning votes."
+msgstr "参加するデザイナーは審査期間の間、他の参加者の方々の作品を審査しなければなりません。 万が一、参加したデザイナーが他の作品に対して審査しなかった場合、ＦＣＣ受賞作の選定から除外される 事があります。応募前に提出した作品は、参加デザイナーの所有物とし創作物でなければなりません。 特定企業のロゴ，パターン，キャラクターを出品作に使用した場合にも、必ずライセンス問題が解決されていなければなりません。万が一、著作権および、剽窃に関わる問題の発生時、法的，道徳的責任は提出者が責任を負うものとし、問題が発生した場合は審査から除外され，入賞後であっても取り消される事があります。 暴力，わいせつな表現，人種差別，性別╱宗教╱政治的差別，嫌悪感を与えるコンテンツ，他人を搾取したりFCCの趣旨に反するコンテンツ，動物虐待，政治的扇動及び、露骨な表現が含まれている作品の提出は固くお断りします。この様な内容が審議の対象になった作品は、入賞したとしても後に受賞取り消しになることがあります。 "
+
+msgid "More Details"
+msgstr "もっと詳しく"
+
+msgid "Download Brochure"
+msgstr "パンフレットをダウンロードする"
+
+msgid "The first 5 winning designers, which consists of a 100,000USD 1st place winner (one designer), 30,000 USD 2nd place winner (two designers), and 20,000USD 3rd place winner (two designers), will work with FCC and receive financial support for the manufacturing, promotion and marketing, as well as being provided networking tools for their designs or brands.<br>Therefore, by connecting designers with new buyers and markets, FCC will aim to raise designers to the height of international fame.<br>FCC will work with the winning designers to customize a financial package that best suits their needs. Whether you need help with manufacturing, distributing, networking, or marketing, FCC will help you in developing successful strategies.<br>On the other hand, if your brand is already being manufactured, marketed and distributed, the FCC will be a new platform to introduce your brand to new markets. The FCC will work with you to highlight your full potential and boost your recognition. We will help to foster a professional relationship between you and the fashion industry.<br>Dream Award winners (10 designers) will receive a 5,000 USD cash prize.<br>All winning designers will also be eligible to appear in the Crowd challenge festival 2016 held in Shanghai which will definitely be a unique opportunity to elevate your brand to the next level."
+msgstr "入賞者5名のデザイナーには、入賞者特典が与えられます。1位USD10万ドル（1名）、2位USD3万ドル（2名）、3位USD2万ドル（2名）そして、デザインやブランドの設立、プロモーションやマーケティングのための財政支援だけでなく、FCCと協力しネットワークツールを提供します。<br><br>FCCは新しい市場を開拓し、消費者とデザイナーを繋ぐことでデザイナーらの名を世界的に広めることを目指しています。ドリームアワード賞を受賞した10名のデザイナーらには、USD5千ドルを現金で贈呈します。また、上海で開催されるFCC2015グローバルファッションショーにも参加することになります。これは、彼らにとって貴重なチャンスとなり、彼らのブランドの更なるレベルアップに繋がることになるでしょう。<br><br>FCCは、入賞デザイナーらのニーズに合った製作、流通、ネットワーキング、マーケティングを通して、ブランドの成長のための戦略や金銭的支援を最大限行います。もし、もう既にブランドを立ち上げているデザイナーである場合、FCCが新たな市場を提供します。FCCはデザイナーの可能性を認識し、知名度を高めるために支援します。また私たちは、プロフェッショナルとなり、デザイナーらとファッション業界を繋ぐ架け橋となって行くために、最善を尽くします。"
+
+msgid "Click here for full terms and conditions"
+msgstr "詳しい条件や詳細については、ここをクリックしてください。"
+
+msgid "The title of “Trend Maker” will be awarded to the top five judges whose evaluation style closely matches the overall trend of the general public.  “Trend Maker” award winners will receive an invitation to the 2016 Crowd Challenge Festival Shanghai, airline tickets with accommodations and the Crowd Challenge Festival gift package, which includes some of the winning designers’ work.<br><br>The title of “Trend Influencer” will be given to the next ten judges whose evaluation style closely matches the overall trend of the general public. “Trend Influencers” award winners will receive a Crowd Challenge Festival gift package, which includes some of the winning designers’ work.<br><br>The 2016 Crowd Challenge Festival Shanghai will be the must-see event of the year. The festival will host the first annual Crowd Challenge Fashion Show that will showcase the Fashion Crowd Challenge winning designers, worn by the winners of the Model Crowd Challenge, from around the world. Along with the fashion show will be performances from some of the most popular Korean Pop groups in the music industry today. It will be a glamorous occasion celebrating fashion, music, and the crowd."
+msgstr " 「トレンドメーカー」のタイトルは、一般大衆が求めるトレンドに最も適した評価を行ったトップの5人の審査員に「トレンドメーカー」というタイトルが授与されます。「トレンドメーカー」のタイトルを獲得した審査員には、上海で開催される2016クラウドチャレンジフェスティバルに招待され（航空チケット及び宿泊提供）、クラウドチャレンジギフトパッケージ（入賞デザイナーのデザインした服）が与えられます。<br><br>　「タイトルトレンドインフルエンサー」のタイトルは、一般の人々のニーズにもっとも適している10名の審査員に与えられます。また、2016クラウドチャレンジフェスティバルに招待され（航空チケット及び宿泊提供）、クラウドチャレンジギフトパッケージ（入賞デザイナーのデザインした服）が与えられます。<br><br>上海で開催される、2016クラウドチャレンジフェスティバルは今後、最大のイベントになることでしょう。このフェスティバルは今回が初めてであり、今後毎年1年に1回開催されます。このモデルクラウドチャレンジでは、入賞したデザイナーらの服を着て、ファッションショーのランウェイに立ちます。<br><br>このファッションショーでは、ファッションショーだけでなく、K-poｐアーティストの公演も行われます。<br><br>新概念のイベントとして、ファッション、音楽、そして人々が一体となるフェスティバルとなるでしょう。"
+
+msgid "Incentive"
+msgstr "奨励金"
+
+msgid "Create account<br>or Sign in"
+msgstr "アカウント登録<br>or ログイン"
+
+#:FCC Committee
+
+
+msgid "We\'re looking for members who can serve on the FCC2015 Committee.<br/>Recommend people you know to us !"
+msgstr "FCC2015で会いたいCOMMITTEEメンバーを推薦してください。"
+
+msgid "This person is an inspiration that can offer valuable advice<br>and serve as a role model to others."
+msgstr "デザイナーにインスピレーションを与え、ロールモデルになる人物。"
+
+msgid "Number of applications received"
+msgstr "候補者数"
+
+msgid "Number of confirmed members"
+msgstr "Committeeメンバー数"
+
+msgid "Recommendation"
+msgstr "推薦者数"
+
+msgid "Information"
+msgstr "案内"
+
+msgid "Application"
+msgstr "申請"
+
+msgid "Search"
+msgstr "検索"
+
+#: 20 candidates found
+msgid "0</span></strong> candidates found"
+msgstr "0</span></strong>個のCommittee候補者が検索されました"
+
+msgid "Recommend"
+msgstr "推薦者数"
+
+msgid "Details"
+msgstr "候補者情報"
+
+msgid "Confirmed member"
+msgstr "確定"
+
+msgid "There are no registered Committee members."
+msgstr "登録されたCommittee候補者がいません。"
+
+msgid "Visit the application page to apply or recommend someone to be a member of the Committee."
+msgstr "誰でもCommittee後援者に申請、または他の人を推薦することができます。"
+
+msgid "Back"
+msgstr "移動"
+
+msgid "You\'ve submitted a vote for a Committee member."
+msgstr "投票されました。"
+
+msgid "You can vote for each candidate once per day."
+msgstr "投票は候補あたり最大1回のみ可能です。"
+
+msgid "Confirm"
+msgstr "確認"
+
+msgid "Cancel"
+msgstr "取消"
+
+msgid "Recommend someone to serve on the FCC2015 Committee!"
+msgstr "FCC2015を共にするCommitteeメンバーを推薦してください。"
+
+msgid "Introduction"
+msgstr "案内"
+
+msgid "We would like to invite to the FCC Committee anyone can inspire, challenge, and encourage the Fashion Crowd Challenge designers."
+msgstr "Fashion Crowd Challengeに参加するデザイナーの方にインスピレーションを与え、デザイナーの新しい挑戦を応援する方々をFCC Committeeメンバーとしてお招きしようとします。"
+
+msgid "Committee candidate recommendation and application"
+msgstr "Committee 候補者の推薦および申請"
+
+msgid "Submit your reason for recommending a candidate, along with their basic personal info (in any language).<br>Anyone can be recommended as a Committee candidate."
+msgstr "候補者の基本情報および推薦理由を入力。(どの言語でも使用できます。)<br>誰でもCommittee候補者として推薦できます。"
+
+msgid "How to apply for Committee membership"
+msgstr "Committeeメンバー選定方法"
+
+msgid "Whichever candidate receives the most votes will become a member of the FCC2015 Committee.<br>Anyone can vote for a committee member. It is not necessary to log in."
+msgstr "推薦された候補者の中で一般の人々の選択を通してFCC2015 Committeeメンバーが選定されます。<br>Committeeメンバー選定に、ログインは必要ありません。また、誰でも投票できます。"
+
+msgid "Process of becoming a Committee member"
+msgstr "Committeeメンバー承認手順"
+
+msgid "1. Committee membership application<br>2. Committee membership approval<br>3. New member formally begins Committee activity"
+msgstr "1. Committeeメンバー活動要請 <br>2. Committeeメンバー承認 <br>3. Committeeメンバー正式活動開始"
+
+msgid "<li>If there is an error or mistake in the Committee candidate request, the submission may be canceled.</li><li>Committee candidate information may not be edited after uploading.</li>"
+msgstr "<li>Committee候補者情報に問題があった場合には、管理者が任意で削除することができます。</li><li>Committee候補者情報は今後、修正および削除することができません。</li>"
+
+msgid "English name"
+msgstr "ローマ字表記"
+
+msgid "<li>-You can check who is registered as a candidate.</li><li>-Registered names can be entered again.</li>"
+msgstr "<li>-登録されているCommittee候補者を確認して頂くことができます。 </li><li>-同一の名前を持った他のCommittee候補者も登録することができます。</li>"
+
+msgid "Confirm registration"
+msgstr "候補者登録可否の確認"
+
+msgid "Picture"
+msgstr "写真"
+
+msgid "Browse…"
+msgstr "添付する…"
+
+msgid "<li>-Image size: 420 * 420/ ~5 MB</li><li>-Large images will be cropped.</li>"
+msgstr "<li>-画像ファイルのサイズ : 420 * 420  /容量 : ~5 MB</li><li>-画像ファイルのサイズが大きい場合、写真の中央部分を基準にカットされます。</li>"
+
+msgid "Reason for recommendation"
+msgstr "推薦理由"
+
+msgid "Provide a detailed explanation for your recommendation"
+msgstr "推薦理由は詳しく作成してください。"
+
+msgid "Submitted information cannot be revised or edited."
+msgstr "Committee候補者情報は今後、修正および削除することはできません。"
+
+msgid "Country where candidate is from"
+msgstr "主要活動国家"
+
+msgid "The candidate\'s information will be viewed primarily by people residing in his or her provided location."
+msgstr "Committee候補者の主要活動国家を登録して頂くと、該当地域に候補者が優先的に現れます。"
+
+msgid "Click on the left picture to recommend."
+msgstr "推薦するには画像をクリックしてください。"
+
+msgid "An error occurred. Please try again."
+msgstr "エラーが発生しました。お手数ですが再度やり直してください。"
+
+msgid "Recommended Image"
+msgstr "フォーマット"
+
+msgid "No image file attached."
+msgstr "イメージ画像が添付されておりません。"
+
+msgid "You can attach only image files."
+msgstr "イメージ画像のみ添付してください。"
+
+msgid "Upload limit exceeded."
+msgstr "アップロードできる容量を超えました。"
+
+msgid "Submission accepted."
+msgstr "お申し込みが完了しました。"
+
+msgid "Once you submit this information, you will be unable to edit or delete it."
+msgstr "Committee候補者に関する情報は編集および削除が出来ません。"
+
+msgid "Please enter a name."
+msgstr "お名前を入力してください。"
+
+msgid "Please enter the name using only English letters."
+msgstr "お名前はローマ字表記でお願いします。"
+
+msgid "You haven\'t attached a picture."
+msgstr "イメージ画像が添付されておりません。"
+
+msgid "Please enter your recommendation reason."
+msgstr "推薦理由を入力してください。"
+
+msgid "Image size must be greater than 420x420 pixels."
+msgstr "イメージ画像が横（４２０px）＊縦（４２０px）より小さい場合はご登録できません。"
+
+msgid "Your attachment cannot exceed 5MB."
+msgstr "添付ファイルは５MB以内のものをご登録ください。"
+
+msgid "Please choose a country."
+msgstr "国を選択してください。"
+
+msgid "You can submit only one candidate per day."
+msgstr "候補者申請は、1日に1回のみ可能です。"
+
+msgid "Please enter the candidate\'s name in four or more English letters."
+msgstr "候補者氏名は、ローマ字4文字以上を登録してください。"
+
+msgid "Please enter the candidate\'s name in four or more English letters and then click Confirm Registration."
+msgstr "候補者氏名はローマ字4文字以上を入力し、候補者登録可否のボタンをクリックしてください。"
+
+msgid "SEARCH"
+msgstr ""
+
+msgid "Committee Application"
+msgstr "申請"
+
+msgid "Anyone can apply to be a Committee candidate.<br>Visit the application page to apply or recommend."
+msgstr "誰でもCommittee 候補者になることができます。<br>推薦理由はなるべく、詳しく作成してください。"
+
+msgid "Application"
+msgstr "申請"
+
+msgid "What will Committee members do?"
+msgstr "Committeeメンバーは、どんな活動をしますか？"
+
+msgid "Committee members will cheer on the participating designers in a variety of ways, including (but not limited to!) sending inspiring messages and encouraging them to participate in the voting process."
+msgstr "選定されたCommitteeメンバーはFCC2015デザイナーの投票に参加するようになり、サポートメッセージなと多様な方法で参加デザイナーを応援します。"
+
+msgid "Please Wait, Loading.."
+msgstr "読み込み中です。少々お待ちください。"
+
+msgid "More"
+msgstr "もっと"
+
+msgid "FCC 2015 will provide the top judges that gave excellent evaluation results an invitation to the 2016 Crowd Challenge Festival in Shanghai with airline tickets, accommodation, and works from the winning designers."
+msgstr "FCC2015は、優秀な審査結果を提供してくださった優秀審査員に、上海で開催される2016Crowd Challenge Festivalへの招待状、航空チケット、宿泊券及び優勝者のデザイン作品をお贈りします。"
+
+msgid "Find out more about FCC 2015"
+msgstr "FCC 2015について更に詳しくを見る"
+
+msgid "Do not show again today."
+msgstr "今日は、もう見ない"
+
+msgid "10th Sep.<br> - <br>7th Oct."
+msgstr "9月10日<br> ～ <br>10月7日"
+
+msgid "Check out another designer!"
+msgstr "查看其他设计师"
+
+msgid "Evaluate"
+msgstr "进行评审"
+
+msgid "FCC\'s evaluation<br>has begun."
+msgstr "FCC 評価開始"
+
+
+msgid "FCC 2015 Evaluation Guide"
+msgstr "FCC2015評価ガイド"
+
+msgid "The FCC 2015 Evaluation to meet the world\'s talented designers\' works has begun!"
+msgstr "世界各地から集まった、才能のあるファッションデザイナーの作品を楽しめるFCC2015の評価が始まりました！"
+
+msgid "Do you want to be a judge? Use the evaluation guide to start judging now."
+msgstr "評価に参加されたいですか？FCCから提供される評価ガイドをご覧になって評価を始めてみましょう。"
+
+msgid "See the guide"
+msgstr "ガイドを見る"
+
+msgid "FCC invites the top voted designers to join FCC Committee on this page."
+msgstr "FCCは今回、最高投票者に選ばれた方にFCCのCommitteeメンバーとして活動してくれることをお願います。"
+
+msgid "Recommend or vote people you respect"
+msgstr "候補者を推薦し、投票してください。"
+
+
+
+#:FCC 평가 인덱스
+
+
+msgid "Choose the winners of the Fashion Crowd Challenge!"
+msgstr "Fashion Crowd Challengeの受賞者を選択してください。"
+
+msgid "Top 15 Designers"
+msgstr "デザイナートップ15名"
+
+msgid "Popular Designers"
+msgstr "最も人気のあるデザイナー"
+
+msgid "By Region"
+msgstr "大陸別"
+
+msgid "By Gender"
+msgstr "性別"
+
+msgid "By Age"
+msgstr "年齢別"
+
+msgid "Find out more about 2015 Fashion Crowd Challenge"
+msgstr "Fashion Crowd Challenge 2015について更に詳しくを見る"
+
+msgid "The 2015 FCC Design evaluation to find the best fashion designer has started!"
+msgstr "次世代のデザイナーを選出するための、<br>FCC2015デザイン評価が始まりました。"
+
+msgid "During the evaluation period, this page contains the top 15 most popular designer's works by region, gender, and age updated daily."
+msgstr "評価期間の間、このページからは評価者に選ばれた、最も人気のある15個作品が発表されます。<br>また地域別、性別、年齢別に注目を集めたデザイナーの作品が毎日公開されます。"
+
+
+
+msgid "The daily results will be collected"
+msgstr "毎日公開される結果は、"
+
+msgid "by 22:00 GMT"
+msgstr "GMTを基準とする２2：００まで行われた結果を集め、"
+
+msgid "and the FCC system CES"
+msgstr "FCC自己評価システム"
+
+msgid "(Crowd Evaluation System) will"
+msgstr "(Crowd Evaluation System)を通じて"
+
+msgid "calculate fairly"
+msgstr "公正に集計され、"
+
+msgid "all the designs and announce the results at 00:00 GMT after 2 hours."
+msgstr "評価が終わった２時間後のGMTを基準とする００：００に公開されます。"
+
+msgid "Participate in"
+msgstr "FCC２０１５の審査に"
+
+msgid "the 2015 FCC Judging!"
+msgstr "参加してみましょう！"
+
+
+
+
+msgid "Judges who make a special effort to give constructive feedback,"
+msgstr "優秀評価者に選ばれた審査員は、"
+
+msgid "inspiration and support to"
+msgstr "FCC2015のファッションショーに招待され、"
+
+msgid "the participating designers will be invited to the FCC2015 fashion show"
+msgstr "入賞デザイナーらのデザインした"
+
+msgid "and receive products"
+msgstr "服をもらうことができます。"
+
+msgid "from the winning designers."
+msgstr " "
+
+msgid "Today’s evaluation has closed"
+msgstr "今日の評価は終了しました。"
+
+
+msgid "8th Oct"
+msgstr "10月8日"
+
+msgid "Participate in the 2015 FCC Judging!"
+msgstr "FCC2015の審査に参加して見ましょう！"
+
+msgid "Evaluate Now"
+msgstr "審査する"
+
+msgid "Coming soon"
+msgstr "只今準備中"
+
+msgid "Announced"
+msgstr "発表"
+
+msgid "Fashion CC 2015</span><span>Design Submission Start"
+msgstr "FCC 2015</span><span>デザイン登録開始"
+
+msgid "Fashion CC 2015</span><span>Evaluations Start"
+msgstr "FCC 2015</span><span>評価開始"
+
+msgid "Be a judge"
+msgstr "評価者として参加する"
+
+
+#: FCC 평가 페이지
+
+
+msgid "Meet the star designer of tomorrow"
+msgstr "次世代のスターデザイナーに会いましょう"
+
+msgid "You choose the top Designers of FCC 2015. Your input creates the stars of the future."
+msgstr "FCC 2015の主人公は、あなたの手で選ばれます。<br>あなたが投票した点数が未来のスターデザイナーを選出します。"
+
+msgid "There are no results."
+msgstr "結果がありません。"
+
+msgid "Evaluate more designers!"
+msgstr "もっと多くのデザイナーを評価する"
+
+msgid "In Progress"
+msgstr "進行中"
+
+msgid "Complete"
+msgstr "完了"
+
+
+
+
+#: FCC 평가 발표 페이지
+
+
+msgid "FCC 2015 Winner"
+msgstr "FCC 2015<br>の入賞者"
+
+msgid "The FCC 2015 winners have been selected!"
+msgstr "FCC 2015 の入賞者が決まりました！"
+
+msgid "Go check out the designers who will usher in the next generation of fashion!"
+msgstr "ファッション界をリードして行く次世代のファッションリーダーに会ってみましょう！"
+
+
+#: FCC 나의 결과 페이지
+
+
+msgid "Congratulations! You’re sitting alone at the top of the FCC fashion competition! Are you ready for the Global Fashion Show?"
+msgstr "おめでとうございます！<br>あなたが FCCファッショントレンドをリードして行く主人公です！<br>Global fashion showに行く準備はいいですか？"
+
+msgid "You have been chosen as a winner of the FCC Dream Award! Go meet the other winners in the Global Fashion Show!"
+msgstr "あなたは FCCが定めたテーマ別の受賞者に選ばれました。 <br>FCCの他の受賞者らと共にGlobal fashion showに同席しましょう！"
+
+msgid "Congratulations! You’ve been recognized as the biggest personality in FCC! You are a genuine Master of Style! Come back to FCC next year and shoot for the gold!"
+msgstr "おめでとうございます！グローバルファッションコンテストで、好成績を収められました！あなたが、真のスタイルマスターです!次回のFCCでは入賞のチャンスを狙ってみましょう。"
+
+msgid "Sorry, you don’t get an award this year..but come back next year and give it another shot! You’ve got fashion sense and talent. Reach for the stars!"
+msgstr "わずかな差で受賞を逃してしまったあなた・・・<br>惜しいですが、来年のFCCで受賞のチャンスを掴んでください！！<br>あなたのファッション感覚とデザイン能力なら、十分に可能です。"
+
+msgid "You didn’t get an award, but don’t despair! You achieved a high rank among FCC participants. Come back next year for a fresh challenge!"
+msgstr "惜しくも受賞を逃してしまいました。 FCC参加デザイナーの中で上位グループに入ったあなた、次回のFCCで再度チャレンジし次世代のデザイナーなりましょう。"
+
+
+#: FCC 평가에 등록기간 만료 페이지
+
+msgid "The FCC 2015 registration period is over."
+msgstr "FCC2015の登録期間が終了しました。"
+
+msgid "We\'re very sorry, but you cannot join FCC 2015. Please come back next time! Even if you are not a designer, you can still participate in FCC 2015. Be a Judge for our FCC 2015 competition! Evaluate participants from all over the world and choose FCC 2015\'s top designer! Please refer to FCC 2015\'s schedule.<br><p>Please refer to ModelCC\'s schedule.</p>"
+msgstr "<p>惜しくもあなたが入力した情報が、FCC2015に提出されませんでした。<br>次の機会に参加しましょう。<br>デザイナーでなくても、FCC2015に参加することができる方法があります！<br>評価者としてFCC2015に参加してみましょう。<br>さまざまな都市から参加したデザイナーを評価し、<br>あなたの手で直接FCC2015のトップデザイナーを選出してください。<br>FCC2015の日程は次のようになります。</p>"
+
+msgid "It looks like you haven't reviewed all the designers yet. Please check the list again."
+msgstr "まだ評価していないデザイナーがいます。リストから確認してください。"
+
+msgid "Your evaluation is complete! Go judge more designers!"
+msgstr "評価が完了しました！もっと多くのデザイナーを評価してみましょう！"
+
+
+#: FCC 평가 상세 페이지
+
+
+msgid "What do you think about this design?"
+msgstr "このデザイナーについてどのように思いますか？"
+
+msgid "Leave a comment for this designer."
+msgstr "デザイナーにコメントしましょう。"
+
+msgid "Prev"
+msgstr "前"
+
+msgid "ious"
+msgstr " "
+
+msgid "Previous"
+msgstr "前"
+
+#:What do you think about this design?
+msgid "good?"
+msgstr "このデザイナーについてどのように思いますか？"
+
+msgid "Your evaluation is complete."
+msgstr "全ての評価が完了しました。"
+
+msgid "Go meet more designers!"
+msgstr "もっと多くのデザイナーらを評価してみてください！"
+
+msgid "You have finished all of today's evaluations."
+msgstr "今日の評価が全て終わりました。"
+
+msgid "Come back tomorrow!"
+msgstr "明日また、お会いしましょう。"
+
+msgid "Okay, see you tomorrow."
+msgstr "はい、また訪問する。"
+
+msgid "No, thank you."
+msgstr "いいえ"
+
+msgid "Yes, please."
+msgstr "はい"
+
+
+msgid "We\'ll back soon."
+msgstr "アプリ改善のため、<br>一時的にサービスをご利用いただくことができません。"
+
+msgid "Our service is temporary down for <br>the maintenance purpose."
+msgstr "今しばらくお待ち下さい。"

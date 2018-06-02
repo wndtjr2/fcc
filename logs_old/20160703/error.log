@@ -1,0 +1,49 @@
+2016-07-03 17:38:07 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Admin could not be found.
+Request URL: /admin/i18n/readme.txt
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-07-03 17:38:28 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Admin could not be found.
+Request URL: /admin/i18n/readme.txt
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-07-03 17:38:44 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Admin could not be found.
+Request URL: /admin/i18n/readme.txt
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-07-03 21:44:12 Error: [Cake\Routing\Exception\MissingControllerException] Controller class (null) could not be found.
+Request URL: /(null)/nKAOWebBrowserController/complete
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-07-04 08:59:32 Error: [Cake\Routing\Exception\MissingControllerException] Controller class CHANGELOG.txt could not be found.
+Request URL: /CHANGELOG.txt
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-07-04 08:59:47 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Readme.html could not be found.
+Request URL: /readme.html
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-07-04 09:00:01 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Language could not be found.
+Request URL: /language/Swedish$%7BIFS%7D&&echo$%7BIFS%7DOhen%3E5eXg&&tar$%7BIFS%7D/string.js
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+

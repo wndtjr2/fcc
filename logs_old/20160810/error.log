@@ -1,0 +1,125 @@
+2016-08-10 10:01:21 Warning: Warning (2): Missing argument 1 for App\Controller\ProductController::detail() in [/var/www/fcctv.co.kr/src/Controller/ProductController.php, line 59]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+App\Controller\ProductController::detail() - APP/Controller/ProductController.php, line 59
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-08-10 13:55:19 Error: [PDOException] SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-25' at line 1
+Request URL: /designers/getNextPage
+Stack Trace:
+#0 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Database/Statement/MysqlStatement.php(36): PDOStatement->execute(NULL)
+#1 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Database/Connection.php(272): Cake\Database\Statement\MysqlStatement->execute()
+#2 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Database/Query.php(174): Cake\Database\Connection->run(Object(Cake\ORM\Query))
+#3 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/ORM/Query.php(667): Cake\Database\Query->execute()
+#4 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Datasource/QueryTrait.php(216): Cake\ORM\Query->_execute()
+#5 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/ORM/Query.php(618): Cake\ORM\Query->_all()
+#6 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Datasource/QueryTrait.php(130): Cake\ORM\Query->all()
+#7 /var/www/fcctv.co.kr/src/Service/DesignerService.php(80): Cake\ORM\Query->getIterator()
+#8 /var/www/fcctv.co.kr/src/Controller/DesignersController.php(73): App\Service\DesignerService->getBrandList('surl', NULL, NULL)
+#9 [internal function]: App\Controller\DesignersController->getNextPage()
+#10 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Controller/Controller.php(412): call_user_func_array(Array, Array)
+#11 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#12 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\DesignersController))
+#13 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#14 {main}
+
+
+2016-08-10 20:25:24 Error: [PDOException] SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-25' at line 1
+Request URL: /designers/getNextPage
+Stack Trace:
+#0 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Database/Statement/MysqlStatement.php(36): PDOStatement->execute(NULL)
+#1 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Database/Connection.php(272): Cake\Database\Statement\MysqlStatement->execute()
+#2 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Database/Query.php(174): Cake\Database\Connection->run(Object(Cake\ORM\Query))
+#3 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/ORM/Query.php(667): Cake\Database\Query->execute()
+#4 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Datasource/QueryTrait.php(216): Cake\ORM\Query->_execute()
+#5 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/ORM/Query.php(618): Cake\ORM\Query->_all()
+#6 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Datasource/QueryTrait.php(130): Cake\ORM\Query->all()
+#7 /var/www/fcctv.co.kr/src/Service/DesignerService.php(80): Cake\ORM\Query->getIterator()
+#8 /var/www/fcctv.co.kr/src/Controller/DesignersController.php(73): App\Service\DesignerService->getBrandList('surl', NULL, NULL)
+#9 [internal function]: App\Controller\DesignersController->getNextPage()
+#10 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Controller/Controller.php(412): call_user_func_array(Array, Array)
+#11 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#12 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\DesignersController))
+#13 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#14 {main}
+
+
+2016-08-10 21:56:39 Error: [Cake\Datasource\Exception\InvalidPrimaryKeyException] Record not found in table "mc_video_comment" with primary key [NULL]
+Request URL: /fccTv/commentDelete
+Stack Trace:
+#0 /var/www/fcctv.co.kr/src/Service/TvService.php(775): Cake\ORM\Table->get(NULL)
+#1 /var/www/fcctv.co.kr/src/Controller/FccTvController.php(188): App\Service\TvService->commentDelete(NULL, NULL)
+#2 [internal function]: App\Controller\FccTvController->commentDelete()
+#3 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Controller/Controller.php(412): call_user_func_array(Array, Array)
+#4 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#5 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\FccTvController))
+#6 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#7 {main}
+
+
+2016-08-11 01:54:44 Error: [Cake\Routing\Exception\MissingControllerException] Controller class PhpMyAdmin could not be found.
+Request URL: /phpMyAdmin
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-08-11 01:55:12 Error: [Cake\Routing\Exception\MissingControllerException] Controller class PhpMyAdmin could not be found.
+Request URL: /phpMyAdmin
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-08-11 01:55:30 Error: [Cake\Routing\Exception\MissingControllerException] Controller class PhpMyAdmin could not be found.
+Request URL: /phpMyAdmin
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-08-11 02:04:30 Error: [PDOException] SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-25' at line 1
+Request URL: /designers/getNextPage
+Stack Trace:
+#0 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Database/Statement/MysqlStatement.php(36): PDOStatement->execute(NULL)
+#1 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Database/Connection.php(272): Cake\Database\Statement\MysqlStatement->execute()
+#2 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Database/Query.php(174): Cake\Database\Connection->run(Object(Cake\ORM\Query))
+#3 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/ORM/Query.php(667): Cake\Database\Query->execute()
+#4 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Datasource/QueryTrait.php(216): Cake\ORM\Query->_execute()
+#5 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/ORM/Query.php(618): Cake\ORM\Query->_all()
+#6 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Datasource/QueryTrait.php(130): Cake\ORM\Query->all()
+#7 /var/www/fcctv.co.kr/src/Service/DesignerService.php(80): Cake\ORM\Query->getIterator()
+#8 /var/www/fcctv.co.kr/src/Controller/DesignersController.php(73): App\Service\DesignerService->getBrandList('surl', NULL, NULL)
+#9 [internal function]: App\Controller\DesignersController->getNextPage()
+#10 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Controller/Controller.php(412): call_user_func_array(Array, Array)
+#11 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#12 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\DesignersController))
+#13 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#14 {main}
+
+
+2016-08-11 08:02:22 Error: [PDOException] SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-25' at line 1
+Request URL: /designers/getNextPage
+Stack Trace:
+#0 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Database/Statement/MysqlStatement.php(36): PDOStatement->execute(NULL)
+#1 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Database/Connection.php(272): Cake\Database\Statement\MysqlStatement->execute()
+#2 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Database/Query.php(174): Cake\Database\Connection->run(Object(Cake\ORM\Query))
+#3 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/ORM/Query.php(667): Cake\Database\Query->execute()
+#4 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Datasource/QueryTrait.php(216): Cake\ORM\Query->_execute()
+#5 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/ORM/Query.php(618): Cake\ORM\Query->_all()
+#6 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Datasource/QueryTrait.php(130): Cake\ORM\Query->all()
+#7 /var/www/fcctv.co.kr/src/Service/DesignerService.php(80): Cake\ORM\Query->getIterator()
+#8 /var/www/fcctv.co.kr/src/Controller/DesignersController.php(73): App\Service\DesignerService->getBrandList('surl', NULL, NULL)
+#9 [internal function]: App\Controller\DesignersController->getNextPage()
+#10 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Controller/Controller.php(412): call_user_func_array(Array, Array)
+#11 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#12 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\DesignersController))
+#13 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#14 {main}
+
+

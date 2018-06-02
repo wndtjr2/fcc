@@ -1,0 +1,79 @@
+INFO [2016-06-22 15:06:26] <28676> START INILite securepay (V3.1B20090917(OS:Linux3.13.0-65-generic,PHP:5.5.9-1ubuntu4.14))
+INFO [2016-06-22 15:06:26] <28676> Make TID OK INliteCARDfashioncro20160622150626606675
+DEBUG [2016-06-22 15:06:26] <28676> mid:[fashioncro]
+DEBUG [2016-06-22 15:06:26] <28676> key:[Sk******a01nWmQ2TFJzNytUaUVpdz09]
+DEBUG [2016-06-22 15:06:26] <28676> mallencrypt:[XBrWtpF+kJKE6nTOaFjs4nFmT1p63HICYey68vwN0AYAN/guMAJb1qW1XSNGtjp+
+GdJJebDFCYdR6iU=]
+DEBUG [2016-06-22 15:06:26] <28676> uid:[DEFAULTUSR]
+DEBUG [2016-06-22 15:06:26] <28676> url:[fcctv.co.kr]
+DEBUG [2016-06-22 15:06:26] <28676> uip:[172.31.19.152]
+DEBUG [2016-06-22 15:06:26] <28676> paymethod:[Card]
+DEBUG [2016-06-22 15:06:26] <28676> goodname:[Basic Cotton Tee_Black[TP-04-BLK]]
+DEBUG [2016-06-22 15:06:26] <28676> currency:[WON]
+DEBUG [2016-06-22 15:06:26] <28676> buyername:[ÀÌ Áß¼®]
+DEBUG [2016-06-22 15:06:26] <28676> buyertel:[01064090631]
+DEBUG [2016-06-22 15:06:26] <28676> buyeremail:[wndtjr2@yahoo.co.kr]
+DEBUG [2016-06-22 15:06:26] <28676> sessionkey:[BkL6F8giQgtojBk13tOdqdJlb66irw86sQ+B+Y8oyPWQlGkB41J5fU7jkSdnsqPt
+p1q1GXm+k9LQiYKE9j2+QMGZaBGqjHNbBlNq8BQI6wD/tuCWRiFssFj+ssFz6NNv
+Dtc0385NgJ0jwKzMghh+ExSv4Uj8szu4alZSLf8d/qc=]
+DEBUG [2016-06-22 15:06:26] <28676> encrypted:[Version=4.1&PayMethod=Card&RsaKeyNum=1&EncryptionAlgorithm=SEED-CBC&SignAlgorithm=RSAwithSHA1&CertVer=39&moid=OR0000000311&ver_trace=INIMain(D3_v1096_151229)Terms(D3_v1008_d151119)Card(D3_v1114_d160419)&pg1=211.219.96.180&pg2=203.238.37.3&pg1ip=211.219.96.180&pg2ip=203.238.37.3&agreeflag=1111&Data=sPmUG8Fspy7QxhEnbVo5PuRSaz1Af9Dvsa0UlPNOqIYlAE/fjd65AVBSS2U2eI9r
+lIUVC7oyJFuT6vg19jMDF/mxygfHqph2XAhRtHCeP/TDyzTSMAuBpE3tv35pCUAQ
+u6KuaQjKnBWu6sj0Xw6+v/U1BkOZqbn1CIiLXvS/T/sYVK+WgxpyV8wv8zZtWmj2
+8jNW/GTGoj/QJBui9ydjY0vg/kECRDR4TWaxNyVJL4erP0zMK1ATtB9kQa73aFQ3
+ETxq9wnkRhbX6ZdEVGOR9AXwOZQo2ZVM3gaV2B9nU8ZBaxpJabtQn0sUZcWRiltj
+HFrt+JoKh0N9OiZT7VZbspVS7ACaNvACarJyF8KU7XZYAo+3C4Jas6qlf89s+Vib
+uQq9dC2Ewanbka5eONR4yfTElzHVhB3stlDsve5t79iQDh1M4MV+1Xu7lqVHyoz9
+war4f5YUTo7GoUtUp5biMUqCy6OwNdxIarmLKXGBNVcqivYyS85DLqs+Tg/tulVA
+hGih5g2ad65yjMjGuBd+3twjtPz9Qk27sOhOxGFMxaGqyZUVzpm1D/kvFA6MOM4G
+Mbf4heYHpuXf05dR/3atr0lrXCxCaJJBp+LsnRMw
+]
+INFO [2016-06-22 15:06:26] <28676> Check Field OK
+INFO [2016-06-22 15:06:26] <28676> ssl://inilite.inicis.com:443 Server Connect OK
+DEBUG [2016-06-22 15:06:26] <28676> MSG_TO_SVR::[POST /inipayR HTTP/1.0
+Connection: close
+Host: inilite.inicis.com
+Content-type: application/x-www-form-urlencoded
+Content-length: 1634
+Accept: */*
+
+mid=fashioncro&mallencrypt=XBrWtpF%2BkJKE6nTOaFjs4nFmT1p63HICYey68vwN0AYAN%2FguMAJb1qW1XSNGtjp%2B%0AGdJJebDFCYdR6iU%3D&uid=DEFAULTUSR&url=fcctv.co.kr&uip=172.31.19.152&paymethod=Card&goodname=Basic+Cotton+Tee_Black%5BTP-04-BLK%5D&currency=WON&buyername=%C0%CC+%C1%DF%BC%AE&buyertel=01064090631&buyeremail=wndtjr2%40yahoo.co.kr&sessionkey=BkL6F8giQgtojBk13tOdqdJlb66irw86sQ%2BB%2BY8oyPWQlGkB41J5fU7jkSdnsqPt%0D%0Ap1q1GXm%2Bk9LQiYKE9j2%2BQMGZaBGqjHNbBlNq8BQI6wD%2FtuCWRiFssFj%2BssFz6NNv%0D%0ADtc0385NgJ0jwKzMghh%2BExSv4Uj8szu4alZSLf8d%2Fqc%3D&encrypted=Version%3D4.1%26PayMethod%3DCard%26RsaKeyNum%3D1%26EncryptionAlgorithm%3DSEED-CBC%26SignAlgorithm%3DRSAwithSHA1%26CertVer%3D39%26moid%3DOR0000000311%26ver_trace%3DINIMain%28D3_v1096_151229%29Terms%28D3_v1008_d151119%29Card%28D3_v1114_d160419%29%26pg1%3D211.219.96.180%26pg2%3D203.238.37.3%26pg1ip%3D211.219.96.180%26pg2ip%3D203.238.37.3%26agreeflag%3D1111%26Data%3DsPmUG8Fspy7QxhEnbVo5PuRSaz1Af9Dvsa0UlPNOqIYlAE%2Ffjd65AVBSS2U2eI9r%0D%0AlIUVC7oyJFuT6vg19jMDF%2FmxygfHqph2XAhRtHCeP%2FTDyzTSMAuBpE3tv35pCUAQ%0D%0Au6KuaQjKnBWu6sj0Xw6%2Bv%2FU1BkOZqbn1CIiLXvS%2FT%2FsYVK%2BWgxpyV8wv8zZtWmj2%0D%0A8jNW%2FGTGoj%2FQJBui9ydjY0vg%2FkECRDR4TWaxNyVJL4erP0zMK1ATtB9kQa73aFQ3%0D%0AETxq9wnkRhbX6ZdEVGOR9AXwOZQo2ZVM3gaV2B9nU8ZBaxpJabtQn0sUZcWRiltj%0D%0AHFrt%2BJoKh0N9OiZT7VZbspVS7ACaNvACarJyF8KU7XZYAo%2B3C4Jas6qlf89s%2BVib%0D%0AuQq9dC2Ewanbka5eONR4yfTElzHVhB3stlDsve5t79iQDh1M4MV%2B1Xu7lqVHyoz9%0D%0Awar4f5YUTo7GoUtUp5biMUqCy6OwNdxIarmLKXGBNVcqivYyS85DLqs%2BTg%2FtulVA%0D%0AhGih5g2ad65yjMjGuBd%2B3twjtPz9Qk27sOhOxGFMxaGqyZUVzpm1D%2FkvFA6MOM4G%0D%0AMbf4heYHpuXf05dR%2F3atr0lrXCxCaJJBp%2BLsnRMw%0D%0A
+
+]
+DEBUG [2016-06-22 15:06:28] <28676> MSG_FROM_SVR(Header)[HTTP/1.1 200 OK
+Date: Wed, 22 Jun 2016 06:06:26 GMT
+Server: Apache
+Content-Type: text/xml; charset=euc-kr
+Connection: close
+]
+DEBUG [2016-06-22 15:06:28] <28676> MSG_FROM_SVR(Body)[<payment-result xmlns="http://xml.inicis.com/payresult">
+  <resultcode>01</resultcode>
+  <resultmessage>[120054|ÀÜ¾×ºÎÁ·]</resultmessage>
+  <mid>fashioncro</mid>
+  <tid>INliteCARDfashioncro20160622150626606675</tid>
+  <totalprice>17500</totalprice>
+  <currency>WON</currency>
+  <pgauthtime>150626</pgauthtime>
+  <pgauthdate>20160622</pgauthdate>
+  <paymethod>Card</paymethod>
+  <buyer>
+    <buyername>ÀÌ Áß¼®</buyername>
+    <buyertel>01064090631</buyertel>
+    <buyeremail>wndtjr2@yahoo.co.kr</buyeremail>
+  </buyer>
+  <paySet>
+    <goodname>Basic Cotton Tee_Black[TP-04-BLK]</goodname>
+    <oid>OR0000000311</oid>
+    <cardPay>
+      <cardnumber/>
+      <authcode/>
+      <cardcode>04</cardcode>
+      <cardissuercode>00</cardissuercode>
+      <quotainterest/>
+      <cardquota>00</cardquota>
+    </cardPay>
+  </paySet>
+</payment-result>
+]
+DEBUG [2016-06-22 15:06:28] <28676> Parsing OK
+INFO [2016-06-22 15:06:28] <28676> END securepay [120054|ìž”ì•¡ë¶€ì¡±] Laptime:[1.409sec]
+INFO [2016-06-22 15:06:28] <28676> ===============================================================

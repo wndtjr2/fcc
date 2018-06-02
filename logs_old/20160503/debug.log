@@ -1,0 +1,62 @@
+2016-05-03 13:53:32 Notice: Notice (8): Undefined index: onAirInfo in [/var/www/fcctv.co.kr/src/Template/FccTv/detail.ctp, line 8]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+include - APP/Template/FccTv/detail.ctp, line 8
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 826
+Cake\View\View::_render() - CORE/src/View/View.php, line 786
+Cake\View\View::render() - CORE/src/View/View.php, line 463
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-03 18:19:38 Notice: Notice (8): Undefined variable: cacheKey in [/var/www/fcctv.co.kr/src/Service/ProductService.php, line 553]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+App\Service\ProductService::getCardProductList() - APP/Service/ProductService.php, line 553
+App\Controller\DesignersController::detail() - APP/Controller/DesignersController.php, line 85
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-03 18:19:53 Notice: Notice (8): Undefined variable: cacheKey in [/var/www/fcctv.co.kr/src/Service/ProductService.php, line 553]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+App\Service\ProductService::getCardProductList() - APP/Service/ProductService.php, line 553
+App\Controller\DesignersController::detail() - APP/Controller/DesignersController.php, line 85
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-03 18:24:22 Notice: Notice (8): Undefined variable: cacheKey in [/var/www/fcctv.co.kr/src/Service/ProductService.php, line 553]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+App\Service\ProductService::getCardProductList() - APP/Service/ProductService.php, line 553
+App\Controller\DesignersController::detail() - APP/Controller/DesignersController.php, line 85
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-03 18:25:40 Notice: Notice (8): Undefined variable: cacheKey in [/var/www/fcctv.co.kr/src/Service/ProductService.php, line 553]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 138
+App\Service\ProductService::getCardProductList() - APP/Service/ProductService.php, line 553
+App\Controller\DesignersController::detail() - APP/Controller/DesignersController.php, line 85
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+

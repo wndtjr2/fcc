@@ -1,0 +1,48 @@
+2016-04-14 09:38:33 Error: [Cake\Network\Exception\SocketException] SMTP Error: 554 5.7.1 <ec2-52-79-130-73.ap-northeast-2.compute.amazonaws.com[52.79.130.73]>: Client host rejected: Access denied
+Request URL: /auth/password_forgot
+Stack Trace:
+#0 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Network/Email/SmtpTransport.php(363): Cake\Network\Email\SmtpTransport->_smtpSend('RCPT TO:<nerran...')
+#1 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Network/Email/SmtpTransport.php(165): Cake\Network\Email\SmtpTransport->_sendRcpt(Object(Cake\Network\Email\Email))
+#2 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Network/Email/Email.php(1317): Cake\Network\Email\SmtpTransport->send(Object(Cake\Network\Email\Email))
+#3 /var/www/fcctv.co.kr/src/Service/UserService.php(440): Cake\Network\Email\Email->send()
+#4 /var/www/fcctv.co.kr/src/Controller/AuthController.php(762): App\Service\UserService->sendEmailToResetPassword('nerrang@korea.c...', '0wbf6tc5x4uysgq...')
+#5 [internal function]: App\Controller\AuthController->password_forgot()
+#6 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Controller/Controller.php(412): call_user_func_array(Array, Array)
+#7 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#8 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\AuthController))
+#9 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#10 {main}
+
+
+2016-04-14 09:38:51 Error: [Cake\Network\Exception\SocketException] SMTP Error: 554 5.7.1 <ec2-52-79-130-73.ap-northeast-2.compute.amazonaws.com[52.79.130.73]>: Client host rejected: Access denied
+Request URL: /auth/password_forgot
+Stack Trace:
+#0 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Network/Email/SmtpTransport.php(363): Cake\Network\Email\SmtpTransport->_smtpSend('RCPT TO:<nerran...')
+#1 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Network/Email/SmtpTransport.php(165): Cake\Network\Email\SmtpTransport->_sendRcpt(Object(Cake\Network\Email\Email))
+#2 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Network/Email/Email.php(1317): Cake\Network\Email\SmtpTransport->send(Object(Cake\Network\Email\Email))
+#3 /var/www/fcctv.co.kr/src/Service/UserService.php(440): Cake\Network\Email\Email->send()
+#4 /var/www/fcctv.co.kr/src/Controller/AuthController.php(762): App\Service\UserService->sendEmailToResetPassword('nerrang@korea.c...', 'fruhv1tklwnip04...')
+#5 [internal function]: App\Controller\AuthController->password_forgot()
+#6 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Controller/Controller.php(412): call_user_func_array(Array, Array)
+#7 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#8 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\AuthController))
+#9 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#10 {main}
+
+
+2016-04-14 09:45:38 Error: [Cake\Network\Exception\SocketException] SMTP Error: 554 5.7.1 <ec2-52-79-130-73.ap-northeast-2.compute.amazonaws.com[52.79.130.73]>: Client host rejected: Access denied
+Request URL: /auth/password_forgot
+Stack Trace:
+#0 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Network/Email/SmtpTransport.php(363): Cake\Network\Email\SmtpTransport->_smtpSend('RCPT TO:<nerran...')
+#1 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Network/Email/SmtpTransport.php(165): Cake\Network\Email\SmtpTransport->_sendRcpt(Object(Cake\Network\Email\Email))
+#2 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Network/Email/Email.php(1317): Cake\Network\Email\SmtpTransport->send(Object(Cake\Network\Email\Email))
+#3 /var/www/fcctv.co.kr/src/Service/UserService.php(440): Cake\Network\Email\Email->send()
+#4 /var/www/fcctv.co.kr/src/Controller/AuthController.php(762): App\Service\UserService->sendEmailToResetPassword('nerrang@korea.c...', 'bz8ahciq6vldm9u...')
+#5 [internal function]: App\Controller\AuthController->password_forgot()
+#6 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Controller/Controller.php(412): call_user_func_array(Array, Array)
+#7 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#8 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\AuthController))
+#9 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#10 {main}
+
+

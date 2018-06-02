@@ -1,0 +1,7 @@
+2016-06-26 22:49:42 Error: [Cake\Routing\Exception\MissingControllerException] Controller class -viaFlynx could not be found.
+Request URL: /%20-via%20Flynx
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+

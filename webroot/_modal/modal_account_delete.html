@@ -1,0 +1,34 @@
+                        <div class="modal__content">
+                            <div class="modal__content--wrap">
+                                <h6 class="modal__save-title">Would you like to <br>delete your account?</h6>
+                                <p class="model__description">
+                                    Your account will be deleted 10 days after the request is submitted. After 10 days, all emails containing personal information, uploaded pictures, videos, and text will be deleted. <br>
+                                    <br>
+                                    If you change your mind about deleting your account, you can Sign in to stop the deletion process within 10 days. <br>If you Sign in again, all deleted information will be automatically restored.
+                                </p>
+                                <div class="modal__bottom is-zoom">
+                                    <div class="left">
+                                        <a href="#" type="button" class="buttons cancel" onclick="deleteAccount();">
+                                            <span class="text">Delete</span>
+                                            <span class="size">Delete</span>
+                                            <span class="bg"></span>
+                                        </a>
+                                    </div>
+                                    <div class="right">
+                                        <button type="button" class="buttons save" onclick="modal.hide();">
+                                            <span class="text">Cancel</span>
+                                            <span class="size">Cancel</span>
+                                            <span class="bg"></span>
+                                        </button>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="modal__close"><button type="button" class="modal__close--btn" onclick="modal.hide();">닫기</button></div>
+                        </div>
+                        <style>
+                            .modal__content {}
+                             /*************/
+                             @media only screen and ( min-width: 1024px ) {
+                                .modal__content { width: 560px; }
+                             }
+                        </style>

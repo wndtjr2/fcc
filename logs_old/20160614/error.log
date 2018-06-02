@@ -1,0 +1,35 @@
+2016-06-14 10:11:19 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Img could not be found.
+Request URL: /img/fcc/email/form_frame.png
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-14 10:45:25 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Img could not be found.
+Request URL: /img/fcc/email/form_frame.png
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-14 10:47:25 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Img could not be found.
+Request URL: /img/fcc/email/form_frame.png
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-14 15:14:20 Error: [Cake\Routing\Exception\MissingControllerException] Controller class PhpMyAdmin could not be found.
+Request URL: /phpMyAdmin
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-14 18:07:53 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Designer could not be found.
+Request URL: /designer/
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+

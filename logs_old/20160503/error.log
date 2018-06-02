@@ -1,0 +1,203 @@
+2016-05-03 10:49:22 Error: [Cake\Routing\Exception\MissingControllerException] Controller class In could not be found.
+Exception Attributes: array (
+  'class' => 'In',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /in
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-03 10:54:03 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Sign could not be found.
+Exception Attributes: array (
+  'class' => 'Sign',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /sign/
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-03 10:54:06 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Sign could not be found.
+Exception Attributes: array (
+  'class' => 'Sign',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /sign/
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-03 10:54:09 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Sign could not be found.
+Exception Attributes: array (
+  'class' => 'Sign',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /sign/
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-03 10:54:12 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Sign could not be found.
+Exception Attributes: array (
+  'class' => 'Sign',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /sign/
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-03 10:54:14 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Sign could not be found.
+Exception Attributes: array (
+  'class' => 'Sign',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /sign/
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-03 10:54:20 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Sign could not be found.
+Exception Attributes: array (
+  'class' => 'Sign',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /sign/
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-03 10:54:32 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Sign could not be found.
+Exception Attributes: array (
+  'class' => 'Sign',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /sign/
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-03 10:54:47 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Sign could not be found.
+Exception Attributes: array (
+  'class' => 'Sign',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /sign/
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-03 10:54:53 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Sign could not be found.
+Exception Attributes: array (
+  'class' => 'Sign',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /sign/
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-03 10:55:41 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Sign could not be found.
+Exception Attributes: array (
+  'class' => 'Sign',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /sign/
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-03 18:19:38 Error: [InvalidArgumentException] An empty value is not valid as a cache key
+Request URL: /designers/detail/11?type=designer&searchId=11&keyword=&page=2
+Stack Trace:
+#0 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Cache/Engine/FileEngine.php(178): Cake\Cache\CacheEngine->_key(NULL)
+#1 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Cache/Cache.php(312): Cake\Cache\Engine\FileEngine->read(NULL)
+#2 /var/www/fcctv.co.kr/src/Service/ProductService.php(553): Cake\Cache\Cache::read(NULL, 'products')
+#3 /var/www/fcctv.co.kr/src/Controller/DesignersController.php(85): App\Service\ProductService->getCardProductList('designer', '?', '2')
+#4 [internal function]: App\Controller\DesignersController->detail('11')
+#5 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Controller/Controller.php(412): call_user_func_array(Array, Array)
+#6 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#7 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\DesignersController))
+#8 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#9 {main}
+
+
+2016-05-03 18:19:53 Error: [InvalidArgumentException] An empty value is not valid as a cache key
+Request URL: /designers/detail/11?type=designer&searchId=11&keyword=&page=1
+Stack Trace:
+#0 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Cache/Engine/FileEngine.php(178): Cake\Cache\CacheEngine->_key(NULL)
+#1 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Cache/Cache.php(312): Cake\Cache\Engine\FileEngine->read(NULL)
+#2 /var/www/fcctv.co.kr/src/Service/ProductService.php(553): Cake\Cache\Cache::read(NULL, 'products')
+#3 /var/www/fcctv.co.kr/src/Controller/DesignersController.php(85): App\Service\ProductService->getCardProductList('designer', '?', '1')
+#4 [internal function]: App\Controller\DesignersController->detail('11')
+#5 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Controller/Controller.php(412): call_user_func_array(Array, Array)
+#6 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#7 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\DesignersController))
+#8 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#9 {main}
+
+
+2016-05-03 18:24:22 Error: [InvalidArgumentException] An empty value is not valid as a cache key
+Request URL: /designers/detail/11?type=designer&searchId=11&keyword=&page=2
+Stack Trace:
+#0 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Cache/Engine/FileEngine.php(178): Cake\Cache\CacheEngine->_key(NULL)
+#1 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Cache/Cache.php(312): Cake\Cache\Engine\FileEngine->read(NULL)
+#2 /var/www/fcctv.co.kr/src/Service/ProductService.php(553): Cake\Cache\Cache::read(NULL, 'products')
+#3 /var/www/fcctv.co.kr/src/Controller/DesignersController.php(85): App\Service\ProductService->getCardProductList('designer', '?', '2')
+#4 [internal function]: App\Controller\DesignersController->detail('11')
+#5 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Controller/Controller.php(412): call_user_func_array(Array, Array)
+#6 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#7 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\DesignersController))
+#8 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#9 {main}
+
+
+2016-05-03 18:25:40 Error: [InvalidArgumentException] An empty value is not valid as a cache key
+Request URL: /designers/detail/11?type=designer&searchId=11&keyword=&page=2
+Stack Trace:
+#0 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Cache/Engine/FileEngine.php(178): Cake\Cache\CacheEngine->_key(NULL)
+#1 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Cache/Cache.php(312): Cake\Cache\Engine\FileEngine->read(NULL)
+#2 /var/www/fcctv.co.kr/src/Service/ProductService.php(553): Cake\Cache\Cache::read(NULL, 'products')
+#3 /var/www/fcctv.co.kr/src/Controller/DesignersController.php(85): App\Service\ProductService->getCardProductList('designer', '?', '2')
+#4 [internal function]: App\Controller\DesignersController->detail('11')
+#5 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Controller/Controller.php(412): call_user_func_array(Array, Array)
+#6 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#7 /var/www/fcctv.co.kr/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\DesignersController))
+#8 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#9 {main}
+
+

@@ -1,0 +1,49 @@
+2016-05-08 09:17:30 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Recordings could not be found.
+Request URL: /recordings/theme/iefixes.css
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-08 09:24:13 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Web-console could not be found.
+Request URL: /web-console/ServerInfo.jsp
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-08 09:24:15 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Jmx-console could not be found.
+Request URL: /jmx-console/HtmlAdaptor?action=inspectMBean&name=jboss.system%3Atype%3DServerInfo
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-08 09:24:16 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Invoker could not be found.
+Request URL: /invoker/JMXInvokerServlet
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-08 10:23:03 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Web-console could not be found.
+Request URL: /web-console/ServerInfo.jsp
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-08 10:23:04 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Jmx-console could not be found.
+Request URL: /jmx-console/HtmlAdaptor?action=inspectMBean&name=jboss.system%3Atype%3DServerInfo
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-08 10:23:05 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Invoker could not be found.
+Request URL: /invoker/JMXInvokerServlet
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+

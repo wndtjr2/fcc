@@ -1,0 +1,28 @@
+2016-07-29 18:38:00 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Robots.txt could not be found.
+Request URL: /Robots.txt
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-07-29 18:38:00 Error: [Cake\Routing\Exception\MissingControllerException] Controller class SiteMap.xml could not be found.
+Request URL: /SiteMap.xml
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-07-29 20:52:08 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Phpmyadmin could not be found.
+Request URL: /phpmyadmin
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-07-29 20:53:18 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Phpmyadmin could not be found.
+Request URL: /phpmyadmin
+Stack Trace:
+#0 /var/www/fcctv.co.kr/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
