@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="ko">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="robots" content="">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+        <meta name="author" content="fcctv.com">
+        <meta name="application-name" content="FCC TV">
+        <title>FCC TV</title>
+        <meta name="description" content="">
+        <meta name="keywords" content="">
+        <link rel="shortcut icon" href="/_res/img/favicon/favicon.ico">
+        <!-- facebook -->
+        <meta property="og:url" content="http://fashion.crowdchallenge.com"/>
+        <meta property="og:type" content="website"/>
+        <meta property="og:title" content="BRICKAND"/>
+        <meta property="og:description" content=""/>
+        <meta property="og:image" content="http://fashion.crowdchallenge.com/_res/img/sns/social.jpg"/>
+        <meta property="og:site_name" content="FCC TV"/>
+        <!--<meta property="fb:app_id" content="FCC"/>-->
+        <!-- e:facebook -->
+
+        <link rel="stylesheet" type="text/css" href="/_res/css/style.css">
+        <script src="/_res/lib/jquery-1.11.2.min.js"></script>
+        <script src="/_res/lib/jquery.mobile-events.min.js"></script>
+   
+        <!--[if lt IE 9]>
+        <script src="/_res/lib/html5.js"></script>
+        <script src="/_res/lib/respond.js"></script>
+        <![endif]-->
+
+    </head>
+
+    <body class="open"> 
+        <!--[if lt IE 10]>
+        <p id="underIE10">This website requires Internet <span>Explorer 10 or higher.</span></p>
+        <![endif]-->
+
+        <!-- 공사중 안내 -->
+        <div class="construction">
+            <div class="js_h_middle">
+                <div class="whitebox">
+                    <h2>CLOSED</h2>
+                    <span class="line"></span>
+                    <p class="notice">
+
+
+                        <strong>내부 사정으로 인하여 서비스가 잠시 중단되었습니다.</strong>
+                        <span>
+                        새로운 모습으로 다시 찾아뵙겠습니다.<br>
+                        감사합니다.
+                        </span>
+                    </p>
+                </div>
+            </div>
+        </div>
+        <!-- 공사중 안내 -->
+
+        <!-- ******************************************** 페이용 스크립트 공통, 혹은 가변 영역 -->
+        <script src="/_res/js/script.js"></script>
+        <script>
+            $(function(){
+                $('.js_h_middle').each(function(idx){
+                    var t = $(this).height();
+                    var h = $(this).parent().height();
+                    var p = ( h > t ) ? (h-t)/2 : 0;
+
+                    $(this).css({
+                        'padding-top' : p
+                    })
+                })
+            });
+        </script>
+        <span id="scrollTop"></span>
+        <!-- Google Analytics -->
+        <script>
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+            ga('create', 'UA-75732921-1', 'auto');
+            ga('send', 'pageview');
+
+        </script>
+        <!-- Google Analytics -->
+    </body>
+</html>
+
+
+

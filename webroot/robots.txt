@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /auth/
+Disallow: /users/
+Disallow: /uploads/
+Disallow: /tv/getNextPage
+Disallow: /myorder/
+Disallow: /users/
+Disallow: /address/
+Disallow: /cart/
+Disallow: /purchases/
