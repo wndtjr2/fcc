@@ -5,9 +5,6 @@ namespace App\Util;
 /**
  * 이미지 유틸
  * 임시 이미지, 리사이징 등을 처리 한다.
- * User: winner
- * Date: 2/13/15
- * Time: 2:01 PM
  */
 use Cake\Core\Exception\Exception;
 use Cake\Error\Debugger;
